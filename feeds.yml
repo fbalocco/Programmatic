@@ -1,0 +1,215 @@
+version: 1
+
+defaults:
+  maxItemsPerFeed: 40
+  maxTotalItems: 700
+  timeoutMs: 25000
+
+  # Use a polite UA. Replace <your-user>/<your-repo> after you create the repo.
+  userAgent: "AdAuctionNewsBot/1.0 (+https://github.com/<your-user>/<your-repo>)"
+
+  # Strip common tracking parameters so dedupe works better.
+  stripUrlParams:
+    - utm_source
+    - utm_medium
+    - utm_campaign
+    - utm_term
+    - utm_content
+    - mc_cid
+    - mc_eid
+    - fbclid
+    - gclid
+    - yclid
+    - _hsenc
+    - _hsmi
+
+feeds:
+  # ---- Industry / AdTech news ----
+  - id: adexchanger
+    name: AdExchanger
+    url: "https://adexchanger.com/feed/"
+    category: "Industry"
+
+  - id: digiday
+    name: Digiday
+    url: "https://digiday.com/feed/"
+    category: "Industry"
+    keywords:
+      include:
+        - programmatic
+        - "ad tech"
+        - adtech
+        - auction
+        - DSP
+        - SSP
+        - "header bidding"
+        - "real-time bidding"
+        - RTB
+        - "privacy sandbox"
+        - "third-party"
+        - cookie
+        - "Google Ad Manager"
+        - "Google Ads"
+        - DV360
+        - "Authorized Buyers"
+
+  - id: marketingdive
+    name: Marketing Dive
+    url: "https://www.marketingdive.com/feeds/news/"
+    category: "Industry"
+    keywords:
+      include:
+        - programmatic
+        - "ad tech"
+        - adtech
+        - "digital advertising"
+        - "advertising"
+        - DSP
+        - SSP
+        - "real-time bidding"
+        - RTB
+        - "ad auction"
+        - "privacy sandbox"
+        - cookie
+        - antitrust
+        - competition
+        - GDPR
+        - DSA
+        - DMA
+
+  - id: indexexchange
+    name: Index Exchange Blog
+    url: "https://www.indexexchange.com/blog/feed/"
+    category: "Industry"
+
+  - id: iabtechlab-latest
+    name: IAB Tech Lab (Latest News)
+    url: "https://iabtechlab.com/category/latest-news/feed/"
+    category: "Standards"
+
+  - id: iabtechlab-press
+    name: IAB Tech Lab (Press Releases)
+    url: "https://iabtechlab.com/press-releases/feed/"
+    category: "Standards"
+
+  # ---- Platform / standards updates ----
+  - id: google-ads-dev-blog
+    name: Google Ads Developer Blog
+    url: "https://www.blogger.com/feeds/7815614485808579332/posts/default"
+    category: "Platforms"
+    keywords:
+      include:
+        - ad manager
+        - "authorized buyers"
+        - "bid manager"
+        - dv360
+        - "display & video"
+        - "google ads"
+        - "privacy"
+        - "measurement"
+        - auction
+        - bid
+        - bidding
+
+  - id: chrome-dev-blog
+    name: Chrome for Developers Blog
+    url: "https://developer.chrome.com/static/blog/feed.xml"
+    category: "Platforms"
+    keywords:
+      include:
+        - privacy
+        - "privacy sandbox"
+        - cookie
+        - cookies
+        - attribution
+        - measurement
+        - ads
+        - advertising
+        - tracking
+        - "third-party"
+
+  # ---- Regulation / policy ----
+  - id: techpolicypress
+    name: Tech Policy Press
+    url: "https://techpolicy.press/rss/feed.xml"
+    category: "Regulation"
+    keywords:
+      include:
+        - advertising
+        - adtech
+        - "ad tech"
+        - tracking
+        - cookies
+        - privacy
+        - GDPR
+        - DMA
+        - DSA
+        - competition
+        - antitrust
+        - "real-time bidding"
+        - RTB
+
+  - id: edpb-news
+    name: European Data Protection Board (News)
+    url: "https://edpb.europa.eu/feed/news_en"
+    category: "Regulation"
+
+  # U.S. FTC RSS feeds
+  - id: ftc-press
+    name: U.S. FTC Press Releases
+    url: "https://www.ftc.gov/feeds/press-release.xml"
+    category: "Regulation"
+    keywords:
+      include:
+        - advertising
+        - privacy
+        - tracking
+        - "data broker"
+        - competition
+        - antitrust
+        - google
+        - meta
+        - amazon
+
+  - id: ftc-press-competition
+    name: U.S. FTC Competition Press Releases
+    url: "https://www.ftc.gov/feeds/press-release-competition.xml"
+    category: "Regulation"
+
+  - id: ftc-competition-matters
+    name: FTC - Competition Matters (Blog)
+    url: "https://www.ftc.gov/feeds/blog-competition-matters.xml"
+    category: "Regulation"
+
+  # DOJ Antitrust Division feeds (press + filings)
+  - id: doj-atr-press
+    name: DOJ Antitrust Division Press Releases
+    url: "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video"
+    category: "Court & Enforcement"
+    keywords:
+      include:
+        - advertising
+        - ad tech
+        - adtech
+        - google
+        - meta
+        - auction
+        - antitrust
+        - competition
+        - digital
+
+  - id: doj-atr-civil-filings
+    name: DOJ Antitrust Division Civil Case Filings
+    url: "https://www.justice.gov/media/1190096/dl?inline="
+    category: "Court & Enforcement"
+
+  - id: doj-atr-criminal-filings
+    name: DOJ Antitrust Division Criminal Case Filings
+    url: "https://www.justice.gov/media/1194211/dl?inline="
+    category: "Court & Enforcement"
+
+  # ---- Research ----
+  - id: arxiv-ad-auctions
+    name: arXiv (ad auctions / RTB / programmatic)
+    url: "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending"
+    category: "Research"
