@@ -1,17 +1,16 @@
 [
   {
-    "id": "1821a1ac",
-    "title": "Roku says it’s growing video advertising faster than broader OTT market",
-    "url": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
-    "source": "Marketing Dive",
-    "sourceId": "marketingdive",
-    "category": "Industry",
+    "id": "a4f59ead",
+    "title": "WhatsApp's DSA Designation Showcases Power Contest Over Tech In Europe",
+    "url": "https://techpolicy.press/whatsapps-dsa-designation-showcases-power-contest-over-tech-in-europe",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
     "tags": [
-      "CTV",
-      "AI"
+      "Privacy"
     ],
-    "published": "2026-02-13T15:45:00.000Z",
-    "summary": "The platform’s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in the “early innings.”"
+    "published": "2026-02-13T14:37:59.000Z",
+    "summary": ""
   },
   {
     "id": "8d76e256",
@@ -172,15 +171,17 @@
     "summary": "Amazon opened up its Prebid adapter for beta testing on January 21. The update brings Amazon demand directly into Prebid, the open-source framework publishers already use to manage competition across buyers. Now publishers, who have spent years trying to regain control of the ad…"
   },
   {
-    "id": "42bcba97",
-    "title": "Advancing Digital Twin Generation Through a Novel Simulation Framework and Quantitative Benchmarking",
-    "url": "https://arxiv.org/abs/2602.11314v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-11T19:38:00.000Z",
-    "summary": "The generation of 3D models from real-world objects has often been accomplished through photogrammetry, i.e., by taking 2D photos from a variety of perspectives and then triangulating matched point-based features to create a textured mesh. Many design choices exist within this f…"
+    "id": "445216cf",
+    "title": "How ICE Will Spy On Protesters, And How You Can Protect Your Privacy",
+    "url": "https://techpolicy.press/how-ice-will-spy-on-protesters-and-how-you-can-protect-your-privacy",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-11T19:05:00.000Z",
+    "summary": ""
   },
   {
     "id": "f4b0fdf0",
@@ -196,30 +197,17 @@
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
   },
   {
-    "id": "59c6be00",
-    "title": "Target to test contextual ads in ChatGPT, including through Roundel",
-    "url": "https://www.marketingdive.com/news/target-to-test-contextual-ads-in-chatgpt-including-through-roundel/811927/",
-    "source": "Marketing Dive",
-    "sourceId": "marketingdive",
-    "category": "Industry",
+    "id": "d2fd4f9d",
+    "title": "What the EU’s X Decision Reveals About How the DSA Is Enforced",
+    "url": "https://techpolicy.press/what-the-eus-x-decision-reveals-about-how-the-dsa-is-enforced",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
     "tags": [
-      "AI"
+      "Privacy"
     ],
-    "published": "2026-02-11T15:57:00.000Z",
-    "summary": "Bringing Roundel brands to ChatGPT suggests retail media networks could be a bridge for larger AI chatbot advertising adoption."
-  },
-  {
-    "id": "1f7c9a62",
-    "title": "PELLI: Framework to effectively integrate LLMs for quality software generation",
-    "url": "https://arxiv.org/abs/2602.10808v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-11T12:51:08.000Z",
-    "summary": "Recent studies have revealed that when LLMs are appropriately prompted and configured, they demonstrate mixed results. Such results often meet or exceed the baseline performance. However, these comparisons have two primary issues. First, they mostly considered only reliability a…"
+    "published": "2026-02-11T12:51:46.000Z",
+    "summary": ""
   },
   {
     "id": "0fc80110",
@@ -235,51 +223,18 @@
     "summary": "Brussels, 11 February - The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the Digital Omnibus Regulation proposal.* This proposal aims to simplify the EU's digital regulatory framework, reduce administrat…"
   },
   {
-    "id": "7388922e",
-    "title": "Actions Speak Louder Than Chats: Investigating AI Chatbot Age Gating",
-    "url": "https://arxiv.org/abs/2602.10251v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
+    "id": "d16f9165",
+    "title": "WhatsApp as a Stress Test for Interim Measures in EU’s Competition Law",
+    "url": "https://techpolicy.press/whatsapp-as-a-stress-test-for-interim-measures-in-the-eus-competition-law",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
     "tags": [
-      "Privacy",
-      "AI"
+      "Antitrust",
+      "Policy"
     ],
-    "published": "2026-02-10T19:55:55.000Z",
-    "summary": "AI chatbots are widely used by children and teens today, but they pose significant risks to youth's privacy and safety due to both increasingly personal conversations and potential exposure to unsafe content. While children under 13 are protected by the Children's Online Privacy…"
-  },
-  {
-    "id": "03f383e4",
-    "title": "UniPlan: Vision-Language Task Planning for Mobile Manipulation with Unified PDDL Formulation",
-    "url": "https://arxiv.org/abs/2602.08537v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-09T11:35:21.000Z",
-    "summary": "Integration of VLM reasoning with symbolic planning has proven to be a promising approach to real-world robot task planning. Existing work like UniDomain effectively learns symbolic manipulation domains from real-world demonstrations, described in Planning Domain Definition Lang…"
-  },
-  {
-    "id": "49dcb3fb",
-    "title": "Dreaming in Code for Curriculum Learning in Open-Ended Worlds",
-    "url": "https://arxiv.org/abs/2602.08194v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-09T01:24:40.000Z",
-    "summary": "Open-ended learning frames intelligence as emerging from continual interaction with an ever-expanding space of environments. While recent advances have utilized foundation models to programmatically generate diverse environments, these approaches often focus on discovering isola…"
-  },
-  {
-    "id": "73766d2b",
-    "title": "From Dead Pixels to Editable Slides: Infographic Reconstruction into Native Google Slides via Vision-Language Region Understanding",
-    "url": "https://arxiv.org/abs/2602.07645v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-07T17:58:17.000Z",
-    "summary": "Infographics are widely used to communicate information with a combination of text, icons, and data visualizations, but once exported as images their content is locked into pixels, making updates, localization, and reuse expensive. We describe \\textsc{Images2Slides}, an API-base…"
+    "published": "2026-02-10T12:38:00.000Z",
+    "summary": ""
   },
   {
     "id": "b4ed0ebb",
@@ -293,53 +248,17 @@
     "summary": "With the recent release of Explorer Access for the Google Ads API, Google Ads API MCP server and the Google Ads API Developer Assistant, we are seeing significant interest in the developer community for Google Ads API access, and are receiving an increase in developer token acce…"
   },
   {
-    "id": "bddfab6a",
-    "title": "BouquetFL: Emulating diverse participant hardware in Federated Learning",
-    "url": "https://arxiv.org/abs/2602.06498v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
+    "id": "2d799296",
+    "title": "The EU Wants to Label 'Addictive Design' a Systemic Risk Under the DSA",
+    "url": "https://techpolicy.press/the-eu-wants-to-label-addictive-design-a-systemic-risk-under-the-dsa",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
     "tags": [
-      "AI",
-      "Policy"
+      "Privacy"
     ],
-    "published": "2026-02-06T08:48:36.000Z",
-    "summary": "In Federated Learning (FL), multiple parties collaboratively train a shared Machine Learning model to encapsulate all private knowledge without exchange of information. While it has seen application in several industrial projects, most FL research considers simulations on a cent…"
-  },
-  {
-    "id": "fb670a1f",
-    "title": "Rethinking Scientific Modeling: Toward Physically Consistent and Simulation-Executable Programmatic Generation",
-    "url": "https://arxiv.org/abs/2602.07083v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-06T06:57:04.000Z",
-    "summary": "Structural modeling is a fundamental component of computational engineering science, in which even minor physical inconsistencies or specification violations may invalidate downstream simulations. The potential of large language models (LLMs) for automatic generation of modeling…"
-  },
-  {
-    "id": "7f75d6e8",
-    "title": "Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems",
-    "url": "https://arxiv.org/abs/2602.06319v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-06T02:36:15.000Z",
-    "summary": "Large Reasoning Models (LRMs) have advanced rapidly; however, existing benchmarks in mathematics, code, and common-sense reasoning remain limited. They lack long-context evaluation, offer insufficient challenge, and provide answers that are difficult to verify programmatically.…"
-  },
-  {
-    "id": "f0602b90",
-    "title": "Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale",
-    "url": "https://arxiv.org/abs/2602.05447v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-05T08:39:05.000Z",
-    "summary": "Large Language Model agents increasingly operate external systems through programmatic interfaces, yet practitioners lack empirical guidance on how to structure the context these agents consume. Using SQL generation as a proxy for programmatic agent operations, we present a syst…"
+    "published": "2026-02-06T18:03:40.000Z",
+    "summary": ""
   },
   {
     "id": "126c42c9",
@@ -355,39 +274,17 @@
     "summary": "Documents filed on February 4, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment [Greystar Management Services, LLC] Exhibit 1- The AB Comment [Greystar Management Services, LLC] Exhibit 2- The DMP Comments [Greystar Management Services,…"
   },
   {
-    "id": "2d608b3c",
-    "title": "Beyond Learning on Molecules by Weakly Supervising on Molecules",
-    "url": "https://arxiv.org/abs/2602.04696v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-04T16:03:20.000Z",
-    "summary": "Molecular representations are inherently task-dependent, yet most pre-trained molecular encoders are not. Task conditioning promises representations that reorganize based on task descriptions, but existing approaches rely on expensive labeled data. We show that weak supervision…"
-  },
-  {
-    "id": "02ef119c",
-    "title": "SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing",
-    "url": "https://arxiv.org/abs/2602.04418v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-04T10:51:19.000Z",
-    "summary": "We present SPEAR, a multi-agent coordination framework for smart contract auditing that applies established MAS patterns in a realistic security analysis workflow. SPEAR models auditing as a coordinated mission carried out by specialized agents: a Planning Agent prioritizes cont…"
-  },
-  {
-    "id": "885acf61",
-    "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
-    "url": "https://arxiv.org/abs/2602.03950v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
+    "id": "a58ed8f1",
+    "title": "Tracking the Paris Prosecutor's Investigation into Elon Musk's X",
+    "url": "https://techpolicy.press/tracking-the-paris-prosecutors-investigation-into-elon-musks-x",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
     "tags": [
-      "AI"
+      "Privacy"
     ],
-    "published": "2026-02-03T19:13:31.000Z",
-    "summary": "Mathematical problem solving is a fundamental benchmark for assessing the reasoning capabilities of artificial intelligence and a gateway to applications in education, science, and engineering where reliable symbolic reasoning is essential. Although recent advances in multi-agen…"
+    "published": "2026-02-03T23:45:13.000Z",
+    "summary": ""
   },
   {
     "id": "db720e9e",
@@ -399,78 +296,6 @@
     "tags": [],
     "published": "2026-02-03T12:00:00.000Z",
     "summary": "The European Data Protection Board (EDPB) invites you to register for its conference, “Cross-regulatory interplay and cooperation in the EU: a data protection perspective”, taking place on 17 March 2026 in Brussels. This event will offer a high-level overview of the EDPB’s work…"
-  },
-  {
-    "id": "3c3421ef",
-    "title": "Socratic-Geo: Synthetic Data Generation and Geometric Reasoning via Multi-Agent Interaction",
-    "url": "https://arxiv.org/abs/2602.03414v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-03T11:42:25.000Z",
-    "summary": "Multimodal Large Language Models (MLLMs) have significantly advanced vision-language understanding. However, even state-of-the-art models struggle with geometric reasoning, revealing a critical bottleneck: the extreme scarcity of high-quality image-text pairs. Human annotation i…"
-  },
-  {
-    "id": "f35622d1",
-    "title": "Bongards at the Boundary of Perception and Reasoning: Programs or Language?",
-    "url": "https://arxiv.org/abs/2602.03038v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-03T03:04:27.000Z",
-    "summary": "Vision-Language Models (VLMs) have made great strides in everyday visual tasks, such as captioning a natural image, or answering commonsense questions about such images. But humans possess the puzzling ability to deploy their visual reasoning abilities in radically new situation…"
-  },
-  {
-    "id": "3b1994ab",
-    "title": "Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community",
-    "url": "https://arxiv.org/abs/2602.02613v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-02T11:08:38.000Z",
-    "summary": "The rapid emergence of autonomous large language model agents has given rise to persistent, large-scale agent ecosystems whose collective behavior cannot be adequately understood through anecdotal observation or small-scale simulation. This paper introduces data-driven silicon s…"
-  },
-  {
-    "id": "6a5b1eb6",
-    "title": "PolyGen: Fully Synthetic Vision-Language Training via Multi-Generator Ensembles",
-    "url": "https://arxiv.org/abs/2602.01370v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-01T18:13:49.000Z",
-    "summary": "Synthetic data offers a scalable solution for vision-language pre-training, yet current state-of-the-art methods typically rely on scaling up a single generative backbone, which introduces generator-specific spectral biases and limits feature diversity. In this work, we introduc…"
-  },
-  {
-    "id": "b9b52d06",
-    "title": "SPELL: Synthesis of Programmatic Edits using LLMs",
-    "url": "https://arxiv.org/abs/2602.01107v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-01T09:03:56.000Z",
-    "summary": "Library migration is a common but error-prone task in software development. Developers may need to replace one library with another due to reasons like changing requirements or licensing changes. Migration typically entails updating and rewriting source code manually. While auto…"
-  },
-  {
-    "id": "dd26c022",
-    "title": "VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis",
-    "url": "https://arxiv.org/abs/2602.02591v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-01T07:56:24.000Z",
-    "summary": "We introduce and define a novel task-Scene-Aware Visually-Driven Speech Synthesis, aimed at addressing the limitations of existing speech generation models in creating immersive auditory experiences that align with the real physical world. To tackle the two core challenges of da…"
   },
   {
     "id": "d55f52bd",
@@ -487,19 +312,6 @@
     "summary": "Documents filed on January 29, 2026 Competitive Impact Statement United States’ Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
   },
   {
-    "id": "4e07d5c9",
-    "title": "Generative AI for Stock Selection",
-    "url": "https://arxiv.org/abs/2602.00196v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-01-30T10:27:03.000Z",
-    "summary": "We study whether generative AI can automate feature discovery in U.S. equities. Using large language models with retrieval-augmented generation and structured/programmatic prompting, we synthesize economically motivated features from analyst, options, and price-volume data. Thes…"
-  },
-  {
     "id": "d7ba4829",
     "title": "Announcing the Google Mobile Ads Next-Gen SDK for Android",
     "url": "http://ads-developers.googleblog.com/2026/01/announcing-google-mobile-ads-next-gen.html",
@@ -509,17 +321,6 @@
     "tags": [],
     "published": "2026-01-29T23:41:00.000Z",
     "summary": "We are announcing the Google Mobile Ads (GMA) Next-Gen SDK for Android, a significant rewrite of the Google Mobile Ads SDK that prioritizes speed, stability, and an improved developer experience. See the developer guides to get started today (AdMob | Ad Manager). Currently avail…"
-  },
-  {
-    "id": "639cb59a",
-    "title": "SymbXRL: Symbolic Explainable Deep Reinforcement Learning for Mobile Networks",
-    "url": "https://arxiv.org/abs/2601.22024v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-01-29T17:31:40.000Z",
-    "summary": "The operation of future 6th-generation (6G) mobile networks will increasingly rely on the ability of deep reinforcement learning (DRL) to optimize network decisions in real-time. DRL yields demonstrated efficacy in various resource allocation problems, such as joint decisions on…"
   },
   {
     "id": "534738aa",
@@ -546,17 +347,6 @@
     "summary": "Brussels, 29 January - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising. The event w…"
   },
   {
-    "id": "1c8f1e2b",
-    "title": "White-Box Op-Amp Design via Human-Mimicking Reasoning",
-    "url": "https://arxiv.org/abs/2601.21321v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-01-29T06:30:37.000Z",
-    "summary": "This brief proposes \\emph{White-Op}, an interpretable operational amplifier (op-amp) parameter design framework based on the human-mimicking reasoning of large-language-model agents. We formalize the implicit human reasoning mechanism into explicit steps of \\emph{\\textbf{introdu…"
-  },
-  {
     "id": "8ff84006",
     "title": "Announcing v23 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/01/announcing-v23-of-google-ads-api.html",
@@ -568,19 +358,6 @@
     "summary": "Today, we’re announcing the v23 release of the Google Ads API. This marks the first release of 2026 and the beginning of our move to a faster release cadence. To use some of the v23 features, you must upgrade your client libraries and client code. All the updated client librarie…"
   },
   {
-    "id": "4e60d9b7",
-    "title": "Harnessing Large Language Models for Precision Querying and Retrieval-Augmented Knowledge Extraction in Clinical Data Science",
-    "url": "https://arxiv.org/abs/2601.20674v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-01-28T14:57:36.000Z",
-    "summary": "This study applies Large Language Models (LLMs) to two foundational Electronic Health Record (EHR) data science tasks: structured data querying (using programmatic languages, Python/Pandas) and information extraction from unstructured clinical text via a Retrieval Augmented Gene…"
-  },
-  {
     "id": "a85772cd",
     "title": "Data Protection Day 2026: keeping children’s personal data safe online",
     "url": "https://www.edpb.europa.eu/news/news/2026/data-protection-day-2026-keeping-childrens-personal-data-safe-online_en",
@@ -590,30 +367,6 @@
     "tags": [],
     "published": "2026-01-28T12:00:00.000Z",
     "summary": "Watch the video on online data protection risks for kids Brussels, 28 January - Every day, the European Data Protection Authorities (DPAs) that make up the EDPB work together to ensure the protection of individuals’ personal data. When it comes to children's data, extra vigilanc…"
-  },
-  {
-    "id": "118e3ffe",
-    "title": "A Unified Framework for Equilibrium Selection in DSGE Models",
-    "url": "https://arxiv.org/abs/2601.19329v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-01-27T08:14:18.000Z",
-    "summary": "This paper characterizes DSGE models as fixed-point selection devices for self-referential economic specifications. We formalize this structure as $(S, T, Π)$: specification, self-referential operator, and equilibrium selector. The framework applies to any DSGE model through com…"
-  },
-  {
-    "id": "f0dcaf3f",
-    "title": "TS-Debate: Multimodal Collaborative Debate for Zero-Shot Time Series Reasoning",
-    "url": "https://arxiv.org/abs/2601.19151v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-01-27T03:29:22.000Z",
-    "summary": "Recent progress at the intersection of large language models (LLMs) and time series (TS) analysis has revealed both promise and fragility. While LLMs can reason over temporal structure given carefully engineered context, they often struggle with numeric fidelity, modality interf…"
   },
   {
     "id": "14c88741",
