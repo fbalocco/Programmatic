@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ad Auctions & Digital Ads Monitor</title>
+  <meta name="description" content="Aggregated news on programmatic advertising, ad auctions, digital ads, research, and regulation." />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>Ad Auctions & Digital Ads Monitor</h1>
+      <p class="subtitle">Industry • Research • Regulation • Court & Enforcement</p>
+
+      <div class="topbar">
+        <div class="searchbox">
+          <label for="q" class="sr-only">Search</label>
+          <input id="q" type="search" placeholder="Search titles, summaries, tags…" autocomplete="off" />
+        </div>
+
+        <div class="controls">
+          <label class="control">
+            <span>Time</span>
+            <select id="timeRange">
+              <option value="24h">Last 24 hours</option>
+              <option value="7d" selected>Last 7 days</option>
+              <option value="30d">Last 30 days</option>
+              <option value="90d">Last 90 days</option>
+              <option value="all">All</option>
+            </select>
+          </label>
+
+          <label class="control checkbox">
+            <input id="hideRead" type="checkbox" />
+            <span>Hide read</span>
+          </label>
+
+          <button id="clearRead" type="button" class="btn secondary" title="Clear local read history">
+            Clear read
+          </button>
+
+          <button id="refresh" type="button" class="btn" title="Reload latest generated JSON">
+            Refresh
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="filters">
+      <section class="panel">
+        <h2>Filters</h2>
+
+        <div class="meta">
+          <div id="statusLine" class="status">Loading…</div>
+          <div id="updatedLine" class="updated"></div>
+        </div>
+
+        <details open>
+          <summary>Categories</summary>
+          <div id="categoryFilters" class="filter-list"></div>
+        </details>
+
+        <details>
+          <summary>Sources</summary>
+          <div id="sourceFilters" class="filter-list"></div>
+        </details>
+
+        <details>
+          <summary>Feed errors</summary>
+          <div id="errorsBox" class="errors"></div>
+        </details>
+      </section>
+    </aside>
+
+    <section class="content">
+      <div class="summarybar">
+        <div id="countLine" class="countline"></div>
+      </div>
+
+      <div id="list" class="list"></div>
+
+      <div id="empty" class="empty hidden">
+        No items match your filters.
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>Static site. Feeds are fetched by GitHub Actions and published as JSON.</span>
+    </div>
+  </footer>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
