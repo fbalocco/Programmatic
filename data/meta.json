@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-02-15T09:45:24.453Z",
+  "generatedAt": "2026-02-15T13:13:20.192Z",
   "feedCount": 17,
-  "itemCount": 121,
+  "itemCount": 146,
   "errors": [
     {
       "id": "marketingdive",
@@ -32,12 +32,6 @@
       "name": "DOJ Antitrust Division Press Releases",
       "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
       "error": "Invalid character in entity name\nLine: 0\nColumn: 407\nChar: ="
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "HTTP 429 Unknown Error"
     }
   ]
 }
