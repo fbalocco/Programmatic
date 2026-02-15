@@ -1,0 +1,12 @@
+{
+  "name": "ad-auction-news-monitor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch_feeds.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "yaml": "^2.4.5"
+  }
+}
