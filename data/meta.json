@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-02-16T13:37:26.323Z",
+  "generatedAt": "2026-02-16T15:55:15.046Z",
   "feedCount": 17,
-  "itemCount": 139,
+  "itemCount": 144,
   "errors": [
     {
       "id": "marketingdive",
       "name": "Marketing Dive",
       "url": "https://www.marketingdive.com/feeds/news/",
       "error": "HTTP 403 Forbidden"
-    },
-    {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "This operation was aborted"
     },
     {
       "id": "ftc-press",
