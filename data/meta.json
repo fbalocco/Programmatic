@@ -1,7 +1,151 @@
 {
-  "generatedAt": null,
-  "feedCount": 0,
-  "itemCount": 0,
-  "errors": [],
-  "stats": []
+  "generatedAt": "2026-02-16T22:03:03.999Z",
+  "feedCount": 17,
+  "itemCount": 229,
+  "errors": [
+    {
+      "id": "doj-atr-press",
+      "name": "DOJ Antitrust Division Press Releases",
+      "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
+    }
+  ],
+  "stats": [
+    {
+      "id": "adexchanger",
+      "name": "AdExchanger",
+      "category": "Industry",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "digiday",
+      "name": "Digiday",
+      "category": "Industry",
+      "fetched": 15,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "id": "marketingdive",
+      "name": "Marketing Dive",
+      "category": "Industry",
+      "fetched": 10,
+      "kept": 2,
+      "error": null
+    },
+    {
+      "id": "indexexchange",
+      "name": "Index Exchange Blog",
+      "category": "Industry",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "iabtechlab-latest",
+      "name": "IAB Tech Lab (Latest News)",
+      "category": "Standards",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "iabtechlab-press",
+      "name": "IAB Tech Lab (Press Releases)",
+      "category": "Standards",
+      "fetched": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "id": "google-ads-dev-blog",
+      "name": "Google Ads Developer Blog",
+      "category": "Platforms",
+      "fetched": 25,
+      "kept": 21,
+      "error": null
+    },
+    {
+      "id": "chrome-dev-blog",
+      "name": "Chrome for Developers Blog",
+      "category": "Platforms",
+      "fetched": 10,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "category": "Regulation",
+      "fetched": 3269,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "category": "Regulation",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "ftc-press",
+      "name": "U.S. FTC Press Releases",
+      "category": "Regulation",
+      "fetched": 10,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "id": "ftc-press-competition",
+      "name": "U.S. FTC Competition Press Releases",
+      "category": "Regulation",
+      "fetched": 30,
+      "kept": 30,
+      "error": null
+    },
+    {
+      "id": "ftc-competition-matters",
+      "name": "FTC - Competition Matters (Blog)",
+      "category": "Regulation",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "id": "doj-atr-press",
+      "name": "DOJ Antitrust Division Press Releases",
+      "category": "Court & Enforcement",
+      "fetched": 0,
+      "kept": 0,
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
+    },
+    {
+      "id": "doj-atr-civil-filings",
+      "name": "DOJ Antitrust Division Civil Case Filings",
+      "category": "Court & Enforcement",
+      "fetched": 123,
+      "kept": 80,
+      "error": null
+    },
+    {
+      "id": "doj-atr-criminal-filings",
+      "name": "DOJ Antitrust Division Criminal Case Filings",
+      "category": "Court & Enforcement",
+      "fetched": 77,
+      "kept": 77,
+      "error": null
+    },
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "category": "Research",
+      "fetched": 25,
+      "kept": 25,
+      "error": null
+    }
+  ]
 }
