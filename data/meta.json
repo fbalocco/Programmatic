@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-02-16T21:42:17.190Z",
-  "feedCount": 17,
-  "itemCount": 144,
-  "errors": [
-    {
-      "id": "marketingdive",
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/feeds/news/",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "id": "ftc-press",
-      "name": "U.S. FTC Press Releases",
-      "url": "https://www.ftc.gov/feeds/press-release.xml",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "id": "ftc-press-competition",
-      "name": "U.S. FTC Competition Press Releases",
-      "url": "https://www.ftc.gov/feeds/press-release-competition.xml",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "id": "ftc-competition-matters",
-      "name": "FTC - Competition Matters (Blog)",
-      "url": "https://www.ftc.gov/feeds/blog-competition-matters.xml",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "id": "doj-atr-press",
-      "name": "DOJ Antitrust Division Press Releases",
-      "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 407\nChar: ="
-    }
-  ]
+  "generatedAt": null,
+  "feedCount": 0,
+  "itemCount": 0,
+  "errors": [],
+  "stats": []
 }

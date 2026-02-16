@@ -1,12 +1,20 @@
 version: 1
 
 defaults:
-  maxItemsPerFeed: 40
-  maxTotalItems: 700
-  timeoutMs: 25000
+  # Pull more items so “missing news” isn’t just a cap.
+  maxItemsPerFeed: 80
+  maxTotalItems: 1500
+  timeoutMs: 30000
 
-  # Use a polite UA. Replace <your-user>/<your-repo> after you create the repo.
-  userAgent: "AdAuctionNewsBot/1.0 (+https://github.com/<your-user>/<your-repo>)"
+  # IMPORTANT: many publishers/government sites 403 “bot” UAs.
+  # Use a normal browser UA.
+  userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+  fallbackUserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
+
+  # Add simple browser-like headers. These frequently reduce 403s.
+  headers:
+    Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.9, */*;q=0.8"
+    Accept-Language: "en-US,en;q=0.9"
 
   # Strip common tracking parameters so dedupe works better.
   stripUrlParams:
@@ -57,13 +65,16 @@ feeds:
     name: Marketing Dive
     url: "https://www.marketingdive.com/feeds/news/"
     category: "Industry"
+    fetch:
+      headers:
+        Referer: "https://www.marketingdive.com/"
     keywords:
       include:
         - programmatic
         - "ad tech"
         - adtech
         - "digital advertising"
-        - "advertising"
+        - advertising
         - DSP
         - SSP
         - "real-time bidding"
@@ -105,8 +116,8 @@ feeds:
         - dv360
         - "display & video"
         - "google ads"
-        - "privacy"
-        - "measurement"
+        - privacy
+        - measurement
         - auction
         - bid
         - bidding
@@ -159,6 +170,9 @@ feeds:
     name: U.S. FTC Press Releases
     url: "https://www.ftc.gov/feeds/press-release.xml"
     category: "Regulation"
+    fetch:
+      headers:
+        Referer: "https://www.ftc.gov/"
     keywords:
       include:
         - advertising
@@ -175,21 +189,30 @@ feeds:
     name: U.S. FTC Competition Press Releases
     url: "https://www.ftc.gov/feeds/press-release-competition.xml"
     category: "Regulation"
+    fetch:
+      headers:
+        Referer: "https://www.ftc.gov/"
 
   - id: ftc-competition-matters
     name: FTC - Competition Matters (Blog)
     url: "https://www.ftc.gov/feeds/blog-competition-matters.xml"
     category: "Regulation"
+    fetch:
+      headers:
+        Referer: "https://www.ftc.gov/"
 
   # DOJ Antitrust Division feeds (press + filings)
   - id: doj-atr-press
     name: DOJ Antitrust Division Press Releases
     url: "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video"
     category: "Court & Enforcement"
+    fetch:
+      headers:
+        Referer: "https://www.justice.gov/atr"
     keywords:
       include:
         - advertising
-        - ad tech
+        - "ad tech"
         - adtech
         - google
         - meta
@@ -202,11 +225,17 @@ feeds:
     name: DOJ Antitrust Division Civil Case Filings
     url: "https://www.justice.gov/media/1190096/dl?inline="
     category: "Court & Enforcement"
+    fetch:
+      headers:
+        Referer: "https://www.justice.gov/atr"
 
   - id: doj-atr-criminal-filings
     name: DOJ Antitrust Division Criminal Case Filings
     url: "https://www.justice.gov/media/1194211/dl?inline="
     category: "Court & Enforcement"
+    fetch:
+      headers:
+        Referer: "https://www.justice.gov/atr"
 
   # ---- Research ----
   - id: arxiv-ad-auctions

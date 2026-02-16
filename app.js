@@ -8,6 +8,7 @@ const els = {
   timeRange: document.getElementById('timeRange'),
   hideRead: document.getElementById('hideRead'),
   clearRead: document.getElementById('clearRead'),
+  resetFilters: document.getElementById('resetFilters'),
   refresh: document.getElementById('refresh'),
   list: document.getElementById('list'),
   empty: document.getElementById('empty'),
@@ -19,9 +20,10 @@ const els = {
   errorsBox: document.getElementById('errorsBox'),
 };
 
-const STORAGE_KEY = 'adnews_state_v1';
+const STORAGE_KEY = 'adnews_state_v2';
+const SCHEMA_VERSION = 2;
 
-function loadState() {
+function loadStateRaw() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return null;
@@ -39,6 +41,41 @@ function saveState(state) {
   }
 }
 
+function migrateOrDefault(raw) {
+  const base = {
+    schemaVersion: SCHEMA_VERSION,
+    query: '',
+    timeRange: 'all',
+    hideRead: false,
+    categories: null, // null => all selected
+    sources: null,    // null => all selected
+    readIds: [],
+  };
+
+  if (!raw || typeof raw !== 'object') return base;
+
+  // If schema mismatch, keep read history but reset filters to show everything.
+  if (raw.schemaVersion !== SCHEMA_VERSION) {
+    return {
+      ...base,
+      readIds: Array.isArray(raw.readIds) ? raw.readIds : [],
+    };
+  }
+
+  // Schema matches: validate fields
+  return {
+    ...base,
+    ...raw,
+    schemaVersion: SCHEMA_VERSION,
+    query: typeof raw.query === 'string' ? raw.query : '',
+    timeRange: typeof raw.timeRange === 'string' ? raw.timeRange : 'all',
+    hideRead: !!raw.hideRead,
+    categories: raw.categories === null || Array.isArray(raw.categories) ? raw.categories : null,
+    sources: raw.sources === null || Array.isArray(raw.sources) ? raw.sources : null,
+    readIds: Array.isArray(raw.readIds) ? raw.readIds : [],
+  };
+}
+
 function nowTs() {
   return Date.now();
 }
@@ -52,7 +89,6 @@ function formatDate(iso) {
   const t = parseISO(iso);
   if (!t) return 'Unknown date';
   const dt = new Date(t);
-  // Render in local time
   return dt.toLocaleString(undefined, {
     year: 'numeric',
     month: 'short',
@@ -71,7 +107,7 @@ function getCutoffMs(range) {
     case '30d': return nowTs() - 30 * oneDay;
     case '90d': return nowTs() - 90 * oneDay;
     case 'all': return null;
-    default: return nowTs() - 7 * oneDay;
+    default: return null;
   }
 }
 
@@ -80,7 +116,7 @@ function el(tag, attrs = {}, children = []) {
   for (const [k, v] of Object.entries(attrs)) {
     if (k === 'class') node.className = v;
     else if (k === 'text') node.textContent = v;
-    else if (k === 'html') node.innerHTML = v; // only use for trusted static HTML (avoid for feed content)
+    else if (k === 'html') node.innerHTML = v; // avoid for feed content
     else if (k.startsWith('on') && typeof v === 'function') node.addEventListener(k.slice(2), v);
     else node.setAttribute(k, v);
   }
@@ -124,14 +160,7 @@ function writeReadSetToState(state, readSet) {
   state.readIds = sliced;
 }
 
-let state = loadState() || {
-  query: '',
-  timeRange: '7d',
-  hideRead: false,
-  categories: null, // null => all selected
-  sources: null,    // null => all selected
-  readIds: [],
-};
+let state = migrateOrDefault(loadStateRaw());
 
 let allItems = [];
 let meta = null;
@@ -171,14 +200,12 @@ function setErrorsBox(errors) {
 }
 
 function selectedSetOrAll(key, values) {
-  // key is state.categories or state.sources
   const saved = state[key];
-  if (!saved) return new Set(values); // all selected
+  if (!saved) return new Set(values);
   return new Set(saved.filter(v => values.includes(v)));
 }
 
 function setSelection(key, set, allValues) {
-  // If all are selected, store null to keep state compact.
   const arr = Array.from(set);
   if (arr.length === allValues.length) state[key] = null;
   else state[key] = arr;
@@ -241,7 +268,6 @@ function renderList(items) {
     titleLink.textContent = it.title || '(untitled)';
     titleLink.addEventListener('click', () => {
       markRead(it.id);
-      // Optimistic UI update
       const card = titleLink.closest('.card');
       if (card) card.classList.add('read');
       if (state.hideRead) render();
@@ -335,7 +361,7 @@ async function loadData() {
 
 function wireUI() {
   els.q.value = state.query || '';
-  els.timeRange.value = state.timeRange || '7d';
+  els.timeRange.value = state.timeRange || 'all';
   els.hideRead.checked = !!state.hideRead;
 
   els.q.addEventListener('input', () => {
@@ -358,6 +384,22 @@ function wireUI() {
 
   els.clearRead.addEventListener('click', () => {
     clearRead();
+    render();
+  });
+
+  els.resetFilters.addEventListener('click', () => {
+    state.query = '';
+    state.timeRange = 'all';
+    state.hideRead = false;
+    state.categories = null;
+    state.sources = null;
+
+    saveState(state);
+
+    els.q.value = '';
+    els.timeRange.value = 'all';
+    els.hideRead.checked = false;
+
     render();
   });
 
