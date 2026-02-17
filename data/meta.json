@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-02-17T19:13:12.406Z",
+  "generatedAt": "2026-02-17T21:47:39.319Z",
   "feedCount": 17,
-  "itemCount": 231,
+  "itemCount": 221,
   "errors": [
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    },
     {
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1123\nChar: >"
     }
   ],
   "stats": [
@@ -87,9 +93,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
@@ -121,7 +127,7 @@
       "category": "Court & Enforcement",
       "fetched": 0,
       "kept": 0,
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1123\nChar: >"
     },
     {
       "id": "doj-atr-civil-filings",
