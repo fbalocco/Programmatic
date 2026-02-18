@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-02-18T16:06:03.006Z",
+  "generatedAt": "2026-02-18T19:12:12.063Z",
   "feedCount": 17,
-  "itemCount": 205,
+  "itemCount": 219,
   "errors": [
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    },
     {
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1124\nChar: >"
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "This operation was aborted"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
     }
   ],
   "stats": [
@@ -85,17 +85,17 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3275,
-      "kept": 11,
+      "fetched": 3276,
+      "kept": 10,
       "error": null
     },
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
@@ -127,7 +127,7 @@
       "category": "Court & Enforcement",
       "fetched": 0,
       "kept": 0,
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1124\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
     },
     {
       "id": "doj-atr-civil-filings",
@@ -149,9 +149,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
