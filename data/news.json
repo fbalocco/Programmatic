@@ -1,5 +1,31 @@
 [
   {
+    "id": "2696ebed",
+    "title": "Ad Tech Says It’s Not In The Surveillance Business. Now Is The Time To Prove It",
+    "url": "https://www.adexchanger.com/data-driven-thinking/ad-tech-says-its-not-in-the-surveillance-business-now-is-the-time-to-prove-it/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-02-19T15:07:46.000Z",
+    "summary": "I’ve been thinking a lot about the RFI issued by US Immigration and Customs Enforcement in late January. ICE asked data providers and tech vendors to share information on how their tools and services could be used to “directly support investigations.” The RFI spelled it out: “Th…"
+  },
+  {
+    "id": "7bf7e909",
+    "title": "CTV Should Be Automated – But It Doesn’t Need To Be Programmatic",
+    "url": "https://www.adexchanger.com/tv/ctv-should-be-automated-but-it-doesnt-need-to-be-programmatic/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-02-19T14:00:17.000Z",
+    "summary": "Upstream, a supply-side company that until today was called TheViewPoint, introduced a platform that automates direct TV and streaming ad sales. The platform launch and company rebrand strive to highlight the role of TV and streaming as an upper-funnel awareness channel. The pos…"
+  },
+  {
     "id": "e86f560e",
     "title": "The End of ‘Good Enough’ Data: Advertising’s Shift Toward Defensible Performance",
     "url": "https://www.adexchanger.com/content-studio/the-end-of-good-enough-data-advertisings-shift-toward-defensible-performance/",
@@ -9,19 +35,6 @@
     "tags": [],
     "published": "2026-02-19T13:00:59.000Z",
     "summary": "For most of the last decade, performance marketing was rewarded for momentum. Spend efficiently. Scale quickly. Optimize continuously. If the line went up and to the right, few questions followed. But that era is ending, because performance without accountability is no longer cr…"
-  },
-  {
-    "id": "8c4f30c5",
-    "title": "How Has the DSA Performed in Protecting Election Integrity?",
-    "url": "https://techpolicy.press/how-has-the-dsa-performed-in-protecting-election-integrity",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-19T10:19:26.000Z",
-    "summary": ""
   },
   {
     "id": "eb43da25",
@@ -135,43 +148,6 @@
     "summary": "Amid a federal immigration crackdown that’s produced widespread allegations of law enforcement misconduct and resulted in the high-profile deaths of two US citizens, the state of a local news publisher’s advertising business can seem inconsequential. But the Minnesota Star Tribu…"
   },
   {
-    "id": "8d181aa8",
-    "title": "Why Smart Marketers Look Beyond The Leading Platforms To Deliver Outcomes",
-    "url": "https://www.adexchanger.com/data-driven-thinking/why-smart-marketers-look-beyond-the-leading-platforms-to-deliver-outcomes/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-18T05:35:56.000Z",
-    "summary": "Across industries, marketing teams are navigating a brutal equation: shrinking budgets, leaner teams and rising performance pressure. In this environment, platforms like Meta and Google dominate the ecosystem. Their unrivaled scale and AI-powered technology make them safe bets f…"
-  },
-  {
-    "id": "9ec7a20e",
-    "title": "Who Speaks and Who is Heard: Civil Society’s Role in Shaping DSA Decisions",
-    "url": "https://techpolicy.press/who-speaks-and-who-is-heard-civil-societys-role-in-shaping-dsa-decisions",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-17T16:11:07.000Z",
-    "summary": ""
-  },
-  {
-    "id": "b77c5a9d",
-    "title": "TV And Video Convergence Is ‘Fair’ At Best: Here’s What 10 Execs Want Fixed In 2026",
-    "url": "https://www.adexchanger.com/tv/tv-and-video-convergence-is-fair-at-best-heres-what-10-execs-want-fixed-in-2026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-02-17T14:45:02.000Z",
-    "summary": "“Transitional.” “Developing.” “Work-in-progress.” Those are the best descriptions of the current state of TV and video convergence, according to industry experts that AdExchanger and Cynopsis identified as top leaders influencing the video advertising landscape. The post TV And…"
-  },
-  {
     "id": "5a2d09a0",
     "title": "FTC Finalizes Consent Order in Boeing, Spirit Acquisition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-boeing-spirit-acquisition",
@@ -241,33 +217,6 @@
     "tags": [],
     "published": "2026-02-13T21:26:43.000Z",
     "summary": "Although foundation models have demonstrated remarkable success in general domains, the application of these models to electroencephalography (EEG) analysis is constrained by substantial data requirements and high parameterization. These factors incur prohibitive computational c…"
-  },
-  {
-    "id": "1821a1ac",
-    "title": "Roku says it’s growing video advertising faster than broader OTT market",
-    "url": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
-    "source": "Marketing Dive",
-    "sourceId": "marketingdive",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-02-13T15:45:00.000Z",
-    "summary": "The platform’s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in the “early innings.”"
-  },
-  {
-    "id": "a4f59ead",
-    "title": "WhatsApp's DSA Designation Showcases Power Contest Over Tech In Europe",
-    "url": "https://techpolicy.press/whatsapps-dsa-designation-showcases-power-contest-over-tech-in-europe",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-13T14:37:59.000Z",
-    "summary": ""
   },
   {
     "id": "79fb80f0",
@@ -341,19 +290,6 @@
     "summary": "The generation of 3D models from real-world objects has often been accomplished through photogrammetry, i.e., by taking 2D photos from a variety of perspectives and then triangulating matched point-based features to create a textured mesh. Many design choices exist within this f…"
   },
   {
-    "id": "445216cf",
-    "title": "How ICE Will Spy On Protesters, And How You Can Protect Your Privacy",
-    "url": "https://techpolicy.press/how-ice-will-spy-on-protesters-and-how-you-can-protect-your-privacy",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-11T19:05:00.000Z",
-    "summary": ""
-  },
-  {
     "id": "f4b0fdf0",
     "title": "U.S. v. Reddy Ice LLC, et al.",
     "url": "https://www.justice.gov/atr/case/us-v-reddy-ice-llc-et-al",
@@ -365,19 +301,6 @@
     ],
     "published": "2026-02-11T17:07:24.000Z",
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "d2fd4f9d",
-    "title": "What the EU’s X Decision Reveals About How the DSA Is Enforced",
-    "url": "https://techpolicy.press/what-the-eus-x-decision-reveals-about-how-the-dsa-is-enforced",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-11T12:51:46.000Z",
-    "summary": ""
   },
   {
     "id": "1f7c9a62",
@@ -418,20 +341,6 @@
     ],
     "published": "2026-02-10T19:55:55.000Z",
     "summary": "AI chatbots are widely used by children and teens today, but they pose significant risks to youth's privacy and safety due to both increasingly personal conversations and potential exposure to unsafe content. While children under 13 are protected by the Children's Online Privacy…"
-  },
-  {
-    "id": "d16f9165",
-    "title": "WhatsApp as a Stress Test for Interim Measures in EU’s Competition Law",
-    "url": "https://techpolicy.press/whatsapp-as-a-stress-test-for-interim-measures-in-the-eus-competition-law",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-02-10T12:38:00.000Z",
-    "summary": ""
   },
   {
     "id": "6d958150",
@@ -490,19 +399,6 @@
     "tags": [],
     "published": "2026-02-06T21:15:00.000Z",
     "summary": "With the recent release of Explorer Access for the Google Ads API, Google Ads API MCP server and the Google Ads API Developer Assistant, we are seeing significant interest in the developer community for Google Ads API access, and are receiving an increase in developer token acce…"
-  },
-  {
-    "id": "2d799296",
-    "title": "The EU Wants to Label 'Addictive Design' a Systemic Risk Under the DSA",
-    "url": "https://techpolicy.press/the-eu-wants-to-label-addictive-design-a-systemic-risk-under-the-dsa",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-06T18:03:40.000Z",
-    "summary": ""
   },
   {
     "id": "bddfab6a",
@@ -603,19 +499,6 @@
     "summary": "We present SPEAR, a multi-agent coordination framework for smart contract auditing that applies established MAS patterns in a realistic security analysis workflow. SPEAR models auditing as a coordinated mission carried out by specialized agents: a Planning Agent prioritizes cont…"
   },
   {
-    "id": "a58ed8f1",
-    "title": "Tracking the Paris Prosecutor's Investigation into Elon Musk's X",
-    "url": "https://techpolicy.press/tracking-the-paris-prosecutors-investigation-into-elon-musks-x",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-03T23:45:13.000Z",
-    "summary": ""
-  },
-  {
     "id": "885acf61",
     "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
     "url": "https://arxiv.org/abs/2602.03950v2",
@@ -662,32 +545,6 @@
     "tags": [],
     "published": "2026-02-03T03:04:27.000Z",
     "summary": "Vision-Language Models (VLMs) have made great strides in everyday visual tasks, such as captioning a natural image, or answering commonsense questions about such images. But humans possess the puzzling ability to deploy their visual reasoning abilities in radically new situation…"
-  },
-  {
-    "id": "06756b84",
-    "title": "Examining Brazil’s ‘Ecosystem Approach’ to Digital Antitrust",
-    "url": "https://techpolicy.press/examining-brazils-ecosystem-approach-to-digital-antitrust",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-02-02T13:59:36.000Z",
-    "summary": ""
-  },
-  {
-    "id": "f10bc536",
-    "title": "Quantum Sensing Will Test Legal Frameworks for Privacy",
-    "url": "https://techpolicy.press/quantum-sensing-will-test-legal-frameworks-for-privacy",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-02T13:01:03.000Z",
-    "summary": ""
   },
   {
     "id": "3b1994ab",
@@ -822,20 +679,6 @@
     "tags": [],
     "published": "2026-01-29T16:25:00.000Z",
     "summary": "Following yesterday's launch of Google Ads API v23, we are excited to share more details about one of the most highly requested features: Channel-level reporting for Performance Max campaigns. This update provides developers and advertisers with unprecedented transparency into w…"
-  },
-  {
-    "id": "e507c8d0",
-    "title": "Looking Ahead on US Antitrust Enforcement and Tech: Will 2026 Deliver More of the Same?",
-    "url": "https://techpolicy.press/looking-ahead-on-us-antitrust-enforcement-and-tech-will-2026-deliver-more-of-the-same",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-01-29T16:07:08.000Z",
-    "summary": ""
   },
   {
     "id": "6b133f54",
