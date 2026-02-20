@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-02-19T21:47:33.364Z",
+  "generatedAt": "2026-02-20T02:53:44.881Z",
   "feedCount": 17,
-  "itemCount": 229,
+  "itemCount": 193,
   "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "This operation was aborted"
+    },
     {
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1123\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
+    },
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
     }
   ],
   "stats": [
@@ -79,9 +91,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3279,
-      "kept": 11,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
@@ -121,7 +133,7 @@
       "category": "Court & Enforcement",
       "fetched": 0,
       "kept": 0,
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1123\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
     },
     {
       "id": "doj-atr-civil-filings",
@@ -143,9 +155,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
     }
   ]
 }
