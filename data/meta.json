@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T07:19:58.251Z",
+  "generatedAt": "2026-02-23T10:09:27.850Z",
   "feedCount": 17,
   "itemCount": 228,
   "errors": [
@@ -7,7 +7,7 @@
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1122\nChar: >"
     }
   ],
   "stats": [
@@ -121,7 +121,7 @@
       "category": "Court & Enforcement",
       "fetched": 0,
       "kept": 0,
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1121\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 1122\nChar: >"
     },
     {
       "id": "doj-atr-civil-filings",
