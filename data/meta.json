@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-02-23T15:59:40.741Z",
+  "generatedAt": "2026-02-23T19:20:29.056Z",
   "feedCount": 17,
-  "itemCount": 231,
+  "itemCount": 235,
   "errors": [
     {
-      "id": "doj-atr-press",
-      "name": "DOJ Antitrust Division Press Releases",
-      "url": "https://www.justice.gov/news/rss?field_component=376&require_all=0&search_api_language=en&show_public_archived=0&type%5B0%5D=image_gallery&type%5B1%5D=press_release&type%5B2%5D=speech&type%5B3%5D=youtube_video",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
     }
   ],
   "stats": [
@@ -79,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3289,
-      "kept": 13,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
@@ -119,9 +119,9 @@
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
-      "fetched": 0,
-      "kept": 0,
-      "error": "Unexpected close tag\nLine: 0\nColumn: 1120\nChar: >"
+      "fetched": 25,
+      "kept": 17,
+      "error": null
     },
     {
       "id": "doj-atr-civil-filings",
