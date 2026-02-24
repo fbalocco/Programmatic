@@ -1,5 +1,32 @@
 [
   {
+    "id": "0aa7dbfd",
+    "title": "Ad Tech Briefing: As AI promises ‘transparency,’ more light is shed on the ad tech tax",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-as-ai-promises-transparency-more-light-is-shed-on-the-ad-tech-tax/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-02-24T05:01:00.000Z",
+    "summary": "Filings in a recent court case detail how one of the biggest spenders in media spends with industry middlemen."
+  },
+  {
+    "id": "5a12eeef",
+    "title": "What’s behind Netflix’s CTV market share jump?",
+    "url": "https://digiday.com/future-of-tv/whats-behind-netflixs-ctv-market-share-jump/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-02-24T05:01:00.000Z",
+    "summary": "The streamer is set to grab almost 10% of global CTV ad spend. Media buyers say live sports, lower prices and DSP partnerships are making a difference."
+  },
+  {
     "id": "aef1908e",
     "title": "Infillion Strikes Again, This Time Buying The Retail Purchase Data Company Catalina",
     "url": "https://www.adexchanger.com/commerce/infillion-strikes-again-this-time-buying-the-retail-purchase-data-company-catalina/",
@@ -401,17 +428,6 @@
     "summary": "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027. This is the second work programme to support the implementation of the EDPB strategy 2024-2027*. The work programme is based on the priorities set out in the EDPB strategy and t…"
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -424,6 +440,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "42bcba97",
@@ -1057,17 +1084,6 @@
     "summary": "Brussels, 19 January - During its latest plenary, the EDPB adopted a report to support the European Commission’s evaluation of the Law Enforcement Directive (LED). The Commission has to submit its public report* on the evaluation and review of this Directive to the European Parl…"
   },
   {
-    "id": "292d894c",
-    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
-  },
-  {
     "id": "16f42fd4",
     "title": "FTC Announces 2026 Update of Jurisdictional and Fee Thresholds for Premerger Notification Filings",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-update-jurisdictional-fee-thresholds-premerger-notification-filings",
@@ -1079,6 +1095,17 @@
     ],
     "published": "2026-01-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds and a revised filing fee schedule under the Hart‑Scott‑Rodino (HSR) Antitrust Improvements Act of 1976. Section 7A(a)(2) of the Act requires the Commission to revise the jurisdictional thresholds annuall…"
+  },
+  {
+    "id": "292d894c",
+    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
   },
   {
     "id": "ec06020f",
@@ -1683,19 +1710,6 @@
     "summary": "I’m thrilled to share that Index Exchange has officially opened our new Bangalore office—a major milestone in our global growth ..."
   },
   {
-    "id": "03dba8de",
-    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2025-09-30T12:00:00.000Z",
-    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
-  },
-  {
     "id": "4a8c6bf6",
     "title": "FTC Sues Zillow and Redfin Over Illegal Agreement to Suppress Rental Advertising Competition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-sues-zillow-redfin-over-illegal-agreement-suppress-rental-advertising-competition",
@@ -1708,6 +1722,19 @@
     ],
     "published": "2025-09-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet listing services (ILSs)—the websites that millions of Americans use to find their next…"
+  },
+  {
+    "id": "03dba8de",
+    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2025-09-30T12:00:00.000Z",
+    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
   },
   {
     "id": "26b38e36",
@@ -1792,18 +1819,17 @@
     "summary": "Thank you for the kind introduction. Thanks to the organizers and to those who have traveled from near and far to exchange ideas at this conference. It’s always a pleasure to see the depth of expertise and the breadth of interest in competition policy gathered in one place, and…"
   },
   {
-    "id": "04dcc268",
-    "title": "FTC and DOJ Issue Fiscal Year 2024 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-doj-issue-fiscal-year-2024-hart-scott-rodino-annual-report",
+    "id": "c59616c2",
+    "title": "FTC Recommends Anticompetitive Regulations for Deletion or Revision",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-recommends-anticompetitive-regulations-deletion-or-revision",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
     "tags": [
-      "Antitrust",
       "Policy"
     ],
     "published": "2025-09-17T12:00:00.000Z",
-    "summary": "The Federal Trade Commission and the Department of Justice’s (DOJ) Antitrust Division released their 47th Annual Hart-Scott-Rodino (HSR) Report. This report summaries the agencies’ merger enforcement efforts and provides fiscal year 2024 data on the Premerger Notification Progra…"
+    "summary": "On Tuesday, Federal Trade Commission Chairman Andrew N. Ferguson submitted recommendations for deleting or revising anticompetitive regulations across the entire federal government to the White House’s Office of Management and Budget. This report is a response to President Trump…"
   },
   {
     "id": "46ebaafd",
@@ -2485,20 +2511,6 @@
     "summary": "On June 27, IAB Tech Lab releases the final results of the fit analysis of Google's Privacy Sandbox for Protected Audiences auctions The post IAB Tech Lab releases final Privacy Sandbox Fit Analysis appeared first on IAB Tech Lab."
   },
   {
-    "id": "cb7fbfc6",
-    "title": "Slow the Roll-up: Help Shine a Light on Serial Acquisitions",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/05/slow-roll-help-shine-light-serial-acquisitions",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2024-05-23T16:30:00.000Z",
-    "summary": "Slow the Roll-up: Help Shine a Light on Serial Acquisitions hbarber May 23, 2024 | 12:30PM Slow the Roll-up: Help Shine a Light on Serial Acquisitions By Henry Liu, Director of the Bureau of Competition Most of the talk about dealmaking and antitrust enforcement focuses on large…"
-  },
-  {
     "id": "7f820ab7",
     "title": "U.S. v. Ike Tomlinson and Kris Bird",
     "url": "https://www.justice.gov/atr/case/us-v-ike-tomlinson-and-kris-bird",
@@ -2900,19 +2912,6 @@
     "summary": "Document filed on May 26, 2022 Stipulation of Dismissal Joint Initial Status Report [Joint Proposed] Scheduling and Case Management Order Exhibit A Joint Motion for Advancement of the Initial Status Conference to April 14, 2022 (April 7, 2022) [Proposed] Stipulated Protective Or…"
   },
   {
-    "id": "b556d0bd",
-    "title": "Contract Terms That Impede Competition Investigations",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/06/contract-terms-impede-competition-investigations",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2023-06-16T01:36:22.000Z",
-    "summary": "Contract Terms That Impede Competition Investigations bacree June 15, 2023 | 9:36PM Contract Terms That Impede Competition Investigations By John Newman & Amy Ritchie, Bureau of Competition Every company knows it’s usually best to “get it in writing,” and a lot of time is spent…"
-  },
-  {
     "id": "326783d6",
     "title": "U.S. v. Dwayne A. Johnson",
     "url": "https://www.justice.gov/atr/case/us-v-dwayne-johnson",
@@ -3056,101 +3055,112 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "1886d174",
-    "title": "HSR Early Termination After a Second Request Issues",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/hsr-early-termination-after-second-request-issues",
+    "id": "b593ed48",
+    "title": "Leadership Changes in the Anticompetitive Practices Division",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-05-29T13:45:42.000Z",
+    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
+  },
+  {
+    "id": "22fd8547",
+    "title": "Antitrust review at the FTC: staying the course during uncertain times",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/antitrust-review-ftc-staying-course-during-uncertain-times",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-04-06T15:36:56.000Z",
+    "summary": "Antitrust review at the FTC: staying the course during uncertain times jwolf April 6, 2020 | 11:36AM Antitrust review at the FTC: staying the course during uncertain times By Ian Conner, Bureau of Competition As we navigate uncharted waters in our work and home lives in response…"
+  },
+  {
+    "id": "171567b1",
+    "title": "Resuming early termination of HSR reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/03/resuming-early-termination-hsr-reviews",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-03-27T18:08:11.000Z",
+    "summary": "Resuming early termination of HSR reviews rcuster March 27, 2020 | 2:08PM Resuming early termination of HSR reviews By Ian Conner, Bureau of Competition On Friday, March 13, as part of the Bureau’s response to the COVID-19 coronavirus situation, and in partnership with the Antit…"
+  },
+  {
+    "id": "aa202941",
+    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2018-09-10T17:53:43.000Z",
+    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
+  },
+  {
+    "id": "7fbf6c01",
+    "title": "Coming Soon: what’s new in residential real estate brokerage competition?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/coming-soon-whats-new-residential-real-estate-brokerage-competition",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-05-29T14:46:19.000Z",
+    "summary": "Coming Soon: what’s new in residential real estate brokerage competition? jwolf May 29, 2018 | 10:46AM Coming Soon: what’s new in residential real estate brokerage competition? By Jessica Drake, Bureau of Competition More than ten years ago, the FTC and the Department of Justice…"
+  },
+  {
+    "id": "3dbaa1e1",
+    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2021-03-12T20:15:44.000Z",
-    "summary": "HSR Early Termination After a Second Request Issues bacree March 12, 2021 | 3:15PM HSR Early Termination After a Second Request Issues By Maribeth Petrizzi and Heather M. Johnson On February 4, 2021, the Federal Trade Commission, with the support of the Department of Justice, an…"
+    "published": "2018-03-01T16:54:32.000Z",
+    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
   },
   {
-    "id": "8aca3a16",
-    "title": "File comments in HSR Rulemaking by February 1",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/12/file-comments-hsr-rulemaking-february-1",
+    "id": "af3fd3fd",
+    "title": "Have a plan to comply with the bar on horizontal interlocks",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/01/have-plan-comply-bar-horizontal-interlocks",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-12-07T17:27:10.000Z",
-    "summary": "File comments in HSR Rulemaking by February 1 bjames@ftc.gov December 7, 2020 | 12:27PM File comments in HSR Rulemaking by February 1 By Kate Walsh and Ken Libby, Bureau of Competition Earlier this fall, the Commission announced two separate rulemaking initiatives aimed at updat…"
+    "published": "2017-01-23T17:18:07.000Z",
+    "summary": "Have a plan to comply with the bar on horizontal interlocks rcuster January 23, 2017 | 12:18PM Have a plan to comply with the bar on horizontal interlocks By Debbie Feinstein, Bureau of Competition With some exceptions, Section 8 of the Clayton Act prohibits the same individual…"
   },
   {
-    "id": "60828ad6",
-    "title": "Avoidance devices won’t avoid HSR penalties",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/avoidance-devices-wont-avoid-hsr-penalties",
+    "id": "00fe5cb4",
+    "title": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/02/antitrust-violation-vs-injury-fact-distinction-makes-difference",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-11-14T22:30:26.000Z",
-    "summary": "Avoidance devices won’t avoid HSR penalties bjames@ftc.gov November 14, 2019 | 5:30PM Avoidance devices won’t avoid HSR penalties By Marian Bruno, Bureau of Competition The Commission and Department of Justice’s recent case against Canon Inc. and Toshiba Corporation for violatin…"
+    "published": "2016-02-26T16:16:59.000Z",
+    "summary": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference rcuster February 26, 2016 | 11:16AM Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference By Dan Butrymowicz, Bureau of Competition There is a basic but important difference bet…"
   },
   {
-    "id": "e6a84873",
-    "title": "What’s in a Name? Ask the Technology Enforcement Division",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/whats-name-ask-technology-enforcement-division",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Measurement",
-      "Policy"
-    ],
-    "published": "2019-10-16T17:59:13.000Z",
-    "summary": "What’s in a Name? Ask the Technology Enforcement Division rcuster October 16, 2019 | 1:59PM What’s in a Name? Ask the Technology Enforcement Division By Patricia Galvan and Krisha Cerilli, Bureau of Competition The Bureau of Competition is pleased to announce the conversion of t…"
-  },
-  {
-    "id": "6c092334",
-    "title": "Technology Task Force looking for technology fellow",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/technology-task-force-looking-technology-fellow",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-08-08T16:36:45.000Z",
-    "summary": "Technology Task Force looking for technology fellow bjames@ftc.gov August 8, 2019 | 12:36PM Technology Task Force looking for technology fellow By Patricia Galvan, Bureau of Competition Are you a fast-learning, tech-savvy professional driven to use your expertise to help ensure…"
-  },
-  {
-    "id": "457a2518",
-    "title": "Information exchange: be reasonable",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/information-exchange-be-reasonable",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-12-11T16:48:03.000Z",
-    "summary": "Information exchange: be reasonable rcuster December 11, 2014 | 11:48AM Information exchange: be reasonable By Michael Bloom, Bureau of Competition Each day companies seek out market information to gain insights on how to compete more effectively. When companies compete more eff…"
-  },
-  {
-    "id": "b32c1a05",
-    "title": "Running time",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/06/running-time",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2014-06-30T16:28:44.000Z",
-    "summary": "Running time cwarner June 30, 2014 | 12:28PM Running time By Mike Moiseyev, Bureau of Competition “The clock” is a central part of a merger lawyer’s life. HSR merger review is all about managing the clock effectively. Here are some things we’ve been known to say: Is the clock ru…"
-  },
-  {
-    "id": "568ba668",
-    "title": "From the antitrust mailbag: refusals to deal",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-mailbag-refusals-deal",
+    "id": "b8f65d3c",
+    "title": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/antitrust-mailbag-what-can-ftc-do-about-prescription-drug-price-spikes",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -3158,7 +3168,20 @@
       "Privacy",
       "Antitrust"
     ],
-    "published": "2014-05-14T13:52:05.000Z",
-    "summary": "From the antitrust mailbag: refusals to deal cwarner May 14, 2014 | 9:52AM From the antitrust mailbag: refusals to deal By Alan Friedman, Bureau of Competition Here’s a very common question, and the writer is usually a retailer who sells products from different manufacturers. Q:…"
+    "published": "2015-05-18T16:31:59.000Z",
+    "summary": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes? rcuster May 18, 2015 | 12:31PM From the antitrust mailbag: What can the FTC do about prescription drug price spikes? By Alan Friedman, Bureau of Competition Consumers frequently contact the Bur…"
+  },
+  {
+    "id": "1a42b3b0",
+    "title": "Have a good plan for HSR compliance",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/08/have-good-plan-hsr-compliance",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-08-21T16:16:05.000Z",
+    "summary": "Have a good plan for HSR compliance rcuster August 21, 2014 | 12:16PM Have a good plan for HSR compliance By Dan Ducore, Bureau of Competition Our recent civil penalty action involving Berkshire Hathaway’s failure to file the required Hart-Scott-Rodino notification is a reminder…"
   }
 ]
