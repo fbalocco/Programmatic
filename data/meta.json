@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T05:03:11.762Z",
+  "generatedAt": "2026-02-25T07:16:12.376Z",
   "feedCount": 17,
   "itemCount": 236,
   "errors": [
@@ -7,7 +7,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "fetch failed"
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -81,7 +81,7 @@
       "category": "Regulation",
       "fetched": 0,
       "kept": 0,
-      "error": "fetch failed"
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
