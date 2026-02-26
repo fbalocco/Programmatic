@@ -1,5 +1,42 @@
 [
   {
+    "id": "1bcc4567",
+    "title": "CTV Fueled Magnite’s Q4 Growth As Display Falters",
+    "url": "https://www.adexchanger.com/tv/ctv-fueled-magnites-q4-growth-as-display-falters/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-02-26T02:10:15.000Z",
+    "summary": "Display advertising is old and busted. Streaming CTV is the new hotness. Obviously, those aren’t the exact words Magnite CEO Michael Barrett used, but it’s pretty much what the numbers say. The post CTV Fueled Magnite’s Q4 Growth As Display Falters appeared first on AdExchanger."
+  },
+  {
+    "id": "edcccfc4",
+    "title": "Other Than Buying Warner Bros. Discovery, Paramount Skydance’s Priority Is Streaming Revenue Growth",
+    "url": "https://www.adexchanger.com/tv/other-than-buying-warner-bros-discovery-paramount-skydances-priority-is-streaming-revenue-growth/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-02-26T01:34:32.000Z",
+    "summary": "Paramount Skydance reported 10% year-over-year revenue growth in the previous quarter coming from direct-to-consumer, which is marketingese for subscription revenue. Overall revenue grew 2% YoY in Q4 to $8.15 billion. The post Other Than Buying Warner Bros. Discovery, Paramount…"
+  },
+  {
+    "id": "7bc88652",
+    "title": "Announcing v23.1 of the Google Ads API",
+    "url": "http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-02-25T23:21:00.000Z",
+    "summary": "Today, we’re announcing the v23.1 release of the Google Ads API. To use the new v23.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. We are also releasing minor versions v20.2, v21.1 and v…"
+  },
+  {
     "id": "1d497903",
     "title": "EU Parliament Committee Confronts US Visa Bans Over DSA, Urges Commission Action",
     "url": "https://techpolicy.press/eu-parliament-committee-confronts-us-visa-bans-over-dsa-urges-commission-action",
@@ -163,17 +200,6 @@
     "summary": "Retail media spending is surging as advertisers explore new formats, channels and environments. With projections suggesting that in-store retail media ad spend alone will surpass $1 billion by 2029, the industry is entering a new phase of growth. However, confidence in measureme…"
   },
   {
-    "id": "383d67f6",
-    "title": "WPP Forced Into An Awkward Disclosure; CRM Media",
-    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-24022026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-02-24T05:01:34.000Z",
-    "summary": "WPP airs some dirty laundry; HubSpot buys itself a media brand; and data centers are more politically unpopular than ever. The post WPP Forced Into An Awkward Disclosure; CRM Media appeared first on AdExchanger."
-  },
-  {
     "id": "0aa7dbfd",
     "title": "Ad Tech Briefing: As AI promises ‘transparency,’ more light is shed on the ad tech tax",
     "url": "https://digiday.com/media-buying/ad-tech-briefing-as-ai-promises-transparency-more-light-is-shed-on-the-ad-tech-tax/",
@@ -210,17 +236,6 @@
     "tags": [],
     "published": "2026-02-24T03:03:18.000Z",
     "summary": "Existing Graphical User Interface (GUI) agents operate through step-by-step calls to vision language models--taking a screenshot, reasoning about the next action, executing it, then repeating on the new page--resulting in high costs and latency that scale with the number of reas…"
-  },
-  {
-    "id": "aef1908e",
-    "title": "Infillion Strikes Again, This Time Buying The Retail Purchase Data Company Catalina",
-    "url": "https://www.adexchanger.com/commerce/infillion-strikes-again-this-time-buying-the-retail-purchase-data-company-catalina/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-02-23T17:00:16.000Z",
-    "summary": "Infillion, an ad tech business built on M&A, is back with another acquisition. The latest move will help bring retail purchase data into its platform. The company announced on Monday that it has acquired Catalina, a market research and shopper marketing company with roots in phy…"
   },
   {
     "id": "440d45d2",
@@ -795,6 +810,19 @@
     "summary": "We present SPEAR, a multi-agent coordination framework for smart contract auditing that applies established MAS patterns in a realistic security analysis workflow. SPEAR models auditing as a coordinated mission carried out by specialized agents: a Planning Agent prioritizes cont…"
   },
   {
+    "id": "c9803cce",
+    "title": "ImpRIF: Stronger Implicit Reasoning Leads to Better Complex Instruction Following",
+    "url": "https://arxiv.org/abs/2602.21228v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-02-04T07:50:11.000Z",
+    "summary": "As applications of large language models (LLMs) become increasingly complex, the demand for robust complex instruction following capabilities is growing accordingly. We argue that a thorough understanding of the instruction itself, especially the latent reasoning structure embed…"
+  },
+  {
     "id": "a58ed8f1",
     "title": "Tracking the Paris Prosecutor's Investigation into Elon Musk's X",
     "url": "https://techpolicy.press/tracking-the-paris-prosecutors-investigation-into-elon-musks-x",
@@ -880,17 +908,6 @@
     ],
     "published": "2026-02-02T13:01:03.000Z",
     "summary": ""
-  },
-  {
-    "id": "3b1994ab",
-    "title": "Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community",
-    "url": "https://arxiv.org/abs/2602.02613v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-02-02T11:08:38.000Z",
-    "summary": "The rapid emergence of autonomous large language model agents has given rise to persistent, large-scale agent ecosystems whose collective behavior cannot be adequately understood through anecdotal observation or small-scale simulation. This paper introduces data-driven silicon s…"
   },
   {
     "id": "d55f52bd",
@@ -1065,17 +1082,6 @@
     "summary": "Brussels, 21 January - The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for the ‘Digital Omnibus on AI’. The Proposal seeks to simplify the implementation of certain ha…"
   },
   {
-    "id": "465cf222",
-    "title": "New HSR thresholds and filing fees for 2026",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-20T18:58:00.000Z",
-    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
-  },
-  {
     "id": "31b557bf",
     "title": "FTC Appeals Ruling in Meta Monopolization Case",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
@@ -1102,6 +1108,17 @@
     "summary": "Brussels, 19 January - During its latest plenary, the EDPB adopted a report to support the European Commission’s evaluation of the Law Enforcement Directive (LED). The Commission has to submit its public report* on the evaluation and review of this Directive to the European Parl…"
   },
   {
+    "id": "292d894c",
+    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
+  },
+  {
     "id": "16f42fd4",
     "title": "FTC Announces 2026 Update of Jurisdictional and Fee Thresholds for Premerger Notification Filings",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-update-jurisdictional-fee-thresholds-premerger-notification-filings",
@@ -1113,17 +1130,6 @@
     ],
     "published": "2026-01-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds and a revised filing fee schedule under the Hart‑Scott‑Rodino (HSR) Antitrust Improvements Act of 1976. Section 7A(a)(2) of the Act requires the Commission to revise the jurisdictional thresholds annuall…"
-  },
-  {
-    "id": "292d894c",
-    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
   },
   {
     "id": "ec06020f",
@@ -1706,17 +1712,6 @@
     "summary": "Marketers today expect more from programmatic: addressable reach, measurable outcomes, and smarter use of every media dollar. To meet this ..."
   },
   {
-    "id": "e1a50c4a",
-    "title": "Correction of an error in the BudgetPerDayMinimumErrorDetails message",
-    "url": "http://ads-developers.googleblog.com/2025/10/correction-of-error-in.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2025-10-02T15:55:00.000Z",
-    "summary": "When we released V21 of the Google Ads API, we released a field with the wrong name in the BudgetPerDayMinimumErrorDetails message: the field minimum_budget_amount_micros was mistakenly released as minimum_bugdet_amount_micros, with the word “budget” misspelled. We already corre…"
-  },
-  {
     "id": "7fa0e476",
     "title": "From Vision to Reality: Our New India Office Is Officially Open",
     "url": "https://www.indexexchange.com/2025/10/02/from-vision-to-reality-our-new-india-office-is-officially-open/",
@@ -1726,6 +1721,19 @@
     "tags": [],
     "published": "2025-10-02T11:39:16.000Z",
     "summary": "I’m thrilled to share that Index Exchange has officially opened our new Bangalore office—a major milestone in our global growth ..."
+  },
+  {
+    "id": "03dba8de",
+    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2025-09-30T12:00:00.000Z",
+    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
   },
   {
     "id": "4a8c6bf6",
@@ -1740,19 +1748,6 @@
     ],
     "published": "2025-09-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet listing services (ILSs)—the websites that millions of Americans use to find their next…"
-  },
-  {
-    "id": "03dba8de",
-    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2025-09-30T12:00:00.000Z",
-    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
   },
   {
     "id": "26b38e36",
@@ -1837,17 +1832,18 @@
     "summary": "Thank you for the kind introduction. Thanks to the organizers and to those who have traveled from near and far to exchange ideas at this conference. It’s always a pleasure to see the depth of expertise and the breadth of interest in competition policy gathered in one place, and…"
   },
   {
-    "id": "c59616c2",
-    "title": "FTC Recommends Anticompetitive Regulations for Deletion or Revision",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-recommends-anticompetitive-regulations-deletion-or-revision",
+    "id": "04dcc268",
+    "title": "FTC and DOJ Issue Fiscal Year 2024 Hart-Scott-Rodino Annual Report",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-doj-issue-fiscal-year-2024-hart-scott-rodino-annual-report",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
     "tags": [
+      "Antitrust",
       "Policy"
     ],
     "published": "2025-09-17T12:00:00.000Z",
-    "summary": "On Tuesday, Federal Trade Commission Chairman Andrew N. Ferguson submitted recommendations for deleting or revising anticompetitive regulations across the entire federal government to the White House’s Office of Management and Budget. This report is a response to President Trump…"
+    "summary": "The Federal Trade Commission and the Department of Justice’s (DOJ) Antitrust Division released their 47th Annual Hart-Scott-Rodino (HSR) Report. This report summaries the agencies’ merger enforcement efforts and provides fiscal year 2024 data on the Premerger Notification Progra…"
   },
   {
     "id": "46ebaafd",
@@ -2763,6 +2759,17 @@
     "summary": "Document filed on December 27, 2023 Information"
   },
   {
+    "id": "5b20f1e3",
+    "title": "Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subject to Document Requests",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/01/slack-google-chats-other-collaborative-messaging-platforms-have-always-been-will-continue-be-subject",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2024-01-09T14:50:14.000Z",
+    "summary": "Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subject to Document Requests bacree January 9, 2024 | 9:50AM Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subjec…"
+  },
+  {
     "id": "cb798433",
     "title": "U.S. v. Activision Blizzard, Inc.",
     "url": "https://www.justice.gov/atr/case/us-v-activision-blizzard-inc",
@@ -2943,6 +2950,19 @@
     "summary": "Document filed on February 15, 2023 Information Plea Agreement"
   },
   {
+    "id": "f72f1add",
+    "title": "BC’s Criminal Liaison Unit is Off to the Races",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/03/bcs-criminal-liaison-unit-races",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2023-03-23T19:56:24.000Z",
+    "summary": "BC’s Criminal Liaison Unit is Off to the Races bacree March 23, 2023 | 3:56PM BC’s Criminal Liaison Unit is Off to the Races By Holly Vedova, Director of the Bureau of Competition Last year the Bureau of Competition created its own Criminal Liaison Unit (“CLU”) as part of a Comm…"
+  },
+  {
     "id": "8ab6eea3",
     "title": "U.S. v. Timour Abramov, et al.",
     "url": "https://www.justice.gov/atr/case/us-v-timour-abramov",
@@ -3073,61 +3093,98 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "ddfd4316",
-    "title": "Yes, we’re hiring another AD!",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
+    "id": "7eec9f35",
+    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-04-08T16:46:18.000Z",
-    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
+    "published": "2021-03-19T13:25:32.000Z",
+    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
   },
   {
-    "id": "6553e984",
-    "title": "HSR threshold adjustments and reportability for 2020",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
+    "id": "48cb63f8",
+    "title": "2020: Remote work with real results",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/01/2020-remote-work-real-results",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-01-31T19:34:59.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+    "published": "2021-01-05T14:42:02.000Z",
+    "summary": "2020: Remote work with real results bacree January 5, 2021 | 9:42AM 2020: Remote work with real results By Ian Conner, Bureau of Competition Sometime in the future, when we look back on the year that was 2020, it is likely that we will want to remember the good things that happe…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "57aa2fcb",
+    "title": "MMA Reports: No tricks or treats—just facts",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/mma-reports-no-tricks-or-treats-just-facts",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+    "published": "2020-10-27T21:15:33.000Z",
+    "summary": "MMA Reports: No tricks or treats—just facts bjames@ftc.gov October 27, 2020 | 5:15PM MMA Reports: No tricks or treats—just facts By Brad Albert, Armine Black, and Jamie Towey, Bureau of Competition With the passage of the Medicare Prescription Drug, Improvement, and Modernizatio…"
   },
   {
-    "id": "fd4f6479",
-    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
+    "id": "93dde92c",
+    "title": "Developing the Antitrust Bar",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-03-20T20:57:15.000Z",
-    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
+    "published": "2019-10-31T21:20:10.000Z",
+    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
   },
   {
-    "id": "48374fa8",
-    "title": "Vertical mergers, yesterday and today",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "id": "97ca26ec",
+    "title": "Updating best practices for data submissions",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/updating-best-practices-data-submissions",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2019-08-12T21:13:43.000Z",
+    "summary": "Updating best practices for data submissions bjames@ftc.gov August 12, 2019 | 5:13PM Updating best practices for data submissions By Nathan Wilson, Bureau of Economics The FTC’s Bureau of Economics is updating its guidance regarding the best practices for submitting data and eco…"
+  },
+  {
+    "id": "387d4117",
+    "title": "Interlocking Mindfulness",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/interlocking-mindfulness",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-06-26T16:12:58.000Z",
+    "summary": "Interlocking Mindfulness bjames@ftc.gov June 26, 2019 | 12:12PM Interlocking Mindfulness By Michael E. Blaisdell, Bureau of Competition The wellness strategy of the moment is mindfulness: focusing on the present and being completely aware of your situation. Even in the corporate…"
+  },
+  {
+    "id": "45b1c34c",
+    "title": "FTC Milestones: Cold War chills report on International Petroleum Cartel",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-cold-war-chills-report-international-petroleum-cartel",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-12-17T16:34:05.000Z",
+    "summary": "FTC Milestones: Cold War chills report on International Petroleum Cartel cwarner December 17, 2014 | 11:34AM FTC Milestones: Cold War chills report on International Petroleum Cartel By Kelly Signs, Bureau of Competition The FTC’s status as an independent agency, secured in an ea…"
+  },
+  {
+    "id": "d0a688a9",
+    "title": "FTC Milestones: Making the case for reform of public utility holding company laws",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-making-case-reform-public-utility-holding-company-laws",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -3135,61 +3192,7 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2018-01-19T22:21:51.000Z",
-    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
-  },
-  {
-    "id": "27e7967f",
-    "title": "Protecting consumers by promoting competition",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2017-03-06T22:22:12.000Z",
-    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
-  },
-  {
-    "id": "94523b41",
-    "title": "Quo Vadis Post-Actavis?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2016-03-30T19:41:40.000Z",
-    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
-  },
-  {
-    "id": "e08384e1",
-    "title": "“Investment-only” means just that",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2015-08-24T21:25:05.000Z",
-    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
-  },
-  {
-    "id": "3022534e",
-    "title": "How to avoid common HSR filing mistakes with attachments",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-09-16T14:42:32.000Z",
-    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
+    "published": "2014-11-18T18:18:10.000Z",
+    "summary": "FTC Milestones: Making the case for reform of public utility holding company laws cwarner November 18, 2014 | 1:18PM FTC Milestones: Making the case for reform of public utility holding company laws By Kelly Signs, Bureau of Competition From its earliest days, the Commission has…"
   }
 ]
