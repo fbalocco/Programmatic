@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-02-26T13:42:18.047Z",
+  "generatedAt": "2026-02-26T16:04:29.067Z",
   "feedCount": 17,
-  "itemCount": 236,
-  "errors": [
-    {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "This operation was aborted"
-    }
-  ],
+  "itemCount": 247,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -24,7 +17,7 @@
       "name": "Digiday",
       "category": "Industry",
       "fetched": 15,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -79,9 +72,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 3302,
+      "kept": 13,
+      "error": null
     },
     {
       "id": "edpb-news",
@@ -120,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 17,
+      "kept": 16,
       "error": null
     },
     {
