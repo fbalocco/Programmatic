@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-02-27T02:50:44.113Z",
+  "generatedAt": "2026-02-27T04:54:20.358Z",
   "feedCount": 17,
   "itemCount": 247,
-  "errors": [
-    {
-      "id": "marketingdive",
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/feeds/news/",
-      "error": "HTTP 503 Maintenance — <!DOCTYPE html> <html> <head> <title>Under Maintenance</title> <style> header > img { margin: 48px 120px } main { font-family: Oxygen, Arial, sans-serif; margin: auto;"
-    }
-  ],
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -31,9 +24,9 @@
       "id": "marketingdive",
       "name": "Marketing Dive",
       "category": "Industry",
-      "fetched": 0,
+      "fetched": 10,
       "kept": 0,
-      "error": "HTTP 503 Maintenance — <!DOCTYPE html> <html> <head> <title>Under Maintenance</title> <style> header > img { margin: 48px 120px } main { font-family: Oxygen, Arial, sans-serif; margin: auto;"
+      "error": null
     },
     {
       "id": "indexexchange",
