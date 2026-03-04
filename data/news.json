@@ -1,5 +1,29 @@
 [
   {
+    "id": "bb7853fa",
+    "title": "Content Creators Didn’t Kill Publisher Video. They Rebuilt The Ad Model",
+    "url": "https://www.adexchanger.com/publishers/content-creators-didnt-kill-publisher-video-they-rebuilt-the-ad-model/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-03-04T14:39:19.000Z",
+    "summary": "As audiences spend more time with creator-led video on YouTube and TikTok, the traditional publisher video stack looks out of touch. Those generic 30-second ad spots and low-effort reworks of existing creative to fit social feeds aren’t going to cut it with a social-native audie…"
+  },
+  {
+    "id": "297f36dd",
+    "title": "Former Amazon Boss Takes Charge of UK Antitrust Strategy. What Does It Mean?",
+    "url": "https://techpolicy.press/former-amazon-boss-takes-charge-of-uk-antitrust-strategy-what-does-it-mean",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-03-04T14:28:58.000Z",
+    "summary": ""
+  },
+  {
     "id": "3868471e",
     "title": "What Marketers Miss When Their Data Isn’t Inclusive",
     "url": "https://www.adexchanger.com/adexchanger-talks/what-marketers-miss-when-their-data-isnt-inclusive/",
@@ -11,9 +35,9 @@
     "summary": "Marketers endlessly talk about growth and ROI, but they leave potential on the table when they don’t fully measure key segments of their audience. Nowhere is that disconnect more obvious than with Black, Hispanic and intersectional audiences, whose media habits and cultural infl…"
   },
   {
-    "id": "594cce1a",
+    "id": "3c28ac58",
     "title": "Why Amazon Is Gaining Ground In CTV And The Trade Desk Is Losing Its Lead",
-    "url": "https://www.adexchanger.com/data-driven-thinking/why-amazon-is-gaining-ground-in-ctv-and-the-trade-desk-is-losing-its-lead/",
+    "url": "https://www.adexchanger.com/on-tv-and-video/why-amazon-is-gaining-ground-in-ctv-and-the-trade-desk-is-losing-its-lead/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
     "category": "Industry",
@@ -196,19 +220,6 @@
     "summary": "The new industry collaboration is meant to deliver a more transparent marketplace and includes initial partners Nexxen and TV operating system V."
   },
   {
-    "id": "419c9b9f",
-    "title": "CTV’s Local Moment Has Arrived Thanks To Total TV Convergence",
-    "url": "https://www.adexchanger.com/content-studio/ctvs-local-moment-has-arrived-thanks-to-total-tv-convergence/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-03-02T13:00:48.000Z",
-    "summary": "As the video landscape evolves, one thing is clear: CTV is no longer operating as a standalone line item. It is now a foundational component of fully converged, total video strategies. The implications are especially significant for regional and local advertisers. Our new 2026 C…"
-  },
-  {
     "id": "0fd62e79",
     "title": "RLAR: An Agentic Reward System for Multi-task Reinforcement Learning on Large Language Models",
     "url": "https://arxiv.org/abs/2603.00724v1",
@@ -279,6 +290,21 @@
     "summary": "What’s changing? In 2025, Google rolled out changes to support the EU Political Ads Regulation in the Google Ads API and Google Ads scripts. On April 1, 2026, we will change account-level API restrictions. If you use either of these products to create or manage campaigns, you ma…"
   },
   {
+    "id": "a7d0586b",
+    "title": "Privacy Regulators in 61 Countries Back Enforcement Against AI Deepfakes",
+    "url": "https://techpolicy.press/privacy-regulators-in-61-countries-back-enforcement-against-ai-deepfakes",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-02-26T12:59:11.000Z",
+    "summary": ""
+  },
+  {
     "id": "7bc88652",
     "title": "Announcing v23.1 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html",
@@ -288,6 +314,19 @@
     "tags": [],
     "published": "2026-02-25T23:21:00.000Z",
     "summary": "Today, we’re announcing the v23.1 release of the Google Ads API. To use the new v23.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. We are also releasing minor versions v20.2, v21.1 and v…"
+  },
+  {
+    "id": "1d497903",
+    "title": "EU Parliament Committee Confronts US Visa Bans Over DSA, Urges Commission Action",
+    "url": "https://techpolicy.press/eu-parliament-committee-confronts-us-visa-bans-over-dsa-urges-commission-action",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-25T16:57:41.000Z",
+    "summary": ""
   },
   {
     "id": "edc52176",
@@ -301,6 +340,20 @@
     ],
     "published": "2026-02-25T12:00:00.000Z",
     "summary": "WHAT:The Federal Trade Commission is hosting a workshop, “Measuring Injuries and Benefits in the Data-Driven Economy,” to explore efforts to measure consumers’ privacy preferences, as well as the impacts of data breaches on consumers.WHEN:Thursday, February 26, 2026, from 9:30 a…"
+  },
+  {
+    "id": "d848dc48",
+    "title": "What US Lawsuits Reveal About Platform Design That DSA Reports Don’t",
+    "url": "https://techpolicy.press/what-us-lawsuits-reveal-about-platform-design-that-dsa-reports-dont",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-02-25T09:18:55.000Z",
+    "summary": ""
   },
   {
     "id": "78d16a84",
@@ -338,6 +391,32 @@
     "tags": [],
     "published": "2026-02-24T03:03:18.000Z",
     "summary": "Existing Graphical User Interface (GUI) agents operate through step-by-step calls to vision language models--taking a screenshot, reasoning about the next action, executing it, then repeating on the new page--resulting in high costs and latency that scale with the number of reas…"
+  },
+  {
+    "id": "440d45d2",
+    "title": "Tracking Efforts To Restrict Or Ban Teens from Social Media Across the Globe",
+    "url": "https://techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-23T12:41:53.000Z",
+    "summary": ""
+  },
+  {
+    "id": "3f7541a1",
+    "title": "How Have Platforms Addressed Addictive Design Under the DSA",
+    "url": "https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-23T12:07:58.000Z",
+    "summary": ""
   },
   {
     "id": "973dcd91",
@@ -421,6 +500,19 @@
     "summary": "The Justice Department’s Antitrust Division, together with the Attorney General of Ohio, filed a civil antitrust lawsuit today challenging OhioHealth’s anticompetitive contract restrictions that force Ohio patients to pay higher prices for healthcare."
   },
   {
+    "id": "8c4f30c5",
+    "title": "How Has the DSA Performed in Protecting Election Integrity?",
+    "url": "https://techpolicy.press/how-has-the-dsa-performed-in-protecting-election-integrity",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-19T10:19:26.000Z",
+    "summary": ""
+  },
+  {
     "id": "5c63eaa4",
     "title": "MMA: Multimodal Memory Agent",
     "url": "https://arxiv.org/abs/2602.16493v1",
@@ -444,6 +536,19 @@
     ],
     "published": "2026-02-18T12:00:00.000Z",
     "summary": "Brussels, 18 February - The European Data Protection Board (EDPB) has adopted a report on its Coordinated Enforcement Framework (CEF) action on the right to be forgotten (Art.17 GDPR). The Board selected this topic as it is one of the most frequently exercised GDPR rights and on…"
+  },
+  {
+    "id": "9ec7a20e",
+    "title": "Who Speaks and Who is Heard: Civil Society’s Role in Shaping DSA Decisions",
+    "url": "https://techpolicy.press/who-speaks-and-who-is-heard-civil-societys-role-in-shaping-dsa-decisions",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-17T16:11:07.000Z",
+    "summary": ""
   },
   {
     "id": "5a2d09a0",
@@ -492,6 +597,19 @@
     "summary": "Although foundation models have demonstrated remarkable success in general domains, the application of these models to electroencephalography (EEG) analysis is constrained by substantial data requirements and high parameterization. These factors incur prohibitive computational c…"
   },
   {
+    "id": "a4f59ead",
+    "title": "WhatsApp's DSA Designation Showcases Power Contest Over Tech In Europe",
+    "url": "https://techpolicy.press/whatsapps-dsa-designation-showcases-power-contest-over-tech-in-europe",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-13T14:37:59.000Z",
+    "summary": ""
+  },
+  {
     "id": "79fb80f0",
     "title": "Making GDPR compliance easier through new initiatives: a key focus of the EDPB work programme 2026-2027",
     "url": "https://www.edpb.europa.eu/news/news/2026/making-gdpr-compliance-easier-through-new-initiatives-key-focus-edpb-work-programme_en",
@@ -527,17 +645,6 @@
     "summary": "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027. This is the second work programme to support the implementation of the EDPB strategy 2024-2027*. The work programme is based on the priorities set out in the EDPB strategy and t…"
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -552,6 +659,17 @@
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
   },
   {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
+  },
+  {
     "id": "42bcba97",
     "title": "Advancing Digital Twin Generation Through a Novel Simulation Framework and Quantitative Benchmarking",
     "url": "https://arxiv.org/abs/2602.11314v1",
@@ -561,6 +679,19 @@
     "tags": [],
     "published": "2026-02-11T19:38:00.000Z",
     "summary": "The generation of 3D models from real-world objects has often been accomplished through photogrammetry, i.e., by taking 2D photos from a variety of perspectives and then triangulating matched point-based features to create a textured mesh. Many design choices exist within this f…"
+  },
+  {
+    "id": "445216cf",
+    "title": "How ICE Will Spy On Protesters, And How You Can Protect Your Privacy",
+    "url": "https://techpolicy.press/how-ice-will-spy-on-protesters-and-how-you-can-protect-your-privacy",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-11T19:05:00.000Z",
+    "summary": ""
   },
   {
     "id": "f4b0fdf0",
@@ -574,6 +705,19 @@
     ],
     "published": "2026-02-11T17:07:24.000Z",
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
+  },
+  {
+    "id": "d2fd4f9d",
+    "title": "What the EU’s X Decision Reveals About How the DSA Is Enforced",
+    "url": "https://techpolicy.press/what-the-eus-x-decision-reveals-about-how-the-dsa-is-enforced",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-11T12:51:46.000Z",
+    "summary": ""
   },
   {
     "id": "1f7c9a62",
@@ -614,6 +758,20 @@
     ],
     "published": "2026-02-10T19:55:55.000Z",
     "summary": "AI chatbots are widely used by children and teens today, but they pose significant risks to youth's privacy and safety due to both increasingly personal conversations and potential exposure to unsafe content. While children under 13 are protected by the Children's Online Privacy…"
+  },
+  {
+    "id": "d16f9165",
+    "title": "WhatsApp as a Stress Test for Interim Measures in EU’s Competition Law",
+    "url": "https://techpolicy.press/whatsapp-as-a-stress-test-for-interim-measures-in-the-eus-competition-law",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-02-10T12:38:00.000Z",
+    "summary": ""
   },
   {
     "id": "0c0abe4c",
@@ -1635,18 +1793,17 @@
     "summary": "Advancements in show-level intelligence, contextual targeting, and reporting are poised to shape the next era of streaming TV. But a ..."
   },
   {
-    "id": "04dcc268",
-    "title": "FTC and DOJ Issue Fiscal Year 2024 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-doj-issue-fiscal-year-2024-hart-scott-rodino-annual-report",
+    "id": "c59616c2",
+    "title": "FTC Recommends Anticompetitive Regulations for Deletion or Revision",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-recommends-anticompetitive-regulations-deletion-or-revision",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
     "tags": [
-      "Antitrust",
       "Policy"
     ],
     "published": "2025-09-17T12:00:00.000Z",
-    "summary": "The Federal Trade Commission and the Department of Justice’s (DOJ) Antitrust Division released their 47th Annual Hart-Scott-Rodino (HSR) Report. This report summaries the agencies’ merger enforcement efforts and provides fiscal year 2024 data on the Premerger Notification Progra…"
+    "summary": "On Tuesday, Federal Trade Commission Chairman Andrew N. Ferguson submitted recommendations for deleting or revising anticompetitive regulations across the entire federal government to the White House’s Office of Management and Budget. This report is a response to President Trump…"
   },
   {
     "id": "46ebaafd",
@@ -1831,6 +1988,17 @@
     ],
     "published": "2025-06-23T17:01:43.000Z",
     "summary": "Document filed on January 27, 2025 Plea Agreement"
+  },
+  {
+    "id": "74a6f70b",
+    "title": "First Research Published from Physician 6(b) Study",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/06/first-research-published-physician-6b-study",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2025-06-16T18:41:12.000Z",
+    "summary": "First Research Published from Physician 6(b) Study bacree June 16, 2025 | 2:41PM First Research Published from Physician 6(b) Study By Tom Koch (Acting DAD, BE Office of Applied Research and Outreach) and Ted Rosenbaum (Acting BE Director) We are excited to announce the publicat…"
   },
   {
     "id": "2b45c4b4",
@@ -2093,6 +2261,19 @@
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
   },
   {
+    "id": "8c079b48",
+    "title": "Planning for the new HSR Form",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2024-11-12T15:30:21.000Z",
+    "summary": "Planning for the new HSR Form bjames@ftc.gov November 12, 2024 | 10:30AM Planning for the new HSR Form By Bureau of Competition As antitrust practitioners know, parties to certain mergers and acquisitions are required to submit premerger notification forms that disclose informat…"
+  },
+  {
     "id": "d566b766",
     "title": "GPP Implementation Guidelines released for Public Comment",
     "url": "https://iabtechlab.com/gpp-implementation-guidelines-release-for-public-comment/",
@@ -2326,20 +2507,6 @@
     ],
     "published": "2024-06-27T12:43:29.000Z",
     "summary": "On June 27, IAB Tech Lab releases the final results of the fit analysis of Google's Privacy Sandbox for Protected Audiences auctions The post IAB Tech Lab releases final Privacy Sandbox Fit Analysis appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "cb7fbfc6",
-    "title": "Slow the Roll-up: Help Shine a Light on Serial Acquisitions",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/05/slow-roll-help-shine-light-serial-acquisitions",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2024-05-23T16:30:00.000Z",
-    "summary": "Slow the Roll-up: Help Shine a Light on Serial Acquisitions hbarber May 23, 2024 | 12:30PM Slow the Roll-up: Help Shine a Light on Serial Acquisitions By Henry Liu, Director of the Bureau of Competition Most of the talk about dealmaking and antitrust enforcement focuses on large…"
   },
   {
     "id": "7f820ab7",
@@ -2743,19 +2910,6 @@
     "summary": "Document filed on May 26, 2022 Stipulation of Dismissal Joint Initial Status Report [Joint Proposed] Scheduling and Case Management Order Exhibit A Joint Motion for Advancement of the Initial Status Conference to April 14, 2022 (April 7, 2022) [Proposed] Stipulated Protective Or…"
   },
   {
-    "id": "b556d0bd",
-    "title": "Contract Terms That Impede Competition Investigations",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/06/contract-terms-impede-competition-investigations",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2023-06-16T01:36:22.000Z",
-    "summary": "Contract Terms That Impede Competition Investigations bacree June 15, 2023 | 9:36PM Contract Terms That Impede Competition Investigations By John Newman & Amy Ritchie, Bureau of Competition Every company knows it’s usually best to “get it in writing,” and a lot of time is spent…"
-  },
-  {
     "id": "326783d6",
     "title": "U.S. v. Dwayne A. Johnson",
     "url": "https://www.justice.gov/atr/case/us-v-dwayne-johnson",
@@ -2899,87 +3053,83 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "1886d174",
-    "title": "HSR Early Termination After a Second Request Issues",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/hsr-early-termination-after-second-request-issues",
+    "id": "7eec9f35",
+    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2021-03-19T13:25:32.000Z",
+    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
+  },
+  {
+    "id": "2bde3954",
+    "title": "The closest competitor is not the only competitor",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/12/closest-competitor-not-only-competitor",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-12-09T19:06:57.000Z",
+    "summary": "The closest competitor is not the only competitor bjames@ftc.gov December 9, 2019 | 2:06PM The closest competitor is not the only competitor By Stephen Mohr, Bureau of Competition More and more, merging parties argue that their merger does not raise competition concerns because…"
+  },
+  {
+    "id": "93dde92c",
+    "title": "Developing the Antitrust Bar",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-10-31T21:20:10.000Z",
+    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
+  },
+  {
+    "id": "3dbaa1e1",
+    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2021-03-12T20:15:44.000Z",
-    "summary": "HSR Early Termination After a Second Request Issues bacree March 12, 2021 | 3:15PM HSR Early Termination After a Second Request Issues By Maribeth Petrizzi and Heather M. Johnson On February 4, 2021, the Federal Trade Commission, with the support of the Department of Justice, an…"
+    "published": "2018-03-01T16:54:32.000Z",
+    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
   },
   {
-    "id": "8aca3a16",
-    "title": "File comments in HSR Rulemaking by February 1",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/12/file-comments-hsr-rulemaking-february-1",
+    "id": "07d03c6a",
+    "title": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/voices-liberty-videos-fireside-chat-participants-explain-burdens-unnecessary-occupational-licensing",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2018-01-17T18:55:23.000Z",
+    "summary": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing rgiura January 17, 2018 | 1:55PM Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing By Tara Koslov, Office of…"
+  },
+  {
+    "id": "72a86d63",
+    "title": "Looking back (again) at FTC merger remedies",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/02/looking-back-again-ftc-merger-remedies",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-12-07T17:27:10.000Z",
-    "summary": "File comments in HSR Rulemaking by February 1 bjames@ftc.gov December 7, 2020 | 12:27PM File comments in HSR Rulemaking by February 1 By Kate Walsh and Ken Libby, Bureau of Competition Earlier this fall, the Commission announced two separate rulemaking initiatives aimed at updat…"
+    "published": "2017-02-03T13:46:03.000Z",
+    "summary": "Looking back (again) at FTC merger remedies rgiura February 3, 2017 | 8:46AM Looking back (again) at FTC merger remedies By Dan Ducore and Naomi Licker, Bureau of Competition The newly released Remedy Study is the culmination of nearly two years of effort by FTC staff to look ba…"
   },
   {
-    "id": "60828ad6",
-    "title": "Avoidance devices won’t avoid HSR penalties",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/avoidance-devices-wont-avoid-hsr-penalties",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-11-14T22:30:26.000Z",
-    "summary": "Avoidance devices won’t avoid HSR penalties bjames@ftc.gov November 14, 2019 | 5:30PM Avoidance devices won’t avoid HSR penalties By Marian Bruno, Bureau of Competition The Commission and Department of Justice’s recent case against Canon Inc. and Toshiba Corporation for violatin…"
-  },
-  {
-    "id": "e6a84873",
-    "title": "What’s in a Name? Ask the Technology Enforcement Division",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/whats-name-ask-technology-enforcement-division",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Measurement",
-      "Policy"
-    ],
-    "published": "2019-10-16T17:59:13.000Z",
-    "summary": "What’s in a Name? Ask the Technology Enforcement Division rcuster October 16, 2019 | 1:59PM What’s in a Name? Ask the Technology Enforcement Division By Patricia Galvan and Krisha Cerilli, Bureau of Competition The Bureau of Competition is pleased to announce the conversion of t…"
-  },
-  {
-    "id": "6c092334",
-    "title": "Technology Task Force looking for technology fellow",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/technology-task-force-looking-technology-fellow",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-08-08T16:36:45.000Z",
-    "summary": "Technology Task Force looking for technology fellow bjames@ftc.gov August 8, 2019 | 12:36PM Technology Task Force looking for technology fellow By Patricia Galvan, Bureau of Competition Are you a fast-learning, tech-savvy professional driven to use your expertise to help ensure…"
-  },
-  {
-    "id": "457a2518",
-    "title": "Information exchange: be reasonable",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/information-exchange-be-reasonable",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-12-11T16:48:03.000Z",
-    "summary": "Information exchange: be reasonable rcuster December 11, 2014 | 11:48AM Information exchange: be reasonable By Michael Bloom, Bureau of Competition Each day companies seek out market information to gain insights on how to compete more effectively. When companies compete more eff…"
-  },
-  {
-    "id": "b32c1a05",
-    "title": "Running time",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/06/running-time",
+    "id": "6d8e0ceb",
+    "title": "Direct-to-consumer auto sales: It’s not just about Tesla",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/direct-consumer-auto-sales-its-not-just-about-tesla",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2987,21 +3137,18 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2014-06-30T16:28:44.000Z",
-    "summary": "Running time cwarner June 30, 2014 | 12:28PM Running time By Mike Moiseyev, Bureau of Competition “The clock” is a central part of a merger lawyer’s life. HSR merger review is all about managing the clock effectively. Here are some things we’ve been known to say: Is the clock ru…"
+    "published": "2015-05-11T15:00:39.000Z",
+    "summary": "Direct-to-consumer auto sales: It’s not just about Tesla cwarner May 11, 2015 | 11:00AM Direct-to-consumer auto sales: It’s not just about Tesla By Marina Lao, Debbie Feinstein, and Francine Lafontaine A fundamental principle of competition is that consumers – not regulation – s…"
   },
   {
-    "id": "568ba668",
-    "title": "From the antitrust mailbag: refusals to deal",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-mailbag-refusals-deal",
+    "id": "46a6cce0",
+    "title": "FTC Milestones: Shared beginnings in the Circle Cilk case",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-shared-beginnings-circle-cilk-case",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2014-05-14T13:52:05.000Z",
-    "summary": "From the antitrust mailbag: refusals to deal cwarner May 14, 2014 | 9:52AM From the antitrust mailbag: refusals to deal By Alan Friedman, Bureau of Competition Here’s a very common question, and the writer is usually a retailer who sells products from different manufacturers. Q:…"
+    "tags": [],
+    "published": "2014-11-06T19:05:13.000Z",
+    "summary": "FTC Milestones: Shared beginnings in the Circle Cilk case rcuster November 6, 2014 | 2:05PM FTC Milestones: Shared beginnings in the Circle Cilk case By Lesley Fair, Bureau of Consumer Protection In celebration of the FTC’s 100th anniversary, we’ve been examining the leaves on o…"
   }
 ]
