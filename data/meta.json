@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-03-04T19:05:50.508Z",
+  "generatedAt": "2026-03-04T21:48:11.158Z",
   "feedCount": 17,
-  "itemCount": 249,
-  "errors": [],
+  "itemCount": 248,
+  "errors": [
+    {
+      "id": "marketingdive",
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/feeds/news/",
+      "error": "HTTP 503 Backend fetch failed — <!DOCTYPE html> <html> <head> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> </head> <title>Error Loading Page</title> <style> body { font: 16px/26px Oxyg"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -24,9 +31,9 @@
       "id": "marketingdive",
       "name": "Marketing Dive",
       "category": "Industry",
-      "fetched": 10,
-      "kept": 1,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 503 Backend fetch failed — <!DOCTYPE html> <html> <head> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> </head> <title>Error Loading Page</title> <style> body { font: 16px/26px Oxyg"
     },
     {
       "id": "indexexchange",
