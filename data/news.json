@@ -1,5 +1,18 @@
 [
   {
+    "id": "126c42c9",
+    "title": "U.S. and Plaintiff States v. RealPage, Inc.",
+    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-03-05T20:28:42.000Z",
+    "summary": "Document filed on March 2, 2026 Final Judgment [Greystar Management Services, LLC]"
+  },
+  {
     "id": "db9740a4",
     "title": "Will The Trade Desk Right-Size Its Margins?",
     "url": "https://www.adexchanger.com/the-big-story/will-the-trade-desk-right-size-its-margins/",
@@ -93,19 +106,6 @@
     "tags": [],
     "published": "2026-03-04T14:39:19.000Z",
     "summary": "As audiences spend more time with creator-led video on YouTube and TikTok, the traditional publisher video stack looks out of touch. Those generic 30-second ad spots and low-effort reworks of existing creative to fit social feeds aren’t going to cut it with a social-native audie…"
-  },
-  {
-    "id": "297f36dd",
-    "title": "Former Amazon Boss Takes Charge of UK Antitrust Strategy. What Does It Mean?",
-    "url": "https://techpolicy.press/former-amazon-boss-takes-charge-of-uk-antitrust-strategy-what-does-it-mean",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-04T14:28:58.000Z",
-    "summary": ""
   },
   {
     "id": "3868471e",
@@ -301,21 +301,6 @@
     "summary": "What’s changing? In 2025, Google rolled out changes to support the EU Political Ads Regulation in the Google Ads API and Google Ads scripts. On April 1, 2026, we will change account-level API restrictions. If you use either of these products to create or manage campaigns, you ma…"
   },
   {
-    "id": "a7d0586b",
-    "title": "Privacy Regulators in 61 Countries Back Enforcement Against AI Deepfakes",
-    "url": "https://techpolicy.press/privacy-regulators-in-61-countries-back-enforcement-against-ai-deepfakes",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "AI",
-      "Policy"
-    ],
-    "published": "2026-02-26T12:59:11.000Z",
-    "summary": ""
-  },
-  {
     "id": "7bc88652",
     "title": "Announcing v23.1 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html",
@@ -325,19 +310,6 @@
     "tags": [],
     "published": "2026-02-25T23:21:00.000Z",
     "summary": "Today, we’re announcing the v23.1 release of the Google Ads API. To use the new v23.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. We are also releasing minor versions v20.2, v21.1 and v…"
-  },
-  {
-    "id": "1d497903",
-    "title": "EU Parliament Committee Confronts US Visa Bans Over DSA, Urges Commission Action",
-    "url": "https://techpolicy.press/eu-parliament-committee-confronts-us-visa-bans-over-dsa-urges-commission-action",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-25T16:57:41.000Z",
-    "summary": ""
   },
   {
     "id": "edc52176",
@@ -351,20 +323,6 @@
     ],
     "published": "2026-02-25T12:00:00.000Z",
     "summary": "WHAT:The Federal Trade Commission is hosting a workshop, “Measuring Injuries and Benefits in the Data-Driven Economy,” to explore efforts to measure consumers’ privacy preferences, as well as the impacts of data breaches on consumers.WHEN:Thursday, February 26, 2026, from 9:30 a…"
-  },
-  {
-    "id": "d848dc48",
-    "title": "What US Lawsuits Reveal About Platform Design That DSA Reports Don’t",
-    "url": "https://techpolicy.press/what-us-lawsuits-reveal-about-platform-design-that-dsa-reports-dont",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Policy"
-    ],
-    "published": "2026-02-25T09:18:55.000Z",
-    "summary": ""
   },
   {
     "id": "78d16a84",
@@ -416,32 +374,6 @@
     ],
     "published": "2026-02-23T13:10:01.000Z",
     "summary": "In January 2026, the open-source agent framework OpenClaw and the agent-only social network Moltbook produced a large-scale dataset of autonomous AI-to-AI interaction, attracting six academic publications within fourteen days. This study conducts a multivocal literature review o…"
-  },
-  {
-    "id": "440d45d2",
-    "title": "Tracking Efforts To Restrict Or Ban Teens from Social Media Across the Globe",
-    "url": "https://techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-23T12:41:53.000Z",
-    "summary": ""
-  },
-  {
-    "id": "3f7541a1",
-    "title": "How Have Platforms Addressed Addictive Design Under the DSA",
-    "url": "https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-23T12:07:58.000Z",
-    "summary": ""
   },
   {
     "id": "973dcd91",
@@ -525,19 +457,6 @@
     "summary": "The Justice Department’s Antitrust Division, together with the Attorney General of Ohio, filed a civil antitrust lawsuit today challenging OhioHealth’s anticompetitive contract restrictions that force Ohio patients to pay higher prices for healthcare."
   },
   {
-    "id": "8c4f30c5",
-    "title": "How Has the DSA Performed in Protecting Election Integrity?",
-    "url": "https://techpolicy.press/how-has-the-dsa-performed-in-protecting-election-integrity",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-19T10:19:26.000Z",
-    "summary": ""
-  },
-  {
     "id": "5c63eaa4",
     "title": "MMA: Multimodal Memory Agent",
     "url": "https://arxiv.org/abs/2602.16493v1",
@@ -561,19 +480,6 @@
     ],
     "published": "2026-02-18T12:00:00.000Z",
     "summary": "Brussels, 18 February - The European Data Protection Board (EDPB) has adopted a report on its Coordinated Enforcement Framework (CEF) action on the right to be forgotten (Art.17 GDPR). The Board selected this topic as it is one of the most frequently exercised GDPR rights and on…"
-  },
-  {
-    "id": "9ec7a20e",
-    "title": "Who Speaks and Who is Heard: Civil Society’s Role in Shaping DSA Decisions",
-    "url": "https://techpolicy.press/who-speaks-and-who-is-heard-civil-societys-role-in-shaping-dsa-decisions",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-17T16:11:07.000Z",
-    "summary": ""
   },
   {
     "id": "5a2d09a0",
@@ -620,19 +526,6 @@
     "tags": [],
     "published": "2026-02-13T21:26:43.000Z",
     "summary": "Although foundation models have demonstrated remarkable success in general domains, the application of these models to electroencephalography (EEG) analysis is constrained by substantial data requirements and high parameterization. These factors incur prohibitive computational c…"
-  },
-  {
-    "id": "a4f59ead",
-    "title": "WhatsApp's DSA Designation Showcases Power Contest Over Tech In Europe",
-    "url": "https://techpolicy.press/whatsapps-dsa-designation-showcases-power-contest-over-tech-in-europe",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-13T14:37:59.000Z",
-    "summary": ""
   },
   {
     "id": "79fb80f0",
@@ -706,19 +599,6 @@
     "summary": "The generation of 3D models from real-world objects has often been accomplished through photogrammetry, i.e., by taking 2D photos from a variety of perspectives and then triangulating matched point-based features to create a textured mesh. Many design choices exist within this f…"
   },
   {
-    "id": "445216cf",
-    "title": "How ICE Will Spy On Protesters, And How You Can Protect Your Privacy",
-    "url": "https://techpolicy.press/how-ice-will-spy-on-protesters-and-how-you-can-protect-your-privacy",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-11T19:05:00.000Z",
-    "summary": ""
-  },
-  {
     "id": "f4b0fdf0",
     "title": "U.S. v. Reddy Ice LLC, et al.",
     "url": "https://www.justice.gov/atr/case/us-v-reddy-ice-llc-et-al",
@@ -730,19 +610,6 @@
     ],
     "published": "2026-02-11T17:07:24.000Z",
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "d2fd4f9d",
-    "title": "What the EU’s X Decision Reveals About How the DSA Is Enforced",
-    "url": "https://techpolicy.press/what-the-eus-x-decision-reveals-about-how-the-dsa-is-enforced",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-02-11T12:51:46.000Z",
-    "summary": ""
   },
   {
     "id": "1f7c9a62",
@@ -914,19 +781,6 @@
     "summary": "Large Language Model agents increasingly operate external systems through programmatic interfaces, yet practitioners lack empirical guidance on how to structure the context these agents consume. Using SQL generation as a proxy for programmatic agent operations, we present a syst…"
   },
   {
-    "id": "126c42c9",
-    "title": "U.S. and Plaintiff States v. RealPage, Inc.",
-    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-02-05T00:01:17.000Z",
-    "summary": "Documents filed on February 4, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment [Greystar Management Services, LLC] Exhibit 1- The AB Comment [Greystar Management Services, LLC] Exhibit 2- The DMP Comments [Greystar Management Services,…"
-  },
-  {
     "id": "2d608b3c",
     "title": "Beyond Learning on Molecules by Weakly Supervising on Molecules",
     "url": "https://arxiv.org/abs/2602.04696v1",
@@ -977,19 +831,6 @@
     "summary": "Documents filed on January 29, 2026 Competitive Impact Statement United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
   },
   {
-    "id": "8c54dccf",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
-  },
-  {
     "id": "12a77283",
     "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
@@ -1001,6 +842,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
+  },
+  {
+    "id": "8c54dccf",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
   },
   {
     "id": "3b994db4",
@@ -1714,6 +1568,19 @@
     "summary": "I’m thrilled to share that Index Exchange has officially opened our new Bangalore office—a major milestone in our global growth ..."
   },
   {
+    "id": "03dba8de",
+    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2025-09-30T12:00:00.000Z",
+    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
+  },
+  {
     "id": "4a8c6bf6",
     "title": "FTC Sues Zillow and Redfin Over Illegal Agreement to Suppress Rental Advertising Competition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-sues-zillow-redfin-over-illegal-agreement-suppress-rental-advertising-competition",
@@ -1726,19 +1593,6 @@
     ],
     "published": "2025-09-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet listing services (ILSs)—the websites that millions of Americans use to find their next…"
-  },
-  {
-    "id": "03dba8de",
-    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2025-09-30T12:00:00.000Z",
-    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
   },
   {
     "id": "26b38e36",
@@ -1782,17 +1636,15 @@
     "summary": "Advancements in show-level intelligence, contextual targeting, and reporting are poised to shape the next era of streaming TV. But a ..."
   },
   {
-    "id": "c59616c2",
-    "title": "FTC Recommends Anticompetitive Regulations for Deletion or Revision",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-recommends-anticompetitive-regulations-deletion-or-revision",
+    "id": "a011468d",
+    "title": "FTC Announces Workshop on Noncompete Agreements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-announces-workshop-noncompete-agreements",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
+    "tags": [],
     "published": "2025-09-17T12:00:00.000Z",
-    "summary": "On Tuesday, Federal Trade Commission Chairman Andrew N. Ferguson submitted recommendations for deleting or revising anticompetitive regulations across the entire federal government to the White House’s Office of Management and Budget. This report is a response to President Trump…"
+    "summary": "Today the Federal Trade Commission announced it will host a workshop, titled “Moving Forward: Protecting Workers from Anticompetitive Noncompete Agreements.” The event will be held on October 8, 2025 from 2:00pm to 6:00pm, at the FTC’s Constitution Center. The event is open to t…"
   },
   {
     "id": "46ebaafd",
