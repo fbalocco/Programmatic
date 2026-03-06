@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-03-06T02:49:26.338Z",
+  "generatedAt": "2026-03-06T04:51:02.145Z",
   "feedCount": 17,
-  "itemCount": 212,
+  "itemCount": 237,
   "errors": [
     {
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "fetch failed"
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -87,7 +81,7 @@
       "category": "Regulation",
       "fetched": 0,
       "kept": 0,
-      "error": "fetch failed"
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
@@ -149,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
