@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-03-11T19:08:11.691Z",
+  "generatedAt": "2026-03-11T21:46:51.214Z",
   "feedCount": 17,
-  "itemCount": 244,
-  "errors": [],
+  "itemCount": 236,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "This operation was aborted"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3353,
-      "kept": 9,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
@@ -128,8 +135,8 @@
       "id": "doj-atr-criminal-filings",
       "name": "DOJ Antitrust Division Criminal Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 77,
-      "kept": 77,
+      "fetched": 78,
+      "kept": 78,
       "error": null
     },
     {
