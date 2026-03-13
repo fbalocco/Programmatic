@@ -1,5 +1,43 @@
 [
   {
+    "id": "b9e4ae97",
+    "title": "Are CAPIs The Next Phase Of Performance TV?",
+    "url": "https://www.adexchanger.com/ctv-roundup/are-capis-the-next-phase-of-performance-tv/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "CTV"
+    ],
+    "published": "2026-03-13T04:45:46.000Z",
+    "summary": "Netflix unveiled its own conversion API, which is meant to help marketers and media buyers prove their streaming campaigns are actually producing real business outcomes. The news is part of the rising trend of CAPIs becoming more popular in streaming advertising environments. Th…"
+  },
+  {
+    "id": "319c6e8f",
+    "title": "AdExchanger’s Comic Caption Contest Winner: Thomas Kernan",
+    "url": "https://www.adexchanger.com/comic-strip/adexchangers-comic-caption-contest-winner-thomas-kernan/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-03-13T04:15:54.000Z",
+    "summary": "A weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem… It was neck and neck, but the votes are in and we have a winner! Guess even robots deserve a safe space to process all that data. And hey, it can’t hurt to be polite. 🤖 A big congrats t…"
+  },
+  {
+    "id": "b7b1566b",
+    "title": "A Third-Party Promo Gone Awry; OpenAI Has An App For That",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-13032026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-13T04:03:47.000Z",
+    "summary": "Heluva Good! gets heluva weird; OpenAI isn't so sure about operating checkouts; and who AI fact checks the AI fact checker? The post A Third-Party Promo Gone Awry; OpenAI Has An App For That appeared first on AdExchanger."
+  },
+  {
     "id": "5dcd67c0",
     "title": "U.S. v. Victor Marquez",
     "url": "bdab6dc7-0ad6-4e05-a82b-e954b94c4614",
@@ -198,17 +236,6 @@
     "summary": "Realtor.com is working with AI marketing startup BrandComms.AI to generate ad creative more quickly and across a wider array of channels. The post How Realtor.com Is Using AI Creative To Expand Its Ad Footprint appeared first on AdExchanger."
   },
   {
-    "id": "0c282081",
-    "title": "How Molson Coors Keeps Creative Effectiveness On Tap",
-    "url": "https://www.adexchanger.com/marketers/how-molson-coors-keeps-creative-effectiveness-on-tap/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-03-11T12:00:04.000Z",
-    "summary": "For Molson Coors, creative effectiveness is about more than just generating buzz; ad creative needs to boost sales and improve brand health. Who cares how funny or award-winning a piece of creative is if it’s not helping sell beer, said Sofia Colucci, North America CMO of Molson…"
-  },
-  {
     "id": "b7a77785",
     "title": "Safe and Scalable Web Agent Learning via Recreated Websites",
     "url": "https://arxiv.org/abs/2603.10505v1",
@@ -218,32 +245,6 @@
     "tags": [],
     "published": "2026-03-11T07:58:53.000Z",
     "summary": "Training autonomous web agents is fundamentally limited by the environments they learn from: real-world websites are unsafe to explore, hard to reset, and rarely provide verifiable feedback. We propose VeriEnv, a framework that treats language models as environment creators, aut…"
-  },
-  {
-    "id": "a14466b5",
-    "title": "Healthy Growth In The Age Of AI",
-    "url": "https://www.adexchanger.com/adexchanger-talks/healthy-growth-in-the-age-of-ai/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-03-11T05:00:34.000Z",
-    "summary": "Roughly a year ago, not a single Thorne customer answered with “AI engine” when asked in a post‑purchase survey where they had first heard about the vitamin, supplement and wellness brand. Today, roughly 5% of customers say an AI engine pointed them to Thorne, according to Chief…"
-  },
-  {
-    "id": "5227bb74",
-    "title": "Are TV Pharma Ads Really Targeted?; Turning Back The TikTok Clock",
-    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-11032026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-03-11T04:03:55.000Z",
-    "summary": "A Drug You Can’t Quit It’s not just you – there are more pharma ads on TV these days. (Sorry, RFK, Jr.!) But the explosion of streaming ads for the treatment of rare maladies suggests that CTV ad targeting isn’t actually all that precise, writes Mike Shields at Next in Media. He…"
   },
   {
     "id": "8ce35a21",
@@ -257,28 +258,6 @@
     ],
     "published": "2026-03-10T17:44:10.000Z",
     "summary": "Ranked decision systems -- recommenders, ad auctions, clinical triage queues -- must decide when to intervene in ranked outputs and when to abstain. We study when confidence-based abstention monotonically improves decision quality, and when it fails. The formal conditions are si…"
-  },
-  {
-    "id": "4e021a9b",
-    "title": "Ad Tech Briefing: Embattled, embittered and determined",
-    "url": "https://digiday.com/marketing/ad-tech-briefing-embattled-embittered-and-determined/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-03-10T04:01:00.000Z",
-    "summary": "Company executives come out swinging as the markets issue their judgements on Wall Street pitches."
-  },
-  {
-    "id": "48801f01",
-    "title": "OpenAI is building the ad tech stack it’s currently borrowing",
-    "url": "https://digiday.com/media-buying/openai-is-b-building-the-ad-tech-stack-its-currently-borrowing/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-03-10T04:01:00.000Z",
-    "summary": "Tech companies don’t build out an internal ads org – let alone pay up to $385,000 to do it – if they’re planning to rely on outside vendors forever."
   },
   {
     "id": "e91cb865",
@@ -1019,17 +998,6 @@
     "tags": [],
     "published": "2026-01-21T18:14:00.000Z",
     "summary": "In November, we announced the upcoming sunset of Campaign and Insertion Order targeting in the Display & Video 360 API and Structured Data Files. This sunset will take place on February 23, 2026 to align with the removal of this targeting in the Display & Video 360 UI. Starting…"
-  },
-  {
-    "id": "465cf222",
-    "title": "New HSR thresholds and filing fees for 2026",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-20T18:58:00.000Z",
-    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "31b557bf",
@@ -2913,61 +2881,61 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "ddfd4316",
-    "title": "Yes, we’re hiring another AD!",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
+    "id": "7594d49d",
+    "title": "Adjusting merger review to deal with the surge in merger filings",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-04-08T16:46:18.000Z",
-    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
+    "published": "2021-08-03T16:28:44.000Z",
+    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
   },
   {
-    "id": "6553e984",
-    "title": "HSR threshold adjustments and reportability for 2020",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
+    "id": "11ffd583",
+    "title": "A Fiscal Year Like No Other",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-01-31T19:34:59.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+    "published": "2020-10-06T15:06:46.000Z",
+    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "9dd4d72f",
+    "title": "The hearing may be virtual, but the rules are the same",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+    "published": "2020-08-14T15:08:00.000Z",
+    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
   },
   {
-    "id": "fd4f6479",
-    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
+    "id": "717f4e88",
+    "title": "Eyes Wide Open: There are no blinders in merger reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-03-20T20:57:15.000Z",
-    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
+    "published": "2020-07-20T18:00:30.000Z",
+    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
   },
   {
-    "id": "48374fa8",
-    "title": "Vertical mergers, yesterday and today",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "id": "aba5bca6",
+    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2975,61 +2943,70 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2018-01-19T22:21:51.000Z",
-    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
+    "published": "2019-05-03T21:21:11.000Z",
+    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
   },
   {
-    "id": "27e7967f",
-    "title": "Protecting consumers by promoting competition",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
+    "id": "d028fde8",
+    "title": "The uphill case for a post-Order divestiture",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-03-06T22:22:12.000Z",
-    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
+    "published": "2019-03-21T18:59:30.000Z",
+    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
   },
   {
-    "id": "94523b41",
-    "title": "Quo Vadis Post-Actavis?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
+    "id": "35623933",
+    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2016-03-30T19:41:40.000Z",
-    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
+    "tags": [],
+    "published": "2019-03-06T16:23:19.000Z",
+    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
   },
   {
-    "id": "e08384e1",
-    "title": "“Investment-only” means just that",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2015-08-24T21:25:05.000Z",
-    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
-  },
-  {
-    "id": "3022534e",
-    "title": "How to avoid common HSR filing mistakes with attachments",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
+    "id": "57572c89",
+    "title": "What’s the interest in partial interests?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-09-16T14:42:32.000Z",
-    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
+    "published": "2016-05-09T15:29:44.000Z",
+    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
+  },
+  {
+    "id": "e9511129",
+    "title": "Calculating the value of stock under HSR rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-10-27T18:05:06.000Z",
+    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
+  },
+  {
+    "id": "f82b0582",
+    "title": "A license that is more than a license",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-03-24T17:59:18.000Z",
+    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
   }
 ]
