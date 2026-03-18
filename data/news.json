@@ -1,5 +1,18 @@
 [
   {
+    "id": "634f9bf9",
+    "title": "The Rise Of Principal Media And The End Of The Agencies As We Knew Them",
+    "url": "https://www.adexchanger.com/marketers/the-rise-of-principal-media-and-the-end-of-the-agencies-as-we-knew-them/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-18T16:29:06.000Z",
+    "summary": "When one hears “agent” these days, one automatically thinks “AI” – but that’s not what this story is about. This is a story about how agencies are losing what makes them agents – as in, putting the interests of their clients first. Ad agency holding companies are among the most…"
+  },
+  {
     "id": "4fe20d07",
     "title": "How One Agency Startup Uses Real-Time Data To Develop Real-Time Ads",
     "url": "https://www.adexchanger.com/technology/how-one-agency-startup-uses-real-time-data-to-develop-real-time-ads/",
@@ -146,15 +159,18 @@
     "summary": "The days of 'fake it 'til you make it' are coming to an end."
   },
   {
-    "id": "cc2266ca",
-    "title": "To Succeed With Paid Media, This Indie Agency Advises Nailing Organic First",
-    "url": "https://www.adexchanger.com/agencies/to-succeed-with-paid-media-this-indie-agency-advises-nailing-organic-first/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-03-16T13:48:30.000Z",
-    "summary": "Content creation and media buying are often treated as siloes, especially in agencies. But for social-first shop LV8 (pronounced like the word “elevate”), these two disciplines are inseparable. The post To Succeed With Paid Media, This Indie Agency Advises Nailing Organic First…"
+    "id": "85ed780b",
+    "title": "Are AI Systems Incompatible with Data Privacy?",
+    "url": "https://techpolicy.press/are-ai-systems-incompatible-with-data-privacy",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "AI"
+    ],
+    "published": "2026-03-16T11:33:11.000Z",
+    "summary": ""
   },
   {
     "id": "5dcd67c0",
@@ -209,6 +225,19 @@
     "summary": "Document filed on October 1, 2025 Plea Agreement Information"
   },
   {
+    "id": "5da1d05c",
+    "title": "How Researchers Won a Legal Fight to Access X's Data Under the DSA",
+    "url": "https://techpolicy.press/how-researchers-won-a-legal-fight-to-access-xs-data-under-the-dsa",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-03-06T13:24:00.000Z",
+    "summary": ""
+  },
+  {
     "id": "39c36908",
     "title": "Stakeholder event on political advertising: agenda available now",
     "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
@@ -246,6 +275,19 @@
     ],
     "published": "2026-03-04T16:46:00.000Z",
     "summary": "Starting on April 1, 2026, the Google Ads API will no longer accept new adopters of Customer Match. As with our recent announcement for the use of session attributes and IP address in click conversions in the Google Ads API, we’re recommending that new adopters of Customer Match…"
+  },
+  {
+    "id": "297f36dd",
+    "title": "Former Amazon Boss Takes Charge of UK Antitrust Strategy. What Does It Mean?",
+    "url": "https://techpolicy.press/former-amazon-boss-takes-charge-of-uk-antitrust-strategy-what-does-it-mean",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-03-04T14:28:58.000Z",
+    "summary": ""
   },
   {
     "id": "70391b58",
@@ -320,6 +362,21 @@
     "summary": "What’s changing? In 2025, Google rolled out changes to support the EU Political Ads Regulation in the Google Ads API and Google Ads scripts. On April 1, 2026, we will change account-level API restrictions. If you use either of these products to create or manage campaigns, you ma…"
   },
   {
+    "id": "a7d0586b",
+    "title": "Privacy Regulators in 61 Countries Back Enforcement Against AI Deepfakes",
+    "url": "https://techpolicy.press/privacy-regulators-in-61-countries-back-enforcement-against-ai-deepfakes",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-02-26T12:59:11.000Z",
+    "summary": ""
+  },
+  {
     "id": "7bc88652",
     "title": "Announcing v23.1 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html",
@@ -329,6 +386,19 @@
     "tags": [],
     "published": "2026-02-25T23:21:00.000Z",
     "summary": "Today, we’re announcing the v23.1 release of the Google Ads API. To use the new v23.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. We are also releasing minor versions v20.2, v21.1 and v…"
+  },
+  {
+    "id": "1d497903",
+    "title": "EU Parliament Committee Confronts US Visa Bans Over DSA, Urges Commission Action",
+    "url": "https://techpolicy.press/eu-parliament-committee-confronts-us-visa-bans-over-dsa-urges-commission-action",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-02-25T16:57:41.000Z",
+    "summary": ""
   },
   {
     "id": "edc52176",
@@ -586,19 +656,6 @@
     "summary": "Documents filed on January 29, 2026 Competitive Impact Statement United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
   },
   {
-    "id": "8c54dccf",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
-  },
-  {
     "id": "12a77283",
     "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
@@ -610,6 +667,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
+  },
+  {
+    "id": "8c54dccf",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
   },
   {
     "id": "3b994db4",
@@ -1746,6 +1816,19 @@
     "summary": "Document filed on January 8, 2025 Plea Agreement"
   },
   {
+    "id": "9fb4bc1a",
+    "title": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/01/reverse-payments-cash-quantity-restrictions-other-possibilities",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2025-01-15T21:47:10.000Z",
+    "summary": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities bjames@ftc.gov January 15, 2025 | 4:47PM Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities By Brad Albert and Hannah Lamb, Bureau of Competition Today, staff of the Bureau of…"
+  },
+  {
     "id": "d048ed57",
     "title": "Epic Games, Inc. v. Google LLC, et al.",
     "url": "https://www.justice.gov/atr/case/epic-games-inc-v-google-llc",
@@ -2241,6 +2324,17 @@
     "summary": "Documents filed on January 31, 2024 Plea Agreement [Al's Asphalt] Plea Agreement [Ed Swanson] Plea Agreement [ASI]"
   },
   {
+    "id": "e3268d4f",
+    "title": "New HSR thresholds and filing fees for 2024",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/02/new-hsr-thresholds-filing-fees-2024",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2024-02-01T22:30:02.000Z",
+    "summary": "New HSR thresholds and filing fees for 2024 bacree February 1, 2024 | 5:30PM New HSR thresholds and filing fees for 2024 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino Act based on the chang…"
+  },
+  {
     "id": "1ff1f4f3",
     "title": "U.S. and Plaintiff States v. JetBlue Airways Corporation and Spirit Airlines, Inc.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-jetblue-airways-corporation-and-spirit-airlines-inc",
@@ -2590,61 +2684,61 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "7594d49d",
-    "title": "Adjusting merger review to deal with the surge in merger filings",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
+    "id": "656bb753",
+    "title": "HSR threshold adjustments and reportability for 2021",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/02/hsr-threshold-adjustments-reportability-2021",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-08-03T16:28:44.000Z",
-    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
+    "published": "2021-02-17T22:19:50.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2021 bacree February 17, 2021 | 5:19PM HSR threshold adjustments and reportability for 2021 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "11ffd583",
-    "title": "A Fiscal Year Like No Other",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
+    "id": "6553e984",
+    "title": "HSR threshold adjustments and reportability for 2020",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-10-06T15:06:46.000Z",
-    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
+    "published": "2020-01-31T19:34:59.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "9dd4d72f",
-    "title": "The hearing may be virtual, but the rules are the same",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
+    "id": "9582e561",
+    "title": "If you think criticizing staff is a good strategy … It’s not.",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/if-you-think-criticizing-staff-good-strategy-its-not",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-14T15:08:00.000Z",
-    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
+    "published": "2019-11-05T21:50:23.000Z",
+    "summary": "If you think criticizing staff is a good strategy … It’s not. sfelder November 5, 2019 | 4:50PM If you think criticizing staff is a good strategy … It’s not. By Ian Conner, Bureau of Competition Parties regularly present their arguments and defenses of conduct and mergers to the…"
   },
   {
-    "id": "717f4e88",
-    "title": "Eyes Wide Open: There are no blinders in merger reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "id": "47feb4c5",
+    "title": "Just because it’s ancillary doesn’t make it legal",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/09/just-because-its-ancillary-doesnt-make-it-legal",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-07-20T18:00:30.000Z",
-    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+    "published": "2019-09-30T14:40:58.000Z",
+    "summary": "Just because it’s ancillary doesn’t make it legal bjames@ftc.gov September 30, 2019 | 10:40AM Just because it’s ancillary doesn’t make it legal By Brian Telpner, Bureau of Competition In The Wizard of Oz, Dorothy was told to ignore the man behind the curtain. Some may argue that…"
   },
   {
-    "id": "aba5bca6",
-    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2652,70 +2746,46 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2019-05-03T21:21:11.000Z",
-    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
   },
   {
-    "id": "d028fde8",
-    "title": "The uphill case for a post-Order divestiture",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
+    "id": "4f6f5e30",
+    "title": "Getting in Sync with HSR Timing Considerations",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-03-21T18:59:30.000Z",
-    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
+    "published": "2017-08-31T12:57:30.000Z",
+    "summary": "Getting in Sync with HSR Timing Considerations rcuster August 31, 2017 | 8:57AM Getting in Sync with HSR Timing Considerations By Premerger Notification Office Staff, Bureau of Competition The Hart Scott Rodino (HSR) Act and Rules require that parties to certain mergers and acqu…"
   },
   {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
-  },
-  {
-    "id": "57572c89",
-    "title": "What’s the interest in partial interests?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
+    "id": "bfde3079",
+    "title": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/01/ftc-v-actavis-causing-pharma-companies-change-their-behavior",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-05-09T15:29:44.000Z",
-    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
+    "published": "2016-01-13T18:00:25.000Z",
+    "summary": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? rcuster January 13, 2016 | 1:00PM Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? By Jamie Towey and Brad Albert, Bureau of Competition Since 2004, brand-name and generic drug manufacturers…"
   },
   {
-    "id": "e9511129",
-    "title": "Calculating the value of stock under HSR rules",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
+    "id": "4b14b68b",
+    "title": "Monitors: Expert eyes and ears in Commission orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/monitors-expert-eyes-ears-commission-orders",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-10-27T18:05:06.000Z",
-    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
-  },
-  {
-    "id": "f82b0582",
-    "title": "A license that is more than a license",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-03-24T17:59:18.000Z",
-    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
+    "published": "2015-07-14T15:59:06.000Z",
+    "summary": "Monitors: Expert eyes and ears in Commission orders afrey July 14, 2015 | 11:59AM Monitors: Expert eyes and ears in Commission orders By Susan Huber, Bureau of Competition The ability to appoint a monitor is an important tool in building a successful merger remedy. The boilerpla…"
   }
 ]
