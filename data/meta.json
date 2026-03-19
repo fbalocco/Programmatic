@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-03-19T03:18:46.245Z",
+  "generatedAt": "2026-03-19T07:12:20.516Z",
   "feedCount": 17,
-  "itemCount": 243,
-  "errors": [],
+  "itemCount": 238,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3375,
-      "kept": 5,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
