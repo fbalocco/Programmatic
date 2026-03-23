@@ -1,5 +1,29 @@
 [
   {
+    "id": "c111d0d4",
+    "title": "What Happens When A Brand Fails To Deliver On Its Basic Promise",
+    "url": "https://www.adexchanger.com/data-driven-thinking/what-happens-when-a-brand-fails-to-deliver-on-its-basic-promise/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-03-23T12:12:42.000Z",
+    "summary": "FedEx delivers more than 15 million packages per day in the US. It runs one the largest, most time-sensitive logistics networks on planet Earth. Last year, it had a 95.3% on-time score for package delivery during the peak parcel season. Wow. But what if you’re part of the 4.7% p…"
+  },
+  {
+    "id": "38c734fc",
+    "title": "It’s Time For CTV To Fix Its Accuracy Problem",
+    "url": "https://www.adexchanger.com/content-studio/its-time-for-ctv-to-fix-its-accuracy-problem/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-03-23T12:00:54.000Z",
+    "summary": "When Truthset revealed that IP-to-postal matches are accurate only 13% of the time, it exposed an uncomfortable truth about connected TV advertising: The industry has been optimizing for the wrong metric. Somewhere along the way, we started equating scale with truth. Match rates…"
+  },
+  {
     "id": "fa169571",
     "title": "The New Data Buyer In Town; The Old Agency Buyer Of AI",
     "url": "https://www.adexchanger.com/daily-news-roundup/monday-23032026/",
@@ -217,32 +241,6 @@
     "tags": [],
     "published": "2026-03-19T08:26:22.000Z",
     "summary": "We present a lithographic method for fabricating free-standing microparticles directly from SUEX dry-film epoxy resist. Unlike conventional SU-8 particle fabrication, which requires patterning on solid substrates followed by sacrificial-layer release, our approach eliminates sub…"
-  },
-  {
-    "id": "be3b1cf5",
-    "title": "What Does A Beta Test Of A Sell-Side Agent Look Like?",
-    "url": "https://www.adexchanger.com/adexplainer/what-does-a-beta-test-of-a-sell-side-agent-look-like/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-03-19T05:19:03.000Z",
-    "summary": "Using machine learning to automate and optimize ads is familiar to publishers. For years, this tech has helped publishers tune floors and serve the best ads behind the scenes. Now, publishers are exploring automation and optimization through agentic AI. Many publishers have iden…"
-  },
-  {
-    "id": "5f53efa1",
-    "title": "Why Programmatic Quality Control Needs To Focus On The Bid Request, Not Domains",
-    "url": "https://www.adexchanger.com/data-driven-thinking/why-programmatic-quality-control-needs-to-focus-on-the-bid-request-not-domains/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "RTB"
-    ],
-    "published": "2026-03-19T04:35:47.000Z",
-    "summary": "For years, “inventory cleanup” (or “rationalization”) meant one thing: curating the domain list. Whitelists, blacklists, inclusion lists, MFA lists, premium lists, “approved publisher” lists. The industry uses them to reduce risk, improve quality and create a sense of control in…"
   },
   {
     "id": "127d9f18",
@@ -838,17 +836,6 @@
     "summary": "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027. This is the second work programme to support the implementation of the EDPB strategy 2024-2027*. The work programme is based on the priorities set out in the EDPB strategy and t…"
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -861,6 +848,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1633,19 +1631,6 @@
     "summary": "Marketers today expect more from programmatic: addressable reach, measurable outcomes, and smarter use of every media dollar. To meet this ..."
   },
   {
-    "id": "03dba8de",
-    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2025-09-30T12:00:00.000Z",
-    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
-  },
-  {
     "id": "4a8c6bf6",
     "title": "FTC Sues Zillow and Redfin Over Illegal Agreement to Suppress Rental Advertising Competition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-sues-zillow-redfin-over-illegal-agreement-suppress-rental-advertising-competition",
@@ -1658,6 +1643,19 @@
     ],
     "published": "2025-09-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet listing services (ILSs)—the websites that millions of Americans use to find their next…"
+  },
+  {
+    "id": "03dba8de",
+    "title": "FTC Denies Petition to Reopen EQT, Quantum Energy Order",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-denies-petition-reopen-eqt-quantum-energy-order",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2025-09-30T12:00:00.000Z",
+    "summary": "The Federal Trade Commission denied a petition seeking to reopen and set aside a final consent order involving a $5.2 billion cash-and-stock deal between private equity firm Quantum Energy Partners and natural gas producer EQT Corporation. Following a public comment period, the…"
   },
   {
     "id": "26b38e36",
@@ -2753,19 +2751,6 @@
     "summary": "Document filed on May 26, 2022 Stipulation of Dismissal Joint Initial Status Report [Joint Proposed] Scheduling and Case Management Order Exhibit A Joint Motion for Advancement of the Initial Status Conference to April 14, 2022 (April 7, 2022) [Proposed] Stipulated Protective Or…"
   },
   {
-    "id": "b556d0bd",
-    "title": "Contract Terms That Impede Competition Investigations",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/06/contract-terms-impede-competition-investigations",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2023-06-16T01:36:22.000Z",
-    "summary": "Contract Terms That Impede Competition Investigations bacree June 15, 2023 | 9:36PM Contract Terms That Impede Competition Investigations By John Newman & Amy Ritchie, Bureau of Competition Every company knows it’s usually best to “get it in writing,” and a lot of time is spent…"
-  },
-  {
     "id": "326783d6",
     "title": "U.S. v. Dwayne A. Johnson",
     "url": "https://www.justice.gov/atr/case/us-v-dwayne-johnson",
@@ -2936,6 +2921,19 @@
     "summary": "Working Better Together Volume One: Advancing Both Consumer Protection and Antitrust Enforcement to Protect all Americans from Corporate Bad Actors jwolf September 24, 2021 | 1:34PM Working Better Together Volume One: Advancing Both Consumer Protection and Antitrust Enforcement…"
   },
   {
+    "id": "8aca3a16",
+    "title": "File comments in HSR Rulemaking by February 1",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/12/file-comments-hsr-rulemaking-february-1",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-12-07T17:27:10.000Z",
+    "summary": "File comments in HSR Rulemaking by February 1 bjames@ftc.gov December 7, 2020 | 12:27PM File comments in HSR Rulemaking by February 1 By Kate Walsh and Ken Libby, Bureau of Competition Earlier this fall, the Commission announced two separate rulemaking initiatives aimed at updat…"
+  },
+  {
     "id": "9e81a26d",
     "title": "“All Documents” means more than emails and files",
     "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/all-documents-means-more-emails-files",
@@ -2960,6 +2958,19 @@
     ],
     "published": "2020-10-06T15:06:46.000Z",
     "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
+  },
+  {
+    "id": "6c092334",
+    "title": "Technology Task Force looking for technology fellow",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/technology-task-force-looking-technology-fellow",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-08-08T16:36:45.000Z",
+    "summary": "Technology Task Force looking for technology fellow bjames@ftc.gov August 8, 2019 | 12:36PM Technology Task Force looking for technology fellow By Patricia Galvan, Bureau of Competition Are you a fast-learning, tech-savvy professional driven to use your expertise to help ensure…"
   },
   {
     "id": "29b9bb14",
@@ -3013,19 +3024,5 @@
     ],
     "published": "2014-07-29T16:26:12.000Z",
     "summary": "How to avoid common HSR filing mistakes on affidavits and notice letters cwarner July 29, 2014 | 12:26PM How to avoid common HSR filing mistakes on affidavits and notice letters By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger No…"
-  },
-  {
-    "id": "568ba668",
-    "title": "From the antitrust mailbag: refusals to deal",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-mailbag-refusals-deal",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2014-05-14T13:52:05.000Z",
-    "summary": "From the antitrust mailbag: refusals to deal cwarner May 14, 2014 | 9:52AM From the antitrust mailbag: refusals to deal By Alan Friedman, Bureau of Competition Here’s a very common question, and the writer is usually a retailer who sells products from different manufacturers. Q:…"
   }
 ]
