@@ -1,5 +1,19 @@
 [
   {
+    "id": "e97e4d1c",
+    "title": "Vizio Helps Walmart Cut A Bigger Slice Of The CTV Ad Pie",
+    "url": "https://www.adexchanger.com/tv/vizio-helps-walmart-cut-a-bigger-slice-of-the-ctv-ad-pie/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Identity",
+      "CTV"
+    ],
+    "published": "2026-03-23T23:00:33.000Z",
+    "summary": "During their first combined NewFront event as a fully integrated company, Walmart and Vizio execs announced that unified account logins are coming to smart TVs using Vizio’s operating system. And that identity framework creates a major advertising and data opportunity for advert…"
+  },
+  {
     "id": "1014ab9b",
     "title": "Announcing new Display & Video 360 API Discord channels and a documentation update!",
     "url": "http://ads-developers.googleblog.com/2026/03/announcing-new-display-video-360-api.html",
@@ -61,6 +75,20 @@
     ],
     "published": "2026-03-23T12:00:54.000Z",
     "summary": "When Truthset revealed that IP-to-postal matches are accurate only 13% of the time, it exposed an uncomfortable truth about connected TV advertising: The industry has been optimizing for the wrong metric. Somewhere along the way, we started equating scale with truth. Match rates…"
+  },
+  {
+    "id": "d94c0b08",
+    "title": "EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises",
+    "url": "https://arxiv.org/abs/2603.21630v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Privacy",
+      "AI"
+    ],
+    "published": "2026-03-23T06:50:35.000Z",
+    "summary": "Deploying AI agents in enterprise environments requires balancing capability with data sovereignty and cost constraints. While small language models offer privacy-preserving alternatives to frontier models, their specialization is hindered by fragmented development pipelines tha…"
   },
   {
     "id": "fa169571",
@@ -157,17 +185,6 @@
     "tags": [],
     "published": "2026-03-20T04:30:25.000Z",
     "summary": "Principal-based buying is on the rise, and it’s causing conflict between agencies and ad tech partners. Plus: What are sell-side agents, and how could they help publishers? The post The Media Spend Skim appeared first on AdExchanger."
-  },
-  {
-    "id": "234d27bd",
-    "title": "Comic: Overfrequency",
-    "url": "https://www.adexchanger.com/comic-strip/comic-overfrequency/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-03-20T04:15:31.000Z",
-    "summary": "Enjoy this weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem … The post Comic: Overfrequency appeared first on AdExchanger."
   },
   {
     "id": "53ebae60",
@@ -490,9 +507,9 @@
     "summary": "Proposal seeks comments on ways to protect consumers from unfair or deceptive rental housing fees and foster competition, price transparency, and marketplace efficiency The Federal Trade Commission today announced it is seeking public comment on a proposed rulemaking to address…"
   },
   {
-    "id": "805e67ce",
+    "id": "7f5e663b",
     "title": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
-    "url": "https://arxiv.org/abs/2603.11679v1",
+    "url": "https://arxiv.org/abs/2603.11679v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -621,17 +638,6 @@
     "tags": [],
     "published": "2026-03-06T10:50:04.000Z",
     "summary": "Vision-language models (VLMs) achieve strong benchmark results, yet can exhibit systematic perceptual weaknesses: structured, large changes to pixel values can cause confident yet nonsensical predictions, even when the underlying scene remains easily recognizable to humans. We s…"
-  },
-  {
-    "id": "dd838945",
-    "title": "Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces",
-    "url": "https://arxiv.org/abs/2603.06713v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-03-05T20:29:12.000Z",
-    "summary": "Agentic systems operating over large tool ecosystems must plan and execute long-horizon workflows under weak or non-verifiable supervision. While frontier models mitigate these challenges through scale and large context budgets, small language models (SLMs) remain brittle: eager…"
   },
   {
     "id": "126c42c9",
@@ -875,6 +881,17 @@
     "summary": "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027. This is the second work programme to support the implementation of the EDPB strategy 2024-2027*. The work programme is based on the priorities set out in the EDPB strategy and t…"
   },
   {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
+  },
+  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -887,17 +904,6 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
-  },
-  {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -2922,132 +2928,132 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "7594d49d",
-    "title": "Adjusting merger review to deal with the surge in merger filings",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
+    "id": "bdeedd2b",
+    "title": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/making-second-request-process-both-more-streamlined-more-rigorous-during-unprecedented-merger-wave",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-08-03T16:28:44.000Z",
-    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
+    "published": "2021-09-28T12:08:08.000Z",
+    "summary": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave jwolf September 28, 2021 | 8:08AM Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave By Holly Vedova, Bure…"
   },
   {
-    "id": "11ffd583",
-    "title": "A Fiscal Year Like No Other",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-10-06T15:06:46.000Z",
-    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
-  },
-  {
-    "id": "9dd4d72f",
-    "title": "The hearing may be virtual, but the rules are the same",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-08-14T15:08:00.000Z",
-    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
-  },
-  {
-    "id": "717f4e88",
-    "title": "Eyes Wide Open: There are no blinders in merger reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-07-20T18:00:30.000Z",
-    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
-  },
-  {
-    "id": "aba5bca6",
-    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2019-05-03T21:21:11.000Z",
-    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
-  },
-  {
-    "id": "d028fde8",
-    "title": "The uphill case for a post-Order divestiture",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-03-21T18:59:30.000Z",
-    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
-  },
-  {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
+    "id": "05be3262",
+    "title": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/reforming-pre-filing-process-companies-considering-consolidation-change-treatment-debt",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
+    "published": "2021-08-26T18:06:40.000Z",
+    "summary": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt jwolf August 26, 2021 | 2:06PM Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt By Holly Vedova, Bureau of…"
   },
   {
-    "id": "57572c89",
-    "title": "What’s the interest in partial interests?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
+    "id": "57aa2fcb",
+    "title": "MMA Reports: No tricks or treats—just facts",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/mma-reports-no-tricks-or-treats-just-facts",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-05-09T15:29:44.000Z",
-    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
+    "published": "2020-10-27T21:15:33.000Z",
+    "summary": "MMA Reports: No tricks or treats—just facts bjames@ftc.gov October 27, 2020 | 5:15PM MMA Reports: No tricks or treats—just facts By Brad Albert, Armine Black, and Jamie Towey, Bureau of Competition With the passage of the Medicare Prescription Drug, Improvement, and Modernizatio…"
   },
   {
-    "id": "e9511129",
-    "title": "Calculating the value of stock under HSR rules",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
+    "id": "18a72af8",
+    "title": "Leadership Changes in Mergers Divisions",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/leadership-changes-mergers-divisions",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Antitrust"
+    ],
+    "published": "2020-10-07T14:31:20.000Z",
+    "summary": "Leadership Changes in Mergers Divisions sfelder October 7, 2020 | 10:31AM Leadership Changes in Mergers Divisions By Ian R. Conner, Bureau of Competition I am pleased to announce several leadership changes in the Bureau's Mergers I and Mergers IV Divisions. Mark Seidman has been…"
+  },
+  {
+    "id": "05f4b387",
+    "title": "FTC releases agenda for Data To Go virtual workshop",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/ftc-releases-agenda-data-go-virtual-workshop",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-10-27T18:05:06.000Z",
-    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
+    "published": "2020-09-10T16:12:13.000Z",
+    "summary": "FTC releases agenda for Data To Go virtual workshop bjames@ftc.gov September 10, 2020 | 12:12PM FTC releases agenda for Data To Go virtual workshop By Kate White, Bureau of Consumer Protection, and Andrea Zach, Bureau of Competition “Take out” takes on a whole new meaning when i…"
   },
   {
-    "id": "f82b0582",
-    "title": "A license that is more than a license",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
+    "id": "387d4117",
+    "title": "Interlocking Mindfulness",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/interlocking-mindfulness",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-03-24T17:59:18.000Z",
-    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
+    "published": "2019-06-26T16:12:58.000Z",
+    "summary": "Interlocking Mindfulness bjames@ftc.gov June 26, 2019 | 12:12PM Interlocking Mindfulness By Michael E. Blaisdell, Bureau of Competition The wellness strategy of the moment is mindfulness: focusing on the present and being completely aware of your situation. Even in the corporate…"
+  },
+  {
+    "id": "8c2ed085",
+    "title": "Joining the issues on the high road",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/joining-issues-high-road",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-05-13T16:40:24.000Z",
+    "summary": "Joining the issues on the high road rcuster May 13, 2019 | 12:40PM Joining the issues on the high road By Bruce Hoffman and Heather M. Johnson, Bureau of Competition The great majority of attorneys appearing before the Commission share a sense of practicing at the height of our…"
+  },
+  {
+    "id": "8229c5c8",
+    "title": "FTC launches first Web API to make Early Terminations more accessible",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/06/ftc-launches-first-web-api-make-early-terminations-more-accessible",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-06-25T21:42:59.000Z",
+    "summary": "FTC launches first Web API to make Early Terminations more accessible rcuster June 25, 2018 | 5:42PM FTC launches first Web API to make Early Terminations more accessible By Chris Noonan Sturm, Website Manager An important aspect of the FTC’s Premerger Notification Program is th…"
+  },
+  {
+    "id": "982b8d61",
+    "title": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/02/ftc-milestone-new-age-dawns-ftcs-competition-work",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-02-20T15:58:10.000Z",
+    "summary": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work rcuster February 20, 2015 | 10:58AM FTC Milestone: A New Age Dawns for the FTC’s Competition Work By Kelly Signs, Bureau of Competition As anyone of a certain age can attest, the 1970’s were all about change. Hairstyl…"
+  },
+  {
+    "id": "9a6bf58c",
+    "title": "Antitrust by association(s)",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-associations",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-05-01T12:34:44.000Z",
+    "summary": "Antitrust by association(s) cwarner May 1, 2014 | 8:34AM Antitrust by association(s) By Geoffrey Green, Bureau of Competition Antitrust enforcers have always been concerned about the potential for harm arising from the activities of trade groups made up of competitors. From its…"
   }
 ]
