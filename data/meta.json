@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T13:48:02.247Z",
+  "generatedAt": "2026-03-25T16:21:31.312Z",
   "feedCount": 17,
   "itemCount": 236,
   "errors": [
@@ -32,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 14,
+      "kept": 13,
       "error": null
     },
     {

@@ -1,5 +1,34 @@
 [
   {
+    "id": "7434fe79",
+    "title": "Saying The Quiet Part Out Loud: AI Isn’t Neutral, So Let’s Stop Pretending",
+    "url": "https://www.adexchanger.com/data-driven-thinking/saying-the-quiet-part-out-loud-ai-isnt-neutral-so-lets-stop-pretending/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy",
+      "AI"
+    ],
+    "published": "2026-03-25T14:55:39.000Z",
+    "summary": "The play \"Data\" sparks conversations about AI, surveillance, data tracking and predictive modeling. The ad tech world should be paying attention. The post Saying The Quiet Part Out Loud: AI Isn’t Neutral, So Let’s Stop Pretending appeared first on AdExchanger."
+  },
+  {
+    "id": "cc53f360",
+    "title": "How CTV advertising prepped for next-gen reinvention at NewFronts",
+    "url": "https://www.marketingdive.com/news/how-ctv-advertising-prepped-for-next-gen-reinvention-at-newfronts/815607/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "CTV",
+      "AI"
+    ],
+    "published": "2026-03-25T14:40:00.000Z",
+    "summary": "Samsung, Comcast and Tubi rolled out measurement and AI innovations, plus deals with Amazon, at the IAB’s annual showcase for brands and agencies."
+  },
+  {
     "id": "2d5fd9e0",
     "title": "Apple rolls out ads for Maps as advertising revenue grows",
     "url": "https://www.marketingdive.com/news/apple-rolls-out-ads-for-maps-as-advertising-revenue-grows/815613/",
@@ -22,6 +51,19 @@
     ],
     "published": "2026-03-25T13:00:23.000Z",
     "summary": "Even for the terminally online, it’s hard to keep pace with social media trends. But that only applies to terminally online humans. Marketers now have AI tools that can read and analyze posts at the speed of viral trends and surface data and popular creators to inform ad campaig…"
+  },
+  {
+    "id": "7e1649af",
+    "title": "Federal Trade Commission and Department of Justice Seek Public Comment on the Premerger Notification and Report Form",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/federal-trade-commission-department-justice-seek-public-comment-premerger-notification-report-form",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-03-25T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission (Commission) and the Department of Justice’s Antitrust Division (DOJ) (together, the Agencies) launched a joint public inquiry regarding the effectiveness of the Hart-Scott-Rodino Antitrust Improvements Act’s (HSR Act) premerger reporting requ…"
   },
   {
     "id": "a77ba100",
@@ -200,19 +242,6 @@
     ],
     "published": "2026-03-23T17:04:00.000Z",
     "summary": "Today we’re announcing two huge improvements for Display & Video 360 bulk tools. First, we are launching support for Display & Video 360 API, Structured Data Files, and Bid Manager API products in the existing “Google Advertising and Measurement Community” Discord server! To joi…"
-  },
-  {
-    "id": "6a80841d",
-    "title": "Carl’s Jr. And Hardee’s Marketing Goes Regional With Amazon Ads’ Streaming Media",
-    "url": "https://www.adexchanger.com/marketers/carls-jr-and-hardees-marketing-goes-regional-with-amazon-ads-streaming-media/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-03-23T16:12:03.000Z",
-    "summary": "The age-old question for streaming TV advertisers is how to target the viewers they want while reaching the scale their businesses need. The quick-serve restaurant operator CKE, which owns Carl’s Jr., Hardee’s and the Red Burrito and Green Burrito brands, initially dealt with th…"
   },
   {
     "id": "d94c0b08",
@@ -680,19 +709,6 @@
     "tags": [],
     "published": "2026-03-03T12:00:00.000Z",
     "summary": "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30. This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on…"
-  },
-  {
-    "id": "89558888",
-    "title": "Acting Deputy Assistant Attorney General Daniel Glad Delivers Keynote at the Global Competition Review Cartels: Live! Conference",
-    "url": "https://www.justice.gov/opa/speech/acting-deputy-assistant-attorney-general-daniel-glad-delivers-keynote-global-competition",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-03T12:00:00.000Z",
-    "summary": ""
   },
   {
     "id": "fadb2550",
@@ -1502,19 +1518,6 @@
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against RealPage Inc. as part of its ongoing enforcement against algorithmic coordination, information sharing, and other anticompetitive practices in rental housin…"
   },
   {
-    "id": "45a64fc3",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Virtual Remarks at the 2025 Chatham House Competition Policy Conference on Competition in the Airline Industry",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-virtual-remarks-2025-chatham",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2025-11-20T12:00:00.000Z",
-    "summary": "Thank you for inviting me to speak at the 2025 Chatham House Competition Policy Conference. I regret not being able to join you in person today, but I am delighted to speak to you virtually and will leave time for questions at the end of my remarks."
-  },
-  {
     "id": "ba09c106",
     "title": "Announcing v202511 of the Google Ad Manager API",
     "url": "http://ads-developers.googleblog.com/2025/11/announcing-v202511-of-google-ad-manager.html",
@@ -1646,17 +1649,17 @@
     "summary": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet listing services (ILSs)—the websites that millions of Americans use to find their next…"
   },
   {
-    "id": "26b38e36",
-    "title": "Federal Trade Commission, US Department of Justice, and Japan Fair Trade Commission Meet in Washington",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/federal-trade-commission-us-department-justice-japan-fair-trade-commission-meet-washington",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
+    "id": "ca209bd8",
+    "title": "Justice Department and USDA Coordinate to Protect Competition in Agricultural Inputs",
+    "url": "https://www.justice.gov/opa/pr/justice-department-and-usda-coordinate-protect-competition-agricultural-inputs",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
     "tags": [
       "Antitrust"
     ],
     "published": "2025-09-29T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson, Assistant Attorney General Abigail Slater of the Justice Department’s Antitrust Division, and Japan Fair Trade Commission Chairman Eiji Chatani of the Japan Fair Trade Commission (JFTC) met today in Washington, D.C., to conti…"
+    "summary": "The Justice Department’s Antitrust Division and the United States Department of Agriculture (USDA) announced a Memorandum of Understanding (MOU) formalizing a partnership to protect competition in key agricultural markets such as feed, fertilizer, fuel, seed, equipment, and othe…"
   },
   {
     "id": "46ebaafd",
@@ -2882,9 +2885,48 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "d323425e",
-    "title": "Protecting Americans at the gas pump through aggressive antitrust enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/protecting-americans-gas-pump-through-aggressive-antitrust-enforcement",
+    "id": "b593ed48",
+    "title": "Leadership Changes in the Anticompetitive Practices Division",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-05-29T13:45:42.000Z",
+    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
+  },
+  {
+    "id": "22fd8547",
+    "title": "Antitrust review at the FTC: staying the course during uncertain times",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/antitrust-review-ftc-staying-course-during-uncertain-times",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-04-06T15:36:56.000Z",
+    "summary": "Antitrust review at the FTC: staying the course during uncertain times jwolf April 6, 2020 | 11:36AM Antitrust review at the FTC: staying the course during uncertain times By Ian Conner, Bureau of Competition As we navigate uncharted waters in our work and home lives in response…"
+  },
+  {
+    "id": "171567b1",
+    "title": "Resuming early termination of HSR reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/03/resuming-early-termination-hsr-reviews",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-03-27T18:08:11.000Z",
+    "summary": "Resuming early termination of HSR reviews rcuster March 27, 2020 | 2:08PM Resuming early termination of HSR reviews By Ian Conner, Bureau of Competition On Friday, March 13, as part of the Bureau’s response to the COVID-19 coronavirus situation, and in partnership with the Antit…"
+  },
+  {
+    "id": "aa202941",
+    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2892,125 +2934,84 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2021-09-21T14:54:49.000Z",
-    "summary": "Protecting Americans at the gas pump through aggressive antitrust enforcement jwolf September 21, 2021 | 10:54AM Protecting Americans at the gas pump through aggressive antitrust enforcement By Holly Vedova, Bureau of Competition The FTC is committed to policing gasoline and die…"
+    "published": "2018-09-10T17:53:43.000Z",
+    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
   },
   {
-    "id": "2ae65631",
-    "title": "Physician Group and Healthcare Facility Merger Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/04/physician-group-healthcare-facility-merger-study",
+    "id": "7fbf6c01",
+    "title": "Coming Soon: what’s new in residential real estate brokerage competition?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/coming-soon-whats-new-residential-real-estate-brokerage-competition",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-04-14T13:18:08.000Z",
-    "summary": "Physician Group and Healthcare Facility Merger Study bacree April 14, 2021 | 9:18AM Physician Group and Healthcare Facility Merger Study By Michael G. Vita, Deputy Director Research and Management, Bureau of Economics On January 14, 2020, the Federal Trade Commission (FTC) order…"
+    "published": "2018-05-29T14:46:19.000Z",
+    "summary": "Coming Soon: what’s new in residential real estate brokerage competition? jwolf May 29, 2018 | 10:46AM Coming Soon: what’s new in residential real estate brokerage competition? By Jessica Drake, Bureau of Competition More than ten years ago, the FTC and the Department of Justice…"
   },
   {
-    "id": "322fef15",
-    "title": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually).",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/got-questions-about-hsr-rulemaking-well-answer-them-live-virtually",
+    "id": "3dbaa1e1",
+    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2018-03-01T16:54:32.000Z",
+    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
+  },
+  {
+    "id": "af3fd3fd",
+    "title": "Have a plan to comply with the bar on horizontal interlocks",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/01/have-plan-comply-bar-horizontal-interlocks",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-10-19T16:55:53.000Z",
-    "summary": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually). bjames@ftc.gov October 19, 2020 | 12:55PM Got questions about the HSR Rulemaking? We’ll answer them live (virtually). By Kate Walsh and Ken Libby, Bureau of Competition The FTC welcomes comments on its r…"
+    "published": "2017-01-23T17:18:07.000Z",
+    "summary": "Have a plan to comply with the bar on horizontal interlocks rcuster January 23, 2017 | 12:18PM Have a plan to comply with the bar on horizontal interlocks By Debbie Feinstein, Bureau of Competition With some exceptions, Section 8 of the Clayton Act prohibits the same individual…"
   },
   {
-    "id": "e90f4a0b",
-    "title": "Seeing the whole picture on avoidance devices",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/seeing-whole-picture-avoidance-devices",
+    "id": "00fe5cb4",
+    "title": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/02/antitrust-violation-vs-injury-fact-distinction-makes-difference",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-09-23T15:29:17.000Z",
-    "summary": "Seeing the whole picture on avoidance devices bjames@ftc.gov September 23, 2020 | 11:29AM Seeing the whole picture on avoidance devices By Premerger Notification Office Staff Under the Hart-Scott-Rodino (HSR) Act and Rules, parties cannot use a transaction structure for the purp…"
+    "published": "2016-02-26T16:16:59.000Z",
+    "summary": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference rcuster February 26, 2016 | 11:16AM Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference By Dan Butrymowicz, Bureau of Competition There is a basic but important difference bet…"
   },
   {
-    "id": "29f3663f",
-    "title": "Real deadlines and real consequences",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "id": "b8f65d3c",
+    "title": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/antitrust-mailbag-what-can-ftc-do-about-prescription-drug-price-spikes",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Antitrust"
+    ],
+    "published": "2015-05-18T16:31:59.000Z",
+    "summary": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes? rcuster May 18, 2015 | 12:31PM From the antitrust mailbag: What can the FTC do about prescription drug price spikes? By Alan Friedman, Bureau of Competition Consumers frequently contact the Bur…"
+  },
+  {
+    "id": "1a42b3b0",
+    "title": "Have a good plan for HSR compliance",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/08/have-good-plan-hsr-compliance",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-06T16:32:47.000Z",
-    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
-  },
-  {
-    "id": "b0b0cde1",
-    "title": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/then-now-down-road-trends-pharmaceutical-patent-settlements-after-ftc-v-actavis",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2019-05-28T16:23:52.000Z",
-    "summary": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis bjames@ftc.gov May 28, 2019 | 12:23PM Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis By Jamie Towey and Brad Albert, Bureau of Competiti…"
-  },
-  {
-    "id": "9d6d6f65",
-    "title": "In submissions, brevity’s better",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/submissions-brevitys-better",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-05-02T19:34:51.000Z",
-    "summary": "In submissions, brevity’s better rcuster May 2, 2019 | 3:34PM In submissions, brevity’s better By Daniel Francis, Bureau of Competition In written submissions to the Bureau or the Commission, be brief, be direct, and avoid repeating points made in previous papers. Wherever possi…"
-  },
-  {
-    "id": "ceffa8ba",
-    "title": "Compliance reports: Reinforcing a commitment to effective orders",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2019-03-11T13:36:41.000Z",
-    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
-  },
-  {
-    "id": "9bc17167",
-    "title": "LBOs and the size of transaction test",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/10/lbos-size-transaction-test",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2016-10-06T18:21:43.000Z",
-    "summary": "LBOs and the size of transaction test rcuster October 6, 2016 | 2:21PM LBOs and the size of transaction test By Premerger Notification Office Staff, Bureau of Competition The Premerger Notification Office is often asked to give guidance on how to determine the value of a propose…"
-  },
-  {
-    "id": "c4678ff9",
-    "title": "HSR Rule 802.5: the Investment Rental Property Exemption",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/hsr-rule-8025-investment-rental-property-exemption",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-07-20T14:56:21.000Z",
-    "summary": "HSR Rule 802.5: the Investment Rental Property Exemption sgilliam July 20, 2015 | 10:56AM HSR Rule 802.5: the Investment Rental Property Exemption By Premerger Notification Staff, Bureau of Competition Every day, the PNO receives many inquiries for interpretations of the Hart-Sc…"
+    "published": "2014-08-21T16:16:05.000Z",
+    "summary": "Have a good plan for HSR compliance rcuster August 21, 2014 | 12:16PM Have a good plan for HSR compliance By Dan Ducore, Bureau of Competition Our recent civil penalty action involving Berkshire Hathaway’s failure to file the required Hart-Scott-Rodino notification is a reminder…"
   }
 ]
