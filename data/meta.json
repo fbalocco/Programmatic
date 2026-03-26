@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T16:19:55.116Z",
+  "generatedAt": "2026-03-26T19:22:15.219Z",
   "feedCount": 17,
   "itemCount": 241,
   "errors": [],
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3399,
+      "fetched": 3400,
       "kept": 4,
       "error": null
     },
@@ -120,7 +120,7 @@
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 125,
+      "fetched": 126,
       "kept": 80,
       "error": null
     },
