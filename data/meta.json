@@ -1,14 +1,8 @@
 {
-  "generatedAt": "2026-03-29T21:45:24.727Z",
+  "generatedAt": "2026-03-30T03:36:37.737Z",
   "feedCount": 17,
-  "itemCount": 215,
+  "itemCount": 219,
   "errors": [
-    {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "fetch failed"
-    },
     {
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
@@ -85,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 3405,
+      "kept": 4,
+      "error": null
     },
     {
       "id": "edpb-news",
