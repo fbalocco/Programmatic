@@ -74,17 +74,26 @@
     "summary": "Increased Request Limits for BatchJobService Enhance Large Asset Uploads We're pleased to announce significant increases to the request size limits for the BatchJobService.AddBatchJobOperations method in the Google Ads API. These changes are designed to streamline workflows, par…"
   },
   {
-    "id": "80b958b3",
-    "title": "As Competition Enforcers Gather, They Should Open the App Store Gates",
-    "url": "https://techpolicy.press/as-competition-enforcers-gather-they-should-open-the-app-store-gates",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-27T13:28:21.000Z",
-    "summary": ""
+    "id": "d24fa9fd",
+    "title": "Development of a European Union Time-Indexed Reference Dataset for Assessing the Performance of Signal Detection Methods in Pharmacovigilance using a Large Language Model",
+    "url": "https://arxiv.org/abs/2603.26544v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-27T15:53:32.000Z",
+    "summary": "Background: The identification of optimal signal detection methods is hindered by the lack of reliable reference datasets. Existing datasets do not capture when adverse events (AEs) are officially recognized by regulatory authorities, preventing restriction of analyses to pre-co…"
+  },
+  {
+    "id": "34212b26",
+    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+    "url": "https://arxiv.org/abs/2603.26512v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-27T15:23:05.000Z",
+    "summary": "Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It…"
   },
   {
     "id": "1669b5d5",
@@ -227,6 +236,19 @@
     "summary": "The Justice Department’s Antitrust Division, together with the U.S. Attorney’s Office for the Southern District of New York, filed a civil antitrust lawsuit today challenging The New York and Presbyterian Hospital’s (New York-Presbyterian) anticompetitive contract restrictions t…"
   },
   {
+    "id": "c59be7a7",
+    "title": "To Write or to Automate Linguistic Prompts, That Is the Question",
+    "url": "https://arxiv.org/abs/2603.25169v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-26T08:42:06.000Z",
+    "summary": "LLM performance is highly sensitive to prompt design, yet whether automatic prompt optimization can replace expert prompt engineering in linguistic tasks remains unexplored. We present the first systematic comparison of hand-crafted zero-shot expert prompts, base DSPy signatures…"
+  },
+  {
     "id": "f26c5db4",
     "title": "Announcing v23.2 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/03/announcing-v232-of-google-ads-api.html",
@@ -236,19 +258,6 @@
     "tags": [],
     "published": "2026-03-25T21:59:00.000Z",
     "summary": "Today, we’re announcing the v23.2 release of the Google Ads API. To use the new v23.2 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "e69a45db",
-    "title": "Landmark Verdicts Could Unleash New Legal Playbook Over Social Media Harms",
-    "url": "https://techpolicy.press/landmark-verdicts-could-unleash-new-legal-playbook-over-social-media-harms",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-25T21:24:11.000Z",
-    "summary": ""
   },
   {
     "id": "cc53f360",
@@ -303,6 +312,17 @@
     "summary": ""
   },
   {
+    "id": "5ed0448a",
+    "title": "From Pixels to Digital Agents: An Empirical Study on the Taxonomy and Technological Trends of Reinforcement Learning Environments",
+    "url": "https://arxiv.org/abs/2603.23964v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-25T05:56:54.000Z",
+    "summary": "The remarkable progress of reinforcement learning (RL) is intrinsically tied to the environments used to train and evaluate artificial agents. Moving beyond traditional qualitative reviews, this work presents a large-scale, data-driven empirical investigation into the evolution…"
+  },
+  {
     "id": "b41682fd",
     "title": "How A+E Global Media Drove Efficiency and Revenue Through Ad Podding",
     "url": "https://www.indexexchange.com/2026/03/24/global-media-drove-efficiency-revenue-through-ad-podding/",
@@ -325,6 +345,30 @@
     "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institution…"
   },
   {
+    "id": "32954bd3",
+    "title": "Beyond Binary Correctness: Scaling Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks",
+    "url": "https://arxiv.org/abs/2603.22744v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-24T03:16:32.000Z",
+    "summary": "Large language models excel on objectively verifiable tasks such as math and programming, where evaluation reduces to unit tests or a single correct answer. In contrast, real-world enterprise work is often subjective and context-dependent: success hinges on organizational goals,…"
+  },
+  {
+    "id": "9cc15ad0",
+    "title": "flexvec: SQL Vector Retrieval with Programmatic Embedding Modulation",
+    "url": "https://arxiv.org/abs/2603.22587v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-23T21:26:07.000Z",
+    "summary": "As AI agents become the primary consumers of retrieval APIs, there is an opportunity to expose more of the retrieval pipeline to the caller. flexvec is a retrieval kernel that exposes the embedding matrix and score array as a programmable surface, allowing arithmetic operations…"
+  },
+  {
     "id": "1014ab9b",
     "title": "Announcing new Display & Video 360 API Discord channels and a documentation update!",
     "url": "http://ads-developers.googleblog.com/2026/03/announcing-new-display-video-360-api.html",
@@ -336,6 +380,31 @@
     ],
     "published": "2026-03-23T17:04:00.000Z",
     "summary": "Today we’re announcing two huge improvements for Display & Video 360 bulk tools. First, we are launching support for Display & Video 360 API, Structured Data Files, and Bid Manager API products in the existing “Google Advertising and Measurement Community” Discord server! To joi…"
+  },
+  {
+    "id": "d94c0b08",
+    "title": "EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises",
+    "url": "https://arxiv.org/abs/2603.21630v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Privacy",
+      "AI"
+    ],
+    "published": "2026-03-23T06:50:35.000Z",
+    "summary": "Deploying AI agents in enterprise environments requires balancing capability with data sovereignty and cost constraints. While small language models offer privacy-preserving alternatives to frontier models, their specialization is hindered by fragmented development pipelines tha…"
+  },
+  {
+    "id": "757819fe",
+    "title": "Conventionalism in general relativity?: formal existence proofs and Reichenbach's theorem θ in context",
+    "url": "https://arxiv.org/abs/2603.24608v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-22T01:48:31.000Z",
+    "summary": "Weatherall and Manchak (2014) show that, under reasonable assumptions, Reichenbachean universal effects, constrained to a rank-2 tensor field representation in the geodesic equation, always exist in non-relativistic gravity but not so for relativistic spacetimes. Thus general re…"
   },
   {
     "id": "b6849f06",
@@ -362,6 +431,19 @@
     ],
     "published": "2026-03-20T12:00:00.000Z",
     "summary": "Today, Federal Trade Commission Chairman Andrew N. Ferguson directed FTC staff to form a Healthcare Task Force that will engage in a coordinated, integrated approach to healthcare enforcement and advocacy to protect American patients, healthcare workers, and taxpayers. In a memo…"
+  },
+  {
+    "id": "53ebae60",
+    "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
+    "url": "https://arxiv.org/abs/2603.19453v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-19T20:27:48.000Z",
+    "summary": "We study LLM policy synthesis: using a large language model to iteratively generate programmatic agent policies for multi-agent environments. Rather than training neural policies via reinforcement learning, our framework prompts an LLM to produce Python policy functions, evaluat…"
   },
   {
     "id": "7a6f4464",
@@ -400,6 +482,63 @@
     "summary": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025, the CEF's focus this year will shift to compliance with the obligations of transparency and informat…"
   },
   {
+    "id": "2df296f6",
+    "title": "Programmatically Generated Microparticles Using SUEX Dry-Film Epoxy Resist",
+    "url": "https://arxiv.org/abs/2603.18607v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-19T08:26:22.000Z",
+    "summary": "We present a lithographic method for fabricating free-standing microparticles directly from SUEX dry-film epoxy resist. Unlike conventional SU-8 particle fabrication, which requires patterning on solid substrates followed by sacrificial-layer release, our approach eliminates sub…"
+  },
+  {
+    "id": "127d9f18",
+    "title": "Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos",
+    "url": "https://arxiv.org/abs/2603.17693v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-18T13:10:47.000Z",
+    "summary": "The transition from image to video understanding requires vision-language models (VLMs) to shift from recognizing static patterns to reasoning over temporal dynamics such as motion trajectories, speed changes, and state transitions. Yet current post-training methods fall short d…"
+  },
+  {
+    "id": "b096f72d",
+    "title": "Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents",
+    "url": "https://arxiv.org/abs/2603.17683v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-18T12:59:26.000Z",
+    "summary": "Large language model (LLM) agents deployed in unknown environments must learn task structure at test time, but current approaches require thousands of interactions to form useful hypotheses. We present Sensi, an LLM agent architecture for the ARC-AGI-3 game-playing challenge tha…"
+  },
+  {
+    "id": "5abafbbd",
+    "title": "Constructive Peter--Weyl Theory: What is Known and What Remains Open",
+    "url": "https://arxiv.org/abs/2603.17618v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-18T11:30:50.000Z",
+    "summary": "This survey-style note reviews constructive versions of the Peter--Weyl theorem in the Bishop--Coquand--Spitters line. Its main purpose is to clarify which parts of the classical Peter--Weyl package admit constructive reformulations, which parts survive only in weaker or reorgan…"
+  },
+  {
+    "id": "e7d5f234",
+    "title": "An Analysis of Large Astronomical Detector Controller Systems and Implications for Future ESO Detector Systems",
+    "url": "https://arxiv.org/abs/2603.17389v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-18T06:12:21.000Z",
+    "summary": "Large astronomical instruments using tens to hundreds of optical or infrared science detectors pose specific challenges for detector control, where, in addition to performance, other engineering aspects like scalability, power consumption, size, weight and programmatic aspects s…"
+  },
+  {
     "id": "69bde2b6",
     "title": "FTC Stops Proposed Merger of Leading Cataract-Surgery Device Makers",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-stops-proposed-merger-leading-cataract-surgery-device-makers",
@@ -413,18 +552,90 @@
     "summary": "In response to the announcement that Alcon, Inc. and Alcon Research, LLC (collectively referred to as Alcon) has abandoned its efforts to purchase LENSAR, Inc. (Lensar), Federal Trade Commission Bureau of Competition Director Daniel Guarnera issued the following statement: “The…"
   },
   {
-    "id": "85ed780b",
-    "title": "Are AI Systems Incompatible with Data Privacy?",
-    "url": "https://techpolicy.press/are-ai-systems-incompatible-with-data-privacy",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
+    "id": "a9bba923",
+    "title": "Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULAN",
+    "url": "https://arxiv.org/abs/2603.15892v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
     "tags": [
-      "Privacy",
       "AI"
     ],
-    "published": "2026-03-16T11:33:11.000Z",
-    "summary": ""
+    "published": "2026-03-16T20:37:17.000Z",
+    "summary": "Large Language Models (LLMs) often struggle with temporal fact conflicts due to outdated or evolving information in their training data. Two recent studies with accompanying datasets report opposite conclusions on whether external context can effectively resolve such conflicts.…"
+  },
+  {
+    "id": "772bbd53",
+    "title": "Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2603.15789v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-16T18:14:36.000Z",
+    "summary": "Reinforcement learning in massively parallel physics simulations has driven major progress in sim-to-real robot learning. However, current approaches remain brittle and task-specific, relying on extensive per-task engineering to design rewards, curricula, and demonstrations. Eve…"
+  },
+  {
+    "id": "262f43ee",
+    "title": "VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents",
+    "url": "https://arxiv.org/abs/2603.15118v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-16T11:15:56.000Z",
+    "summary": "We introduce VAREX (VARied-schema EXtraction), a benchmark for evaluating multimodal foundation models on structured data extraction from government forms. VAREX employs a Reverse Annotation pipeline that programmatically fills PDF templates with synthetic values, producing dete…"
+  },
+  {
+    "id": "fe51c699",
+    "title": "Multilingual TinyStories: A Synthetic Combinatorial Corpus of Indic Children's Stories for Training Small Language Models",
+    "url": "https://arxiv.org/abs/2603.14563v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-15T19:31:47.000Z",
+    "summary": "The development of robust language models for low-resource languages is frequently bottlenecked by the scarcity of high-quality, coherent, and domain-appropriate training corpora. In this paper, we introduce the Multilingual TinyStories dataset, a large-scale, synthetically gene…"
+  },
+  {
+    "id": "e9651c58",
+    "title": "OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis",
+    "url": "https://arxiv.org/abs/2603.13856v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-14T09:33:29.000Z",
+    "summary": "Building AI systems that can plan, act, and create in the physical world requires more than pattern recognition. Such systems must understand the causal mechanisms and constraints governing physical processes in order to guide sequential decisions. This capability relies on inte…"
+  },
+  {
+    "id": "a2e1bfd7",
+    "title": "Neuron-Aware Data Selection In Instruction Tuning For Large Language Models",
+    "url": "https://arxiv.org/abs/2603.13201v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-13T17:39:03.000Z",
+    "summary": "Instruction Tuning (IT) has been proven to be an effective approach to unlock the powerful capabilities of large language models (LLMs). Recent studies indicate that excessive IT data can degrade LLMs performance, while carefully selecting a small subset of high-quality IT data…"
+  },
+  {
+    "id": "359dbfa0",
+    "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
+    "url": "https://arxiv.org/abs/2603.13059v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Antitrust",
+      "RTB"
+    ],
+    "published": "2026-03-13T15:07:53.000Z",
+    "summary": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC…"
   },
   {
     "id": "5dcd67c0",
@@ -438,6 +649,43 @@
     ],
     "published": "2026-03-12T21:10:09.000Z",
     "summary": "Document filed on December 17, 2025 Superseding Indictment"
+  },
+  {
+    "id": "f3c85735",
+    "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
+    "url": "https://arxiv.org/abs/2603.12266v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-12T17:59:56.000Z",
+    "summary": "Multimodal Large Language Models (MLLMs) are increasingly used to carry out visual workflows such as navigating GUIs, where the next step depends on verified visual compositional conditions (e.g., \"if a permission dialog appears and the color of the interface is green, click All…"
+  },
+  {
+    "id": "b857b276",
+    "title": "SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning",
+    "url": "https://arxiv.org/abs/2603.12249v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-03-12T17:57:52.000Z",
+    "summary": "Constructing scientific multimodal document reasoning datasets for foundation model training involves an inherent trade-off among scale, faithfulness, and realism. To address this challenge, we introduce the synthesize-and-reground framework, a two-stage pipeline comprising: (1)…"
+  },
+  {
+    "id": "17ddd0bc",
+    "title": "Nyxus: A Next Generation Image Feature Extraction Library for the Big Data and AI Era",
+    "url": "https://arxiv.org/abs/2603.12016v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-12T14:58:07.000Z",
+    "summary": "Modern imaging instruments can produce terabytes to petabytes of data for a single experiment. The biggest barrier to processing big image datasets has been computational, where image analysis algorithms often lack the efficiency needed to process such large datasets or make tra…"
   },
   {
     "id": "f253cfaf",
@@ -466,6 +714,19 @@
     "summary": "Proposal seeks comments on ways to protect consumers from unfair or deceptive rental housing fees and foster competition, price transparency, and marketplace efficiency The Federal Trade Commission today announced it is seeking public comment on a proposed rulemaking to address…"
   },
   {
+    "id": "7f5e663b",
+    "title": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
+    "url": "https://arxiv.org/abs/2603.11679v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-03-12T08:44:06.000Z",
+    "summary": "As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for downstream tasks, such as time-series, free text, and structured records, often requires non-trivial domai…"
+  },
+  {
     "id": "58475147",
     "title": "U.S. v. Robert Fay",
     "url": "https://www.justice.gov/atr/case/us-v-robert-fay",
@@ -477,19 +738,6 @@
     ],
     "published": "2026-03-11T19:15:19.000Z",
     "summary": "Document filed on October 1, 2025 Plea Agreement Information"
-  },
-  {
-    "id": "5da1d05c",
-    "title": "How Researchers Won a Legal Fight to Access X's Data Under the DSA",
-    "url": "https://techpolicy.press/how-researchers-won-a-legal-fight-to-access-xs-data-under-the-dsa",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-06T13:24:00.000Z",
-    "summary": ""
   },
   {
     "id": "39c36908",
@@ -733,6 +981,17 @@
     "summary": "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027. This is the second work programme to support the implementation of the EDPB strategy 2024-2027*. The work programme is based on the priorities set out in the EDPB strategy and t…"
   },
   {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
+  },
+  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -745,17 +1004,6 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
-  },
-  {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -2683,17 +2931,17 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "29f3663f",
-    "title": "Real deadlines and real consequences",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "id": "2ae65631",
+    "title": "Physician Group and Healthcare Facility Merger Study",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/04/physician-group-healthcare-facility-merger-study",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-06T16:32:47.000Z",
-    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
+    "published": "2021-04-14T13:18:08.000Z",
+    "summary": "Physician Group and Healthcare Facility Merger Study bacree April 14, 2021 | 9:18AM Physician Group and Healthcare Facility Merger Study By Michael G. Vita, Deputy Director Research and Management, Bureau of Economics On January 14, 2020, the Federal Trade Commission (FTC) order…"
   },
   {
     "id": "25d4b19d",
