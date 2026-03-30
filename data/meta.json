@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-03-30T14:00:16.548Z",
+  "generatedAt": "2026-03-30T16:13:12.101Z",
   "feedCount": 17,
-  "itemCount": 244,
-  "errors": [],
+  "itemCount": 218,
+  "errors": [
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "This operation was aborted"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -25,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -72,8 +79,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3409,
-      "kept": 5,
+      "fetched": 3410,
+      "kept": 6,
       "error": null
     },
     {
@@ -89,7 +96,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
@@ -136,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     }
   ]
 }
