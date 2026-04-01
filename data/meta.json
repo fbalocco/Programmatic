@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T10:15:20.133Z",
+  "generatedAt": "2026-04-01T14:03:22.622Z",
   "feedCount": 17,
-  "itemCount": 218,
+  "itemCount": 219,
   "errors": [
     {
       "id": "arxiv-ad-auctions",
@@ -79,8 +79,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3414,
-      "kept": 7,
+      "fetched": 3416,
+      "kept": 8,
       "error": null
     },
     {
