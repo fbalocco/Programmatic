@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-04-02T13:53:53.672Z",
+  "generatedAt": "2026-04-02T16:09:52.841Z",
   "feedCount": 17,
-  "itemCount": 245,
-  "errors": [],
+  "itemCount": 234,
+  "errors": [
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -80,9 +87,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
@@ -113,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 15,
+      "kept": 14,
       "error": null
     },
     {
