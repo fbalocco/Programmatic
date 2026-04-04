@@ -243,19 +243,6 @@
     "summary": "Vlad Stesin, CEO, Optable Traditional programmatic, the process of holding a 100-millisecond auction between the buyers and sellers of digital media, is wearing thin, but the infrastructure didn’t break overnight. For years now, fragmentation, privacy shifts and signal noise hav…"
   },
   {
-    "id": "f5ccf492",
-    "title": "How Europe's Digital Omnibus Could Gut Privacy Protections",
-    "url": "https://techpolicy.press/how-europes-digital-omnibus-could-gut-privacy-protections",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-01T11:08:43.000Z",
-    "summary": ""
-  },
-  {
     "id": "93ad09c1",
     "title": "Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive",
     "url": "https://arxiv.org/abs/2603.30028v1",
@@ -295,19 +282,6 @@
     "summary": "Federal Trade Commission staff on Tuesday endorsed the Florida Supreme Court’s decision to eliminate the American Bar Association’s (ABA) status as the sole accrediting agency dictating the educational requirements to take the bar exam and become a licensed attorney in Florida.…"
   },
   {
-    "id": "c4f06fb8",
-    "title": "Inside ex-Amazon Exec’s Appointment to UK Competition Watchdog",
-    "url": "https://techpolicy.press/inside-examazon-execs-appointment-to-uk-competition-watchdog",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-31T08:07:29.000Z",
-    "summary": ""
-  },
-  {
     "id": "0746df70",
     "title": "Building the Palmetto API: Adding granular permissions and caching to the Slurm REST API without sacrificing compatibility",
     "url": "https://arxiv.org/abs/2603.29032v1",
@@ -317,32 +291,6 @@
     "tags": [],
     "published": "2026-03-30T21:50:15.000Z",
     "summary": "The development of administrative and computational research tools requires reliable programmatic interfaces with the cluster scheduler. The Research Computing and Data (RCD) team at Clemson University has developed the Palmetto API, a proxy for the native Slurm RESTful interfac…"
-  },
-  {
-    "id": "db2d83c2",
-    "title": "Digital Sovereignty in Europe Rests on Antitrust Battles Against US Tech",
-    "url": "https://techpolicy.press/digital-sovereignty-in-europe-rests-on-antitrust-battles-against-us-tech",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-30T13:53:48.000Z",
-    "summary": ""
-  },
-  {
-    "id": "e4d997cb",
-    "title": "The DSA Showed Teeth Against X but the EU Is Afraid to Call It a Win",
-    "url": "https://techpolicy.press/the-dsa-showed-teeth-against-x-but-the-eu-is-afraid-to-call-it-a-win",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-30T13:25:56.000Z",
-    "summary": ""
   },
   {
     "id": "c0b7d15b",
@@ -402,19 +350,6 @@
     "tags": [],
     "published": "2026-03-27T15:23:05.000Z",
     "summary": "Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It…"
-  },
-  {
-    "id": "80b958b3",
-    "title": "As Competition Enforcers Gather, They Should Open the App Store Gates",
-    "url": "https://techpolicy.press/as-competition-enforcers-gather-they-should-open-the-app-store-gates",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-27T13:28:21.000Z",
-    "summary": ""
   },
   {
     "id": "72d73f82",
@@ -479,19 +414,6 @@
     "tags": [],
     "published": "2026-03-25T21:59:00.000Z",
     "summary": "Today, we’re announcing the v23.2 release of the Google Ads API. To use the new v23.2 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "e69a45db",
-    "title": "Landmark Verdicts Could Unleash New Legal Playbook Over Social Media Harms",
-    "url": "https://techpolicy.press/landmark-verdicts-could-unleash-new-legal-playbook-over-social-media-harms",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-25T21:24:11.000Z",
-    "summary": ""
   },
   {
     "id": "7e1649af",
@@ -782,20 +704,6 @@
     "tags": [],
     "published": "2026-03-16T18:14:36.000Z",
     "summary": "Reinforcement learning in massively parallel physics simulations has driven major progress in sim-to-real robot learning. However, current approaches remain brittle and task-specific, relying on extensive per-task engineering to design rewards, curricula, and demonstrations. Eve…"
-  },
-  {
-    "id": "85ed780b",
-    "title": "Are AI Systems Incompatible with Data Privacy?",
-    "url": "https://techpolicy.press/are-ai-systems-incompatible-with-data-privacy",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-03-16T11:33:11.000Z",
-    "summary": ""
   },
   {
     "id": "262f43ee",
@@ -1955,17 +1863,6 @@
     "summary": "Document filed on January 27, 2025 Plea Agreement"
   },
   {
-    "id": "74a6f70b",
-    "title": "First Research Published from Physician 6(b) Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/06/first-research-published-physician-6b-study",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2025-06-16T18:41:12.000Z",
-    "summary": "First Research Published from Physician 6(b) Study bacree June 16, 2025 | 2:41PM First Research Published from Physician 6(b) Study By Tom Koch (Acting DAD, BE Office of Applied Research and Outreach) and Ted Rosenbaum (Acting BE Director) We are excited to announce the publicat…"
-  },
-  {
     "id": "2b45c4b4",
     "title": "U.S. v. Ryan Cohen",
     "url": "https://www.justice.gov/atr/case/us-v-ryan-cohen",
@@ -2224,19 +2121,6 @@
     ],
     "published": "2024-11-15T01:57:26.000Z",
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
-  },
-  {
-    "id": "8c079b48",
-    "title": "Planning for the new HSR Form",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2024-11-12T15:30:21.000Z",
-    "summary": "Planning for the new HSR Form bjames@ftc.gov November 12, 2024 | 10:30AM Planning for the new HSR Form By Bureau of Competition As antitrust practitioners know, parties to certain mergers and acquisitions are required to submit premerger notification forms that disclose informat…"
   },
   {
     "id": "d566b766",
@@ -3005,102 +2889,132 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "7eec9f35",
-    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
+    "id": "bdeedd2b",
+    "title": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/making-second-request-process-both-more-streamlined-more-rigorous-during-unprecedented-merger-wave",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-03-19T13:25:32.000Z",
-    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
+    "published": "2021-09-28T12:08:08.000Z",
+    "summary": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave jwolf September 28, 2021 | 8:08AM Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave By Holly Vedova, Bure…"
   },
   {
-    "id": "2bde3954",
-    "title": "The closest competitor is not the only competitor",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/12/closest-competitor-not-only-competitor",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-12-09T19:06:57.000Z",
-    "summary": "The closest competitor is not the only competitor bjames@ftc.gov December 9, 2019 | 2:06PM The closest competitor is not the only competitor By Stephen Mohr, Bureau of Competition More and more, merging parties argue that their merger does not raise competition concerns because…"
-  },
-  {
-    "id": "93dde92c",
-    "title": "Developing the Antitrust Bar",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-10-31T21:20:10.000Z",
-    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
-  },
-  {
-    "id": "3dbaa1e1",
-    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
+    "id": "05be3262",
+    "title": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/reforming-pre-filing-process-companies-considering-consolidation-change-treatment-debt",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2018-03-01T16:54:32.000Z",
-    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
+    "published": "2021-08-26T18:06:40.000Z",
+    "summary": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt jwolf August 26, 2021 | 2:06PM Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt By Holly Vedova, Bureau of…"
   },
   {
-    "id": "07d03c6a",
-    "title": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/voices-liberty-videos-fireside-chat-participants-explain-burdens-unnecessary-occupational-licensing",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-01-17T18:55:23.000Z",
-    "summary": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing rgiura January 17, 2018 | 1:55PM Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing By Tara Koslov, Office of…"
-  },
-  {
-    "id": "72a86d63",
-    "title": "Looking back (again) at FTC merger remedies",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/02/looking-back-again-ftc-merger-remedies",
+    "id": "57aa2fcb",
+    "title": "MMA Reports: No tricks or treats—just facts",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/mma-reports-no-tricks-or-treats-just-facts",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-02-03T13:46:03.000Z",
-    "summary": "Looking back (again) at FTC merger remedies rgiura February 3, 2017 | 8:46AM Looking back (again) at FTC merger remedies By Dan Ducore and Naomi Licker, Bureau of Competition The newly released Remedy Study is the culmination of nearly two years of effort by FTC staff to look ba…"
+    "published": "2020-10-27T21:15:33.000Z",
+    "summary": "MMA Reports: No tricks or treats—just facts bjames@ftc.gov October 27, 2020 | 5:15PM MMA Reports: No tricks or treats—just facts By Brad Albert, Armine Black, and Jamie Towey, Bureau of Competition With the passage of the Medicare Prescription Drug, Improvement, and Modernizatio…"
   },
   {
-    "id": "6d8e0ceb",
-    "title": "Direct-to-consumer auto sales: It’s not just about Tesla",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/direct-consumer-auto-sales-its-not-just-about-tesla",
+    "id": "18a72af8",
+    "title": "Leadership Changes in Mergers Divisions",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/leadership-changes-mergers-divisions",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust",
-      "Policy"
+      "Privacy",
+      "Antitrust"
     ],
-    "published": "2015-05-11T15:00:39.000Z",
-    "summary": "Direct-to-consumer auto sales: It’s not just about Tesla cwarner May 11, 2015 | 11:00AM Direct-to-consumer auto sales: It’s not just about Tesla By Marina Lao, Debbie Feinstein, and Francine Lafontaine A fundamental principle of competition is that consumers – not regulation – s…"
+    "published": "2020-10-07T14:31:20.000Z",
+    "summary": "Leadership Changes in Mergers Divisions sfelder October 7, 2020 | 10:31AM Leadership Changes in Mergers Divisions By Ian R. Conner, Bureau of Competition I am pleased to announce several leadership changes in the Bureau's Mergers I and Mergers IV Divisions. Mark Seidman has been…"
   },
   {
-    "id": "46a6cce0",
-    "title": "FTC Milestones: Shared beginnings in the Circle Cilk case",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-shared-beginnings-circle-cilk-case",
+    "id": "05f4b387",
+    "title": "FTC releases agenda for Data To Go virtual workshop",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/ftc-releases-agenda-data-go-virtual-workshop",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2014-11-06T19:05:13.000Z",
-    "summary": "FTC Milestones: Shared beginnings in the Circle Cilk case rcuster November 6, 2014 | 2:05PM FTC Milestones: Shared beginnings in the Circle Cilk case By Lesley Fair, Bureau of Consumer Protection In celebration of the FTC’s 100th anniversary, we’ve been examining the leaves on o…"
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-09-10T16:12:13.000Z",
+    "summary": "FTC releases agenda for Data To Go virtual workshop bjames@ftc.gov September 10, 2020 | 12:12PM FTC releases agenda for Data To Go virtual workshop By Kate White, Bureau of Consumer Protection, and Andrea Zach, Bureau of Competition “Take out” takes on a whole new meaning when i…"
+  },
+  {
+    "id": "387d4117",
+    "title": "Interlocking Mindfulness",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/interlocking-mindfulness",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-06-26T16:12:58.000Z",
+    "summary": "Interlocking Mindfulness bjames@ftc.gov June 26, 2019 | 12:12PM Interlocking Mindfulness By Michael E. Blaisdell, Bureau of Competition The wellness strategy of the moment is mindfulness: focusing on the present and being completely aware of your situation. Even in the corporate…"
+  },
+  {
+    "id": "8c2ed085",
+    "title": "Joining the issues on the high road",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/joining-issues-high-road",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-05-13T16:40:24.000Z",
+    "summary": "Joining the issues on the high road rcuster May 13, 2019 | 12:40PM Joining the issues on the high road By Bruce Hoffman and Heather M. Johnson, Bureau of Competition The great majority of attorneys appearing before the Commission share a sense of practicing at the height of our…"
+  },
+  {
+    "id": "8229c5c8",
+    "title": "FTC launches first Web API to make Early Terminations more accessible",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/06/ftc-launches-first-web-api-make-early-terminations-more-accessible",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-06-25T21:42:59.000Z",
+    "summary": "FTC launches first Web API to make Early Terminations more accessible rcuster June 25, 2018 | 5:42PM FTC launches first Web API to make Early Terminations more accessible By Chris Noonan Sturm, Website Manager An important aspect of the FTC’s Premerger Notification Program is th…"
+  },
+  {
+    "id": "982b8d61",
+    "title": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/02/ftc-milestone-new-age-dawns-ftcs-competition-work",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-02-20T15:58:10.000Z",
+    "summary": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work rcuster February 20, 2015 | 10:58AM FTC Milestone: A New Age Dawns for the FTC’s Competition Work By Kelly Signs, Bureau of Competition As anyone of a certain age can attest, the 1970’s were all about change. Hairstyl…"
+  },
+  {
+    "id": "9a6bf58c",
+    "title": "Antitrust by association(s)",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-associations",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-05-01T12:34:44.000Z",
+    "summary": "Antitrust by association(s) cwarner May 1, 2014 | 8:34AM Antitrust by association(s) By Geoffrey Green, Bureau of Competition Antitrust enforcers have always been concerned about the potential for harm arising from the activities of trade groups made up of competitors. From its…"
   }
 ]
