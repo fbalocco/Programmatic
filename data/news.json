@@ -87,17 +87,6 @@
     "summary": "From Instagram advertising to Papa John’s marketing investment, here are some important numbers marketers may have missed."
   },
   {
-    "id": "77e1228d",
-    "title": "FTC Publishes New Strategic Plan",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
-  },
-  {
     "id": "805a7674",
     "title": "FTC Submits Annual Budget Request to Congress",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
@@ -107,6 +96,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
+  },
+  {
+    "id": "77e1228d",
+    "title": "FTC Publishes New Strategic Plan",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
   },
   {
     "id": "3e4f636e",
@@ -1007,19 +1007,6 @@
     ],
     "published": "2026-02-17T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order involving the Boeing Company’s (Boeing) acquisition of Spirit AeroSystems Holdings, Inc. (Spirit). The FTC previously accepted the consent order, subject to final approval, on December 2, 2025. The consent order requires Boe…"
-  },
-  {
-    "id": "30d3ae99",
-    "title": "How Loyalty Discounts Between Firms Harm Competition When There Are Network Effects: FTC v. Surescripts",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/02/how-loyalty-discounts-between-firms-harm-competition-when-there-are-network-effects-ftc-v-surescripts",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-02-13T21:57:00.000Z",
-    "summary": "How Loyalty Discounts Between Firms Harm Competition When There Are Network Effects: FTC v. Surescripts hbarber February 13, 2026 | 4:57PM How Loyalty Discounts Between Firms Harm Competition When There Are Network Effects: FTC v. Surescripts By Matthew Chesnes (DAD, BE Antitrus…"
   },
   {
     "id": "79fb80f0",
@@ -1992,17 +1979,6 @@
     "summary": "A Data Clean Room Interoperability Protocol for Attribution Measurement IAB TechLab is proud to announce the first release of the Attribution Data Mapping Protocol (ADMaP), a next generation standard which utilizes advanced cryptographic techniques to enable measurement with pri…"
   },
   {
-    "id": "00be3d09",
-    "title": "New HSR thresholds and filing fees for 2025",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/02/new-hsr-thresholds-filing-fees-2025",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2025-02-06T17:28:16.000Z",
-    "summary": "New HSR thresholds and filing fees for 2025 bjames@ftc.gov February 6, 2025 | 12:28PM New HSR thresholds and filing fees for 2025 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino Act based on…"
-  },
-  {
     "id": "01356b99",
     "title": "U.S. v. Scott Reefe",
     "url": "https://www.justice.gov/atr/case/us-v-scott-reefe",
@@ -2795,6 +2771,19 @@
     "summary": "Document filed on February 13, 2023 Superseding Information"
   },
   {
+    "id": "60abbdff",
+    "title": "HSR threshold adjustments and reportability for 2023",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/02/hsr-threshold-adjustments-reportability-2023",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2023-02-16T18:50:52.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2023 hbarber February 16, 2023 | 1:50PM HSR threshold adjustments and reportability for 2023 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minim…"
+  },
+  {
     "id": "9fa36675",
     "title": "U.S. v. Paul M. Camara, Jr.",
     "url": "https://www.justice.gov/atr/case/us-v-paul-m-camara-jr",
@@ -2912,108 +2901,122 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "243bfc2b",
-    "title": "Changes in Bureau procedure during COVID-19 coronavirus pandemic",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/03/changes-bureau-procedure-during-covid-19-coronavirus-pandemic",
+    "id": "1d25aed5",
+    "title": "Working Better Together Volume One: Advancing Both Consumer Protection and Antitrust Enforcement to Protect all Americans from Corporate Bad Actors",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/working-better-together-volume-one-advancing-both-consumer-protection-antitrust-enforcement-protect",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust"
+      "Antitrust",
+      "Policy"
     ],
-    "published": "2020-03-16T21:02:13.000Z",
-    "summary": "Changes in Bureau procedure during COVID-19 coronavirus pandemic rcuster March 16, 2020 | 5:02PM Changes in Bureau procedure during COVID-19 coronavirus pandemic By Ian Conner, Bureau of Competition Like many other agencies, organizations, and employers across the country, we in…"
+    "published": "2021-09-24T17:34:29.000Z",
+    "summary": "Working Better Together Volume One: Advancing Both Consumer Protection and Antitrust Enforcement to Protect all Americans from Corporate Bad Actors jwolf September 24, 2021 | 1:34PM Working Better Together Volume One: Advancing Both Consumer Protection and Antitrust Enforcement…"
   },
   {
-    "id": "60828ad6",
-    "title": "Avoidance devices won’t avoid HSR penalties",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/avoidance-devices-wont-avoid-hsr-penalties",
+    "id": "8aca3a16",
+    "title": "File comments in HSR Rulemaking by February 1",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/12/file-comments-hsr-rulemaking-february-1",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-11-14T22:30:26.000Z",
-    "summary": "Avoidance devices won’t avoid HSR penalties bjames@ftc.gov November 14, 2019 | 5:30PM Avoidance devices won’t avoid HSR penalties By Marian Bruno, Bureau of Competition The Commission and Department of Justice’s recent case against Canon Inc. and Toshiba Corporation for violatin…"
+    "published": "2020-12-07T17:27:10.000Z",
+    "summary": "File comments in HSR Rulemaking by February 1 bjames@ftc.gov December 7, 2020 | 12:27PM File comments in HSR Rulemaking by February 1 By Kate Walsh and Ken Libby, Bureau of Competition Earlier this fall, the Commission announced two separate rulemaking initiatives aimed at updat…"
   },
   {
-    "id": "efcdb1ff",
-    "title": "HSR threshold adjustments and reportability for 2018",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/02/hsr-threshold-adjustments-reportability-2018",
+    "id": "9e81a26d",
+    "title": "“All Documents” means more than emails and files",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/all-documents-means-more-emails-files",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-02-08T21:01:06.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2018 rcuster February 8, 2018 | 4:01PM HSR threshold adjustments and reportability for 2018 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+    "published": "2020-10-23T13:37:25.000Z",
+    "summary": "“All Documents” means more than emails and files sfelder October 23, 2020 | 9:37AM “All Documents” means more than emails and files By Daniel Francis and Jennifer Milici, Bureau of Competition Executives and employees of modern businesses communicate with one another, and with s…"
   },
   {
-    "id": "d8e6ea7b",
-    "title": "Resetting our views on HSR Items 4(c) and 4(d)",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/resetting-our-views-hsr-items-4c-4d",
+    "id": "11ffd583",
+    "title": "A Fiscal Year Like No Other",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-11-28T16:16:16.000Z",
-    "summary": "Resetting our views on HSR Items 4(c) and 4(d) rgiura November 28, 2016 | 11:16AM Resetting our views on HSR Items 4(c) and 4(d) By Premerger Notification Office Staff, Bureau of Competition When submitting a Hart-Scott-Rodino (HSR) premerger notification filing to the FTC and D…"
+    "published": "2020-10-06T15:06:46.000Z",
+    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
   },
   {
-    "id": "457a2518",
-    "title": "Information exchange: be reasonable",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/information-exchange-be-reasonable",
+    "id": "6c092334",
+    "title": "Technology Task Force looking for technology fellow",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/technology-task-force-looking-technology-fellow",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-12-11T16:48:03.000Z",
-    "summary": "Information exchange: be reasonable rcuster December 11, 2014 | 11:48AM Information exchange: be reasonable By Michael Bloom, Bureau of Competition Each day companies seek out market information to gain insights on how to compete more effectively. When companies compete more eff…"
+    "published": "2019-08-08T16:36:45.000Z",
+    "summary": "Technology Task Force looking for technology fellow bjames@ftc.gov August 8, 2019 | 12:36PM Technology Task Force looking for technology fellow By Patricia Galvan, Bureau of Competition Are you a fast-learning, tech-savvy professional driven to use your expertise to help ensure…"
   },
   {
-    "id": "5422be90",
-    "title": "From the antitrust mailbag: manufacturer-imposed requirements",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/10/antitrust-mailbag-manufacturer-imposed-requirements",
+    "id": "29b9bb14",
+    "title": "Unpacking Divestiture Packages",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/unpacking-divestiture-packages",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Privacy",
       "Antitrust"
     ],
-    "published": "2014-10-22T16:54:37.000Z",
-    "summary": "From the antitrust mailbag: manufacturer-imposed requirements rcuster October 22, 2014 | 12:54PM From the antitrust mailbag: manufacturer-imposed requirements By Alan Friedman, Bureau of Competition Here’s another common question we receive from retailers: A manufacturer is plac…"
+    "published": "2019-06-13T19:32:55.000Z",
+    "summary": "Unpacking Divestiture Packages bjames@ftc.gov June 13, 2019 | 3:32PM Unpacking Divestiture Packages By Angelike Andrinopoulos Mina, Bureau of Competition Crafting effective merger remedies is one of the Commission’s most important tasks. Done well, a divestiture prevents the com…"
   },
   {
-    "id": "26ec0ed7",
-    "title": "Looking for something?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/01/looking-something",
+    "id": "aba5bca6",
+    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust"
+      "Antitrust",
+      "Policy"
     ],
-    "published": "2014-01-15T13:54:50.000Z",
-    "summary": "Looking for something? cwarner January 15, 2014 | 8:54AM Looking for something? By Kelly Signs, Bureau of Competition If you regularly use FTC.gov to find cases, speeches, reports or such, then you’ve probably noticed a few changes. We know -- change is hard. But with added feat…"
+    "published": "2019-05-03T21:21:11.000Z",
+    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
   },
   {
-    "id": "a7c5b6ed",
-    "title": "Location and value of patents",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2013/12/location-value-patents",
+    "id": "34006c36",
+    "title": "A few words about Section 5",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/few-words-about-section-5",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2013-12-13T20:46:44.000Z",
-    "summary": "Location and value of patents cwarner December 13, 2013 | 3:46PM Location and value of patents By Premerger Notification Office Staff Each year, the Premerger Notification Office answers thousands of letters, phone calls, and emails regarding the Hart-Scott-Rodino rules, giving…"
+    "published": "2015-03-13T16:37:04.000Z",
+    "summary": "A few words about Section 5 rcuster March 13, 2015 | 12:37PM A few words about Section 5 By Debbie Feinstein*, Bureau of Competition Recently, I appeared on a panel that discussed the Commission’s recent Section 5 cases. While my colleague, BCP Director Jessica Rich, addressed t…"
+  },
+  {
+    "id": "6e5c484e",
+    "title": "How to avoid common HSR filing mistakes on affidavits and notice letters",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/07/how-avoid-common-hsr-filing-mistakes-affidavits-notice-letters",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-07-29T16:26:12.000Z",
+    "summary": "How to avoid common HSR filing mistakes on affidavits and notice letters cwarner July 29, 2014 | 12:26PM How to avoid common HSR filing mistakes on affidavits and notice letters By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger No…"
   }
 ]
