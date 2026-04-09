@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-04-09T07:53:10.716Z",
+  "generatedAt": "2026-04-09T10:20:11.620Z",
   "feedCount": 17,
-  "itemCount": 220,
-  "errors": [
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
-    }
-  ],
+  "itemCount": 245,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -143,9 +136,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
