@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-09T10:20:11.620Z",
+  "generatedAt": "2026-04-09T14:09:14.749Z",
   "feedCount": 17,
-  "itemCount": 245,
+  "itemCount": 243,
   "errors": [],
   "stats": [
     {
@@ -25,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -65,14 +65,14 @@
       "name": "Chrome for Developers Blog",
       "category": "Platforms",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3437,
+      "fetched": 3440,
       "kept": 7,
       "error": null
     },
