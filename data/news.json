@@ -339,17 +339,6 @@
     "summary": "NBI-Slurm is a Perl package that provides a simplified, user-friendly interface for submitting and managing jobs on SLURM high-performance computing (HPC) clusters. It offers both a library of Perl modules for programmatic job management and a suite of command-line tools designe…"
   },
   {
-    "id": "77e1228d",
-    "title": "FTC Publishes New Strategic Plan",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
-  },
-  {
     "id": "805a7674",
     "title": "FTC Submits Annual Budget Request to Congress",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
@@ -359,6 +348,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
+  },
+  {
+    "id": "77e1228d",
+    "title": "FTC Publishes New Strategic Plan",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
   },
   {
     "id": "3e4f636e",
@@ -1150,17 +1150,6 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1173,6 +1162,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1251,19 +1251,6 @@
     "summary": "Documents filed on January 29, 2026 Competitive Impact Statement United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
   },
   {
-    "id": "8c54dccf",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
-  },
-  {
     "id": "12a77283",
     "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
@@ -1275,6 +1262,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
+  },
+  {
+    "id": "8c54dccf",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
   },
   {
     "id": "3b994db4",
@@ -2941,133 +2941,132 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "05f4b387",
-    "title": "FTC releases agenda for Data To Go virtual workshop",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/ftc-releases-agenda-data-go-virtual-workshop",
+    "id": "2ec6393e",
+    "title": "HSR Filing Fees – Reminders and Tips",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-09-10T16:12:13.000Z",
-    "summary": "FTC releases agenda for Data To Go virtual workshop bjames@ftc.gov September 10, 2020 | 12:12PM FTC releases agenda for Data To Go virtual workshop By Kate White, Bureau of Consumer Protection, and Andrea Zach, Bureau of Competition “Take out” takes on a whole new meaning when i…"
+    "published": "2020-05-18T19:38:55.000Z",
+    "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
   },
   {
-    "id": "e40cd650",
-    "title": "A Busy Six Months",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/busy-six-months",
+    "id": "e43a3581",
+    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust"
+      "Policy"
     ],
-    "published": "2020-07-08T14:08:40.000Z",
-    "summary": "A Busy Six Months bjames@ftc.gov July 8, 2020 | 10:08AM A Busy Six Months By Gail Levine, Bureau of Competition As we head into the second half of 2020, it’s a good time to pause and take stock of the past six months of work in the Bureau of Competition. Despite the challenges c…"
+    "published": "2018-10-03T15:08:45.000Z",
+    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
   },
   {
-    "id": "eec28711",
-    "title": "Leadership Changes",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/leadership-changes",
+    "id": "89f7226d",
+    "title": "FTC at work outside the Beltway",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-01-29T22:01:02.000Z",
-    "summary": "Leadership Changes bjames@ftc.gov January 29, 2020 | 5:01PM Leadership Changes By Ian Conner, Bureau of Competition I am pleased to announce several management changes in the Bureau of Competition. While Michael Moiseyev is on detail, Dan Zach is serving as Acting Assistant Dire…"
+    "published": "2018-09-24T19:34:35.000Z",
+    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
   },
   {
-    "id": "3d4ad13a",
-    "title": "HSR threshold adjustments and reportability for 2019",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/hsr-threshold-adjustments-reportability-2019",
+    "id": "f588e36b",
+    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-03-07T15:11:14.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2019 rgiura March 7, 2019 | 10:11AM HSR threshold adjustments and reportability for 2019 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimum d…"
+    "published": "2018-07-27T19:24:55.000Z",
+    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
   },
   {
-    "id": "4be8e749",
-    "title": "Control no longer controlling for HSR reporting of not-for-profit combinations",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/control-no-longer-controlling-hsr-reporting-not-profit-combinations",
+    "id": "171c9d16",
+    "title": "Taking a hard look at the asset package",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
+      "Privacy",
       "Antitrust"
     ],
-    "published": "2018-10-26T18:37:54.000Z",
-    "summary": "Control no longer controlling for HSR reporting of not-for-profit combinations rcuster October 26, 2018 | 2:37PM Control no longer controlling for HSR reporting of not-for-profit combinations By Premerger Notification Office Staff The PNO routinely provides informal guidance on…"
+    "published": "2016-11-09T18:33:07.000Z",
+    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
   },
   {
-    "id": "8229c5c8",
-    "title": "FTC launches first Web API to make Early Terminations more accessible",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/06/ftc-launches-first-web-api-make-early-terminations-more-accessible",
+    "id": "e9511129",
+    "title": "Calculating the value of stock under HSR rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-06-25T21:42:59.000Z",
-    "summary": "FTC launches first Web API to make Early Terminations more accessible rcuster June 25, 2018 | 5:42PM FTC launches first Web API to make Early Terminations more accessible By Chris Noonan Sturm, Website Manager An important aspect of the FTC’s Premerger Notification Program is th…"
+    "published": "2015-10-27T18:05:06.000Z",
+    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
   },
   {
-    "id": "63d117d5",
-    "title": "Competitive job markets offer more than just fringe benefits",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/10/competitive-job-markets-offer-more-just-fringe-benefits",
+    "id": "dccaef13",
+    "title": "Unflattering resemblance",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-10-20T19:28:01.000Z",
-    "summary": "Competitive job markets offer more than just fringe benefits rcuster October 20, 2016 | 3:28PM Competitive job markets offer more than just fringe benefits By Debbie Feinstein and Geoffrey Green, Bureau of Competition, and Tara Isa Koslov, Office of Policy Planning Looking for a…"
+    "published": "2015-01-13T18:18:49.000Z",
+    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
   },
   {
-    "id": "112e8b5d",
-    "title": "Wiring your HSR filing fee just got easier",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/06/wiring-your-hsr-filing-fee-just-got-easier",
+    "id": "3e8d00f8",
+    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-06-06T17:52:06.000Z",
-    "summary": "Wiring your HSR filing fee just got easier rcuster June 6, 2016 | 1:52PM Wiring your HSR filing fee just got easier By Premerger Notification Office Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well over a thousand transaction…"
+    "published": "2015-01-08T18:05:44.000Z",
+    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
   },
   {
-    "id": "e256d374",
-    "title": "Power shopping for an alternative buyer",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/power-shopping-alternative-buyer",
+    "id": "97295bbe",
+    "title": "FTC Milestones: Weighing in on weight loss cases",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-03-31T14:14:07.000Z",
-    "summary": "Power shopping for an alternative buyer cwarner March 31, 2015 | 10:14AM Power shopping for an alternative buyer By Debbie Feinstein and Alexis Gilman, Bureau of Competition In recent investigations of hospital mergers, the merging parties often make the argument that the acquir…"
+    "tags": [],
+    "published": "2014-12-04T16:25:36.000Z",
+    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
   },
   {
-    "id": "af591027",
-    "title": "Putting the “mod” in order modification",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/07/putting-mod-order-modification",
+    "id": "f82b0582",
+    "title": "A license that is more than a license",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-07-17T18:53:16.000Z",
-    "summary": "Putting the “mod” in order modification rcuster July 17, 2014 | 2:53PM Putting the “mod” in order modification By Kenneth Libby, Bureau of Competition Back in 1998, the must-have toy was a Furby, and if you were a parent with a kid of a certain age, you had to find one. In those…"
+    "published": "2014-03-24T17:59:18.000Z",
+    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
   }
 ]
