@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-13T10:54:08.125Z",
+  "generatedAt": "2026-04-13T14:05:15.619Z",
   "feedCount": 17,
-  "itemCount": 240,
+  "itemCount": 241,
   "errors": [],
   "stats": [
     {
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3446,
+      "fetched": 3450,
       "kept": 6,
       "error": null
     },
@@ -89,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {

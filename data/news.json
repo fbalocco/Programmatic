@@ -1,5 +1,44 @@
 [
   {
+    "id": "8104dc16",
+    "title": "Hearst Built A Unified Ad Marketplace To Simplify Omnichannel News Buys",
+    "url": "https://www.adexchanger.com/publishers/hearst-built-a-unified-ad-marketplace-to-simplify-omnichannel-news-buys/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-04-13T13:00:40.000Z",
+    "summary": "Hearst is stitching together its far‑flung news properties into a single programmatic marketplace to make buying local news simpler and to shore up its business as the ad market shifts. With the Hearst News ad network, announced today, the company is pulling inventory from its T…"
+  },
+  {
+    "id": "8f9615ac",
+    "title": "AI Is Nothing Without Data Fidelity. Here’s A Four-Step Approach to Protect It",
+    "url": "https://www.adexchanger.com/content-studio/ai-is-nothing-without-data-fidelity-heres-a-four-step-approach-to-protect-it/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-04-13T12:00:48.000Z",
+    "summary": "AI is only as good as the data that fuels it. In advertising, however, that foundation is often flawed. The industry talks a lot about targeting and measurement, but it rarely confronts the fidelity of the data behind those outcomes. This is akin to tuning up a car that’s runnin…"
+  },
+  {
+    "id": "5ea58500",
+    "title": "FTC Takes Action Against TruHeight for Deceptive and Unsubstantiated Advertising of Supposed Height-Enhancing Supplements for Kids and Teens",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-truheight-deceptive-unsubstantiated-advertising-supposed-height-enhancing",
+    "source": "U.S. FTC Press Releases",
+    "sourceId": "ftc-press",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-04-13T12:00:00.000Z",
+    "summary": "Proposed settlement order requires TruHeight and its principals to pay $750,000; bars them from making false or unsupported health claims and using fake or incentivized consumer reviews Nevada-based Vanilla Chip LLC, which does business as TruHeight, and its two principals, Eden…"
+  },
+  {
     "id": "41df9da5",
     "title": "Why CTV Is Becoming The First Real Test Of Agentic Advertising",
     "url": "https://www.adexchanger.com/data-driven-thinking/why-ctv-is-becoming-the-first-real-test-of-agentic-advertising/",
@@ -163,30 +202,6 @@
     ],
     "published": "2026-04-09T05:40:55.000Z",
     "summary": "The rapid expansion of the Internet of Things (IoT) and smart home ecosystems has led to a fragmented landscape of user data management across consumer electronics (CE) such as Smart TVs, gaming consoles, and set-top boxes. Current onboarding processes on these devices are chara…"
-  },
-  {
-    "id": "0daa1f6c",
-    "title": "Inside RTL’s Plan To Aggregate Europe’s Fragmented TV And Video Supply",
-    "url": "https://www.adexchanger.com/tv/inside-rtls-plan-to-aggregate-europes-fragmented-tv-and-video-supply/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-04-09T05:00:44.000Z",
-    "summary": "European TV has never been an easy market for buying or selling advertising. Much like the US TV market, national broadcasters still dominate in Europe, but their content is spread across different languages, currencies and regulations. Also much like the US, Europe is undergoin…"
-  },
-  {
-    "id": "618c2663",
-    "title": "The Price And Promo Paradox; YouTube’s Interactive TV Push",
-    "url": "https://www.adexchanger.com/daily-news-roundup/2026-04-09/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-04-09T04:03:31.000Z",
-    "summary": "Priced Out For many online advertisers, product prices and ad budgets are flip sides of the same coin. Is a brand better off discounting prices by $1 or spending $1 more per purchase on ads? For many of the biggest CPG brands, marketing budgets are tightening after years of infl…"
   },
   {
     "id": "f511c3a9",
@@ -385,17 +400,6 @@
     "summary": "Autonomous agents are moving beyond simple retrieval tasks to become economic actors that invoke APIs, sequence workflows, and make real-time decisions. As this shift accelerates, API providers need request-level monetization with programmatic spend governance. The HTTP 402 prot…"
   },
   {
-    "id": "2fa734d2",
-    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-02T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
-  },
-  {
     "id": "d5ad6832",
     "title": "FTC Seeks Public Comment on Petition to Modify Northrop Grumman Final Order",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-petition-modify-northrop-grumman-final-order",
@@ -408,6 +412,17 @@
     ],
     "published": "2026-04-02T12:00:00.000Z",
     "summary": "The Federal Trade Commission is seeking public comment on a petition filed by Northrop Grumman Corporation requesting that the Commission reopen and set aside a final consent order involving Northrop Grumman’s 2018 acquisition of aerospace and defense contractor Orbital ATK. The…"
+  },
+  {
+    "id": "2fa734d2",
+    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-02T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
   },
   {
     "id": "f5ccf492",
@@ -1139,6 +1154,17 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
+  },
+  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1151,17 +1177,6 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
-  },
-  {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1385,6 +1400,17 @@
     "summary": "Today, the Federal Trade Commission filed a notice that it will appeal the U.S. District Court for the District of Columbia’s November 2025 ruling in favor of Meta Platforms, Inc. (“Meta”) in the FTC’s monopolization case against Meta. The appeal will be heard by the U.S. Court…"
   },
   {
+    "id": "292d894c",
+    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
+  },
+  {
     "id": "16f42fd4",
     "title": "FTC Announces 2026 Update of Jurisdictional and Fee Thresholds for Premerger Notification Filings",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-update-jurisdictional-fee-thresholds-premerger-notification-filings",
@@ -1396,17 +1422,6 @@
     ],
     "published": "2026-01-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds and a revised filing fee schedule under the Hart‑Scott‑Rodino (HSR) Antitrust Improvements Act of 1976. Section 7A(a)(2) of the Act requires the Commission to revise the jurisdictional thresholds annuall…"
-  },
-  {
-    "id": "292d894c",
-    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
   },
   {
     "id": "ec06020f",
@@ -2099,6 +2114,19 @@
     "summary": "Document filed on January 8, 2025 Plea Agreement"
   },
   {
+    "id": "9fb4bc1a",
+    "title": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/01/reverse-payments-cash-quantity-restrictions-other-possibilities",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2025-01-15T21:47:10.000Z",
+    "summary": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities bjames@ftc.gov January 15, 2025 | 4:47PM Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities By Brad Albert and Hannah Lamb, Bureau of Competition Today, staff of the Bureau of…"
+  },
+  {
     "id": "d048ed57",
     "title": "Epic Games, Inc. v. Google LLC, et al.",
     "url": "https://www.justice.gov/atr/case/epic-games-inc-v-google-llc",
@@ -2594,6 +2622,17 @@
     "summary": "Documents filed on January 31, 2024 Plea Agreement [Al's Asphalt] Plea Agreement [Ed Swanson] Plea Agreement [ASI]"
   },
   {
+    "id": "e3268d4f",
+    "title": "New HSR thresholds and filing fees for 2024",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/02/new-hsr-thresholds-filing-fees-2024",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2024-02-01T22:30:02.000Z",
+    "summary": "New HSR thresholds and filing fees for 2024 bacree February 1, 2024 | 5:30PM New HSR thresholds and filing fees for 2024 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino Act based on the chang…"
+  },
+  {
     "id": "1ff1f4f3",
     "title": "U.S. and Plaintiff States v. JetBlue Airways Corporation and Spirit Airlines, Inc.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-jetblue-airways-corporation-and-spirit-airlines-inc",
@@ -2930,48 +2969,61 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "29f3663f",
-    "title": "Real deadlines and real consequences",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "id": "656bb753",
+    "title": "HSR threshold adjustments and reportability for 2021",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/02/hsr-threshold-adjustments-reportability-2021",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-06T16:32:47.000Z",
-    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
+    "published": "2021-02-17T22:19:50.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2021 bacree February 17, 2021 | 5:19PM HSR threshold adjustments and reportability for 2021 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "25d4b19d",
-    "title": "Real-Time Transparency for HSR Transaction Numbers",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/real-time-transparency-hsr-transaction-numbers",
+    "id": "6553e984",
+    "title": "HSR threshold adjustments and reportability for 2020",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-07-09T20:43:13.000Z",
-    "summary": "Real-Time Transparency for HSR Transaction Numbers sfelder July 9, 2020 | 4:43PM Real-Time Transparency for HSR Transaction Numbers By the Premerger Notification Office Staff In response to increased interest in levels of M&A activity, the Bureau of Competition’s Premerger Notif…"
+    "published": "2020-01-31T19:34:59.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "b593ed48",
-    "title": "Leadership Changes in the Anticompetitive Practices Division",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
+    "id": "9582e561",
+    "title": "If you think criticizing staff is a good strategy … It’s not.",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/if-you-think-criticizing-staff-good-strategy-its-not",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-29T13:45:42.000Z",
-    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
+    "published": "2019-11-05T21:50:23.000Z",
+    "summary": "If you think criticizing staff is a good strategy … It’s not. sfelder November 5, 2019 | 4:50PM If you think criticizing staff is a good strategy … It’s not. By Ian Conner, Bureau of Competition Parties regularly present their arguments and defenses of conduct and mergers to the…"
   },
   {
-    "id": "ceffa8ba",
-    "title": "Compliance reports: Reinforcing a commitment to effective orders",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
+    "id": "47feb4c5",
+    "title": "Just because it’s ancillary doesn’t make it legal",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/09/just-because-its-ancillary-doesnt-make-it-legal",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-09-30T14:40:58.000Z",
+    "summary": "Just because it’s ancillary doesn’t make it legal bjames@ftc.gov September 30, 2019 | 10:40AM Just because it’s ancillary doesn’t make it legal By Brian Telpner, Bureau of Competition In The Wizard of Oz, Dorothy was told to ignore the man behind the curtain. Some may argue that…"
+  },
+  {
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2979,86 +3031,46 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2019-03-11T13:36:41.000Z",
-    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
   },
   {
-    "id": "aa202941",
-    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2018-09-10T17:53:43.000Z",
-    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
-  },
-  {
-    "id": "f454a608",
-    "title": "Timing is everything: The Model Timing Agreement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/08/timing-everything-model-timing-agreement",
+    "id": "4f6f5e30",
+    "title": "Getting in Sync with HSR Timing Considerations",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-08-07T19:04:47.000Z",
-    "summary": "Timing is everything: The Model Timing Agreement rcuster August 7, 2018 | 3:04PM Timing is everything: The Model Timing Agreement By Bruce Hoffman, Bureau of Competition The Bureau of Competition has undertaken several initiatives to streamline our merger review process in order…"
+    "published": "2017-08-31T12:57:30.000Z",
+    "summary": "Getting in Sync with HSR Timing Considerations rcuster August 31, 2017 | 8:57AM Getting in Sync with HSR Timing Considerations By Premerger Notification Office Staff, Bureau of Competition The Hart Scott Rodino (HSR) Act and Rules require that parties to certain mergers and acqu…"
   },
   {
-    "id": "7833f1ff",
-    "title": "“All” means All: Submit side agreements with an HSR filing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/12/all-means-all-submit-side-agreements-hsr-filing",
+    "id": "bfde3079",
+    "title": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/01/ftc-v-actavis-causing-pharma-companies-change-their-behavior",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-12-20T20:08:17.000Z",
-    "summary": "“All” means All: Submit side agreements with an HSR filing rcuster December 20, 2017 | 3:08PM “All” means All: Submit side agreements with an HSR filing By Bruce Hoffman, Bureau of Competition When preparing an HSR filing for a proposed acquisition, some practitioners counsel th…"
+    "published": "2016-01-13T18:00:25.000Z",
+    "summary": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? rcuster January 13, 2016 | 1:00PM Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? By Jamie Towey and Brad Albert, Bureau of Competition Since 2004, brand-name and generic drug manufacturers…"
   },
   {
-    "id": "388e9c75",
-    "title": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/corporate-or-non-corporate-new-approach-classifying-foreign-entities-under-hsr-rules",
+    "id": "4b14b68b",
+    "title": "Monitors: Expert eyes and ears in Commission orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/monitors-expert-eyes-ears-commission-orders",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-05-19T15:34:48.000Z",
-    "summary": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules rcuster May 19, 2016 | 11:34AM Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules By Premerger Notification Staff, Bureau of Competition Under the H…"
-  },
-  {
-    "id": "aecbe8d8",
-    "title": "A fine balance: toward efficient merger review",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/fine-balance-toward-efficient-merger-review",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-08-04T14:39:03.000Z",
-    "summary": "A fine balance: toward efficient merger review rcuster August 4, 2015 | 10:39AM A fine balance: toward efficient merger review By Debbie Feinstein, Bureau of Competition One of the key functions of the Bureau of Competition is to analyze mergers. Obtaining information through Se…"
-  },
-  {
-    "id": "82be18b4",
-    "title": "Separating fact from opinion",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/separating-fact-opinion",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-03-04T20:45:46.000Z",
-    "summary": "Separating fact from opinion rcuster March 4, 2015 | 3:45PM Separating fact from opinion By Rebecca Egeland and Dan Butrymowicz, Bureau of Competition Although FTC staff often rely on voluntary requests for information in the early stages of an investigation, the use of official…"
+    "published": "2015-07-14T15:59:06.000Z",
+    "summary": "Monitors: Expert eyes and ears in Commission orders afrey July 14, 2015 | 11:59AM Monitors: Expert eyes and ears in Commission orders By Susan Huber, Bureau of Competition The ability to appoint a monitor is an important tool in building a successful merger remedy. The boilerpla…"
   }
 ]
