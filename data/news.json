@@ -387,6 +387,17 @@
     "summary": "Autonomous agents are moving beyond simple retrieval tasks to become economic actors that invoke APIs, sequence workflows, and make real-time decisions. As this shift accelerates, API providers need request-level monetization with programmatic spend governance. The HTTP 402 prot…"
   },
   {
+    "id": "2fa734d2",
+    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-02T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
+  },
+  {
     "id": "d5ad6832",
     "title": "FTC Seeks Public Comment on Petition to Modify Northrop Grumman Final Order",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-petition-modify-northrop-grumman-final-order",
@@ -399,30 +410,6 @@
     ],
     "published": "2026-04-02T12:00:00.000Z",
     "summary": "The Federal Trade Commission is seeking public comment on a petition filed by Northrop Grumman Corporation requesting that the Commission reopen and set aside a final consent order involving Northrop Grumman’s 2018 acquisition of aerospace and defense contractor Orbital ATK. The…"
-  },
-  {
-    "id": "2fa734d2",
-    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-02T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
-  },
-  {
-    "id": "f5ccf492",
-    "title": "How Europe's Digital Omnibus Could Gut Privacy Protections",
-    "url": "https://techpolicy.press/how-europes-digital-omnibus-could-gut-privacy-protections",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-01T11:08:43.000Z",
-    "summary": ""
   },
   {
     "id": "93ad09c1",
@@ -464,19 +451,6 @@
     "summary": "Federal Trade Commission staff on Tuesday endorsed the Florida Supreme Court’s decision to eliminate the American Bar Association’s (ABA) status as the sole accrediting agency dictating the educational requirements to take the bar exam and become a licensed attorney in Florida.…"
   },
   {
-    "id": "c4f06fb8",
-    "title": "Inside ex-Amazon Exec’s Appointment to UK Competition Watchdog",
-    "url": "https://techpolicy.press/inside-examazon-execs-appointment-to-uk-competition-watchdog",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-31T08:07:29.000Z",
-    "summary": ""
-  },
-  {
     "id": "0746df70",
     "title": "Building the Palmetto API: Adding granular permissions and caching to the Slurm REST API without sacrificing compatibility",
     "url": "https://arxiv.org/abs/2603.29032v1",
@@ -486,32 +460,6 @@
     "tags": [],
     "published": "2026-03-30T21:50:15.000Z",
     "summary": "The development of administrative and computational research tools requires reliable programmatic interfaces with the cluster scheduler. The Research Computing and Data (RCD) team at Clemson University has developed the Palmetto API, a proxy for the native Slurm RESTful interfac…"
-  },
-  {
-    "id": "db2d83c2",
-    "title": "Digital Sovereignty in Europe Rests on Antitrust Battles Against US Tech",
-    "url": "https://techpolicy.press/digital-sovereignty-in-europe-rests-on-antitrust-battles-against-us-tech",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-30T13:53:48.000Z",
-    "summary": ""
-  },
-  {
-    "id": "e4d997cb",
-    "title": "The DSA Showed Teeth Against X but the EU Is Afraid to Call It a Win",
-    "url": "https://techpolicy.press/the-dsa-showed-teeth-against-x-but-the-eu-is-afraid-to-call-it-a-win",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-30T13:25:56.000Z",
-    "summary": ""
   },
   {
     "id": "ad95a3bb",
@@ -586,19 +534,6 @@
     "summary": "Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It…"
   },
   {
-    "id": "80b958b3",
-    "title": "As Competition Enforcers Gather, They Should Open the App Store Gates",
-    "url": "https://techpolicy.press/as-competition-enforcers-gather-they-should-open-the-app-store-gates",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-03-27T13:28:21.000Z",
-    "summary": ""
-  },
-  {
     "id": "72d73f82",
     "title": "U.S. v. The New York and Presbyterian Hospital",
     "url": "https://www.justice.gov/atr/case/us-v-new-york-and-presbyterian-hospital",
@@ -661,19 +596,6 @@
     "tags": [],
     "published": "2026-03-25T21:59:00.000Z",
     "summary": "Today, we’re announcing the v23.2 release of the Google Ads API. To use the new v23.2 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "e69a45db",
-    "title": "Landmark Verdicts Could Unleash New Legal Playbook Over Social Media Harms",
-    "url": "https://techpolicy.press/landmark-verdicts-could-unleash-new-legal-playbook-over-social-media-harms",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-03-25T21:24:11.000Z",
-    "summary": ""
   },
   {
     "id": "7e1649af",
