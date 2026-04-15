@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-04-15T10:37:27.824Z",
+  "generatedAt": "2026-04-15T14:03:17.444Z",
   "feedCount": 17,
-  "itemCount": 244,
-  "errors": [],
+  "itemCount": 219,
+  "errors": [
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,7 +79,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3455,
+      "fetched": 3458,
       "kept": 7,
       "error": null
     },
@@ -89,7 +96,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 2,
+      "kept": 3,
       "error": null
     },
     {
@@ -136,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
     }
   ]
 }
