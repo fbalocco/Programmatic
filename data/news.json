@@ -326,19 +326,6 @@
     "summary": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by…"
   },
   {
-    "id": "5ea58500",
-    "title": "FTC Takes Action Against TruHeight for Deceptive and Unsubstantiated Advertising of Supposed Height-Enhancing Supplements for Kids and Teens",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-truheight-deceptive-unsubstantiated-advertising-supposed-height-enhancing",
-    "source": "U.S. FTC Press Releases",
-    "sourceId": "ftc-press",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-04-13T12:00:00.000Z",
-    "summary": "Proposed settlement order requires TruHeight and its principals to pay $750,000; bars them from making false or unsupported health claims and using fake or incentivized consumer reviews Nevada-based Vanilla Chip LLC, which does business as TruHeight, and its two principals, Eden…"
-  },
-  {
     "id": "382dc0fe",
     "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
     "url": "https://arxiv.org/abs/2604.11045v1",
@@ -1472,6 +1459,17 @@
     "tags": [],
     "published": "2026-01-22T14:01:42.000Z",
     "summary": "At every major inflection point in programmatic advertising, the industry goes through a familiar phase. A powerful new idea emerges, and then the debate over what it actually means follows."
+  },
+  {
+    "id": "465cf222",
+    "title": "New HSR thresholds and filing fees for 2026",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-20T18:58:00.000Z",
+    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "31b557bf",
@@ -2951,19 +2949,6 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "717f4e88",
-    "title": "Eyes Wide Open: There are no blinders in merger reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-07-20T18:00:30.000Z",
-    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
-  },
-  {
     "id": "2ec6393e",
     "title": "HSR Filing Fees – Reminders and Tips",
     "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
@@ -2977,104 +2962,110 @@
     "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
   },
   {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
-  },
-  {
-    "id": "e43a3581",
-    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
+    "id": "ddfd4316",
+    "title": "Yes, we’re hiring another AD!",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-04-08T16:46:18.000Z",
+    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
+  },
+  {
+    "id": "6553e984",
+    "title": "HSR threshold adjustments and reportability for 2020",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-01-31T19:34:59.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+  },
+  {
+    "id": "fd4f6479",
+    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-03-20T20:57:15.000Z",
+    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
+  },
+  {
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
       "Policy"
     ],
-    "published": "2018-10-03T15:08:45.000Z",
-    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
   },
   {
-    "id": "89f7226d",
-    "title": "FTC at work outside the Beltway",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
+    "id": "27e7967f",
+    "title": "Protecting consumers by promoting competition",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-09-24T19:34:35.000Z",
-    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
+    "published": "2017-03-06T22:22:12.000Z",
+    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "94523b41",
+    "title": "Quo Vadis Post-Actavis?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2016-03-30T19:41:40.000Z",
+    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
+  },
+  {
+    "id": "e08384e1",
+    "title": "“Investment-only” means just that",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2015-08-24T21:25:05.000Z",
+    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
+  },
+  {
+    "id": "3022534e",
+    "title": "How to avoid common HSR filing mistakes with attachments",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
-  },
-  {
-    "id": "171c9d16",
-    "title": "Taking a hard look at the asset package",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2016-11-09T18:33:07.000Z",
-    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
-  },
-  {
-    "id": "dccaef13",
-    "title": "Unflattering resemblance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-01-13T18:18:49.000Z",
-    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
-  },
-  {
-    "id": "3e8d00f8",
-    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-01-08T18:05:44.000Z",
-    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
-  },
-  {
-    "id": "97295bbe",
-    "title": "FTC Milestones: Weighing in on weight loss cases",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2014-12-04T16:25:36.000Z",
-    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
+    "published": "2014-09-16T14:42:32.000Z",
+    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
   }
 ]
