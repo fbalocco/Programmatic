@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T14:08:22.164Z",
+  "generatedAt": "2026-04-20T16:20:04.816Z",
   "feedCount": 17,
   "itemCount": 242,
   "errors": [],
@@ -25,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 4,
+      "kept": 3,
       "error": null
     },
     {
