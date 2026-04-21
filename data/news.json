@@ -1,5 +1,53 @@
 [
   {
+    "id": "80367741",
+    "title": "Brands Want To Know How Well Their Affiliate Content Is Performing In The AI Age",
+    "url": "https://www.adexchanger.com/marketers/brands-want-to-know-how-well-their-affiliate-content-is-performing-in-the-ai-age/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-04-21T14:00:36.000Z",
+    "summary": "Partnerize has developed an an industry-wide standard to measure AI search performance and compensate publishers accordingly. The post Brands Want To Know How Well Their Affiliate Content Is Performing In The AI Age appeared first on AdExchanger."
+  },
+  {
+    "id": "1001f350",
+    "title": "Introducing Index Cloud: Bring Your Own Intelligence Inside the Exchange",
+    "url": "https://www.indexexchange.com/2026/04/21/introducing-index-cloud/",
+    "source": "Index Exchange Blog",
+    "sourceId": "indexexchange",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-04-21T13:15:00.000Z",
+    "summary": "Index Exchange launches Index Cloud, a neutral infrastructure layer for programmatic advertising. Learn how it works and see what partners are already building."
+  },
+  {
+    "id": "dcb77575",
+    "title": "The Tech Lab’s New Programmatic Governance Council Is So Over All The Ad Tech Drama",
+    "url": "https://www.adexchanger.com/technology/the-tech-labs-new-programmatic-governance-council-is-so-over-all-the-ad-tech-drama/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-04-21T13:00:35.000Z",
+    "summary": "Conversations about programmatic transparency are the industry’s equivalent of politics at Thanksgiving: Everyone agrees it matters, there’s disagreement on the details, and somebody usually storms off in a huff. Now, IAB Tech Lab is trying to keep everyone at the table long eno…"
+  },
+  {
+    "id": "0eb6d68c",
+    "title": "Going Global? Contextual AI Needs To Be Your Strategy",
+    "url": "https://www.adexchanger.com/content-studio/going-global-contextual-ai-needs-to-be-your-strategy/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-04-21T12:00:31.000Z",
+    "summary": "In the rush to scale globally, US brands are often content with “accidental attention.” But attention isn’t a lottery; it’s a strategy that requires a deep familiarity with context in real time. Let’s say a big brand or agency in the US or UK is launching campaigns across dozens…"
+  },
+  {
     "id": "bb999ea0",
     "title": "AI Is The New Ad Space",
     "url": "https://www.adexchanger.com/adexchanger-talks/ai-is-the-new-ad-space/",
@@ -52,19 +100,6 @@
     ],
     "published": "2026-04-20T21:30:25.000Z",
     "summary": "Documents filed on April 9, 2026 Response of Plaintiff United States to Public Comment on the Proposed Final Judgment Exhibit A"
-  },
-  {
-    "id": "5e3ce83b",
-    "title": "Training and Agentic Inference Strategies for LLM-based Manim Animation Generation",
-    "url": "https://arxiv.org/abs/2604.18364v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-20T14:54:06.000Z",
-    "summary": "Generating programmatic animation using libraries such as Manim presents unique challenges for Large Language Models (LLMs), requiring spatial reasoning, temporal sequencing, and familiarity with domain-specific APIs that are underrepresented in general pre-training data. A syst…"
   },
   {
     "id": "e04d29c0",
@@ -131,19 +166,6 @@
     "summary": "OpenAI’s push into advertising exposes a familiar economic tension. Plus: Social mixers teach people how to protect their data from Big Tech. The post Prompt For More Ads; Who Advertises The Advertisers? appeared first on AdExchanger."
   },
   {
-    "id": "514303f1",
-    "title": "Playing Psychic: Using Thought Trees to Predict Reasoning Models Accuracy on Coding Tasks",
-    "url": "https://arxiv.org/abs/2604.16931v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-18T09:30:36.000Z",
-    "summary": "Recent advances in large language models (LLMs) have shown that test-time scaling can substantially improve model performance on complex tasks, particularly in the coding domain. Under this paradigm, models use a larger token budget during inference to generate intermediate reas…"
-  },
-  {
     "id": "d9a6fb40",
     "title": "Reaching For More Reach",
     "url": "https://www.adexchanger.com/the-big-story/reaching-for-more-reach/",
@@ -192,41 +214,6 @@
     "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission (Agencies) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors, that was announced on Feb. 23, 2026."
   },
   {
-    "id": "df72721f",
-    "title": "Hot Take: YouTube Shouldn’t Rely On Creators To Convince Brands It’s TV",
-    "url": "https://www.adexchanger.com/ctv-roundup/hot-take-youtube-shouldnt-rely-on-creators-to-convince-brands-its-tv/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-04-17T05:15:41.000Z",
-    "summary": "Platforms using talent to corroborate sales pitches is nothing new – the TV upfronts have always included publishers peacocking their talent to impress buyers. But YouTube arguably juggles an additional obligation to act in accordance with its self-imposed competitive differenti…"
-  },
-  {
-    "id": "897a73b7",
-    "title": "Comic: ‘But, But… You Need A Licensing Deal!’",
-    "url": "https://www.adexchanger.com/comic-strip/comic-but-but-you-need-a-licensing-deal/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-04-17T04:15:26.000Z",
-    "summary": "Enjoy this weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem … The post Comic: ‘But, But… You Need A Licensing Deal!’ appeared first on AdExchanger."
-  },
-  {
-    "id": "0e05da51",
-    "title": "The OpenAI Pixel Has Landed; Amazon’s Credit Card Ban Triggers An Ad Boycott",
-    "url": "https://www.adexchanger.com/daily-news-roundup/the-openai-pixel-has-landed-amazons-credit-card-ban-triggers-an-ad-boycott/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-17T04:03:22.000Z",
-    "summary": "OpenAI has its own tracking pixel; Amazon sellers are boycotting the platform; and DirecTV hops on the CAPI bandwagon. The post The OpenAI Pixel Has Landed; Amazon’s Credit Card Ban Triggers An Ad Boycott appeared first on AdExchanger."
-  },
-  {
     "id": "d68d074d",
     "title": "The Rundown: Q1 dealmaking cools across ad tech and martech as AI remains the hottest ticket",
     "url": "https://digiday.com/marketing/the-rundown-q1-dealmaking-cools-across-ad-tech-and-martech-as-ai-remains-the-hottest-ticket/",
@@ -238,6 +225,17 @@
     ],
     "published": "2026-04-17T04:01:00.000Z",
     "summary": "LUMA Partners’ Q1 report notes the drag that macroeconomic uncertainty has had on dealmaking."
+  },
+  {
+    "id": "a94c2074",
+    "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-16T12:00:00.000Z",
+    "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
     "id": "fb9e5ddb",
@@ -277,30 +275,6 @@
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
-    "id": "4b55e25d",
-    "title": "Consciousness, Quantum Mechanics, and the Limits of Scientific Objectivism",
-    "url": "https://arxiv.org/abs/2604.14234v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-04-14T20:26:22.000Z",
-    "summary": "Consciousness and quantum mechanics are among the most puzzling phenomena studied in the sciences. Some scholars suggest they are related, though others think this claim commits a \"minimization of mystery\" fallacy. The aim of this programmatic paper is to draw attention to a les…"
-  },
-  {
-    "id": "fb137a9e",
-    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-    "url": "https://arxiv.org/abs/2604.13151v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-14T17:59:57.000Z",
-    "summary": "Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the problem space and exploit acquired knowledge effectively. However, systematically…"
-  },
-  {
     "id": "1bb1a9ff",
     "title": "April 2026 update to Display & Video 360 API",
     "url": "http://ads-developers.googleblog.com/2026/04/april-2026-update-to-display-video-360.html",
@@ -312,15 +286,17 @@
     "summary": "Today we’re announcing the April 2026 update to the Display & Video 360 API. This update includes the following: Support for additional Exchange and ThirdPartyVendor values. AdAsset identifier fields in objects used in AdGroupAd resources. Beta support for Demand Gen resource ma…"
   },
   {
-    "id": "91303bb6",
-    "title": "Multilingual Multi-Label Emotion Classification at Scale with Synthetic Data",
-    "url": "https://arxiv.org/abs/2604.12633v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-04-14T12:04:17.000Z",
-    "summary": "Emotion classification in multilingual settings remains constrained by the scarcity of annotated data: existing corpora are predominantly English, single-label, and cover few languages. We address this gap by constructing a large-scale synthetic training corpus of over 1M multi-…"
+    "id": "e10c0efc",
+    "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+    "url": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-04-14T12:00:00.000Z",
+    "summary": "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA). The template will help organisations structure, harmonise and e…"
   },
   {
     "id": "bc7f8bde",
@@ -349,56 +325,6 @@
     "summary": ""
   },
   {
-    "id": "73e19b80",
-    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-    "url": "https://arxiv.org/abs/2604.11784v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-04-13T17:52:04.000Z",
-    "summary": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by…"
-  },
-  {
-    "id": "382dc0fe",
-    "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
-    "url": "https://arxiv.org/abs/2604.11045v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-13T06:20:11.000Z",
-    "summary": "AI coding agents have become central to developer workflows, yet every existing solution locks its reasoning capabilities within a specific delivery form, such as a CLI, IDE plugin, or web application. This limitation creates systemic barriers when enterprises attempt to reuse t…"
-  },
-  {
-    "id": "dcfd86dc",
-    "title": "The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents",
-    "url": "https://arxiv.org/abs/2604.10577v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-04-12T10:52:42.000Z",
-    "summary": "Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injecti…"
-  },
-  {
-    "id": "dd674c08",
-    "title": "Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning",
-    "url": "https://arxiv.org/abs/2604.10383v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-11T23:51:13.000Z",
-    "summary": "Existing multi-agent video generation systems use LLM agents to orchestrate neural video generators, producing visually impressive but semantically unreliable outputs with no ground truth annotations. We present an agentic system that inverts this paradigm: instead of generating…"
-  },
-  {
     "id": "2bc14356",
     "title": "Merchant API is coming to Google Ads scripts starting April 22, 2026",
     "url": "http://ads-developers.googleblog.com/2026/04/merchant-api-is-coming-to-google-ads.html",
@@ -410,92 +336,15 @@
     "summary": "The Content API for Shopping will sunset on August 18, 2026, to be replaced by the Merchant API. This migration provides a shift toward more robust, scalable, and feature-rich integrations. For Google Ads scripts users, the Google Ads scripts editor will begin rolling out Mercha…"
   },
   {
-    "id": "14ae6770",
-    "title": "FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On",
-    "url": "https://arxiv.org/abs/2604.08526v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Identity"
-    ],
-    "published": "2026-04-09T17:57:50.000Z",
-    "summary": "Given a person and a garment image, virtual try-on (VTO) aims to synthesize a realistic image of the person wearing the garment, while preserving their original pose and identity. Although recent VTO methods excel at visualizing garment appearance, they largely overlook a crucia…"
-  },
-  {
-    "id": "171581fc",
-    "title": "A Hardware-Anchored Privacy Middleware for PII Sharing Across Heterogeneous Embedded Consumer Devices",
-    "url": "https://arxiv.org/abs/2604.07839v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-09T05:40:55.000Z",
-    "summary": "The rapid expansion of the Internet of Things (IoT) and smart home ecosystems has led to a fragmented landscape of user data management across consumer electronics (CE) such as Smart TVs, gaming consoles, and set-top boxes. Current onboarding processes on these devices are chara…"
-  },
-  {
-    "id": "01bea034",
-    "title": "LitXBench: A Benchmark for Extracting Experiments from Scientific Literature",
-    "url": "https://arxiv.org/abs/2604.07649v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-04-08T23:31:31.000Z",
-    "summary": "Aggregating experimental data from papers enables materials scientists to build better property prediction models and to facilitate scientific discovery. Recently, interest has grown in extracting not only single material properties but also entire experimental measurements. To…"
-  },
-  {
-    "id": "2e824e2d",
-    "title": "Self-Preference Bias in Rubric-Based Evaluation of Large Language Models",
-    "url": "https://arxiv.org/abs/2604.06996v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-08T12:13:53.000Z",
-    "summary": "LLM-as-a-judge has become the de facto approach for evaluating LLM outputs. However, judges are known to exhibit self-preference bias (SPB): they tend to favor outputs produced by themselves or by models from their own family. This skews evaluations and, thus, hinders model deve…"
-  },
-  {
-    "id": "0f1af627",
-    "title": "Riemann-Bench: A Benchmark for Moonshot Mathematics",
-    "url": "https://arxiv.org/abs/2604.06802v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Antitrust",
-      "AI"
-    ],
-    "published": "2026-04-08T08:16:37.000Z",
-    "summary": "Recent AI systems have achieved gold-medal-level performance on the International Mathematical Olympiad, demonstrating remarkable proficiency at competition-style problem solving. However, competition mathematics represents only a narrow slice of mathematical reasoning: problems…"
-  },
-  {
-    "id": "900d78a6",
-    "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
-    "url": "https://arxiv.org/abs/2604.06405v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
+    "id": "f9c5c9d8",
+    "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
     "tags": [],
-    "published": "2026-04-07T19:38:42.000Z",
-    "summary": "Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, and domain-specific conventions. BDI-Kit provides an extensible toolkit for schema and value matching. It exposes two complementary interfaces tailored…"
-  },
-  {
-    "id": "e16cbf19",
-    "title": "Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2604.06079v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-04-07T16:58:14.000Z",
-    "summary": "Graphics Program Synthesis is pivotal for interpreting and editing visual data, effectively facilitating the reverse-engineering of static visuals into editable TikZ code. While TikZ is the de facto standard for scientific schematics due to its programmatic flexibility, its requ…"
+    "published": "2026-04-09T12:00:00.000Z",
+    "summary": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its 2025 Annual Report. The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the Helsinki Statement on Enhanced Clarity, Sup…"
   },
   {
     "id": "dd37c161",
@@ -511,31 +360,6 @@
     "summary": "We're excited to announce the addition of new channels for the Data Manager API on our “Google Advertising and Measurement Community” Discord server. To join, just click this invite link and follow the onboarding guide. Our team will be on this server regularly to interact with…"
   },
   {
-    "id": "378d4a5b",
-    "title": "Sell-Side Decisioning for Media Owners: How To Create More Value in Programmatic",
-    "url": "https://www.indexexchange.com/2026/04/07/sell-side-decisioning-media-owners-more-value-programmatic/",
-    "source": "Index Exchange Blog",
-    "sourceId": "indexexchange",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-04-07T13:24:22.000Z",
-    "summary": "Sell-side decisioning is creating new avenues for media owners to build more resilient monetization strategies. See how you can take advantage of the opportunity."
-  },
-  {
-    "id": "7a942485",
-    "title": "JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing",
-    "url": "https://arxiv.org/abs/2604.05845v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "RTB",
-      "AI"
-    ],
-    "published": "2026-04-07T13:11:12.000Z",
-    "summary": "Auto-bidding services optimize real-time bidding strategies for advertisers under key performance indicator (KPI) constraints such as target return on investment and budget. However, uncertainties such as model prediction errors and feedback latency can cause bidding strategies…"
-  },
-  {
     "id": "a502465a",
     "title": "Introducing the Google Advertising and Measurement Developers Hub!",
     "url": "http://ads-developers.googleblog.com/2026/04/introducing-google-advertising-and.html",
@@ -549,41 +373,6 @@
     "summary": "We're excited to announce the launch of the new Google Advertising and Measurement Developers Hub! Come see the new site! Whether you're looking to automate campaigns, analyze performance, manage tags, or monetize your apps, the new hub is designed to make it easier to find the…"
   },
   {
-    "id": "7bddb13e",
-    "title": "CAGE: Bridging the Accuracy-Aesthetics Gap in Educational Diagrams via Code-Anchored Generative Enhancement",
-    "url": "https://arxiv.org/abs/2604.09691v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-06T14:57:34.000Z",
-    "summary": "Educational diagrams -- labeled illustrations of biological processes, chemical structures, physical systems, and mathematical concepts -- are essential cognitive tools in K-12 instruction. Yet no existing method can generate them both accurately and engagingly. Open-source diff…"
-  },
-  {
-    "id": "fcc45db1",
-    "title": "NBI-Slurm: Simplified submission of Slurm jobs with energy saving mode",
-    "url": "https://arxiv.org/abs/2604.04558v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-04-06T09:36:36.000Z",
-    "summary": "NBI-Slurm is a Perl package that provides a simplified, user-friendly interface for submitting and managing jobs on SLURM high-performance computing (HPC) clusters. It offers both a library of Perl modules for programmatic job management and a suite of command-line tools designe…"
-  },
-  {
-    "id": "77e1228d",
-    "title": "FTC Publishes New Strategic Plan",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
-  },
-  {
     "id": "805a7674",
     "title": "FTC Submits Annual Budget Request to Congress",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
@@ -595,17 +384,15 @@
     "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
   },
   {
-    "id": "3e4f636e",
-    "title": "ESL-Bench: An Event-Driven Synthetic Longitudinal Benchmark for Health Agents",
-    "url": "https://arxiv.org/abs/2604.02834v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-04-03T07:55:56.000Z",
-    "summary": "Longitudinal health agents must reason across multi-source trajectories that combine continuous device streams, sparse clinical exams, and episodic life events - yet evaluating them is hard: real-world data cannot be released at scale, and temporally grounded attribution questio…"
+    "id": "77e1228d",
+    "title": "FTC Publishes New Strategic Plan",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
   },
   {
     "id": "9f34eee8",
@@ -621,15 +408,15 @@
     "summary": "Document filed on April 1, 2026 Plea Agreement Information"
   },
   {
-    "id": "83ef47ee",
-    "title": "APEX: Agent Payment Execution with Policy for Autonomous Agent API Access",
-    "url": "https://arxiv.org/abs/2604.02023v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
+    "id": "2fa734d2",
+    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
     "tags": [],
-    "published": "2026-04-02T13:32:01.000Z",
-    "summary": "Autonomous agents are moving beyond simple retrieval tasks to become economic actors that invoke APIs, sequence workflows, and make real-time decisions. As this shift accelerates, API providers need request-level monetization with programmatic spend governance. The HTTP 402 prot…"
+    "published": "2026-04-02T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
   },
   {
     "id": "d5ad6832",
@@ -646,17 +433,6 @@
     "summary": "The Federal Trade Commission is seeking public comment on a petition filed by Northrop Grumman Corporation requesting that the Commission reopen and set aside a final consent order involving Northrop Grumman’s 2018 acquisition of aerospace and defense contractor Orbital ATK. The…"
   },
   {
-    "id": "2fa734d2",
-    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-02T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
-  },
-  {
     "id": "f5ccf492",
     "title": "How Europe's Digital Omnibus Could Gut Privacy Protections",
     "url": "https://techpolicy.press/how-europes-digital-omnibus-could-gut-privacy-protections",
@@ -668,31 +444,6 @@
     ],
     "published": "2026-04-01T11:08:43.000Z",
     "summary": ""
-  },
-  {
-    "id": "93ad09c1",
-    "title": "Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive",
-    "url": "https://arxiv.org/abs/2603.30028v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI",
-      "Policy"
-    ],
-    "published": "2026-03-31T17:27:12.000Z",
-    "summary": "This paper evaluates whether commercial large language models (LLMs) can function as reliable political advisory tools by comparing their outputs against official legislative reasoning. Using a dataset of 15 Romanian Senate law proposals paired with their official explanatory me…"
-  },
-  {
-    "id": "58d50f0c",
-    "title": "Terminal Agents Suffice for Enterprise Automation",
-    "url": "https://arxiv.org/abs/2604.00073v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-03-31T14:14:47.000Z",
-    "summary": "There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents built on abstractions such as Model Context Protocol (MCP) and web agents that…"
   },
   {
     "id": "0ded96d1",
@@ -735,17 +486,6 @@
     "summary": ""
   },
   {
-    "id": "0746df70",
-    "title": "Building the Palmetto API: Adding granular permissions and caching to the Slurm REST API without sacrificing compatibility",
-    "url": "https://arxiv.org/abs/2603.29032v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-03-30T21:50:15.000Z",
-    "summary": "The development of administrative and computational research tools requires reliable programmatic interfaces with the cluster scheduler. The Research Computing and Data (RCD) team at Clemson University has developed the Palmetto API, a proxy for the native Slurm RESTful interfac…"
-  },
-  {
     "id": "db2d83c2",
     "title": "Digital Sovereignty in Europe Rests on Antitrust Battles Against US Tech",
     "url": "https://techpolicy.press/digital-sovereignty-in-europe-rests-on-antitrust-battles-against-us-tech",
@@ -770,19 +510,6 @@
     ],
     "published": "2026-03-30T13:25:56.000Z",
     "summary": ""
-  },
-  {
-    "id": "ad95a3bb",
-    "title": "Structured Exploration and Exploitation of Label Functions for Automated Data Annotation",
-    "url": "https://arxiv.org/abs/2604.08578v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-03-28T04:19:33.000Z",
-    "summary": "High-quality labeled data is critical for training reliable machine learning and deep learning models, yet manual annotation remains costly and error-prone. Programmatic labeling addresses this challenge by using label functions (LFs), i.e., heuristic rules that automatically ge…"
   },
   {
     "id": "c0b7d15b",
@@ -912,6 +639,17 @@
     "summary": ""
   },
   {
+    "id": "1b177696",
+    "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-03-24T12:00:00.000Z",
+    "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institution…"
+  },
+  {
     "id": "1014ab9b",
     "title": "Announcing new Display & Video 360 API Discord channels and a documentation update!",
     "url": "http://ads-developers.googleblog.com/2026/03/announcing-new-display-video-360-api.html",
@@ -962,6 +700,42 @@
     "summary": "Google Ads is committed to providing a reliable and efficient environment for all advertisers. To ensure that our systems remain stable and that resources are allocated fairly, we are introducing a uniqueness check for Lookalike user lists that prevents the creation of duplicate…"
   },
   {
+    "id": "4d8db482",
+    "title": "Unlocking Brand Value Through the Sell Side",
+    "url": "https://www.indexexchange.com/2026/03/19/unlocking-brand-value-through-sell-side/",
+    "source": "Index Exchange Blog",
+    "sourceId": "indexexchange",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-03-19T13:00:00.000Z",
+    "summary": "Programmatic is evolving fast. Forward-thinking brands are investing in SSP partnerships to boost transparency, improve quality, and unlock better outcomes."
+  },
+  {
+    "id": "26081c13",
+    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-03-19T12:00:00.000Z",
+    "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Informatio…"
+  },
+  {
+    "id": "82000cee",
+    "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+    "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-03-19T12:00:00.000Z",
+    "summary": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025, the CEF's focus this year will shift to compliance with the obligations of transparency and informat…"
+  },
+  {
     "id": "69bde2b6",
     "title": "FTC Stops Proposed Merger of Leading Cataract-Surgery Device Makers",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-stops-proposed-merger-leading-cataract-surgery-device-makers",
@@ -988,6 +762,19 @@
     "summary": "Document filed on December 17, 2025 Superseding Indictment"
   },
   {
+    "id": "f253cfaf",
+    "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-03-12T12:00:00.000Z",
+    "summary": "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act. The Proposal aims to strengthen Europe’s biotechnology and bioman…"
+  },
+  {
     "id": "58475147",
     "title": "U.S. v. Robert Fay",
     "url": "https://www.justice.gov/atr/case/us-v-robert-fay",
@@ -999,6 +786,19 @@
     ],
     "published": "2026-03-11T19:15:19.000Z",
     "summary": "Document filed on October 1, 2025 Plea Agreement Information"
+  },
+  {
+    "id": "39c36908",
+    "title": "Stakeholder event on political advertising: agenda available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-03-06T12:00:00.000Z",
+    "summary": "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising, on 27 March 20…"
   },
   {
     "id": "126c42c9",
@@ -1025,6 +825,17 @@
     ],
     "published": "2026-03-04T16:46:00.000Z",
     "summary": "Starting on April 1, 2026, the Google Ads API will no longer accept new adopters of Customer Match. As with our recent announcement for the use of session attributes and IP address in click conversions in the Google Ads API, we’re recommending that new adopters of Customer Match…"
+  },
+  {
+    "id": "70391b58",
+    "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-03-03T12:00:00.000Z",
+    "summary": "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30. This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on…"
   },
   {
     "id": "89558888",
@@ -1097,6 +908,21 @@
     ],
     "published": "2026-02-24T13:21:25.000Z",
     "summary": "Document filed on February 20, 2026 Complaint"
+  },
+  {
+    "id": "973dcd91",
+    "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement",
+    "url": "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-02-23T12:00:00.000Z",
+    "summary": "Brussels, 23 February - EDPB Chair Anu Talus has signed a Joint Statement on AI-Generated Imagery and the Protection of Privacy on behalf of the EDPB. The statement, coordinated by the Global Privacy Assembly's (GPA) International Enforcement Cooperation Working Group (IEWG), re…"
   },
   {
     "id": "c55f1b5d",
@@ -1264,19 +1090,6 @@
     "summary": "Documents filed on January 29, 2026 Competitive Impact Statement United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
   },
   {
-    "id": "12a77283",
-    "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
-  },
-  {
     "id": "8c54dccf",
     "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
@@ -1288,6 +1101,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
+  },
+  {
+    "id": "12a77283",
+    "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
   },
   {
     "id": "3b994db4",
@@ -1387,17 +1213,6 @@
     "summary": "Today, the Federal Trade Commission filed a notice that it will appeal the U.S. District Court for the District of Columbia’s November 2025 ruling in favor of Meta Platforms, Inc. (“Meta”) in the FTC’s monopolization case against Meta. The appeal will be heard by the U.S. Court…"
   },
   {
-    "id": "292d894c",
-    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
-  },
-  {
     "id": "16f42fd4",
     "title": "FTC Announces 2026 Update of Jurisdictional and Fee Thresholds for Premerger Notification Filings",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-update-jurisdictional-fee-thresholds-premerger-notification-filings",
@@ -1409,6 +1224,17 @@
     ],
     "published": "2026-01-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds and a revised filing fee schedule under the Hart‑Scott‑Rodino (HSR) Antitrust Improvements Act of 1976. Section 7A(a)(2) of the Act requires the Commission to revise the jurisdictional thresholds annuall…"
+  },
+  {
+    "id": "292d894c",
+    "title": "FTC Announces 2026 Jurisdictional Threshold Updates for Interlocking Directorates",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-2026-jurisdictional-threshold-updates-interlocking-directorates",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has approved revised jurisdictional thresholds for Section 8 of the Clayton Act, which prohibits interlocking directorates. For 2026, thresholds under Section 8 of the Act that trigger prohibitions on certain interlocking memberships on corporate boa…"
   },
   {
     "id": "ec06020f",
@@ -1613,19 +1439,6 @@
     ],
     "published": "2025-12-03T15:25:55.000Z",
     "summary": "Document filed on November 14, 2025 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Index of Comments"
-  },
-  {
-    "id": "02f8ec37",
-    "title": "What the Disney and YouTube TV Dispute Revealed About Live Sports Streaming Behavior",
-    "url": "https://www.indexexchange.com/2025/11/18/disney-youtube-tv-dispute-live-sports-streaming-behavior/",
-    "source": "Index Exchange Blog",
-    "sourceId": "indexexchange",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2025-11-18T14:00:41.000Z",
-    "summary": "New Index Exchange data shows how live sports streaming audiences shifted during the Disney and YouTube TV dispute—and what marketers can do to stay ahead."
   },
   {
     "id": "46ebaafd",
@@ -2827,130 +2640,135 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "717f4e88",
-    "title": "Eyes Wide Open: There are no blinders in merger reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "id": "d323425e",
+    "title": "Protecting Americans at the gas pump through aggressive antitrust enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/protecting-americans-gas-pump-through-aggressive-antitrust-enforcement",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2021-09-21T14:54:49.000Z",
+    "summary": "Protecting Americans at the gas pump through aggressive antitrust enforcement jwolf September 21, 2021 | 10:54AM Protecting Americans at the gas pump through aggressive antitrust enforcement By Holly Vedova, Bureau of Competition The FTC is committed to policing gasoline and die…"
+  },
+  {
+    "id": "2ae65631",
+    "title": "Physician Group and Healthcare Facility Merger Study",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/04/physician-group-healthcare-facility-merger-study",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-07-20T18:00:30.000Z",
-    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+    "published": "2021-04-14T13:18:08.000Z",
+    "summary": "Physician Group and Healthcare Facility Merger Study bacree April 14, 2021 | 9:18AM Physician Group and Healthcare Facility Merger Study By Michael G. Vita, Deputy Director Research and Management, Bureau of Economics On January 14, 2020, the Federal Trade Commission (FTC) order…"
   },
   {
-    "id": "2ec6393e",
-    "title": "HSR Filing Fees – Reminders and Tips",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
+    "id": "322fef15",
+    "title": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually).",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/got-questions-about-hsr-rulemaking-well-answer-them-live-virtually",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-18T19:38:55.000Z",
-    "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
+    "published": "2020-10-19T16:55:53.000Z",
+    "summary": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually). bjames@ftc.gov October 19, 2020 | 12:55PM Got questions about the HSR Rulemaking? We’ll answer them live (virtually). By Kate Walsh and Ken Libby, Bureau of Competition The FTC welcomes comments on its r…"
   },
   {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
+    "id": "e90f4a0b",
+    "title": "Seeing the whole picture on avoidance devices",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/seeing-whole-picture-avoidance-devices",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-09-23T15:29:17.000Z",
+    "summary": "Seeing the whole picture on avoidance devices bjames@ftc.gov September 23, 2020 | 11:29AM Seeing the whole picture on avoidance devices By Premerger Notification Office Staff Under the Hart-Scott-Rodino (HSR) Act and Rules, parties cannot use a transaction structure for the purp…"
   },
   {
-    "id": "e43a3581",
-    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
+    "id": "29f3663f",
+    "title": "Real deadlines and real consequences",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-08-06T16:32:47.000Z",
+    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
+  },
+  {
+    "id": "b0b0cde1",
+    "title": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/then-now-down-road-trends-pharmaceutical-patent-settlements-after-ftc-v-actavis",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Policy"
     ],
-    "published": "2018-10-03T15:08:45.000Z",
-    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
+    "published": "2019-05-28T16:23:52.000Z",
+    "summary": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis bjames@ftc.gov May 28, 2019 | 12:23PM Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis By Jamie Towey and Brad Albert, Bureau of Competiti…"
   },
   {
-    "id": "89f7226d",
-    "title": "FTC at work outside the Beltway",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
+    "id": "9d6d6f65",
+    "title": "In submissions, brevity’s better",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/submissions-brevitys-better",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-09-24T19:34:35.000Z",
-    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
+    "published": "2019-05-02T19:34:51.000Z",
+    "summary": "In submissions, brevity’s better rcuster May 2, 2019 | 3:34PM In submissions, brevity’s better By Daniel Francis, Bureau of Competition In written submissions to the Bureau or the Commission, be brief, be direct, and avoid repeating points made in previous papers. Wherever possi…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "ceffa8ba",
+    "title": "Compliance reports: Reinforcing a commitment to effective orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2019-03-11T13:36:41.000Z",
+    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
+  },
+  {
+    "id": "9bc17167",
+    "title": "LBOs and the size of transaction test",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/10/lbos-size-transaction-test",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+    "published": "2016-10-06T18:21:43.000Z",
+    "summary": "LBOs and the size of transaction test rcuster October 6, 2016 | 2:21PM LBOs and the size of transaction test By Premerger Notification Office Staff, Bureau of Competition The Premerger Notification Office is often asked to give guidance on how to determine the value of a propose…"
   },
   {
-    "id": "171c9d16",
-    "title": "Taking a hard look at the asset package",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2016-11-09T18:33:07.000Z",
-    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
-  },
-  {
-    "id": "dccaef13",
-    "title": "Unflattering resemblance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
+    "id": "c4678ff9",
+    "title": "HSR Rule 802.5: the Investment Rental Property Exemption",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/hsr-rule-8025-investment-rental-property-exemption",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-01-13T18:18:49.000Z",
-    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
-  },
-  {
-    "id": "3e8d00f8",
-    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-01-08T18:05:44.000Z",
-    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
-  },
-  {
-    "id": "97295bbe",
-    "title": "FTC Milestones: Weighing in on weight loss cases",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2014-12-04T16:25:36.000Z",
-    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
+    "published": "2015-07-20T14:56:21.000Z",
+    "summary": "HSR Rule 802.5: the Investment Rental Property Exemption sgilliam July 20, 2015 | 10:56AM HSR Rule 802.5: the Investment Rental Property Exemption By Premerger Notification Staff, Bureau of Competition Every day, the PNO receives many inquiries for interpretations of the Hart-Sc…"
   }
 ]
