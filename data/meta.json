@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T10:44:06.461Z",
+  "generatedAt": "2026-04-23T14:08:16.422Z",
   "feedCount": 17,
-  "itemCount": 239,
+  "itemCount": 237,
   "errors": [],
   "stats": [
     {
@@ -25,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -72,8 +72,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3481,
-      "kept": 6,
+      "fetched": 3484,
+      "kept": 5,
       "error": null
     },
     {
