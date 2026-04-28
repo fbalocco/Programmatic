@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-27T21:35:00.257Z",
+  "generatedAt": "2026-04-28T01:08:02.974Z",
   "feedCount": 17,
-  "itemCount": 234,
+  "itemCount": 213,
   "errors": [
     {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "fetch failed"
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -79,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 3493,
+      "kept": 4,
+      "error": null
     },
     {
       "id": "edpb-news",
@@ -143,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     }
   ]
 }
