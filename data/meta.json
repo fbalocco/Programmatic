@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-05-01T04:35:47.679Z",
+  "generatedAt": "2026-05-01T07:10:22.256Z",
   "feedCount": 17,
-  "itemCount": 238,
-  "errors": [],
+  "itemCount": 176,
+  "errors": [
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    },
+    {
+      "id": "ftc-press-competition",
+      "name": "U.S. FTC Competition Press Releases",
+      "url": "https://www.ftc.gov/feeds/press-release-competition.xml",
+      "error": "fetch failed"
+    },
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "This operation was aborted"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -80,9 +99,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
@@ -96,9 +115,9 @@
       "id": "ftc-press-competition",
       "name": "U.S. FTC Competition Press Releases",
       "category": "Regulation",
-      "fetched": 30,
-      "kept": 30,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "ftc-competition-matters",
@@ -136,9 +155,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     }
   ]
 }
