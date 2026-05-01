@@ -1,7 +1,20 @@
 [
   {
+    "id": "d5a4cccc",
+    "title": "What’s POSSIBLE With AI",
+    "url": "https://www.adexchanger.com/the-big-story/whats-possible-with-ai/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-05-01T16:46:57.000Z",
+    "summary": "Take your sunglasses off for this one. Fresh off the POSSIBLE conference in Miami, our reporters debrief on how the marketing industry addressed the subject du jour, AI. Plus: the topics that were conspicuously absent from the conference. The post What’s POSSIBLE With AI appeare…"
+  },
+  {
     "id": "999f5c2e",
-    "title": "Possible 2026: AdExchanger’s Hot Takes",
+    "title": "POSSIBLE 2026: AdExchanger’s Hot Takes",
     "url": "https://www.adexchanger.com/ai/possible-2026-adexchangers-hot-takes/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
@@ -10,7 +23,21 @@
       "AI"
     ],
     "published": "2026-05-01T14:56:25.000Z",
-    "summary": "The fourth-annual Possible is in the books! AdExchanger Senior Editors Alyssa Boyle and Anthony Vargas were on the ground in Miami. Here are their takeaways from three days chatting about agentic AI in the Florida sun (other than some scattered showers). But the AI talk at Possi…"
+    "summary": "The fourth-annual POSSIBLE is in the books! AdExchanger Senior Editors Alyssa Boyle and Anthony Vargas were on the ground in Miami. Here are their takeaways from three days chatting about agentic AI in the Florida sun (other than some scattered showers). But the AI talk at POSSI…"
+  },
+  {
+    "id": "fe6b5655",
+    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
   },
   {
     "id": "3f5a0cac",
@@ -152,19 +179,6 @@
     ],
     "published": "2026-04-30T13:14:14.000Z",
     "summary": "Ad tech doesn’t suffer from a shortage of acronyms – but it does suffer from fragmented workflows. Brand suitability provider Zefr is trying to fix some of that fragmentation by using Model Context Protocol (MCP) as the plumbing that connects AI agents to advertiser data and too…"
-  },
-  {
-    "id": "5c34c04d",
-    "title": "Google Touts Its AI Ad Tech Adoption And New AI Max Features",
-    "url": "https://www.adexchanger.com/ai/google-touts-its-ai-ad-tech-adoption-and-new-ai-max-features/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-04-30T13:00:44.000Z",
-    "summary": "The past year has been momentous for AI search engine ads. That’s partly due to ChatGPT’s foray into advertising. But the big AI search ad platform in action right now is Google, which, on Thursday, announced new features and ad types for AI Max, its AI-based bidding product for…"
   },
   {
     "id": "808d032e",
@@ -446,19 +460,6 @@
     "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
-  },
-  {
     "id": "83999437",
     "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
@@ -481,6 +482,19 @@
     "tags": [],
     "published": "2026-04-15T12:00:00.000Z",
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
+  },
+  {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
   },
   {
     "id": "4b55e25d",
@@ -1315,17 +1329,6 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1338,6 +1341,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1512,17 +1526,6 @@
     "summary": "At every major inflection point in programmatic advertising, the industry goes through a familiar phase. A powerful new idea emerges, and then the debate over what it actually means follows."
   },
   {
-    "id": "465cf222",
-    "title": "New HSR thresholds and filing fees for 2026",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-20T18:58:00.000Z",
-    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
-  },
-  {
     "id": "31b557bf",
     "title": "FTC Appeals Ruling in Meta Monopolization Case",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
@@ -1637,20 +1640,6 @@
     "summary": "Today, the Federal Trade Commission took its latest enforcement action to free American workers from labor practices that limit wage and job growth by ordering building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcem…"
   },
   {
-    "id": "3b6e1599",
-    "title": "Department of Justice Files Statement of Interest Supporting Competition Among Real Estate Brokerages",
-    "url": "https://www.justice.gov/opa/pr/department-justice-files-statement-interest-supporting-competition-among-real-estate",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2025-12-19T12:00:00.000Z",
-    "summary": "Today, the Antitrust Division of the Department of Justice filed a statement of interest in the U.S. District Court for the Eastern District of Pennsylvania in the case of Davis et al. v. Hanna Holdings Inc. The lawsuit, brought by homebuyers, alleges that real-estate brokerages…"
-  },
-  {
     "id": "84f82dba",
     "title": "Exploring the Future of AI in Advertising With IPG",
     "url": "https://www.indexexchange.com/2025/12/18/exploring-future-ai-advertising-ipg/",
@@ -1684,20 +1673,6 @@
     "tags": [],
     "published": "2025-12-15T14:03:56.000Z",
     "summary": "Programmatic advertising is undergoing a major transformation. Increasingly, media buyers are recognizing the value of being one step closer to ..."
-  },
-  {
-    "id": "fb05c4de",
-    "title": "FTC Sues to Stop Loctite, Liquid Nails Construction Adhesive Merger",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-sues-stop-loctite-liquid-nails-construction-adhesive-merger",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2025-12-11T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission sued to block Henkel AG & Co. KGaA (Henkel), the manufacturer of the industry-leading Loctite brand construction adhesives, from acquiring Loctite’s main competitor, Liquid Nails. The FTC’s enforcement action seeks to lower the cost of housing…"
   },
   {
     "id": "95c459b6",
@@ -1895,6 +1870,17 @@
     ],
     "published": "2025-06-23T17:01:43.000Z",
     "summary": "Document filed on January 27, 2025 Plea Agreement"
+  },
+  {
+    "id": "74a6f70b",
+    "title": "First Research Published from Physician 6(b) Study",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/06/first-research-published-physician-6b-study",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2025-06-16T18:41:12.000Z",
+    "summary": "First Research Published from Physician 6(b) Study bacree June 16, 2025 | 2:41PM First Research Published from Physician 6(b) Study By Tom Koch (Acting DAD, BE Office of Applied Research and Outreach) and Ted Rosenbaum (Acting BE Director) We are excited to announce the publicat…"
   },
   {
     "id": "2b45c4b4",
@@ -2155,6 +2141,19 @@
     ],
     "published": "2024-11-15T01:57:26.000Z",
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
+  },
+  {
+    "id": "8c079b48",
+    "title": "Planning for the new HSR Form",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2024-11-12T15:30:21.000Z",
+    "summary": "Planning for the new HSR Form bjames@ftc.gov November 12, 2024 | 10:30AM Planning for the new HSR Form By Bureau of Competition As antitrust practitioners know, parties to certain mergers and acquisitions are required to submit premerger notification forms that disclose informat…"
   },
   {
     "id": "d566b766",
@@ -2912,61 +2911,83 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "ddfd4316",
-    "title": "Yes, we’re hiring another AD!",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
+    "id": "7eec9f35",
+    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-04-08T16:46:18.000Z",
-    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
+    "published": "2021-03-19T13:25:32.000Z",
+    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
   },
   {
-    "id": "6553e984",
-    "title": "HSR threshold adjustments and reportability for 2020",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
+    "id": "2bde3954",
+    "title": "The closest competitor is not the only competitor",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/12/closest-competitor-not-only-competitor",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-01-31T19:34:59.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+    "published": "2019-12-09T19:06:57.000Z",
+    "summary": "The closest competitor is not the only competitor bjames@ftc.gov December 9, 2019 | 2:06PM The closest competitor is not the only competitor By Stephen Mohr, Bureau of Competition More and more, merging parties argue that their merger does not raise competition concerns because…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "93dde92c",
+    "title": "Developing the Antitrust Bar",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+    "published": "2019-10-31T21:20:10.000Z",
+    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
   },
   {
-    "id": "fd4f6479",
-    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
+    "id": "3dbaa1e1",
+    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2018-03-01T16:54:32.000Z",
+    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
+  },
+  {
+    "id": "07d03c6a",
+    "title": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/voices-liberty-videos-fireside-chat-participants-explain-burdens-unnecessary-occupational-licensing",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2018-01-17T18:55:23.000Z",
+    "summary": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing rgiura January 17, 2018 | 1:55PM Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing By Tara Koslov, Office of…"
+  },
+  {
+    "id": "72a86d63",
+    "title": "Looking back (again) at FTC merger remedies",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/02/looking-back-again-ftc-merger-remedies",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-03-20T20:57:15.000Z",
-    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
+    "published": "2017-02-03T13:46:03.000Z",
+    "summary": "Looking back (again) at FTC merger remedies rgiura February 3, 2017 | 8:46AM Looking back (again) at FTC merger remedies By Dan Ducore and Naomi Licker, Bureau of Competition The newly released Remedy Study is the culmination of nearly two years of effort by FTC staff to look ba…"
   },
   {
-    "id": "48374fa8",
-    "title": "Vertical mergers, yesterday and today",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "id": "6d8e0ceb",
+    "title": "Direct-to-consumer auto sales: It’s not just about Tesla",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/direct-consumer-auto-sales-its-not-just-about-tesla",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2974,61 +2995,18 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2018-01-19T22:21:51.000Z",
-    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
+    "published": "2015-05-11T15:00:39.000Z",
+    "summary": "Direct-to-consumer auto sales: It’s not just about Tesla cwarner May 11, 2015 | 11:00AM Direct-to-consumer auto sales: It’s not just about Tesla By Marina Lao, Debbie Feinstein, and Francine Lafontaine A fundamental principle of competition is that consumers – not regulation – s…"
   },
   {
-    "id": "27e7967f",
-    "title": "Protecting consumers by promoting competition",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
+    "id": "46a6cce0",
+    "title": "FTC Milestones: Shared beginnings in the Circle Cilk case",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-shared-beginnings-circle-cilk-case",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2017-03-06T22:22:12.000Z",
-    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
-  },
-  {
-    "id": "94523b41",
-    "title": "Quo Vadis Post-Actavis?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2016-03-30T19:41:40.000Z",
-    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
-  },
-  {
-    "id": "e08384e1",
-    "title": "“Investment-only” means just that",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2015-08-24T21:25:05.000Z",
-    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
-  },
-  {
-    "id": "3022534e",
-    "title": "How to avoid common HSR filing mistakes with attachments",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-09-16T14:42:32.000Z",
-    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
+    "tags": [],
+    "published": "2014-11-06T19:05:13.000Z",
+    "summary": "FTC Milestones: Shared beginnings in the Circle Cilk case rcuster November 6, 2014 | 2:05PM FTC Milestones: Shared beginnings in the Circle Cilk case By Lesley Fair, Bureau of Consumer Protection In celebration of the FTC’s 100th anniversary, we’ve been examining the leaves on o…"
   }
 ]
