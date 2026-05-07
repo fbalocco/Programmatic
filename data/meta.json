@@ -1,21 +1,8 @@
 {
-  "generatedAt": "2026-05-07T15:56:11.796Z",
+  "generatedAt": "2026-05-07T18:50:43.815Z",
   "feedCount": 17,
-  "itemCount": 212,
-  "errors": [
-    {
-      "id": "edpb-news",
-      "name": "European Data Protection Board (News)",
-      "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "This operation was aborted"
-    }
-  ],
+  "itemCount": 246,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -85,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3530,
+      "fetched": 3531,
       "kept": 7,
       "error": null
     },
@@ -93,16 +80,16 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "ftc-press",
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 5,
+      "kept": 4,
       "error": null
     },
     {
@@ -126,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 13,
+      "kept": 12,
       "error": null
     },
     {
@@ -149,9 +136,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
