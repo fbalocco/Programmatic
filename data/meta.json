@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-09T21:28:26.038Z",
+  "generatedAt": "2026-05-10T01:15:00.852Z",
   "feedCount": 17,
-  "itemCount": 246,
+  "itemCount": 223,
   "errors": [
     {
-      "id": "marketingdive",
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/feeds/news/",
-      "error": "HTTP 503 Service Unavailable — <!DOCTYPE html> <html> <head> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> </head> <title>Error Loading Page</title> <style> body { font: 16px/26px Oxyg"
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -31,9 +31,9 @@
       "id": "marketingdive",
       "name": "Marketing Dive",
       "category": "Industry",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 503 Service Unavailable — <!DOCTYPE html> <html> <head> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> </head> <title>Error Loading Page</title> <style> body { font: 16px/26px Oxyg"
+      "fetched": 10,
+      "kept": 2,
+      "error": null
     },
     {
       "id": "indexexchange",
@@ -143,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     }
   ]
 }
