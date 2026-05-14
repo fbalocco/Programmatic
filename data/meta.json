@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T18:52:07.226Z",
+  "generatedAt": "2026-05-14T21:39:48.069Z",
   "feedCount": 17,
-  "itemCount": 250,
+  "itemCount": 249,
   "errors": [],
   "stats": [
     {
@@ -120,7 +120,7 @@
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 130,
+      "fetched": 131,
       "kept": 80,
       "error": null
     },
