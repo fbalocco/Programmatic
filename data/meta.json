@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T07:44:13.969Z",
+  "generatedAt": "2026-05-18T10:43:00.794Z",
   "feedCount": 17,
   "itemCount": 221,
   "errors": [
@@ -7,7 +7,7 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -96,7 +96,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 3,
+      "kept": 4,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "Research",
       "fetched": 0,
       "kept": 0,
-      "error": "HTTP 429 Unknown Error — Rate exceeded."
+      "error": "This operation was aborted"
     }
   ]
 }
