@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-20T16:22:33.671Z",
+  "generatedAt": "2026-05-20T19:03:17.011Z",
   "feedCount": 17,
-  "itemCount": 218,
+  "itemCount": 236,
   "errors": [
     {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "HTTP 429 Too Many Requests — Rate exceeded."
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -79,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3566,
-      "kept": 8,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
@@ -120,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 11,
+      "kept": 12,
       "error": null
     },
     {
@@ -143,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 429 Too Many Requests — Rate exceeded."
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
