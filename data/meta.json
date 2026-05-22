@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-05-22T16:03:33.849Z",
+  "generatedAt": "2026-05-22T18:51:56.606Z",
   "feedCount": 17,
-  "itemCount": 218,
-  "errors": [
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "This operation was aborted"
-    }
-  ],
+  "itemCount": 243,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -127,7 +120,7 @@
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 136,
+      "fetched": 137,
       "kept": 80,
       "error": null
     },
@@ -143,9 +136,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
