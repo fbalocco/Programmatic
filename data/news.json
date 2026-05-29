@@ -1,5 +1,18 @@
 [
   {
+    "id": "8599619b",
+    "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
+    "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-05-29T00:10:20.000Z",
+    "summary": "Document filed on May 27, 2026 Asset Preservation and Hold Separate Stipulation and Order"
+  },
+  {
     "id": "f619ba3f",
     "title": "Measured Has A New Tool That Lets Marketers Chat With Their Incrementality Data",
     "url": "https://www.adexchanger.com/measurement/measured-has-a-new-tool-that-lets-marketers-chat-with-their-incrementality-data/",
@@ -79,17 +92,6 @@
     "summary": "Oscar Rondon, vice president, data and measurement solutions, Nexxen Today’s TV advertising doesn’t have a data problem; it has an execution problem. The industry has never been richer in signals, ranging from contextual intelligence to identity graphs, outcome measurement to an…"
   },
   {
-    "id": "7f8e6166",
-    "title": "PhyloFrame: A DataFrame-based Library for Fast, Flexible Phylogenetic Computation",
-    "url": "https://arxiv.org/abs/2605.28545v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-27T14:36:33.000Z",
-    "summary": "PhyloFrame is a Python library for phylogenetic computation targeting the gap between specialist, compiler-optimized operations and flexible, script-based workflows -- with emphasis on fast, memory-efficient operations for very large tree sizes (e.g., $\\geq$ 300,000 taxa). Phylo…"
-  },
-  {
     "id": "0daed6cf",
     "title": "How Much Are Bots Costing You? IAB Tech Lab Wants Content Owners To Find Out",
     "url": "https://www.adexchanger.com/ai/how-much-are-bots-costing-you-iab-tech-lab-wants-content-owners-to-find-out/",
@@ -150,19 +152,6 @@
     "summary": "Publicis’ LiveRamp deal forces marketers to confront who controls their data, reshaping the neutrality debate around ad tech infrastructure."
   },
   {
-    "id": "69b545e7",
-    "title": "AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?",
-    "url": "https://arxiv.org/abs/2605.27705v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-26T21:27:16.000Z",
-    "summary": "Video production workflows offer a rich and demanding arena for evaluating multimodal AI agents: they require composite capabilities across text, image, audio, and video understanding, along with long-horizon planning, and tool use. To this end, we introduce AgenticVBench, a ben…"
-  },
-  {
     "id": "d726a920",
     "title": "U.S. and Plaintiff States v. Agri Stats, Inc.",
     "url": "https://www.justice.gov/atr/case/us-v-agri-stats-inc",
@@ -185,66 +174,6 @@
     "summary": "Has Spotify ever described your musical taste as “yacht rock coastal grandmother” or “divorced dad hipster”? Even if Spotify’s very specific-sounding labels don’t exactly describe who you are, they probably accurately capture the vibe of your listening habits – and help explain…"
   },
   {
-    "id": "464fde94",
-    "title": "Debate Helps Weak Judges Reward Stronger Models",
-    "url": "https://arxiv.org/abs/2605.27483v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-26T13:02:35.000Z",
-    "summary": "Despite theoretical promise, debate as a scalable oversight protocol has produced mixed empirical results: gains in some settings, and null effects in others, especially when the judge does not have information hidden from it. We study proposer-critic debate in a stronger-debate…"
-  },
-  {
-    "id": "9e2c7ee4",
-    "title": "Memory Architectures for Multi-Turn Text-to-SQL: A Benchmark and Empirical Study",
-    "url": "https://arxiv.org/abs/2605.26394v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-25T23:52:15.000Z",
-    "summary": "Multi-turn Text-to-SQL is central to enterprise analytics yet remains predominantly evaluated in single-turn settings. We introduce EnterpriseMem-Bench, a multi-turn Text-to-SQL benchmark of 300 sessions and 1,400 turns built programmatically from three enterprise domains (BIRD…"
-  },
-  {
-    "id": "6c82c59b",
-    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-    "url": "https://arxiv.org/abs/2605.26114v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-25T17:59:49.000Z",
-    "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two capabilities previously out of reach for everyday apps: verifiable outcome signals…"
-  },
-  {
-    "id": "0650ffde",
-    "title": "GeoMathCode: Understanding Interleaved Math-Code Reasoning for Geometry Problem Solving",
-    "url": "https://arxiv.org/abs/2605.25384v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-25T03:21:12.000Z",
-    "summary": "Mathematical reasoning is a hallmark of human intelligence, requiring logical deduction, symbolic manipulation, and abstract thinking. Recent multimodal large language models (MLLMs) have demonstrated strong performance on geometry problems through multi-step reasoning. To bette…"
-  },
-  {
-    "id": "8599619b",
-    "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
-    "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-22T22:43:28.000Z",
-    "summary": "Documents posted on May 21, 2026 United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Asset Preservation and Hold Separate Stipulation and Order Proposed Final Judgment Complaint"
-  },
-  {
     "id": "9ccc1700",
     "title": "U.S. and Plaintiff States v. Google LLC [2020]",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc",
@@ -254,28 +183,6 @@
     "tags": [],
     "published": "2026-05-22T17:47:05.000Z",
     "summary": "Documents posted on May 20, 2026 Joint Status Report Appendix A"
-  },
-  {
-    "id": "1be6a9e4",
-    "title": "SFG-ROS: A Resource-Aware Framework for Dense Multi-Agent Perception",
-    "url": "https://arxiv.org/abs/2605.23832v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-22T16:41:12.000Z",
-    "summary": "Deploying heterogeneous multi-agent robot fleets for collaborative perception requires robust data exchange and scalable software architectures. However, standard ROS 2 implementations often suffer from network saturation, namespace collisions, and severe computational overhead…"
-  },
-  {
-    "id": "533ab02a",
-    "title": "Less Effort, Shorter Proofs: Reinforcement Learning for Security Protocol Analysis in Tamarin",
-    "url": "https://arxiv.org/abs/2605.23643v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-22T13:55:11.000Z",
-    "summary": "Tools like Tamarin and ProVerif have achieved notable success in analyzing and verifying complex real-world protocols such as EMV, 5G, and WPA2, even detecting zero-day exploits. Despite these successes, verifying such protocols remains a time-consuming, challenging task, often…"
   },
   {
     "id": "12aa6a92",
@@ -289,30 +196,6 @@
     ],
     "published": "2026-05-22T12:23:33.000Z",
     "summary": ""
-  },
-  {
-    "id": "f94924bb",
-    "title": "Unextractable Protocol Models: Collaborative Training and Inference without Weight Materialization",
-    "url": "https://arxiv.org/abs/2605.23464v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-22T10:24:57.000Z",
-    "summary": "We consider a decentralized setup in which the participants collaboratively train and serve a large neural network, and where each participant only processes a subset of the model. In this setup, we explore the possibility of unmaterializable weights, where a full weight set is…"
-  },
-  {
-    "id": "1831b5e6",
-    "title": "SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience",
-    "url": "https://arxiv.org/abs/2605.23162v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-05-22T02:30:54.000Z",
-    "summary": "Urban decarbonization requires scaling rooftop solar across millions of fragmented producers, yet cities face a fundamental tension: energy data is easily manipulated, and economic incentives often reward speculation rather than actual infrastructure deployment. We present Solar…"
   },
   {
     "id": "deb47892",
@@ -363,54 +246,6 @@
     "summary": "Document posted on May 18, 2026 Stipulated Protective Order"
   },
   {
-    "id": "9f2de0a4",
-    "title": "Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization",
-    "url": "https://arxiv.org/abs/2605.21751v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-20T21:25:41.000Z",
-    "summary": "Text-to-optimization requires two separable capabilities: modeling -- choosing the right optimization structure -- and binding -- grounding every coefficient, index, and parameter in the concrete problem data. We study this via Text2Opt-Bench, a scalable benchmark of solver-veri…"
-  },
-  {
-    "id": "c57649b7",
-    "title": "Support-aware offline policy selection for advertising marketplaces",
-    "url": "https://arxiv.org/abs/2605.21736v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "RTB"
-    ],
-    "published": "2026-05-20T20:57:18.000Z",
-    "summary": "Logged advertising auctions make offline reserve-price evaluation attractive but risky. Replay tables can identify policies with large apparent yield gains, yet they can also hide weak threshold support, multiple-comparison effects, subgroup harm, and bidder-response uncertainty…"
-  },
-  {
-    "id": "4f616537",
-    "title": "How to Build Marcus's Algebraic Mind: Algebro-Deterministic Substrate over Galois Fields",
-    "url": "https://arxiv.org/abs/2605.21379v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-20T16:40:27.000Z",
-    "summary": "In The Algebraic Mind, Gary Marcus identified three components essential for any adequate cognitive architecture: operations over variables, recursively structured representations, and a distinction between mental representations of individuals and kinds. He argued that standard…"
-  },
-  {
-    "id": "bedd2b2a",
-    "title": "TextSculptor: Training and Benchmarking Scene Text Editing",
-    "url": "https://arxiv.org/abs/2605.21090v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-20T12:22:26.000Z",
-    "summary": "Recent advances in Multimodal Large Language Models (MLLMs) and diffusion-based generative models have substantially improved prompt-driven image editing. However, scene text editing remains challenging, as it requires models to precisely modify textual content while preserving…"
-  },
-  {
     "id": "419d970d",
     "title": "Antitrust Division Secures Seed Tying and Loyalty Program Commitments from Bayer",
     "url": "https://www.justice.gov/opa/pr/antitrust-division-secures-seed-tying-and-loyalty-program-commitments-bayer",
@@ -446,139 +281,6 @@
     "tags": [],
     "published": "2026-05-20T00:18:42.000Z",
     "summary": "Document posted on January 22, 2026 Superseding Indictment"
-  },
-  {
-    "id": "9f55c9d8",
-    "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
-    "url": "https://arxiv.org/abs/2605.19587v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-19T09:31:04.000Z",
-    "summary": "Indoor scene synthesis underpins embodied AI, robotic manipulation, and simulation-based policy evaluation, where a useful scene must specify not only what the environment looks like, but also how its objects are structured. Existing pipelines, however, typically represent gener…"
-  },
-  {
-    "id": "ea68fe22",
-    "title": "CaptchaMind: Training CAPTCHA Solvers via Reinforcement Learning with Explicit Reasoning Supervision",
-    "url": "https://arxiv.org/abs/2605.19538v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-19T08:38:44.000Z",
-    "summary": "CAPTCHAs are widely deployed as human verification mechanisms and frequently block intelligent agents from completing end-to-end automation in real-world web environments. Solving modern CAPTCHAs requires robust multi-step visual reasoning and interaction capabilities, yet train…"
-  },
-  {
-    "id": "dcc5252d",
-    "title": "PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning",
-    "url": "https://arxiv.org/abs/2605.19382v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-19T05:28:54.000Z",
-    "summary": "Programmatic video generation through code offers geometric precision and temporal coherence beyond pixel-level diffusion models, yet rigorously evaluating whether language models can produce spatially correct animated outputs remains an open problem. We introduce PRISM, a large…"
-  },
-  {
-    "id": "c687c5d5",
-    "title": "General Preference Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2605.18721v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-18T17:50:27.000Z",
-    "summary": "Post-training has split large language model (LLM) alignment into two largely disconnected tracks. Online reinforcement learning (RL) with verifiable rewards drives emergent reasoning on math and code but depends on a programmatic verifier that cannot reach open-ended tasks, whi…"
-  },
-  {
-    "id": "da3edcd0",
-    "title": "DiPRL: Learning Discrete Programmatic Policies via Architecture Entropy Regularization",
-    "url": "https://arxiv.org/abs/2605.18508v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-18T15:01:15.000Z",
-    "summary": "Programmatic reinforcement learning (PRL) offers an interpretable alternative to deep reinforcement learning by representing policies as human-readable and -editable programs. While gradient-based methods have been developed to optimize continuous relaxations of programs, they f…"
-  },
-  {
-    "id": "5ba1a882",
-    "title": "Scheduling That Speaks: An Interpretable Programmatic Reinforcement Learning Framework",
-    "url": "https://arxiv.org/abs/2605.18454v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-18T14:19:59.000Z",
-    "summary": "Deep reinforcement learning (DRL) has recently emerged as a promising approach to solve combinatorial optimization problems such as job shop scheduling. However, the policies learned by DRL are typically represented by deep neural networks (DNNs), whose opaque neural architectur…"
-  },
-  {
-    "id": "fccd920b",
-    "title": "Scalable Environments Drive Generalizable Agents",
-    "url": "https://arxiv.org/abs/2605.18181v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-05-18T10:24:05.000Z",
-    "summary": "Generalizable agents should adapt to diverse tasks and unseen environments beyond their training distribution. This position paper argues that such generalization requires environment scaling: expanding the distribution of executable rule-sets that agents interact with, rather t…"
-  },
-  {
-    "id": "a7151f49",
-    "title": "ContractBench: Can LLM Agents Preserve Observation Contracts?",
-    "url": "https://arxiv.org/abs/2605.17281v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-17T06:37:04.000Z",
-    "summary": "Tool-augmented LLM agents call APIs whose intermediate outputs, such as presigned URLs, session tokens, and OAuth state parameters, are observation contracts: artifacts whose later use is constrained by the external system that produced them. We show that observation contract co…"
-  },
-  {
-    "id": "caa1cadd",
-    "title": "A2RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation",
-    "url": "https://arxiv.org/abs/2605.17278v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-17T06:14:20.000Z",
-    "summary": "Abstract reasoning ability reflects the intelligence and generalization capacity of LLMs to extract and apply abstract rules. However, accurately measuring this ability remains challenging: existing benchmarks either rely on expensive manual annotation, limiting their scale, or…"
-  },
-  {
-    "id": "1f1a9823",
-    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play",
-    "url": "https://arxiv.org/abs/2605.16727v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-16T00:29:35.000Z",
-    "summary": "We introduce PopuLoRA, a population-based asymmetric self-play framework for reinforcement learning with verifiable rewards (RLVR) post-training of LLMs. Teachers and students are specialised LoRA adapters on a shared frozen base: teachers propose problems, matched students solv…"
-  },
-  {
-    "id": "5a82abc8",
-    "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
-    "url": "https://arxiv.org/abs/2605.16205v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-05-15T17:23:08.000Z",
-    "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent sees, (2) how it reasons, and (3) how tasks are decomposed across components. Yet practitioners lack guidance on which des…"
   },
   {
     "id": "561304cb",
@@ -1710,6 +1412,17 @@
     "tags": [],
     "published": "2026-01-22T14:01:42.000Z",
     "summary": "At every major inflection point in programmatic advertising, the industry goes through a familiar phase. A powerful new idea emerges, and then the debate over what it actually means follows."
+  },
+  {
+    "id": "465cf222",
+    "title": "New HSR thresholds and filing fees for 2026",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-20T18:58:00.000Z",
+    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "31b557bf",
@@ -2907,54 +2620,30 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "2ec6393e",
-    "title": "HSR Filing Fees – Reminders and Tips",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
+    "id": "ddfd4316",
+    "title": "Yes, we’re hiring another AD!",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-18T19:38:55.000Z",
-    "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
+    "published": "2020-04-08T16:46:18.000Z",
+    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
   },
   {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
-  },
-  {
-    "id": "e43a3581",
-    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2018-10-03T15:08:45.000Z",
-    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
-  },
-  {
-    "id": "89f7226d",
-    "title": "FTC at work outside the Beltway",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
+    "id": "6553e984",
+    "title": "HSR threshold adjustments and reportability for 2020",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-09-24T19:34:35.000Z",
-    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
+    "published": "2020-01-31T19:34:59.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
     "id": "f588e36b",
@@ -2970,67 +2659,84 @@
     "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
   },
   {
-    "id": "171c9d16",
-    "title": "Taking a hard look at the asset package",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2016-11-09T18:33:07.000Z",
-    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
-  },
-  {
-    "id": "dccaef13",
-    "title": "Unflattering resemblance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
+    "id": "fd4f6479",
+    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-01-13T18:18:49.000Z",
-    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
+    "published": "2018-03-20T20:57:15.000Z",
+    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
   },
   {
-    "id": "3e8d00f8",
-    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
+  },
+  {
+    "id": "27e7967f",
+    "title": "Protecting consumers by promoting competition",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-01-08T18:05:44.000Z",
-    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
+    "published": "2017-03-06T22:22:12.000Z",
+    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
   },
   {
-    "id": "97295bbe",
-    "title": "FTC Milestones: Weighing in on weight loss cases",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
+    "id": "94523b41",
+    "title": "Quo Vadis Post-Actavis?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2014-12-04T16:25:36.000Z",
-    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2016-03-30T19:41:40.000Z",
+    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
   },
   {
-    "id": "f82b0582",
-    "title": "A license that is more than a license",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
+    "id": "e08384e1",
+    "title": "“Investment-only” means just that",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2015-08-24T21:25:05.000Z",
+    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
+  },
+  {
+    "id": "3022534e",
+    "title": "How to avoid common HSR filing mistakes with attachments",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-03-24T17:59:18.000Z",
-    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
+    "published": "2014-09-16T14:42:32.000Z",
+    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
   }
 ]
