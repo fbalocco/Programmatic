@@ -76,6 +76,19 @@
     "summary": "Document filed on May 27, 2026 Asset Preservation and Hold Separate Stipulation and Order"
   },
   {
+    "id": "6d432c86",
+    "title": "Data Manager API now supports sending events to Google Marketing Platform destinations and IP ingestion for Google Ads Customer Match",
+    "url": "http://ads-developers.googleblog.com/2026/05/data-manager-api-now-supports-sending.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-05-28T21:53:06.733Z",
+    "summary": "Google Marketing Platform event ingestion The Data Manager API has introduced support for sending offline conversion events to Google Marketing Platform products, including Campaign Manager 360, Search Ads 360, and Display & Video 360. The AdIdentifiers object now includes dclid…"
+  },
+  {
     "id": "dcca0f4f",
     "title": "GenClaw: Code-Driven Agentic Image Generation",
     "url": "https://arxiv.org/abs/2605.30248v1",
@@ -176,6 +189,17 @@
     "summary": "Roku unveiled its new home screen, which includes a “Top Picks for You” section, an easier way to access subscriptions and a new search function. All of these features are meant to tailor the home screen experience to each viewer. The post Roku Revamps Its Home Screen To Appease…"
   },
   {
+    "id": "c217a5db",
+    "title": "Display & Video 360 API will start supporting Demand Gen resources on June 10, 2026",
+    "url": "http://ads-developers.googleblog.com/2026/05/display-video-360-api-will-start.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-05-27T19:35:52.672Z",
+    "summary": "Today we’re announcing the upcoming rollout of Demand Gen resource support to all Display & Video 360 API users starting on June 10, 2026. This feature will be rolled out to Display & Video 360 partners over two weeks. By June 24, the feature will be available to all partners. A…"
+  },
+  {
     "id": "aa67e780",
     "title": "ACR data is invaluable, but only if it lives within DSPs",
     "url": "https://digiday.com/sponsored/acr-data-is-invaluable-but-only-if-it-lives-within-dsps/",
@@ -188,6 +212,19 @@
     ],
     "published": "2026-05-27T17:48:46.000Z",
     "summary": "Oscar Rondon, vice president, data and measurement solutions, Nexxen Today’s TV advertising doesn’t have a data problem; it has an execution problem. The industry has never been richer in signals, ranging from contextual intelligence to identity graphs, outcome measurement to an…"
+  },
+  {
+    "id": "2cb1ec42",
+    "title": "Standardizing Reach Metrics with Total Co-view in the Google Ads API",
+    "url": "http://ads-developers.googleblog.com/2026/05/standardizing-reach-metrics-with-total.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-05-27T16:33:19.067Z",
+    "summary": "Starting on June 2nd, 2026, the Google Ads API will transition reach metrics to a \"Total Co-view\" definition. This update aligns Google Ads reporting with offline media and third-party measurement standards, ensuring consistency across all reporting surfaces, including the Googl…"
   },
   {
     "id": "7f8e6166",
@@ -313,19 +350,6 @@
     "tags": [],
     "published": "2026-05-22T13:55:11.000Z",
     "summary": "Tools like Tamarin and ProVerif have achieved notable success in analyzing and verifying complex real-world protocols such as EMV, 5G, and WPA2, even detecting zero-day exploits. Despite these successes, verifying such protocols remains a time-consuming, challenging task, often…"
-  },
-  {
-    "id": "12aa6a92",
-    "title": "After Liability: Why the Landmark Social Media Verdicts Aren’t a Regulatory Fix",
-    "url": "https://techpolicy.press/after-liability-why-the-landmark-social-media-verdicts-arent-a-regulatory-fix",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-22T12:23:33.000Z",
-    "summary": ""
   },
   {
     "id": "f94924bb",
@@ -461,19 +485,6 @@
     "summary": "Today, the Department of Justice announced that during the course of the Antitrust Division’s ongoing investigation into exclusionary conduct in corn and soybean seed markets, Bayer CropScience LLC has removed potentially anticompetitive provisions from its loyalty program. Thes…"
   },
   {
-    "id": "df699f9f",
-    "title": "Civil Society Role Grows in EU’s DMA Case Against Apple",
-    "url": "https://techpolicy.press/civil-society-role-grows-in-eus-dma-case-against-apple",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-20T08:54:30.000Z",
-    "summary": ""
-  },
-  {
     "id": "b27d25df",
     "title": "U. S. v. China International Marine Containers (Group) Co., Ltd. et al.",
     "url": "https://www.justice.gov/atr/case/u-s-v-china-international-marine-containers-group-co-ltd-et-al",
@@ -592,20 +603,6 @@
     "summary": "Starting on June 15, 2026, the Google Ads API will no longer accept new adopters of offline conversion imports, including enhanced conversions for leads. As with our previous announcements for session attributes and IP address, and Customer Match, Data Manager API is now the pri…"
   },
   {
-    "id": "b5eb14a8",
-    "title": "The Ninth Circuit Provides a Potential Roadmap for Future Child Safety Laws",
-    "url": "https://techpolicy.press/the-ninth-circuit-provides-a-potential-roadmap-for-future-child-safety-laws",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Policy"
-    ],
-    "published": "2026-05-15T12:09:28.000Z",
-    "summary": ""
-  },
-  {
     "id": "7600a620",
     "title": "Announcing expanded experiment functionality in Google Ads API v24.1",
     "url": "http://ads-developers.googleblog.com/2026/05/announcing-expanded-experiment.html",
@@ -640,20 +637,6 @@
     "tags": [],
     "published": "2026-05-13T21:28:26.366Z",
     "summary": "Today, we’re announcing the v24.1 release of the Google Ads API. To use the new v24.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "96d7edb8",
-    "title": "Ireland's Whelan Must Prove EU Competition Law Still Has Credibility",
-    "url": "https://techpolicy.press/irelands-whelan-must-prove-eu-competition-law-still-has-credibility",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-13T13:17:50.000Z",
-    "summary": ""
   },
   {
     "id": "c74a5d82",
@@ -758,19 +741,6 @@
     "summary": "Remarks as Prepared for Delivery, \"Shirley Temple Antitrust: A Fresh Take on an Old Classic\"Good afternoon – thank you for having me here. I’d like to thank New York University Law School for hosting this event and inviting me to speak about our approach to merger enforcement. A…"
   },
   {
-    "id": "55e48bfe",
-    "title": "Ireland Moves Deeper into DSA Oversight with New Meta Dark Patterns Probe",
-    "url": "https://techpolicy.press/ireland-moves-deeper-into-dsa-oversight-with-new-meta-dark-patterns-probe",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-06T11:58:43.000Z",
-    "summary": ""
-  },
-  {
     "id": "d760b06b",
     "title": "Introducing Partial Structured Data File Upload",
     "url": "http://ads-developers.googleblog.com/2026/05/introducing-partial-structured-data.html",
@@ -791,32 +761,6 @@
     "tags": [],
     "published": "2026-05-05T12:00:00.000Z",
     "summary": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 202…"
-  },
-  {
-    "id": "626fb126",
-    "title": "Europe’s Age Verification Push Raises Privacy Issues Beyond Data Confidentiality",
-    "url": "https://techpolicy.press/europes-age-verification-push-raises-privacy-issues-beyond-data-confidentiality",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-05T11:49:09.000Z",
-    "summary": ""
-  },
-  {
-    "id": "8a485e90",
-    "title": "Search Remedies in Google Antitrust Case Can Work Even if Company Stays on Top",
-    "url": "https://techpolicy.press/search-remedies-in-google-antitrust-case-can-work-even-if-company-stays-on-top",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-05-04T12:08:14.000Z",
-    "summary": ""
   },
   {
     "id": "a95d3ff1",
@@ -1297,19 +1241,6 @@
     "summary": "Document filed on March 26, 2026 Complaint"
   },
   {
-    "id": "b17a1af0",
-    "title": "Upcoming Improvements to Offline Conversion Imports",
-    "url": "http://ads-developers.googleblog.com/2026/03/upcoming-improvements-to-offline.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-03-26T16:25:00.000Z",
-    "summary": "Starting in April, 2026 the Google Ads API will benefit from a series of infrastructure changes designed to improve the Offline Conversion Import experience. These upgrades will not result in any breaking changes to the Google Ads API, however there may be minor fluctuations in…"
-  },
-  {
     "id": "2fe0e4b5",
     "title": "Programmatic’s Agentic Future Needs a Stronger Foundation",
     "url": "https://www.indexexchange.com/2026/03/26/programmatics-agentic-future-needs-stronger-foundation/",
@@ -1335,17 +1266,6 @@
     ],
     "published": "2026-03-26T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division, together with the U.S. Attorney’s Office for the Southern District of New York, filed a civil antitrust lawsuit today challenging The New York and Presbyterian Hospital’s (New York-Presbyterian) anticompetitive contract restrictions t…"
-  },
-  {
-    "id": "f26c5db4",
-    "title": "Announcing v23.2 of the Google Ads API",
-    "url": "http://ads-developers.googleblog.com/2026/03/announcing-v232-of-google-ads-api.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2026-03-25T21:59:00.000Z",
-    "summary": "Today, we’re announcing the v23.2 release of the Google Ads API. To use the new v23.2 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
   },
   {
     "id": "7e1649af",
@@ -1396,32 +1316,6 @@
     "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institution…"
   },
   {
-    "id": "1014ab9b",
-    "title": "Announcing new Display & Video 360 API Discord channels and a documentation update!",
-    "url": "http://ads-developers.googleblog.com/2026/03/announcing-new-display-video-360-api.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-03-23T17:04:00.000Z",
-    "summary": "Today we’re announcing two huge improvements for Display & Video 360 bulk tools. First, we are launching support for Display & Video 360 API, Structured Data Files, and Bid Manager API products in the existing “Google Advertising and Measurement Community” Discord server! To joi…"
-  },
-  {
-    "id": "b6849f06",
-    "title": "Introducing: Ads DevCast",
-    "url": "http://ads-developers.googleblog.com/2026/03/introducing-ads-devcast.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-03-20T15:24:00.000Z",
-    "summary": "A new podcast for the ads technical community We are thrilled to announce the launch of Ads DevCast, a new bi-weekly vodcast and podcast series brought to you by Google’s Advertising and Measurement Developer Relations team. Hosted by Developer Relations Engineer Cory Liseno, th…"
-  },
-  {
     "id": "e1f5a2cd",
     "title": "FTC Chairman Andrew N. Ferguson Launches Healthcare Task Force",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-chairman-andrew-n-ferguson-launches-healthcare-task-force",
@@ -1433,17 +1327,6 @@
     ],
     "published": "2026-03-20T12:00:00.000Z",
     "summary": "Today, Federal Trade Commission Chairman Andrew N. Ferguson directed FTC staff to form a Healthcare Task Force that will engage in a coordinated, integrated approach to healthcare enforcement and advocacy to protect American patients, healthcare workers, and taxpayers. In a memo…"
-  },
-  {
-    "id": "7a6f4464",
-    "title": "Upcoming changes to Lookalike user lists in the Google Ads API, starting April 30, 2026",
-    "url": "http://ads-developers.googleblog.com/2026/03/upcoming-changes-to-lookalike-user.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2026-03-19T18:03:00.000Z",
-    "summary": "Google Ads is committed to providing a reliable and efficient environment for all advertisers. To ensure that our systems remain stable and that resources are allocated fairly, we are introducing a uniqueness check for Lookalike user lists that prevents the creation of duplicate…"
   },
   {
     "id": "4d8db482",
@@ -2905,45 +2788,6 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "7594d49d",
-    "title": "Adjusting merger review to deal with the surge in merger filings",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2021-08-03T16:28:44.000Z",
-    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
-  },
-  {
-    "id": "11ffd583",
-    "title": "A Fiscal Year Like No Other",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-10-06T15:06:46.000Z",
-    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
-  },
-  {
-    "id": "9dd4d72f",
-    "title": "The hearing may be virtual, but the rules are the same",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-08-14T15:08:00.000Z",
-    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
-  },
-  {
     "id": "717f4e88",
     "title": "Eyes Wide Open: There are no blinders in merger reviews",
     "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
@@ -2957,31 +2801,17 @@
     "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
   },
   {
-    "id": "aba5bca6",
-    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2019-05-03T21:21:11.000Z",
-    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
-  },
-  {
-    "id": "d028fde8",
-    "title": "The uphill case for a post-Order divestiture",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
+    "id": "2ec6393e",
+    "title": "HSR Filing Fees – Reminders and Tips",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-03-21T18:59:30.000Z",
-    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
+    "published": "2020-05-18T19:38:55.000Z",
+    "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
   },
   {
     "id": "35623933",
@@ -2995,42 +2825,93 @@
     "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
   },
   {
-    "id": "57572c89",
-    "title": "What’s the interest in partial interests?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
+    "id": "e43a3581",
+    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust"
+      "Policy"
     ],
-    "published": "2016-05-09T15:29:44.000Z",
-    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
+    "published": "2018-10-03T15:08:45.000Z",
+    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
   },
   {
-    "id": "e9511129",
-    "title": "Calculating the value of stock under HSR rules",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
+    "id": "89f7226d",
+    "title": "FTC at work outside the Beltway",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-10-27T18:05:06.000Z",
-    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
+    "published": "2018-09-24T19:34:35.000Z",
+    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
   },
   {
-    "id": "f82b0582",
-    "title": "A license that is more than a license",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
+    "id": "f588e36b",
+    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-03-24T17:59:18.000Z",
-    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
+    "published": "2018-07-27T19:24:55.000Z",
+    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+  },
+  {
+    "id": "171c9d16",
+    "title": "Taking a hard look at the asset package",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Antitrust"
+    ],
+    "published": "2016-11-09T18:33:07.000Z",
+    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
+  },
+  {
+    "id": "dccaef13",
+    "title": "Unflattering resemblance",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-01-13T18:18:49.000Z",
+    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
+  },
+  {
+    "id": "3e8d00f8",
+    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-01-08T18:05:44.000Z",
+    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
+  },
+  {
+    "id": "97295bbe",
+    "title": "FTC Milestones: Weighing in on weight loss cases",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2014-12-04T16:25:36.000Z",
+    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
   }
 ]
