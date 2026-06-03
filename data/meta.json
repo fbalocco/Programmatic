@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-06-02T22:06:30.729Z",
+  "generatedAt": "2026-06-03T01:29:56.468Z",
   "feedCount": 17,
-  "itemCount": 214,
+  "itemCount": 209,
   "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
+    },
     {
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
@@ -79,9 +85,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3605,
-      "kept": 5,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
@@ -135,7 +141,7 @@
       "id": "doj-atr-criminal-filings",
       "name": "DOJ Antitrust Division Criminal Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 81,
+      "fetched": 82,
       "kept": 80,
       "error": null
     },
