@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T16:20:47.942Z",
+  "generatedAt": "2026-06-04T19:01:54.151Z",
   "feedCount": 17,
-  "itemCount": 211,
+  "itemCount": 212,
   "errors": [
     {
       "id": "arxiv-ad-auctions",
@@ -32,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 11,
+      "kept": 12,
       "error": null
     },
     {
