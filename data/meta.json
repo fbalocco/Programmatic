@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-06-04T13:27:02.146Z",
+  "generatedAt": "2026-06-04T16:20:47.942Z",
   "feedCount": 17,
-  "itemCount": 238,
-  "errors": [],
+  "itemCount": 211,
+  "errors": [
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -25,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
@@ -72,7 +79,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3612,
+      "fetched": 3613,
       "kept": 4,
       "error": null
     },
@@ -113,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 12,
+      "kept": 11,
       "error": null
     },
     {
@@ -136,9 +143,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
     }
   ]
 }
