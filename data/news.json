@@ -589,19 +589,6 @@
     "summary": "Deploying heterogeneous multi-agent robot fleets for collaborative perception requires robust data exchange and scalable software architectures. However, standard ROS 2 implementations often suffer from network saturation, namespace collisions, and severe computational overhead…"
   },
   {
-    "id": "12aa6a92",
-    "title": "After Liability: Why the Landmark Social Media Verdicts Aren’t a Regulatory Fix",
-    "url": "https://techpolicy.press/after-liability-why-the-landmark-social-media-verdicts-arent-a-regulatory-fix",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-22T12:23:33.000Z",
-    "summary": ""
-  },
-  {
     "id": "deb47892",
     "title": "U.S. and Plaintiff States v. Constellation Energy Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-constellation-energy-corporation-et-al",
@@ -663,19 +650,6 @@
     "summary": "Today, the Department of Justice announced that during the course of the Antitrust Division’s ongoing investigation into exclusionary conduct in corn and soybean seed markets, Bayer CropScience LLC has removed potentially anticompetitive provisions from its loyalty program. Thes…"
   },
   {
-    "id": "df699f9f",
-    "title": "Civil Society Role Grows in EU’s DMA Case Against Apple",
-    "url": "https://techpolicy.press/civil-society-role-grows-in-eus-dma-case-against-apple",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-05-20T08:54:30.000Z",
-    "summary": ""
-  },
-  {
     "id": "b27d25df",
     "title": "U. S. v. China International Marine Containers (Group) Co., Ltd. et al.",
     "url": "https://www.justice.gov/atr/case/u-s-v-china-international-marine-containers-group-co-ltd-et-al",
@@ -698,20 +672,6 @@
     ],
     "published": "2026-05-15T16:20:41.339Z",
     "summary": "Starting on June 15, 2026, the Google Ads API will no longer accept new adopters of offline conversion imports, including enhanced conversions for leads. As with our previous announcements for session attributes and IP address, and Customer Match, Data Manager API is now the pri…"
-  },
-  {
-    "id": "b5eb14a8",
-    "title": "The Ninth Circuit Provides a Potential Roadmap for Future Child Safety Laws",
-    "url": "https://techpolicy.press/the-ninth-circuit-provides-a-potential-roadmap-for-future-child-safety-laws",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Policy"
-    ],
-    "published": "2026-05-15T12:09:28.000Z",
-    "summary": ""
   },
   {
     "id": "7600a620",
@@ -748,20 +708,6 @@
     "tags": [],
     "published": "2026-05-13T21:28:26.366Z",
     "summary": "Today, we’re announcing the v24.1 release of the Google Ads API. To use the new v24.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "96d7edb8",
-    "title": "Ireland's Whelan Must Prove EU Competition Law Still Has Credibility",
-    "url": "https://techpolicy.press/irelands-whelan-must-prove-eu-competition-law-still-has-credibility",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-13T13:17:50.000Z",
-    "summary": ""
   },
   {
     "id": "c74a5d82",
@@ -914,6 +860,20 @@
     "summary": "table#dataretensionmay2026{ border-collapse: collapse; } table#dataretensionmay2026 td { border: 1px solid grey; padding:5px; } Starting June 1, 2026, Google Ads and related measurement APIs will transition to a 37-month data retention policy for granular performance statistics…"
   },
   {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
+  },
+  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -937,20 +897,6 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
-  },
-  {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "bc1f673b",
@@ -1122,6 +1068,19 @@
     "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
+  },
+  {
     "id": "83999437",
     "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
@@ -1144,19 +1103,6 @@
     "tags": [],
     "published": "2026-04-15T12:00:00.000Z",
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
-  },
-  {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
   },
   {
     "id": "1bb1a9ff",
@@ -1657,19 +1603,6 @@
     "summary": "See how a major retailer partnered with Index Exchange and inPowered AI to drive more efficient site visits through sell-side decisioning and Index Marketplaces."
   },
   {
-    "id": "12a77283",
-    "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
-  },
-  {
     "id": "8c54dccf",
     "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
@@ -1681,6 +1614,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
+  },
+  {
+    "id": "12a77283",
+    "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
   },
   {
     "id": "edff3199",
@@ -2838,9 +2784,61 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "d323425e",
-    "title": "Protecting Americans at the gas pump through aggressive antitrust enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/protecting-americans-gas-pump-through-aggressive-antitrust-enforcement",
+    "id": "7594d49d",
+    "title": "Adjusting merger review to deal with the surge in merger filings",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2021-08-03T16:28:44.000Z",
+    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
+  },
+  {
+    "id": "11ffd583",
+    "title": "A Fiscal Year Like No Other",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-10-06T15:06:46.000Z",
+    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
+  },
+  {
+    "id": "9dd4d72f",
+    "title": "The hearing may be virtual, but the rules are the same",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-08-14T15:08:00.000Z",
+    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
+  },
+  {
+    "id": "717f4e88",
+    "title": "Eyes Wide Open: There are no blinders in merger reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-07-20T18:00:30.000Z",
+    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+  },
+  {
+    "id": "aba5bca6",
+    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2848,125 +2846,70 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2021-09-21T14:54:49.000Z",
-    "summary": "Protecting Americans at the gas pump through aggressive antitrust enforcement jwolf September 21, 2021 | 10:54AM Protecting Americans at the gas pump through aggressive antitrust enforcement By Holly Vedova, Bureau of Competition The FTC is committed to policing gasoline and die…"
+    "published": "2019-05-03T21:21:11.000Z",
+    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
   },
   {
-    "id": "2ae65631",
-    "title": "Physician Group and Healthcare Facility Merger Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/04/physician-group-healthcare-facility-merger-study",
+    "id": "d028fde8",
+    "title": "The uphill case for a post-Order divestiture",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-04-14T13:18:08.000Z",
-    "summary": "Physician Group and Healthcare Facility Merger Study bacree April 14, 2021 | 9:18AM Physician Group and Healthcare Facility Merger Study By Michael G. Vita, Deputy Director Research and Management, Bureau of Economics On January 14, 2020, the Federal Trade Commission (FTC) order…"
+    "published": "2019-03-21T18:59:30.000Z",
+    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
   },
   {
-    "id": "322fef15",
-    "title": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually).",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/got-questions-about-hsr-rulemaking-well-answer-them-live-virtually",
+    "id": "35623933",
+    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2019-03-06T16:23:19.000Z",
+    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
+  },
+  {
+    "id": "57572c89",
+    "title": "What’s the interest in partial interests?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-10-19T16:55:53.000Z",
-    "summary": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually). bjames@ftc.gov October 19, 2020 | 12:55PM Got questions about the HSR Rulemaking? We’ll answer them live (virtually). By Kate Walsh and Ken Libby, Bureau of Competition The FTC welcomes comments on its r…"
+    "published": "2016-05-09T15:29:44.000Z",
+    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
   },
   {
-    "id": "e90f4a0b",
-    "title": "Seeing the whole picture on avoidance devices",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/seeing-whole-picture-avoidance-devices",
+    "id": "e9511129",
+    "title": "Calculating the value of stock under HSR rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-09-23T15:29:17.000Z",
-    "summary": "Seeing the whole picture on avoidance devices bjames@ftc.gov September 23, 2020 | 11:29AM Seeing the whole picture on avoidance devices By Premerger Notification Office Staff Under the Hart-Scott-Rodino (HSR) Act and Rules, parties cannot use a transaction structure for the purp…"
+    "published": "2015-10-27T18:05:06.000Z",
+    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
   },
   {
-    "id": "29f3663f",
-    "title": "Real deadlines and real consequences",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "id": "f82b0582",
+    "title": "A license that is more than a license",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-06T16:32:47.000Z",
-    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
-  },
-  {
-    "id": "b0b0cde1",
-    "title": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/then-now-down-road-trends-pharmaceutical-patent-settlements-after-ftc-v-actavis",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2019-05-28T16:23:52.000Z",
-    "summary": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis bjames@ftc.gov May 28, 2019 | 12:23PM Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis By Jamie Towey and Brad Albert, Bureau of Competiti…"
-  },
-  {
-    "id": "9d6d6f65",
-    "title": "In submissions, brevity’s better",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/submissions-brevitys-better",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-05-02T19:34:51.000Z",
-    "summary": "In submissions, brevity’s better rcuster May 2, 2019 | 3:34PM In submissions, brevity’s better By Daniel Francis, Bureau of Competition In written submissions to the Bureau or the Commission, be brief, be direct, and avoid repeating points made in previous papers. Wherever possi…"
-  },
-  {
-    "id": "ceffa8ba",
-    "title": "Compliance reports: Reinforcing a commitment to effective orders",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2019-03-11T13:36:41.000Z",
-    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
-  },
-  {
-    "id": "9bc17167",
-    "title": "LBOs and the size of transaction test",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/10/lbos-size-transaction-test",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2016-10-06T18:21:43.000Z",
-    "summary": "LBOs and the size of transaction test rcuster October 6, 2016 | 2:21PM LBOs and the size of transaction test By Premerger Notification Office Staff, Bureau of Competition The Premerger Notification Office is often asked to give guidance on how to determine the value of a propose…"
-  },
-  {
-    "id": "c4678ff9",
-    "title": "HSR Rule 802.5: the Investment Rental Property Exemption",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/hsr-rule-8025-investment-rental-property-exemption",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-07-20T14:56:21.000Z",
-    "summary": "HSR Rule 802.5: the Investment Rental Property Exemption sgilliam July 20, 2015 | 10:56AM HSR Rule 802.5: the Investment Rental Property Exemption By Premerger Notification Staff, Bureau of Competition Every day, the PNO receives many inquiries for interpretations of the Hart-Sc…"
+    "published": "2014-03-24T17:59:18.000Z",
+    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
   }
 ]
