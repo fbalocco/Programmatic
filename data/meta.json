@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-06-10T10:37:51.795Z",
+  "generatedAt": "2026-06-10T13:30:56.684Z",
   "feedCount": 17,
-  "itemCount": 237,
-  "errors": [],
+  "itemCount": 227,
+  "errors": [
+    {
+      "id": "iabtechlab-latest",
+      "name": "IAB Tech Lab (Latest News)",
+      "url": "https://iabtechlab.com/category/latest-news/feed/",
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+    },
+    {
+      "id": "iabtechlab-press",
+      "name": "IAB Tech Lab (Press Releases)",
+      "url": "https://iabtechlab.com/press-releases/feed/",
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -40,9 +53,9 @@
       "id": "iabtechlab-latest",
       "name": "IAB Tech Lab (Latest News)",
       "category": "Standards",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
     },
     {
       "id": "iabtechlab-press",
@@ -50,7 +63,7 @@
       "category": "Standards",
       "fetched": 0,
       "kept": 0,
-      "error": null
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
     },
     {
       "id": "google-ads-dev-blog",
@@ -72,7 +85,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3628,
+      "fetched": 3629,
       "kept": 4,
       "error": null
     },
