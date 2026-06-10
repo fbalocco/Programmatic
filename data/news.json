@@ -1,5 +1,29 @@
 [
   {
+    "id": "622d3e92",
+    "title": "The Gwyneth Effect, Measured",
+    "url": "https://www.adexchanger.com/adexchanger-talks/the-gwyneth-effect-measured/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-06-10T05:00:49.000Z",
+    "summary": "You don’t usually hear someone talk about peptide serums, CAC and customer lifetime value in the same breath. But that’s a normal day for Alexa Raff, CMO of goop, the wellness and lifestyle brand co-founded and led by Gwyneth Paltrow. Raff, who joined goop last April after stint…"
+  },
+  {
+    "id": "48b1c244",
+    "title": "Amazon DSP Adds Adelaide’s Pre-Bid Attention Targeting",
+    "url": "https://www.adexchanger.com/technology/amazon-dsp-adds-adelaides-pre-bid-attention-targeting/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-06-10T04:45:14.000Z",
+    "summary": "Can I have your attention? Because your attention is becoming an actual currency for ad deals. That’s the pitch for the attention measurement provider Adelaide, which, on Tuesday, announced that pre-bid targeting using its proprietary attention metric, called AU, is now live in…"
+  },
+  {
     "id": "e0dd4908",
     "title": "A Spoonful Of Sugar; The New Bot Drawbridge",
     "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-10062026/",
@@ -187,17 +211,6 @@
     "summary": "Connected TV has entered a new phase. For years, the channel was primarily a reach vehicle, a way to follow audiences as viewing shifted from linear TV to streaming. That migration has reached critical mass. Audiences are engaged across CTV, and advertiser dollars are following.…"
   },
   {
-    "id": "5eb651a6",
-    "title": "Independent Ad Tech Is Reframing Itself Around Cloud Hardware",
-    "url": "https://www.adexchanger.com/marketers/independent-ad-tech-is-reframing-itself-around-cloud-hardware/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-06-08T10:09:14.000Z",
-    "summary": "Wait a minute, there’s a programmatic hardware race going on right now? You heard that right. The rapid development and adoption of cloud-based tech have led to new splits in how third-party programmatic vendors position themselves in the market. The positioning essentially come…"
-  },
-  {
     "id": "dc5ce9a2",
     "title": "ComplexConstraints and Beyond: Expert Rubrics for RLVR",
     "url": "https://arxiv.org/abs/2606.09118v1",
@@ -209,17 +222,6 @@
     ],
     "published": "2026-06-08T07:11:56.000Z",
     "summary": "As LLM capabilities advance rapidly, the evaluation methods used to assess them increasingly lag behind. Traditional benchmarks relied on programmatic verification of narrow, surface-level constraints, but real-world instruction following and agentic tasks demand assessment of n…"
-  },
-  {
-    "id": "50360522",
-    "title": "Dynamic Take Rates Are A Market-Wide Squeeze Disguised As Innovation",
-    "url": "https://www.adexchanger.com/the-sell-sider/dynamic-take-rates-are-a-market-wide-squeeze-disguised-as-innovation/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-06-08T04:35:29.000Z",
-    "summary": "For a long time, dynamic take rates were something ad exchanges experimented with quietly. That is changing. Google has been doing it for years under the “Average Revenue Share” banner, and Index Exchange published its own model, positioning it as a feature. Others are moving in…"
   },
   {
     "id": "8b43d062",
@@ -931,20 +933,6 @@
     "summary": "table#dataretensionmay2026{ border-collapse: collapse; } table#dataretensionmay2026 td { border: 1px solid grey; padding:5px; } Starting June 1, 2026, Google Ads and related measurement APIs will transition to a 37-month data retention policy for granular performance statistics…"
   },
   {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
-  },
-  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -968,6 +956,20 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
+  },
+  {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "bc1f673b",
@@ -1139,19 +1141,6 @@
     "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
-  },
-  {
     "id": "83999437",
     "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
@@ -1174,6 +1163,19 @@
     "tags": [],
     "published": "2026-04-15T12:00:00.000Z",
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
+  },
+  {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
   },
   {
     "id": "1bb1a9ff",
@@ -1259,17 +1261,6 @@
     "summary": "We're excited to announce the launch of the new Google Advertising and Measurement Developers Hub! Come see the new site! Whether you're looking to automate campaigns, analyze performance, manage tags, or monetize your apps, the new hub is designed to make it easier to find the…"
   },
   {
-    "id": "77e1228d",
-    "title": "FTC Publishes New Strategic Plan",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
-  },
-  {
     "id": "805a7674",
     "title": "FTC Submits Annual Budget Request to Congress",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
@@ -1279,6 +1270,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
+  },
+  {
+    "id": "77e1228d",
+    "title": "FTC Publishes New Strategic Plan",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
   },
   {
     "id": "9f34eee8",
@@ -1609,17 +1611,6 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1632,6 +1623,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1674,19 +1676,6 @@
     "summary": "See how a major retailer partnered with Index Exchange and inPowered AI to drive more efficient site visits through sell-side decisioning and Index Marketplaces."
   },
   {
-    "id": "8c54dccf",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
-  },
-  {
     "id": "12a77283",
     "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
@@ -1698,6 +1687,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
+  },
+  {
+    "id": "8c54dccf",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
   },
   {
     "id": "edff3199",
