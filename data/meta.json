@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-06-11T13:40:32.163Z",
+  "generatedAt": "2026-06-11T16:35:59.530Z",
   "feedCount": 17,
-  "itemCount": 235,
-  "errors": [],
+  "itemCount": 230,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -25,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -72,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3636,
-      "kept": 4,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
