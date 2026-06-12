@@ -1,5 +1,27 @@
 [
   {
+    "id": "52841b4f",
+    "title": "Publisher Problems, DSP Solutions; Who’s Tagging Out?",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-12062026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-06-12T04:03:04.000Z",
+    "summary": "Pub Crawl In ad tech, everything is becoming, well, everything. Viant has released a publisher data feed and dashboard-style product called Viant Publisher Solutions or VPS for short, because why not. The tool provides feedback from the DSP perspective on inventory performance,…"
+  },
+  {
+    "id": "431f702e",
+    "title": "Future of Marketing Briefing: Accenture’s Whalar bet: own the room when creator marketing gets complicated",
+    "url": "https://digiday.com/marketing/future-of-marketing-briefing-accentures-whalar-bet-own-the-room-when-creator-marketing-gets-complicated/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-06-12T04:01:00.000Z",
+    "summary": "The Whalar deal is Accenture running the same play it ran on programmatic — only this time it got there earlier."
+  },
+  {
     "id": "d1f7aeef",
     "title": "This AI “Brain” Wants To Get Rid Of The Grunt Work In Creative Campaigns",
     "url": "https://www.adexchanger.com/ai/this-ai-brain-wants-to-get-rid-of-the-grunt-work-in-creative-campaigns/",
@@ -94,6 +116,19 @@
     "summary": "The world of political advertising is still a little old school. First off, their fundraising methods still seem to be heavily reliant on generalized calls and texts. At least, that’s my assumption based on the number of desperate messages that politicians – and sometimes even t…"
   },
   {
+    "id": "de5118c4",
+    "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-06-10T12:00:00.000Z",
+    "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template. The Board held a meeting with Commission…"
+  },
+  {
     "id": "3ab759ac",
     "title": "FTC Finalizes Consent Order in Sevita, BrightSpring Acquisition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-finalizes-consent-order-sevita-brightspring-acquisition",
@@ -129,20 +164,6 @@
     ],
     "published": "2026-06-10T04:45:14.000Z",
     "summary": "Can I have your attention? Because your attention is becoming an actual currency for ad deals. That’s the pitch for the attention measurement provider Adelaide, which, on Tuesday, announced that pre-bid targeting using its proprietary attention metric, called AU, is now live in…"
-  },
-  {
-    "id": "e0dd4908",
-    "title": "A Spoonful Of Sugar; The New Bot Drawbridge",
-    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-10062026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI",
-      "Policy"
-    ],
-    "published": "2026-06-10T04:03:28.000Z",
-    "summary": "Bending Reality Bending Spoons, an Italian digital media conglomerate, filed for IPO this week. In a world overcome by AI, Bending Spoons is a bet on good-old web properties like AOL, Eventbrite, Vimeo and others. BS buys these properties on the cheap, while the aggregate data a…"
   },
   {
     "id": "a277f52f",
@@ -202,19 +223,6 @@
     "tags": [],
     "published": "2026-06-09T06:46:29.000Z",
     "summary": "Most recent 3D reconstruction and editing systems operate on implicit and explicit representations such as NeRF, point clouds, or meshes. While these representations enable high-fidelity rendering, they are fundamentally low-level and hard to control programmatically. In contras…"
-  },
-  {
-    "id": "d18f4bff",
-    "title": "Brands are catching World Cup fever even without official sponsorships",
-    "url": "https://digiday.com/marketing/brands-are-catching-world-cup-fever-even-without-official-sponsorships/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-06-09T04:01:00.000Z",
-    "summary": "Some smaller U.S. startups, like Crumbl Cookies and Olipop, are getting into the spirit of the World Cup with watch parties and soccer-themed products."
   },
   {
     "id": "dc5ce9a2",
@@ -866,6 +874,17 @@
     "summary": "Today we’re introducing Partial Structured Data File Upload to Display & Video 360! This new capability allows you to upload Line Item Structured Data Files (SDFs) that only include certain subsets of columns. Standard Line Item Structured Data Files require the inclusion of ove…"
   },
   {
+    "id": "e2f402c0",
+    "title": "Europe Day 2026: let’s celebrate together",
+    "url": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-05-05T12:00:00.000Z",
+    "summary": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 202…"
+  },
+  {
     "id": "a95d3ff1",
     "title": "Acting Attorney General Blanche Announces Antitrust Investigations on Meatpacking Operations",
     "url": "https://www.justice.gov/opa/video/acting-attorney-blanche-announces-antitrust-investigations-meatpacking-operations",
@@ -892,20 +911,6 @@
     "summary": "table#dataretensionmay2026{ border-collapse: collapse; } table#dataretensionmay2026 td { border: 1px solid grey; padding:5px; } Starting June 1, 2026, Google Ads and related measurement APIs will transition to a 37-month data retention policy for granular performance statistics…"
   },
   {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
-  },
-  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -929,6 +934,20 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
+  },
+  {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "bc1f673b",
@@ -966,6 +985,19 @@
     "summary": "Google Ads API v20 will sunset on June 10, 2026. Starting on this date, all v20 API requests will begin to fail. Migrate to a newer version prior to June 10, 2026 to ensure your API access is unaffected. Here are some resources to help you with the migration: Upgrade to the newe…"
   },
   {
+    "id": "e190306f",
+    "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+    "url": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-04-27T12:00:00.000Z",
+    "summary": "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe. The moment that led to the cre…"
+  },
+  {
     "id": "27c2d18e",
     "title": "Simplifying Keyword Forecast Metrics in Google Ads API v24",
     "url": "http://ads-developers.googleblog.com/2026/04/simplifying-keyword-forecast-metrics-in.html",
@@ -975,6 +1007,19 @@
     "tags": [],
     "published": "2026-04-23T16:40:00.000Z",
     "summary": "To provide a more streamlined and reliable experience, we have unified our forecasting infrastructure. Google Ads API v24 introduces an updated GenerateKeywordForecastMetrics method that simplifies the planning process by focusing on the metrics that most directly impact your pe…"
+  },
+  {
+    "id": "f2bb665e",
+    "title": "Stakeholder event on competition and data protection",
+    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-23T12:00:00.000Z",
+    "summary": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection. The event is an opportunity for stakeholders to inform and suppor…"
   },
   {
     "id": "b0ddc4bf",
@@ -1063,17 +1108,15 @@
     "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission (Agencies) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors, that was announced on Feb. 23, 2026."
   },
   {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
+    "id": "a94c2074",
+    "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
     "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
+    "tags": [],
+    "published": "2026-04-16T12:00:00.000Z",
+    "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
     "id": "83999437",
@@ -1100,6 +1143,19 @@
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
+  },
+  {
     "id": "1bb1a9ff",
     "title": "April 2026 update to Display & Video 360 API",
     "url": "http://ads-developers.googleblog.com/2026/04/april-2026-update-to-display-video-360.html",
@@ -1111,6 +1167,19 @@
     "summary": "Today we’re announcing the April 2026 update to the Display & Video 360 API. This update includes the following: Support for additional Exchange and ThirdPartyVendor values. AdAsset identifier fields in objects used in AdGroupAd resources. Beta support for Demand Gen resource ma…"
   },
   {
+    "id": "e10c0efc",
+    "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+    "url": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-04-14T12:00:00.000Z",
+    "summary": "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA). The template will help organisations structure, harmonise and e…"
+  },
+  {
     "id": "2bc14356",
     "title": "Merchant API is coming to Google Ads scripts starting April 22, 2026",
     "url": "http://ads-developers.googleblog.com/2026/04/merchant-api-is-coming-to-google-ads.html",
@@ -1120,6 +1189,17 @@
     "tags": [],
     "published": "2026-04-09T18:31:00.000Z",
     "summary": "The Content API for Shopping will sunset on August 18, 2026, to be replaced by the Merchant API. This migration provides a shift toward more robust, scalable, and feature-rich integrations. For Google Ads scripts users, the Google Ads scripts editor will begin rolling out Mercha…"
+  },
+  {
+    "id": "f9c5c9d8",
+    "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-09T12:00:00.000Z",
+    "summary": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its 2025 Annual Report. The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the Helsinki Statement on Enhanced Clarity, Sup…"
   },
   {
     "id": "dd37c161",
@@ -1159,17 +1239,6 @@
     "summary": "We're excited to announce the launch of the new Google Advertising and Measurement Developers Hub! Come see the new site! Whether you're looking to automate campaigns, analyze performance, manage tags, or monetize your apps, the new hub is designed to make it easier to find the…"
   },
   {
-    "id": "805a7674",
-    "title": "FTC Submits Annual Budget Request to Congress",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
-  },
-  {
     "id": "77e1228d",
     "title": "FTC Publishes New Strategic Plan",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
@@ -1179,6 +1248,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
+  },
+  {
+    "id": "805a7674",
+    "title": "FTC Submits Annual Budget Request to Congress",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
   },
   {
     "id": "9f34eee8",
@@ -1347,6 +1427,17 @@
     "summary": "See how implementing ad podding with Index Exchange helped A+E Global Media boost monetization by 19% while delivering stronger performance and improving efficiency."
   },
   {
+    "id": "1b177696",
+    "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-03-24T12:00:00.000Z",
+    "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institution…"
+  },
+  {
     "id": "e1f5a2cd",
     "title": "FTC Chairman Andrew N. Ferguson Launches Healthcare Task Force",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-chairman-andrew-n-ferguson-launches-healthcare-task-force",
@@ -1369,6 +1460,31 @@
     "tags": [],
     "published": "2026-03-19T13:00:00.000Z",
     "summary": "Programmatic is evolving fast. Forward-thinking brands are investing in SSP partnerships to boost transparency, improve quality, and unlock better outcomes."
+  },
+  {
+    "id": "26081c13",
+    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-03-19T12:00:00.000Z",
+    "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Informatio…"
+  },
+  {
+    "id": "82000cee",
+    "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+    "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-03-19T12:00:00.000Z",
+    "summary": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025, the CEF's focus this year will shift to compliance with the obligations of transparency and informat…"
   },
   {
     "id": "69bde2b6",
@@ -1460,17 +1576,6 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1483,6 +1588,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1525,19 +1641,6 @@
     "summary": "See how a major retailer partnered with Index Exchange and inPowered AI to drive more efficient site visits through sell-side decisioning and Index Marketplaces."
   },
   {
-    "id": "8c54dccf",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-01-30T12:00:00.000Z",
-    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
-  },
-  {
     "id": "12a77283",
     "title": "FTC Takes Action to Prevent Anticompetitive Healthcare Services Merger",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-takes-action-prevent-anticompetitive-healthcare-services-merger",
@@ -1549,6 +1652,19 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans with intellectual and developmental disabilities and their families by requiring Sevita Health (Sevita) to divest more than 100 healthcare facilities to resolve antitrust concerns surrounding its proposed $835…"
+  },
+  {
+    "id": "8c54dccf",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letters to Law Firms on Anticompetitive DEI Hiring",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letters-law-firms-anticompetitive",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-01-30T12:00:00.000Z",
+    "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
   },
   {
     "id": "edff3199",
@@ -2563,6 +2679,19 @@
     "summary": "Documents filed on August 29, 2023 Plea Agreement [F. Allied Construction Company, Inc.] Plea Agreement [Andrew Foster]"
   },
   {
+    "id": "99d3e353",
+    "title": "Spring Meeting updates",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/03/spring-meeting-updates",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2023-03-31T13:15:39.000Z",
+    "summary": "Spring Meeting updates bjames@ftc.gov March 31, 2023 | 9:15AM Spring Meeting updates By Holly Vedova, Bureau of Competition By any measure, this year has been extraordinary. Our litigation workload continues to expand, with eight cases in various stages of administrative or fede…"
+  },
+  {
     "id": "326783d6",
     "title": "U.S. v. Dwayne A. Johnson",
     "url": "https://www.justice.gov/atr/case/us-v-dwayne-johnson",
@@ -2693,31 +2822,43 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "d323425e",
-    "title": "Protecting Americans at the gas pump through aggressive antitrust enforcement",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/protecting-americans-gas-pump-through-aggressive-antitrust-enforcement",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2021-09-21T14:54:49.000Z",
-    "summary": "Protecting Americans at the gas pump through aggressive antitrust enforcement jwolf September 21, 2021 | 10:54AM Protecting Americans at the gas pump through aggressive antitrust enforcement By Holly Vedova, Bureau of Competition The FTC is committed to policing gasoline and die…"
-  },
-  {
-    "id": "2ae65631",
-    "title": "Physician Group and Healthcare Facility Merger Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/04/physician-group-healthcare-facility-merger-study",
+    "id": "fa6e40f3",
+    "title": "HSR threshold adjustments and reportability for 2022",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2022/02/hsr-threshold-adjustments-reportability-2022",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-04-14T13:18:08.000Z",
-    "summary": "Physician Group and Healthcare Facility Merger Study bacree April 14, 2021 | 9:18AM Physician Group and Healthcare Facility Merger Study By Michael G. Vita, Deputy Director Research and Management, Bureau of Economics On January 14, 2020, the Federal Trade Commission (FTC) order…"
+    "published": "2022-02-14T18:44:32.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2022 bacree February 14, 2022 | 1:44PM HSR threshold adjustments and reportability for 2022 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+  },
+  {
+    "id": "656bb753",
+    "title": "HSR threshold adjustments and reportability for 2021",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/02/hsr-threshold-adjustments-reportability-2021",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2021-02-17T22:19:50.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2021 bacree February 17, 2021 | 5:19PM HSR threshold adjustments and reportability for 2021 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+  },
+  {
+    "id": "2676c27a",
+    "title": "Reminder: Join us (virtually) for HSR Q&A sessions starting Monday, November 9",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/11/reminder-join-us-virtually-hsr-qa-sessions-starting-monday-november-9",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-11-05T15:19:50.000Z",
+    "summary": "Reminder: Join us (virtually) for HSR Q&A sessions starting Monday, November 9 bjames@ftc.gov November 5, 2020 | 10:19AM Reminder: Join us (virtually) for HSR Q&A sessions starting Monday, November 9 By Kate Walsh and Ken Libby, Bureau of Competition Next Monday and Tuesday, Nov…"
   },
   {
     "id": "322fef15",
@@ -2733,30 +2874,30 @@
     "summary": "Got questions about the HSR Rulemaking? We’ll answer them live (virtually). bjames@ftc.gov October 19, 2020 | 12:55PM Got questions about the HSR Rulemaking? We’ll answer them live (virtually). By Kate Walsh and Ken Libby, Bureau of Competition The FTC welcomes comments on its r…"
   },
   {
-    "id": "e90f4a0b",
-    "title": "Seeing the whole picture on avoidance devices",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/seeing-whole-picture-avoidance-devices",
+    "id": "47feb4c5",
+    "title": "Just because it’s ancillary doesn’t make it legal",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/09/just-because-its-ancillary-doesnt-make-it-legal",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-09-23T15:29:17.000Z",
-    "summary": "Seeing the whole picture on avoidance devices bjames@ftc.gov September 23, 2020 | 11:29AM Seeing the whole picture on avoidance devices By Premerger Notification Office Staff Under the Hart-Scott-Rodino (HSR) Act and Rules, parties cannot use a transaction structure for the purp…"
+    "published": "2019-09-30T14:40:58.000Z",
+    "summary": "Just because it’s ancillary doesn’t make it legal bjames@ftc.gov September 30, 2019 | 10:40AM Just because it’s ancillary doesn’t make it legal By Brian Telpner, Bureau of Competition In The Wizard of Oz, Dorothy was told to ignore the man behind the curtain. Some may argue that…"
   },
   {
-    "id": "29f3663f",
-    "title": "Real deadlines and real consequences",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "id": "fdf9f08e",
+    "title": "Persuading on Paper: Written Advocacy to the FTC’s Bureau of Competition",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/07/persuading-paper-written-advocacy-ftcs-bureau-competition",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-08-06T16:32:47.000Z",
-    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
+    "published": "2019-07-23T15:36:13.000Z",
+    "summary": "Persuading on Paper: Written Advocacy to the FTC’s Bureau of Competition bjames@ftc.gov July 23, 2019 | 11:36AM Persuading on Paper: Written Advocacy to the FTC’s Bureau of Competition By Daniel Francis,* Bureau of Competition The Front Office of the FTC’s Bureau of Competition…"
   },
   {
     "id": "b0b0cde1",
@@ -2772,22 +2913,22 @@
     "summary": "Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis bjames@ftc.gov May 28, 2019 | 12:23PM Then, now, and down the road: Trends in pharmaceutical patent settlements after FTC v. Actavis By Jamie Towey and Brad Albert, Bureau of Competiti…"
   },
   {
-    "id": "9d6d6f65",
-    "title": "In submissions, brevity’s better",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/submissions-brevitys-better",
+    "id": "fd97d396",
+    "title": "You can’t certify substantial compliance with just a “Partial Log”",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/09/you-cant-certify-substantial-compliance-just-partial-log",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-05-02T19:34:51.000Z",
-    "summary": "In submissions, brevity’s better rcuster May 2, 2019 | 3:34PM In submissions, brevity’s better By Daniel Francis, Bureau of Competition In written submissions to the Bureau or the Commission, be brief, be direct, and avoid repeating points made in previous papers. Wherever possi…"
+    "published": "2017-09-28T16:45:26.000Z",
+    "summary": "You can’t certify substantial compliance with just a “Partial Log” rcuster September 28, 2017 | 12:45PM You can’t certify substantial compliance with just a “Partial Log” By D. Bruce Hoffman, Acting Director, Bureau of Competition In order to reduce the burden associated with su…"
   },
   {
-    "id": "ceffa8ba",
-    "title": "Compliance reports: Reinforcing a commitment to effective orders",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
+    "id": "4b02d894",
+    "title": "The when and what of active supervision",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/when-what-active-supervision",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2795,33 +2936,7 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2019-03-11T13:36:41.000Z",
-    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
-  },
-  {
-    "id": "9bc17167",
-    "title": "LBOs and the size of transaction test",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/10/lbos-size-transaction-test",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2016-10-06T18:21:43.000Z",
-    "summary": "LBOs and the size of transaction test rcuster October 6, 2016 | 2:21PM LBOs and the size of transaction test By Premerger Notification Office Staff, Bureau of Competition The Premerger Notification Office is often asked to give guidance on how to determine the value of a propose…"
-  },
-  {
-    "id": "c4678ff9",
-    "title": "HSR Rule 802.5: the Investment Rental Property Exemption",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/hsr-rule-8025-investment-rental-property-exemption",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-07-20T14:56:21.000Z",
-    "summary": "HSR Rule 802.5: the Investment Rental Property Exemption sgilliam July 20, 2015 | 10:56AM HSR Rule 802.5: the Investment Rental Property Exemption By Premerger Notification Staff, Bureau of Competition Every day, the PNO receives many inquiries for interpretations of the Hart-Sc…"
+    "published": "2015-10-14T16:28:42.000Z",
+    "summary": "The when and what of active supervision rcuster October 14, 2015 | 12:28PM The when and what of active supervision By Debbie Feinstein and Geoffrey Green, Bureau of Competition Earlier this year, the U.S. Supreme Court ruled that the North Carolina State Board of Dental Examiner…"
   }
 ]
