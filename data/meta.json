@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-06-13T07:33:24.304Z",
+  "generatedAt": "2026-06-13T10:09:37.669Z",
   "feedCount": 17,
-  "itemCount": 234,
-  "errors": [],
+  "itemCount": 214,
+  "errors": [
+    {
+      "id": "iabtechlab-latest",
+      "name": "IAB Tech Lab (Latest News)",
+      "url": "https://iabtechlab.com/category/latest-news/feed/",
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+    },
+    {
+      "id": "iabtechlab-press",
+      "name": "IAB Tech Lab (Press Releases)",
+      "url": "https://iabtechlab.com/press-releases/feed/",
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+    },
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -40,9 +59,9 @@
       "id": "iabtechlab-latest",
       "name": "IAB Tech Lab (Latest News)",
       "category": "Standards",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
     },
     {
       "id": "iabtechlab-press",
@@ -50,7 +69,7 @@
       "category": "Standards",
       "fetched": 0,
       "kept": 0,
-      "error": null
+      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
     },
     {
       "id": "google-ads-dev-blog",
@@ -80,9 +99,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
