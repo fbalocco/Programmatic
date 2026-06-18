@@ -1,5 +1,44 @@
 [
   {
+    "id": "72790436",
+    "title": "GAM Launches A Chatbot For Troubleshooting Ad Campaigns",
+    "url": "https://www.adexchanger.com/publishers/gam-launches-a-chatbot-for-troubleshooting-ad-campaigns/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-06-18T13:00:39.000Z",
+    "summary": "Google Ad Manager (GAM) wants to make it easier for publisher ad ops teams to troubleshoot campaigns. And – you’ll never believe it – the solution is an AI chatbot. GAM is currently beta testing the new customer service chatbot, called Ask Ad Manager, with select publishers, the…"
+  },
+  {
+    "id": "d71bf5e5",
+    "title": "Streaming TV Pause Ads Are Ready To Scale—If the Industry Can Standardize",
+    "url": "https://www.indexexchange.com/2026/06/18/streaming-tv-pause-ads-ready-scale-industry-can-standardize/",
+    "source": "Index Exchange Blog",
+    "sourceId": "indexexchange",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-06-18T13:00:00.000Z",
+    "summary": "New data from Index Exchange shows buyers and streaming TV publishers see growing value in pause ads, but a lack of standardization is slowing programmatic scale."
+  },
+  {
+    "id": "056aac7c",
+    "title": "Magnite Adds A Data-Quality Layer To Its CTV Inventory",
+    "url": "https://www.adexchanger.com/tv/magnite-adds-a-data-quality-layer-to-its-ctv-inventory/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-06-18T12:30:09.000Z",
+    "summary": "Every time an ID hops from platform to platform, it gets less accurate – and in programmatic, there are a heck of a lot of hops. The post Magnite Adds A Data-Quality Layer To Its CTV Inventory appeared first on AdExchanger."
+  },
+  {
     "id": "c643efd0",
     "title": "Open For Business; Maybe Television Was Really YouTube All Along",
     "url": "https://www.adexchanger.com/daily-news-roundup/thursday-18062026/",
@@ -55,20 +94,6 @@
     "tags": [],
     "published": "2026-06-17T15:11:32.000Z",
     "summary": "The supply-path optimization (SPO) trend has DSPs going direct to publishers, cutting out SSPs in the process. Meanwhile, SSPs are going direct to buyers, cutting out DSPs. But who gets cut out when an ad agency implements its own SPO policy? As it turns out, SSPs are still gene…"
-  },
-  {
-    "id": "1c56116a",
-    "title": "AI, Privacy, and the Hidden Architecture of Harm from Inference",
-    "url": "https://techpolicy.press/ai-privacy-and-the-hidden-architecture-of-harm-from-inference",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-06-17T14:27:21.000Z",
-    "summary": ""
   },
   {
     "id": "86042a44",
@@ -204,32 +229,6 @@
     "summary": "The Korringa-Kohn-Rostoker (KKR) Green's function method is a first-principles electronic structure approach well suited to substitutionally disordered alloys through the Coherent Potential Approximation (CPA). AkaiKKR is a widely used implementation, known for efficient treatme…"
   },
   {
-    "id": "6623f10d",
-    "title": "The AI Tool That’s Giving Landlords A Leg Up On Zillow",
-    "url": "https://www.adexchanger.com/marketers/the-ai-tool-thats-giving-landlords-a-leg-up-on-zillow/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-06-16T18:00:13.000Z",
-    "summary": "In the wise words of Spider-Man, with great power comes great responsibility. Nowhere is this more true, perhaps, than in the tech industry. In just a couple of years, consumers have become “AI native,” said Anda Gansca, CEO and co-founder of customer journey intelligence platfo…"
-  },
-  {
-    "id": "c4c1e8dc",
-    "title": "Hyundai Tests Containerized Ad Tech To Drive New Efficiency",
-    "url": "https://www.adexchanger.com/marketers/hyundai-tests-containerized-ad-tech-to-drive-new-efficiency/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-06-16T14:28:06.000Z",
-    "summary": "There is a potentially seismic shift happening underneath programmatic exchanges, as more ad bidders experiment with placing their AI models or decision-making algorithms in cloud-based container tech that lets those decisions happen at the SSP. Using an SSP’s container means th…"
-  },
-  {
     "id": "980e8937",
     "title": "Justice Department Requires OhioHealth to Stop Using Anticompetitive Healthcare Contract Terms That Raise Costs for Ohio Patients",
     "url": "https://www.justice.gov/opa/pr/justice-department-requires-ohiohealth-stop-using-anticompetitive-healthcare-contract-terms",
@@ -266,17 +265,6 @@
     "tags": [],
     "published": "2026-06-12T12:37:40.000Z",
     "summary": "The abundant and heterogeneous nature of web content necessitates automated information extraction, and generating scrapers that can be reused across similar web pages offers an effective solution for scalable data extraction. In this work, we propose Co-Scraper, a two-stage fra…"
-  },
-  {
-    "id": "c427cf56",
-    "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-    "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-06-12T12:00:00.000Z",
-    "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the fingerprints of asylum…"
   },
   {
     "id": "644e245d",
@@ -363,19 +351,6 @@
     "summary": "Today we’re launching the June 2026 update to the Display & Video 360 API. This update includes the following: Support for Structured Data Files v10. Introduction of new AudioContentType, Exchange, and GeoRegionType values. Support for YouTube Channel Pack targeting, available o…"
   },
   {
-    "id": "de5118c4",
-    "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-06-10T12:00:00.000Z",
-    "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template. The Board held a meeting with Commission…"
-  },
-  {
     "id": "3ab759ac",
     "title": "FTC Finalizes Consent Order in Sevita, BrightSpring Acquisition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-finalizes-consent-order-sevita-brightspring-acquisition",
@@ -411,19 +386,6 @@
     "tags": [],
     "published": "2026-06-09T18:19:08.000Z",
     "summary": "As distributed quantum computing (DQC) offers a leading path towards scalable quantum computation, the ability to benchmark distributed algorithms under realistic conditions becomes critical for system co-design. However, without access to physical systems, researchers lack tool…"
-  },
-  {
-    "id": "924733aa",
-    "title": "The DSA’s Sleeping Giant is Waking Up",
-    "url": "https://techpolicy.press/the-dsas-sleeping-giant-is-waking-up",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-06-09T11:35:01.000Z",
-    "summary": ""
   },
   {
     "id": "58d27b4c",
@@ -1002,17 +964,6 @@
     "summary": "Today we’re introducing Partial Structured Data File Upload to Display & Video 360! This new capability allows you to upload Line Item Structured Data Files (SDFs) that only include certain subsets of columns. Standard Line Item Structured Data Files require the inclusion of ove…"
   },
   {
-    "id": "e2f402c0",
-    "title": "Europe Day 2026: let’s celebrate together",
-    "url": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-05-05T12:00:00.000Z",
-    "summary": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 202…"
-  },
-  {
     "id": "bb730ad7",
     "title": "How Vyde Leveraged Index Marketplaces To Drive High-Impact Engagement for a Global Automotive Brand",
     "url": "https://www.indexexchange.com/2026/05/05/how-vyde-leveraged-index-marketplaces/",
@@ -1124,19 +1075,6 @@
     "summary": "Google Ads API v20 will sunset on June 10, 2026. Starting on this date, all v20 API requests will begin to fail. Migrate to a newer version prior to June 10, 2026 to ensure your API access is unaffected. Here are some resources to help you with the migration: Upgrade to the newe…"
   },
   {
-    "id": "e190306f",
-    "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
-    "url": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-27T12:00:00.000Z",
-    "summary": "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe. The moment that led to the cre…"
-  },
-  {
     "id": "27c2d18e",
     "title": "Simplifying Keyword Forecast Metrics in Google Ads API v24",
     "url": "http://ads-developers.googleblog.com/2026/04/simplifying-keyword-forecast-metrics-in.html",
@@ -1146,19 +1084,6 @@
     "tags": [],
     "published": "2026-04-23T16:40:00.000Z",
     "summary": "To provide a more streamlined and reliable experience, we have unified our forecasting infrastructure. Google Ads API v24 introduces an updated GenerateKeywordForecastMetrics method that simplifies the planning process by focusing on the metrics that most directly impact your pe…"
-  },
-  {
-    "id": "f2bb665e",
-    "title": "Stakeholder event on competition and data protection",
-    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-23T12:00:00.000Z",
-    "summary": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection. The event is an opportunity for stakeholders to inform and suppor…"
   },
   {
     "id": "b0ddc4bf",
@@ -1247,17 +1172,6 @@
     "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission (Agencies) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors, that was announced on Feb. 23, 2026."
   },
   {
-    "id": "a94c2074",
-    "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-16T12:00:00.000Z",
-    "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
-  },
-  {
     "id": "fb9e5ddb",
     "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
@@ -1306,19 +1220,6 @@
     "summary": "Today we’re announcing the April 2026 update to the Display & Video 360 API. This update includes the following: Support for additional Exchange and ThirdPartyVendor values. AdAsset identifier fields in objects used in AdGroupAd resources. Beta support for Demand Gen resource ma…"
   },
   {
-    "id": "e10c0efc",
-    "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
-    "url": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-04-14T12:00:00.000Z",
-    "summary": "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA). The template will help organisations structure, harmonise and e…"
-  },
-  {
     "id": "2bc14356",
     "title": "Merchant API is coming to Google Ads scripts starting April 22, 2026",
     "url": "http://ads-developers.googleblog.com/2026/04/merchant-api-is-coming-to-google-ads.html",
@@ -1328,17 +1229,6 @@
     "tags": [],
     "published": "2026-04-09T18:31:00.000Z",
     "summary": "The Content API for Shopping will sunset on August 18, 2026, to be replaced by the Merchant API. This migration provides a shift toward more robust, scalable, and feature-rich integrations. For Google Ads scripts users, the Google Ads scripts editor will begin rolling out Mercha…"
-  },
-  {
-    "id": "f9c5c9d8",
-    "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-09T12:00:00.000Z",
-    "summary": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its 2025 Annual Report. The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the Helsinki Statement on Enhanced Clarity, Sup…"
   },
   {
     "id": "77e1228d",
@@ -1478,17 +1368,6 @@
     "summary": "See how implementing ad podding with Index Exchange helped A+E Global Media boost monetization by 19% while delivering stronger performance and improving efficiency."
   },
   {
-    "id": "1b177696",
-    "title": "EDPB conference on cross-regulatory cooperation: what we learned",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-03-24T12:00:00.000Z",
-    "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institution…"
-  },
-  {
     "id": "e1f5a2cd",
     "title": "FTC Chairman Andrew N. Ferguson Launches Healthcare Task Force",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-chairman-andrew-n-ferguson-launches-healthcare-task-force",
@@ -1511,17 +1390,6 @@
     "tags": [],
     "published": "2026-03-19T13:00:00.000Z",
     "summary": "Programmatic is evolving fast. Forward-thinking brands are investing in SSP partnerships to boost transparency, improve quality, and unlock better outcomes."
-  },
-  {
-    "id": "26081c13",
-    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-03-19T12:00:00.000Z",
-    "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Informatio…"
   },
   {
     "id": "69bde2b6",
@@ -1663,19 +1531,6 @@
     ],
     "published": "2026-02-04T12:00:00.000Z",
     "summary": "The Federal Trade Commission secured a landmark settlement with one of the nation’s largest pharmacy benefit managers (“PBMs”), Express Scripts, Inc., and its affiliated entities (collectively “ESI”). The settlement requires ESI to adopt fundamental changes to its business pract…"
-  },
-  {
-    "id": "097c417e",
-    "title": "How Sell-Side Decisioning Drove a 75% Drop in Cost per Visit for a Major Retailer",
-    "url": "https://www.indexexchange.com/2026/02/03/sell-side-decisioning-drove-drop-cost-per-visit-major-retailer/",
-    "source": "Index Exchange Blog",
-    "sourceId": "indexexchange",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-02-03T14:15:31.000Z",
-    "summary": "See how a major retailer partnered with Index Exchange and inPowered AI to drive more efficient site visits through sell-side decisioning and Index Marketplaces."
   },
   {
     "id": "8c54dccf",
@@ -2575,17 +2430,6 @@
     "summary": "Document filed on December 27, 2023 Information"
   },
   {
-    "id": "5b20f1e3",
-    "title": "Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subject to Document Requests",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/01/slack-google-chats-other-collaborative-messaging-platforms-have-always-been-will-continue-be-subject",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2024-01-09T14:50:14.000Z",
-    "summary": "Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subject to Document Requests bacree January 9, 2024 | 9:50AM Slack, Google Chats, and other Collaborative Messaging Platforms Have Always Been and Will Continue to be Subjec…"
-  },
-  {
     "id": "66cd415b",
     "title": "U.S. v. Daniel L. Israel",
     "url": "https://www.justice.gov/atr/case/us-v-daniel-l-israel",
@@ -2701,19 +2545,6 @@
     ],
     "published": "2023-03-30T19:09:02.000Z",
     "summary": "Document filed on February 15, 2023 Information Plea Agreement"
-  },
-  {
-    "id": "f72f1add",
-    "title": "BC’s Criminal Liaison Unit is Off to the Races",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2023/03/bcs-criminal-liaison-unit-races",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2023-03-23T19:56:24.000Z",
-    "summary": "BC’s Criminal Liaison Unit is Off to the Races bacree March 23, 2023 | 3:56PM BC’s Criminal Liaison Unit is Off to the Races By Holly Vedova, Director of the Bureau of Competition Last year the Bureau of Competition created its own Criminal Liaison Unit (“CLU”) as part of a Comm…"
   },
   {
     "id": "8ab6eea3",
@@ -2833,98 +2664,48 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "7eec9f35",
-    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
+    "id": "29f3663f",
+    "title": "Real deadlines and real consequences",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-03-19T13:25:32.000Z",
-    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
+    "published": "2020-08-06T16:32:47.000Z",
+    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
   },
   {
-    "id": "48cb63f8",
-    "title": "2020: Remote work with real results",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/01/2020-remote-work-real-results",
+    "id": "25d4b19d",
+    "title": "Real-Time Transparency for HSR Transaction Numbers",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/real-time-transparency-hsr-transaction-numbers",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-01-05T14:42:02.000Z",
-    "summary": "2020: Remote work with real results bacree January 5, 2021 | 9:42AM 2020: Remote work with real results By Ian Conner, Bureau of Competition Sometime in the future, when we look back on the year that was 2020, it is likely that we will want to remember the good things that happe…"
+    "published": "2020-07-09T20:43:13.000Z",
+    "summary": "Real-Time Transparency for HSR Transaction Numbers sfelder July 9, 2020 | 4:43PM Real-Time Transparency for HSR Transaction Numbers By the Premerger Notification Office Staff In response to increased interest in levels of M&A activity, the Bureau of Competition’s Premerger Notif…"
   },
   {
-    "id": "57aa2fcb",
-    "title": "MMA Reports: No tricks or treats—just facts",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/mma-reports-no-tricks-or-treats-just-facts",
+    "id": "b593ed48",
+    "title": "Leadership Changes in the Anticompetitive Practices Division",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-10-27T21:15:33.000Z",
-    "summary": "MMA Reports: No tricks or treats—just facts bjames@ftc.gov October 27, 2020 | 5:15PM MMA Reports: No tricks or treats—just facts By Brad Albert, Armine Black, and Jamie Towey, Bureau of Competition With the passage of the Medicare Prescription Drug, Improvement, and Modernizatio…"
+    "published": "2020-05-29T13:45:42.000Z",
+    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
   },
   {
-    "id": "93dde92c",
-    "title": "Developing the Antitrust Bar",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-10-31T21:20:10.000Z",
-    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
-  },
-  {
-    "id": "97ca26ec",
-    "title": "Updating best practices for data submissions",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/08/updating-best-practices-data-submissions",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2019-08-12T21:13:43.000Z",
-    "summary": "Updating best practices for data submissions bjames@ftc.gov August 12, 2019 | 5:13PM Updating best practices for data submissions By Nathan Wilson, Bureau of Economics The FTC’s Bureau of Economics is updating its guidance regarding the best practices for submitting data and eco…"
-  },
-  {
-    "id": "387d4117",
-    "title": "Interlocking Mindfulness",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/interlocking-mindfulness",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-06-26T16:12:58.000Z",
-    "summary": "Interlocking Mindfulness bjames@ftc.gov June 26, 2019 | 12:12PM Interlocking Mindfulness By Michael E. Blaisdell, Bureau of Competition The wellness strategy of the moment is mindfulness: focusing on the present and being completely aware of your situation. Even in the corporate…"
-  },
-  {
-    "id": "45b1c34c",
-    "title": "FTC Milestones: Cold War chills report on International Petroleum Cartel",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-cold-war-chills-report-international-petroleum-cartel",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-12-17T16:34:05.000Z",
-    "summary": "FTC Milestones: Cold War chills report on International Petroleum Cartel cwarner December 17, 2014 | 11:34AM FTC Milestones: Cold War chills report on International Petroleum Cartel By Kelly Signs, Bureau of Competition The FTC’s status as an independent agency, secured in an ea…"
-  },
-  {
-    "id": "d0a688a9",
-    "title": "FTC Milestones: Making the case for reform of public utility holding company laws",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-making-case-reform-public-utility-holding-company-laws",
+    "id": "ceffa8ba",
+    "title": "Compliance reports: Reinforcing a commitment to effective orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2932,7 +2713,86 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2014-11-18T18:18:10.000Z",
-    "summary": "FTC Milestones: Making the case for reform of public utility holding company laws cwarner November 18, 2014 | 1:18PM FTC Milestones: Making the case for reform of public utility holding company laws By Kelly Signs, Bureau of Competition From its earliest days, the Commission has…"
+    "published": "2019-03-11T13:36:41.000Z",
+    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
+  },
+  {
+    "id": "aa202941",
+    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2018-09-10T17:53:43.000Z",
+    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
+  },
+  {
+    "id": "f454a608",
+    "title": "Timing is everything: The Model Timing Agreement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/08/timing-everything-model-timing-agreement",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-08-07T19:04:47.000Z",
+    "summary": "Timing is everything: The Model Timing Agreement rcuster August 7, 2018 | 3:04PM Timing is everything: The Model Timing Agreement By Bruce Hoffman, Bureau of Competition The Bureau of Competition has undertaken several initiatives to streamline our merger review process in order…"
+  },
+  {
+    "id": "7833f1ff",
+    "title": "“All” means All: Submit side agreements with an HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/12/all-means-all-submit-side-agreements-hsr-filing",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2017-12-20T20:08:17.000Z",
+    "summary": "“All” means All: Submit side agreements with an HSR filing rcuster December 20, 2017 | 3:08PM “All” means All: Submit side agreements with an HSR filing By Bruce Hoffman, Bureau of Competition When preparing an HSR filing for a proposed acquisition, some practitioners counsel th…"
+  },
+  {
+    "id": "388e9c75",
+    "title": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/corporate-or-non-corporate-new-approach-classifying-foreign-entities-under-hsr-rules",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2016-05-19T15:34:48.000Z",
+    "summary": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules rcuster May 19, 2016 | 11:34AM Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules By Premerger Notification Staff, Bureau of Competition Under the H…"
+  },
+  {
+    "id": "aecbe8d8",
+    "title": "A fine balance: toward efficient merger review",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/fine-balance-toward-efficient-merger-review",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-08-04T14:39:03.000Z",
+    "summary": "A fine balance: toward efficient merger review rcuster August 4, 2015 | 10:39AM A fine balance: toward efficient merger review By Debbie Feinstein, Bureau of Competition One of the key functions of the Bureau of Competition is to analyze mergers. Obtaining information through Se…"
+  },
+  {
+    "id": "82be18b4",
+    "title": "Separating fact from opinion",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/separating-fact-opinion",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-03-04T20:45:46.000Z",
+    "summary": "Separating fact from opinion rcuster March 4, 2015 | 3:45PM Separating fact from opinion By Rebecca Egeland and Dan Butrymowicz, Bureau of Competition Although FTC staff often rely on voluntary requests for information in the early stages of an investigation, the use of official…"
   }
 ]

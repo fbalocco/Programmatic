@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-06-18T10:45:25.913Z",
+  "generatedAt": "2026-06-18T13:27:09.770Z",
   "feedCount": 17,
-  "itemCount": 234,
-  "errors": [],
+  "itemCount": 222,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
+    },
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,17 +85,17 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3659,
-      "kept": 2,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 403 Forbidden — <html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html>"
     },
     {
       "id": "ftc-press",
