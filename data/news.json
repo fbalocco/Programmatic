@@ -111,20 +111,6 @@
     "summary": "New data from Index Exchange shows buyers and streaming TV publishers see growing value in pause ads, but a lack of standardization is slowing programmatic scale."
   },
   {
-    "id": "9d52b137",
-    "title": "Designing Europe’s Search Data Sharing Rules for Competition in the AI Era",
-    "url": "https://techpolicy.press/designing-europes-search-data-sharing-rules-for-competition-in-the-ai-era",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "AI"
-    ],
-    "published": "2026-06-18T12:54:43.000Z",
-    "summary": ""
-  },
-  {
     "id": "056aac7c",
     "title": "Magnite Adds A Data-Quality Layer To Its CTV Inventory",
     "url": "https://www.adexchanger.com/tv/magnite-adds-a-data-quality-layer-to-its-ctv-inventory/",
@@ -226,20 +212,6 @@
     "tags": [],
     "published": "2026-06-17T15:11:32.000Z",
     "summary": "The supply-path optimization (SPO) trend has DSPs going direct to publishers, cutting out SSPs in the process. Meanwhile, SSPs are going direct to buyers, cutting out DSPs. But who gets cut out when an ad agency implements its own SPO policy? As it turns out, SSPs are still gene…"
-  },
-  {
-    "id": "1c56116a",
-    "title": "AI, Privacy, and the Hidden Architecture of Harm from Inference",
-    "url": "https://techpolicy.press/ai-privacy-and-the-hidden-architecture-of-harm-from-inference",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-06-17T14:27:21.000Z",
-    "summary": ""
   },
   {
     "id": "86042a44",
@@ -484,19 +456,6 @@
     "tags": [],
     "published": "2026-06-09T18:19:08.000Z",
     "summary": "As distributed quantum computing (DQC) offers a leading path towards scalable quantum computation, the ability to benchmark distributed algorithms under realistic conditions becomes critical for system co-design. However, without access to physical systems, researchers lack tool…"
-  },
-  {
-    "id": "924733aa",
-    "title": "The DSA’s Sleeping Giant is Waking Up",
-    "url": "https://techpolicy.press/the-dsas-sleeping-giant-is-waking-up",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-06-09T11:35:01.000Z",
-    "summary": ""
   },
   {
     "id": "58d27b4c",
@@ -876,6 +835,20 @@
     "summary": "We are excited to announce a significant expansion of the Google Ads A/B experiments feature set in the v24.1 release, launched yesterday, May 13, 2026. We know API functionality is critical for advertisers who manage large sophisticated accounts, and we want to give these adver…"
   },
   {
+    "id": "4cddeb9f",
+    "title": "Acting Deputy Assistant Attorney General for Criminal Enforcement Daniel Glad Delivers Remarks at the Antitrust West Coast Conference",
+    "url": "https://www.justice.gov/opa/speech/acting-deputy-assistant-attorney-general-criminal-enforcement-daniel-gladd-delivers",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-14T12:00:00.000Z",
+    "summary": "Remarks as prepared for Delivery, “Old Crime, New Code”Good afternoon. Thank you to Informa Connect for convening its Antitrust West Coast conference and bringing together such a broad cross-section of the enforcement community, in-house counsel, and private bar."
+  },
+  {
     "id": "3452f0cc",
     "title": "Announcing v24.1 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/05/announcing-v241-of-google-ads-api.html",
@@ -975,6 +948,20 @@
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Agri Stats Inc. (Agri Stats) for unlawful information sharing of price, output, and costs among competing meat processors. Filed in the District of Minnesot…"
   },
   {
+    "id": "53b678bc",
+    "title": "Acting Assistant Attorney General Omeed A. Assefi Delivers Remarks at Engelberg Center on Innovation Law & Policy at NYU School of Law",
+    "url": "https://www.justice.gov/opa/speech/acting-assistant-attorney-general-omeed-assefi-delivers-remarks-engelberg-center",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-07T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, \"Shirley Temple Antitrust: A Fresh Take on an Old Classic\"Good afternoon – thank you for having me here. I’d like to thank New York University Law School for hosting this event and inviting me to speak about our approach to merger enforcement. A…"
+  },
+  {
     "id": "d760b06b",
     "title": "Introducing Partial Structured Data File Upload",
     "url": "http://ads-developers.googleblog.com/2026/05/introducing-partial-structured-data.html",
@@ -1008,6 +995,19 @@
     "summary": "See how Vyde used Index Marketplaces to deliver high-impact engagement for a global auto brand, driving 176% more active engagement time."
   },
   {
+    "id": "a95d3ff1",
+    "title": "Acting Attorney General Blanche Announces Antitrust Investigations on Meatpacking Operations",
+    "url": "https://www.justice.gov/opa/video/acting-attorney-blanche-announces-antitrust-investigations-meatpacking-operations",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-05-04T12:00:00.000Z",
+    "summary": ""
+  },
+  {
     "id": "7ebdee8f",
     "title": "New Data Retention Policy for Google Ads starting June 1, 2026",
     "url": "http://ads-developers.googleblog.com/2026/05/new-data-retention-policy-for-google.html",
@@ -1019,20 +1019,6 @@
     ],
     "published": "2026-05-02T00:40:17.036Z",
     "summary": "table#dataretensionmay2026{ border-collapse: collapse; } table#dataretensionmay2026 td { border: 1px solid grey; padding:5px; } Starting June 1, 2026, Google Ads and related measurement APIs will transition to a 37-month data retention policy for granular performance statistics…"
-  },
-  {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "6c8a86ee",
@@ -1058,6 +1044,20 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
+  },
+  {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "bc1f673b",
@@ -1231,19 +1231,6 @@
     "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted t…"
   },
   {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
-  },
-  {
     "id": "83999437",
     "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
@@ -1266,6 +1253,19 @@
     "tags": [],
     "published": "2026-04-15T12:00:00.000Z",
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
+  },
+  {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
   },
   {
     "id": "1bb1a9ff",
@@ -1360,6 +1360,17 @@
     "summary": "Document filed on April 1, 2026 Plea Agreement Information"
   },
   {
+    "id": "2fa734d2",
+    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-02T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
+  },
+  {
     "id": "d5ad6832",
     "title": "FTC Seeks Public Comment on Petition to Modify Northrop Grumman Final Order",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-petition-modify-northrop-grumman-final-order",
@@ -1372,17 +1383,6 @@
     ],
     "published": "2026-04-02T12:00:00.000Z",
     "summary": "The Federal Trade Commission is seeking public comment on a petition filed by Northrop Grumman Corporation requesting that the Commission reopen and set aside a final consent order involving Northrop Grumman’s 2018 acquisition of aerospace and defense contractor Orbital ATK. The…"
-  },
-  {
-    "id": "2fa734d2",
-    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-02T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
   },
   {
     "id": "0ded96d1",
@@ -1436,20 +1436,6 @@
     ],
     "published": "2026-03-26T13:05:28.000Z",
     "summary": "As agentic AI accelerates programmatic innovation, industry standards and interoperability matter more than ever. See how Index is raising the standard."
-  },
-  {
-    "id": "e6a3e350",
-    "title": "Justice Department Sues New York-Presbyterian Hospital for Anticompetitive Contracts That Increase Healthcare Costs for New Yorkers",
-    "url": "https://www.justice.gov/opa/pr/justice-department-sues-new-york-presbyterian-hospital-anticompetitive-contracts-increase",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-03-26T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division, together with the U.S. Attorney’s Office for the Southern District of New York, filed a civil antitrust lawsuit today challenging The New York and Presbyterian Hospital’s (New York-Presbyterian) anticompetitive contract restrictions t…"
   },
   {
     "id": "7e1649af",
@@ -1587,33 +1573,6 @@
     "summary": "Today, the Federal Trade Commission and the Department of Justice’s Antitrust Division launched a joint public inquiry regarding potential additional guidance on collaborations among competitors. The joint inquiry seeks input on the value and potential content of guidance concer…"
   },
   {
-    "id": "4645dbbb",
-    "title": "Justice Department and Federal Trade Commission Seek Public Comment for Guidance on Business Collaborations",
-    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-seek-public-comment-guidance-business",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-02-23T12:00:00.000Z",
-    "summary": "Today, the Department of Justice’s Antitrust Division and the Federal Trade Commission (FTC) launched a joint public inquiry regarding potential additional guidance on collaborations among competitors. The joint inquiry seeks input on the value and potential content of guidance…"
-  },
-  {
-    "id": "98677630",
-    "title": "Justice Department Sues OhioHealth for Anticompetitive Healthcare Contracts That Increase Costs for Ohio Patients",
-    "url": "https://www.justice.gov/opa/pr/justice-department-sues-ohiohealth-anticompetitive-healthcare-contracts-increase-costs-ohio",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-02-20T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division, together with the Attorney General of Ohio, filed a civil antitrust lawsuit today challenging OhioHealth’s anticompetitive contract restrictions that force Ohio patients to pay higher prices for healthcare."
-  },
-  {
     "id": "5a2d09a0",
     "title": "FTC Finalizes Consent Order in Boeing, Spirit Acquisition",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-boeing-spirit-acquisition",
@@ -1638,17 +1597,6 @@
     "summary": "The next phase of programmatic is here. Learn how agentic sell-side decisioning brings intelligence to the impression, reshaping performance on the open internet."
   },
   {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
-  },
-  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1661,6 +1609,17 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
+  },
+  {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
@@ -1714,6 +1673,17 @@
     ],
     "published": "2026-01-30T12:00:00.000Z",
     "summary": "Today, Federal Trade Commission Chairman Andrew N Ferguson issued a letter to 42 law firms regarding potentially unfair and anticompetitive employment practices. All of these firms recently participated in the Mansfield Certification program, according to public information. Man…"
+  },
+  {
+    "id": "465cf222",
+    "title": "New HSR thresholds and filing fees for 2026",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-20T18:58:00.000Z",
+    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "95c459b6",
@@ -2093,6 +2063,19 @@
     ],
     "published": "2025-01-16T23:59:30.000Z",
     "summary": "Document filed on January 8, 2025 Plea Agreement"
+  },
+  {
+    "id": "9fb4bc1a",
+    "title": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/01/reverse-payments-cash-quantity-restrictions-other-possibilities",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2025-01-15T21:47:10.000Z",
+    "summary": "Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities bjames@ftc.gov January 15, 2025 | 4:47PM Reverse Payments: From Cash to Quantity Restrictions and Other Possibilities By Brad Albert and Hannah Lamb, Bureau of Competition Today, staff of the Bureau of…"
   },
   {
     "id": "d048ed57",
@@ -2550,6 +2533,17 @@
     "summary": "Documents filed on January 31, 2024 Plea Agreement [Al's Asphalt] Plea Agreement [Ed Swanson] Plea Agreement [ASI]"
   },
   {
+    "id": "e3268d4f",
+    "title": "New HSR thresholds and filing fees for 2024",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/02/new-hsr-thresholds-filing-fees-2024",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2024-02-01T22:30:02.000Z",
+    "summary": "New HSR thresholds and filing fees for 2024 bacree February 1, 2024 | 5:30PM New HSR thresholds and filing fees for 2024 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino Act based on the chang…"
+  },
+  {
     "id": "8af11501",
     "title": "U.S. v. Bruce F. Israel",
     "url": "https://www.justice.gov/atr/case/us-v-bruce-f-israel",
@@ -2810,35 +2804,48 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "e40cd650",
-    "title": "A Busy Six Months",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/busy-six-months",
+    "id": "656bb753",
+    "title": "HSR threshold adjustments and reportability for 2021",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/02/hsr-threshold-adjustments-reportability-2021",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-07-08T14:08:40.000Z",
-    "summary": "A Busy Six Months bjames@ftc.gov July 8, 2020 | 10:08AM A Busy Six Months By Gail Levine, Bureau of Competition As we head into the second half of 2020, it’s a good time to pause and take stock of the past six months of work in the Bureau of Competition. Despite the challenges c…"
+    "published": "2021-02-17T22:19:50.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2021 bacree February 17, 2021 | 5:19PM HSR threshold adjustments and reportability for 2021 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "21c2bf55",
-    "title": "On “Failing” Firms — and Miraculous Recoveries",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/failing-firms-miraculous-recoveries",
+    "id": "9582e561",
+    "title": "If you think criticizing staff is a good strategy … It’s not.",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/11/if-you-think-criticizing-staff-good-strategy-its-not",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-27T14:13:04.000Z",
-    "summary": "On “Failing” Firms — and Miraculous Recoveries bjames@ftc.gov May 27, 2020 | 10:13AM On “Failing” Firms — and Miraculous Recoveries By Ian Conner, Bureau of Competition Over the past few years, the Bureau has faced a surprising number of failing firm claims by merging parties. E…"
+    "published": "2019-11-05T21:50:23.000Z",
+    "summary": "If you think criticizing staff is a good strategy … It’s not. sfelder November 5, 2019 | 4:50PM If you think criticizing staff is a good strategy … It’s not. By Ian Conner, Bureau of Competition Parties regularly present their arguments and defenses of conduct and mergers to the…"
   },
   {
-    "id": "ebbb66ef",
-    "title": "We’re hiring a new AD!",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/were-hiring-new-ad",
+    "id": "47feb4c5",
+    "title": "Just because it’s ancillary doesn’t make it legal",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/09/just-because-its-ancillary-doesnt-make-it-legal",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-09-30T14:40:58.000Z",
+    "summary": "Just because it’s ancillary doesn’t make it legal bjames@ftc.gov September 30, 2019 | 10:40AM Just because it’s ancillary doesn’t make it legal By Brian Telpner, Bureau of Competition In The Wizard of Oz, Dorothy was told to ignore the man behind the curtain. Some may argue that…"
+  },
+  {
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2846,98 +2853,46 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2020-04-06T21:13:39.000Z",
-    "summary": "We’re hiring a new AD! bjames@ftc.gov April 6, 2020 | 5:13PM We’re hiring a new AD! By Ian Conner, Bureau of Competition I want to thank Kevin Hahm for his work in the Bureau of Competition and, most importantly, for his contribution to our competition enforcement. Kevin, most r…"
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
   },
   {
-    "id": "4be8e749",
-    "title": "Control no longer controlling for HSR reporting of not-for-profit combinations",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/control-no-longer-controlling-hsr-reporting-not-profit-combinations",
+    "id": "4f6f5e30",
+    "title": "Getting in Sync with HSR Timing Considerations",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-10-26T18:37:54.000Z",
-    "summary": "Control no longer controlling for HSR reporting of not-for-profit combinations rcuster October 26, 2018 | 2:37PM Control no longer controlling for HSR reporting of not-for-profit combinations By Premerger Notification Office Staff The PNO routinely provides informal guidance on…"
+    "published": "2017-08-31T12:57:30.000Z",
+    "summary": "Getting in Sync with HSR Timing Considerations rcuster August 31, 2017 | 8:57AM Getting in Sync with HSR Timing Considerations By Premerger Notification Office Staff, Bureau of Competition The Hart Scott Rodino (HSR) Act and Rules require that parties to certain mergers and acqu…"
   },
   {
-    "id": "22686dbb",
-    "title": "It takes less time to do a thing right",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/it-takes-less-time-do-thing-right",
+    "id": "bfde3079",
+    "title": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/01/ftc-v-actavis-causing-pharma-companies-change-their-behavior",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-09-04T18:14:28.000Z",
-    "summary": "It takes less time to do a thing right rcuster September 4, 2018 | 2:14PM It takes less time to do a thing right By Ian Conner and Lynda Lao, Bureau of Competition Longfellow said “It takes less time to do a thing right than to explain why you did it wrong.” We agree, especially…"
+    "published": "2016-01-13T18:00:25.000Z",
+    "summary": "Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? rcuster January 13, 2016 | 1:00PM Is FTC v. Actavis Causing Pharma Companies to Change Their Behavior? By Jamie Towey and Brad Albert, Bureau of Competition Since 2004, brand-name and generic drug manufacturers…"
   },
   {
-    "id": "b59ea0dd",
-    "title": "You don’t have to write a check to acquire an HSR-reportable interest",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/you-dont-have-write-check-acquire-hsr-reportable-interest",
+    "id": "4b14b68b",
+    "title": "Monitors: Expert eyes and ears in Commission orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/07/monitors-expert-eyes-ears-commission-orders",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-05-15T13:38:39.000Z",
-    "summary": "You don’t have to write a check to acquire an HSR-reportable interest jwolf May 15, 2018 | 9:38AM You don’t have to write a check to acquire an HSR-reportable interest By Premerger Notification Office Staff If your HSR compliance program tracks only those acquisitions that requi…"
-  },
-  {
-    "id": "89544ad2",
-    "title": "The not-so-big news about Big Data",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/06/not-so-big-news-about-big-data",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-06-16T15:30:25.000Z",
-    "summary": "The not-so-big news about Big Data afrey June 16, 2015 | 11:30AM The not-so-big news about Big Data By Debbie Feinstein, Bureau of Competition Everywhere these days, folks are talking about big data. (Apparently, even machines are talking amongst themselves using big data in an…"
-  },
-  {
-    "id": "d48a27b8",
-    "title": "Milestones in FTC history: HSR Act launches effective premerger review",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/milestones-ftc-history-hsr-act-launches-effective-premerger-review",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-03-16T12:00:00.000Z",
-    "summary": "Milestones in FTC history: HSR Act launches effective premerger review afrey March 16, 2015 | 8:00AM Milestones in FTC history: HSR Act launches effective premerger review By Kelly Signs Some will remember 1976 as the year of the nation’s bicentennial, but it was also the year t…"
-  },
-  {
-    "id": "26ec0ed7",
-    "title": "Looking for something?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/01/looking-something",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-01-15T13:54:50.000Z",
-    "summary": "Looking for something? cwarner January 15, 2014 | 8:54AM Looking for something? By Kelly Signs, Bureau of Competition If you regularly use FTC.gov to find cases, speeches, reports or such, then you’ve probably noticed a few changes. We know -- change is hard. But with added feat…"
-  },
-  {
-    "id": "ba251935",
-    "title": "Un-consummated merger",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2013/12/un-consummated-merger",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2013-12-18T15:44:14.000Z",
-    "summary": "Un-consummated merger cwarner December 18, 2013 | 10:44AM Un-consummated merger By Debbie Feinstein, Director, Bureau of Competition Today, five years post-consummation, the Commission approved Polypore International, Inc.’s application to sell Microporous, a competitor it purch…"
+    "published": "2015-07-14T15:59:06.000Z",
+    "summary": "Monitors: Expert eyes and ears in Commission orders afrey July 14, 2015 | 11:59AM Monitors: Expert eyes and ears in Commission orders By Susan Huber, Bureau of Competition The ability to appoint a monitor is an important tool in building a successful merger remedy. The boilerpla…"
   }
 ]
