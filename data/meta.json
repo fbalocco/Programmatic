@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-06-22T04:50:44.725Z",
+  "generatedAt": "2026-06-22T08:27:45.622Z",
   "feedCount": 17,
-  "itemCount": 233,
-  "errors": [],
+  "itemCount": 220,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "edpb-news",
+      "name": "European Data Protection Board (News)",
+      "url": "https://edpb.europa.eu/feed/news_en",
+      "error": "fetch failed"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,17 +85,17 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3667,
-      "kept": 3,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "ftc-press",
