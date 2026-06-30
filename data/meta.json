@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T01:16:33.703Z",
+  "generatedAt": "2026-06-30T04:39:14.684Z",
   "feedCount": 17,
-  "itemCount": 236,
+  "itemCount": 237,
   "errors": [],
   "stats": [
     {
@@ -17,7 +17,7 @@
       "name": "Digiday",
       "category": "Industry",
       "fetched": 15,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3698,
+      "fetched": 3699,
       "kept": 4,
       "error": null
     },
