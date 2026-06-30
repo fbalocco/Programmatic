@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-06-30T12:57:17.143Z",
+  "generatedAt": "2026-06-30T16:06:03.244Z",
   "feedCount": 17,
-  "itemCount": 237,
-  "errors": [],
+  "itemCount": 203,
+  "errors": [
+    {
+      "id": "indexexchange",
+      "name": "Index Exchange Blog",
+      "url": "https://www.indexexchange.com/blog/feed/",
+      "error": "fetch failed"
+    },
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -25,16 +38,16 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 3,
+      "kept": 2,
       "error": null
     },
     {
       "id": "indexexchange",
       "name": "Index Exchange Blog",
       "category": "Industry",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "iabtechlab-latest",
@@ -89,7 +102,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -113,7 +126,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 11,
+      "kept": 12,
       "error": null
     },
     {
@@ -136,9 +149,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 429 Unknown Error — Rate exceeded."
     }
   ]
 }
