@@ -1,5 +1,16 @@
 [
   {
+    "id": "3cab666d",
+    "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+    "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-07-01T12:00:00.000Z",
+    "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal…"
+  },
+  {
     "id": "46a50fe2",
     "title": "Why Media Mergers And Spin-Offs Don’t Always Keep Their Promises",
     "url": "https://www.adexchanger.com/tv/why-media-mergers-and-spin-offs-dont-always-keep-their-promises/",
@@ -89,6 +100,19 @@
     "summary": "Optimization has been the golden promise of AI in advertising. From audience targeting and bid management to media buying and creative optimization, the industry’s first wave of AI investment has focused on helping campaigns perform better. However, as digital advertising become…"
   },
   {
+    "id": "8f9a2b59",
+    "title": "FTC Secures Agreement with Havas to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-06-30T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission, along with a coalition of states, scored another major victory in the fight against collusive conduct in the advertising industry. Advertising agency Havas Media Group USA LLC (Havas) has agreed to a proposed FTC order to resolve allegations…"
+  },
+  {
     "id": "ee240f21",
     "title": "FTC Requires Amazon to Pay $2.25 Million to Resolve Charges It Knowingly Violated the Fair Credit Reporting Act",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-requires-amazon-pay-225-million-resolve-charges-it-knowingly-violated-fair-credit-reporting-act",
@@ -101,19 +125,6 @@
     ],
     "published": "2026-06-30T12:00:00.000Z",
     "summary": "FTC alleged that Amazon routinely denied requests from identity theft victims seeking records of fraudulent transactions made with their personal data Amazon will pay $2.25 million in civil penalties to settle Federal Trade Commission allegations that the online retail giant kno…"
-  },
-  {
-    "id": "8f9a2b59",
-    "title": "FTC Secures Agreement with Havas to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-06-30T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission, along with a coalition of states, scored another major victory in the fight against collusive conduct in the advertising industry. Advertising agency Havas Media Group USA LLC (Havas) has agreed to a proposed FTC order to resolve allegations…"
   },
   {
     "id": "847ceeb1",
@@ -962,17 +973,6 @@
     "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach to the supervisory authority) Decision:…"
   },
   {
-    "id": "4076854d",
-    "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
-    "url": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-06-04T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subjec…"
-  },
-  {
     "id": "6b8d9db0",
     "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
     "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
@@ -1759,6 +1759,17 @@
     "summary": "The Federal Trade Commission finalized a consent order involving the Boeing Company’s (Boeing) acquisition of Spirit AeroSystems Holdings, Inc. (Spirit). The FTC previously accepted the consent order, subject to final approval, on December 2, 2025. The consent order requires Boe…"
   },
   {
+    "id": "f6fcdc2f",
+    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-02-12T12:00:00.000Z",
+    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
+  },
+  {
     "id": "068d13f9",
     "title": "FTC Finalizes Consent Order in Adamas No-Hire Agreement Matter",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-adamas-no-hire-agreement-matter",
@@ -1771,17 +1782,6 @@
     ],
     "published": "2026-02-12T12:00:00.000Z",
     "summary": "The Federal Trade Commission finalized a consent order that requires building services contractor Adamas Amenity Services LLC (Adamas) and its affiliated businesses to cease their enforcement of no-hire agreements. The FTC’s action helps free American workers from labor practice…"
-  },
-  {
-    "id": "f6fcdc2f",
-    "title": "Federal Trade Commission Chairman Andrew N. Ferguson Issues Warning Letter to Apple CEO Tim Cook",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-chairman-andrew-n-ferguson-issues-warning-letter-apple-ceo-tim-cook",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-02-12T12:00:00.000Z",
-    "summary": "Federal Trade Commission Chairman Andrew N. Ferguson issued a letter to Apple CEO Tim Cook, reminding him of Apple’s obligations to its customers. The letter follows reports that Apple News systematically boosts left-wing sources and suppresses right-wing sources. The letter poi…"
   },
   {
     "id": "f4b0fdf0",
