@@ -1,5 +1,27 @@
 [
   {
+    "id": "4f0ae27a",
+    "title": "Bidders For Criteo; Who Needs Search Traffic, Anyway?",
+    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-08072026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-07-08T04:03:48.000Z",
+    "summary": "Criteo In Play-O Two private investment firms, Vista Equity Partners and Quinti Capital, have submitted a bid to acquire Criteo, Reuters reports. Criteo hasn’t reacted to the report publicly, nor have its executives decided on a response to the offer, which presumably would enta…"
+  },
+  {
+    "id": "29288cf1",
+    "title": "Criteo is subject to a takeover bid, further proving private equity’s continued interest in ad tech",
+    "url": "https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-07-08T04:01:00.000Z",
+    "summary": "Vista Equity and Quinti Capital place a 50% premium on stock, raising questions over where the PE firms see value."
+  },
+  {
     "id": "10b8a834",
     "title": "Walmart Connect and Magnite on the Convergence of Retail Media, CTV, and Programmatic | Cannes 2026",
     "url": "https://www.adexchanger.com/content-studio/walmart-connect-and-magnite-on-the-convergence-of-retail-media-ctv-and-programmatic-cannes-2026/",
@@ -224,20 +246,6 @@
     "summary": "Two summers ago in Paris, the advertising industry ran an experiment in public. The 2024 Olympics became the first Programmatic Games, and the results settled a debate that had been dragging on for a decade. Paris proved the mechanics: Premium live sports could be transacted pro…"
   },
   {
-    "id": "b9cf96ea",
-    "title": "Careful, Merge Ahead; How Meta’s Marketers Use AI",
-    "url": "https://www.adexchanger.com/daily-news-roundup/monday-06072026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Antitrust",
-      "AI"
-    ],
-    "published": "2026-07-06T04:03:50.000Z",
-    "summary": "The Great Convergence Warner Bros. Discovery isn’t the only merger that Paramount Skydance has up its sleeve. Business Insider reports that Paramount’s ad tech and product teams are consolidating under newly hired EVP and former Google leader Hugh Williams, according to a memo s…"
-  },
-  {
     "id": "f49fb636",
     "title": "Auto-AEG: Scalable Data Construction for Open-Vocabulary Audio Event Grounding",
     "url": "https://arxiv.org/abs/2607.04383v1",
@@ -341,17 +349,6 @@
     "summary": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them cost…"
   },
   {
-    "id": "506bbc05",
-    "title": "The rise of pharma ad tech",
-    "url": "https://digiday.com/marketing/the-rise-of-pharma-ad-tech/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-07-02T04:01:00.000Z",
-    "summary": "Insiders say it comes at the cost of legacy platforms such as DSPs and SSPs."
-  },
-  {
     "id": "3f84ddd0",
     "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
     "url": "https://arxiv.org/abs/2607.01531v1",
@@ -420,19 +417,6 @@
     "summary": "See how WPP Media and Nano Interactive used Index Marketplaces and sell-side decisioning to engage niche B2B audiences at scale and efficiently boost performance."
   },
   {
-    "id": "8f9a2b59",
-    "title": "FTC Secures Agreement with Havas to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-06-30T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission, along with a coalition of states, scored another major victory in the fight against collusive conduct in the advertising industry. Advertising agency Havas Media Group USA LLC (Havas) has agreed to a proposed FTC order to resolve allegations…"
-  },
-  {
     "id": "ee240f21",
     "title": "FTC Requires Amazon to Pay $2.25 Million to Resolve Charges It Knowingly Violated the Fair Credit Reporting Act",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-requires-amazon-pay-225-million-resolve-charges-it-knowingly-violated-fair-credit-reporting-act",
@@ -445,6 +429,19 @@
     ],
     "published": "2026-06-30T12:00:00.000Z",
     "summary": "FTC alleged that Amazon routinely denied requests from identity theft victims seeking records of fraudulent transactions made with their personal data Amazon will pay $2.25 million in civil penalties to settle Federal Trade Commission allegations that the online retail giant kno…"
+  },
+  {
+    "id": "8f9a2b59",
+    "title": "FTC Secures Agreement with Havas to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-06-30T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission, along with a coalition of states, scored another major victory in the fight against collusive conduct in the advertising industry. Advertising agency Havas Media Group USA LLC (Havas) has agreed to a proposed FTC order to resolve allegations…"
   },
   {
     "id": "847ceeb1",
@@ -1117,17 +1114,6 @@
     "summary": "The Federal Trade Commission took action to protect American patients from higher outpatient surgery costs by requiring national nonprofit health system Ascension Health Alliance (Ascension) to divest several surgery center facilities to complete its proposed $3.9 billion acquis…"
   },
   {
-    "id": "2673cc9f",
-    "title": "Announcing Tech Lab’s 2026 Service Excellence Awards",
-    "url": "https://iabtechlab.com/announcing-tech-labs-2026-service-excellence-awards/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2026-06-01T20:21:28.000Z",
-    "summary": "Find out who earned 2026 Service Excellence Awards at Tech Lab Summit on May 28 and how they make the ecosystem stronger The post Announcing Tech Lab’s 2026 Service Excellence Awards appeared first on IAB Tech Lab."
-  },
-  {
     "id": "8599619b",
     "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
@@ -1401,20 +1387,6 @@
     "summary": ""
   },
   {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
-  },
-  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -1438,6 +1410,20 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
+  },
+  {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "d55f52bd",
@@ -1504,19 +1490,6 @@
     "summary": "The Federal Trade Commission and the Justice Department’s Antitrust Division (“Agencies”) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors that was announced on February 23, 2026. The Agenci…"
   },
   {
-    "id": "fb9e5ddb",
-    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
-  },
-  {
     "id": "83999437",
     "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
@@ -1541,6 +1514,19 @@
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
+    "id": "fb9e5ddb",
+    "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission, along with a coalition of states, took decisive action today to stop collusion between the nation’s largest advertising agencies that distorted America’s modern public square. Starting in 2018, major U.S. advertising agencies WPP, Publicis and Dents…"
+  },
+  {
     "id": "378d4a5b",
     "title": "Sell-Side Decisioning for Media Owners: How To Create More Value in Programmatic",
     "url": "https://www.indexexchange.com/2026/04/07/sell-side-decisioning-media-owners-more-value-programmatic/",
@@ -1552,17 +1538,6 @@
     "summary": "Sell-side decisioning is creating new avenues for media owners to build more resilient monetization strategies. See how you can take advantage of the opportunity."
   },
   {
-    "id": "805a7674",
-    "title": "FTC Submits Annual Budget Request to Congress",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
-  },
-  {
     "id": "77e1228d",
     "title": "FTC Publishes New Strategic Plan",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
@@ -1572,6 +1547,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
+  },
+  {
+    "id": "805a7674",
+    "title": "FTC Submits Annual Budget Request to Congress",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
   },
   {
     "id": "9f34eee8",
@@ -1805,33 +1791,6 @@
     ],
     "published": "2025-12-03T15:25:55.000Z",
     "summary": "Document filed on November 14, 2025 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Index of Comments"
-  },
-  {
-    "id": "46ebaafd",
-    "title": "Shaping the Future of Attribution Technology",
-    "url": "https://iabtechlab.com/shaping-the-future-of-attribution-technology/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2025-09-08T13:12:38.000Z",
-    "summary": "Environments who do not support third party cookies are challenging for advertisers to operate in for many reasons. Many advertisers choose to simply not spend in such environments and thus the need for browsers who do not support third parties to implement specialized APIs to s…"
-  },
-  {
-    "id": "5c894efa",
-    "title": "ID-Less Solutions Guidance Finalized",
-    "url": "https://iabtechlab.com/id-less-solutions-guidance-finalized/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Identity"
-    ],
-    "published": "2025-07-17T15:53:14.000Z",
-    "summary": "IAB Tech Lab releases the finalized ID-Less Solutions guidance providing a comprehensive review on how ID Solutions and ID-Less Solutions compare, and more The post ID-Less Solutions Guidance Finalized appeared first on IAB Tech Lab."
   },
   {
     "id": "884467a3",
@@ -2070,31 +2029,6 @@
     "summary": "Documents filed on March 19, 2025 Plea Agreement [TranscendBS, LLC] Plea Agreement [Victor A. Garrido] Information"
   },
   {
-    "id": "2e1f274a",
-    "title": "ACIF Validation API specification is ready for Implementation!",
-    "url": "https://iabtechlab.com/acif-validation-api-specification-is-ready-for-implementation/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2025-03-18T14:52:33.000Z",
-    "summary": "Finalized versions of ACIF and the ACIF Validation API specification released The post ACIF Validation API specification is ready for Implementation! appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "2b84bf0e",
-    "title": "Secure Matching & Measurement for Data Clean Rooms",
-    "url": "https://iabtechlab.com/secure-matching-measurement-for-data-clean-rooms/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2025-02-25T15:00:08.000Z",
-    "summary": "A Data Clean Room Interoperability Protocol for Attribution Measurement IAB TechLab is proud to announce the first release of the Attribution Data Mapping Protocol (ADMaP), a next generation standard which utilizes advanced cryptographic techniques to enable measurement with pri…"
-  },
-  {
     "id": "01356b99",
     "title": "U.S. v. Scott Reefe",
     "url": "https://www.justice.gov/atr/case/us-v-scott-reefe",
@@ -2238,17 +2172,6 @@
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
   },
   {
-    "id": "d566b766",
-    "title": "GPP Implementation Guidelines released for Public Comment",
-    "url": "https://iabtechlab.com/gpp-implementation-guidelines-release-for-public-comment/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2024-10-29T12:23:27.000Z",
-    "summary": "IAB Tech Lab releases GPP implementation guidelines for public comment to help companies streamline regulatory compliance The post GPP Implementation Guidelines released for Public Comment appeared first on IAB Tech Lab."
-  },
-  {
     "id": "9b58c964",
     "title": "U.S. v. David A. Coppola",
     "url": "085f8c4f-d401-434a-bca7-709ba5357fb2",
@@ -2260,46 +2183,6 @@
     ],
     "published": "2024-10-25T16:55:02.000Z",
     "summary": "Document filed on October 2, 2024 Plea Agreement"
-  },
-  {
-    "id": "d68a30ea",
-    "title": "CTV Ad Format Hero initiative launched by IAB Tech Lab",
-    "url": "https://iabtechlab.com/ctv-ad-format-hero-initiative-launched-by-iab-tech-lab/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2024-10-22T12:29:31.000Z",
-    "summary": "IAB Tech Lab announces the launch of its latest initiative, \"Ad Format Hero,\" aimed at standardizing emerging Connected TV ad formats. The post CTV Ad Format Hero initiative launched by IAB Tech Lab appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "a5a65132",
-    "title": "IAB Tech Lab releases AI in Advertising Primer",
-    "url": "https://iabtechlab.com/iab-tech-lab-releases-ai-in-advertising-primer/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "AI"
-    ],
-    "published": "2024-10-16T13:00:59.000Z",
-    "summary": "IAB Tech Lab Board releases AI in Advertising Primer to lay the foundations for future discussions on usage of the technology The post IAB Tech Lab releases AI in Advertising Primer appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "832825f5",
-    "title": "Tech Lab releases ADMaP supporting privacy-centric attribution",
-    "url": "https://iabtechlab.com/tech-lab-releases-admap-supporting-privacy-centric-attribution/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2024-10-15T12:40:05.000Z",
-    "summary": "Tech Lab's PAIR protocol provides a privacy-centric approach for advertisers and publishers to match and activate their first-party audiences The post Tech Lab releases ADMaP supporting privacy-centric attribution appeared first on IAB Tech Lab."
   },
   {
     "id": "de353f17",
@@ -2326,19 +2209,6 @@
     ],
     "published": "2024-09-30T15:36:08.000Z",
     "summary": "Document filed on April 25, 2024 Plea Agreement Information"
-  },
-  {
-    "id": "99f32839",
-    "title": "Tech Lab releases PAIR protocol for the industry",
-    "url": "https://iabtechlab.com/tech-lab-release-pair-protocol-for-the-industry/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2024-09-26T12:42:53.000Z",
-    "summary": "Tech Lab's PAIR protocol provides a privacy-centric approach for advertisers and publishers to match and activate their first-party audiences The post Tech Lab releases PAIR protocol for the industry appeared first on IAB Tech Lab."
   },
   {
     "id": "036f4be0",
@@ -2888,132 +2758,132 @@
     "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
-    "id": "bdeedd2b",
-    "title": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/09/making-second-request-process-both-more-streamlined-more-rigorous-during-unprecedented-merger-wave",
+    "id": "7594d49d",
+    "title": "Adjusting merger review to deal with the surge in merger filings",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-09-28T12:08:08.000Z",
-    "summary": "Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave jwolf September 28, 2021 | 8:08AM Making the Second Request Process Both More Streamlined and More Rigorous During this Unprecedented Merger Wave By Holly Vedova, Bure…"
+    "published": "2021-08-03T16:28:44.000Z",
+    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
   },
   {
-    "id": "05be3262",
-    "title": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/reforming-pre-filing-process-companies-considering-consolidation-change-treatment-debt",
+    "id": "11ffd583",
+    "title": "A Fiscal Year Like No Other",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-10-06T15:06:46.000Z",
+    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
+  },
+  {
+    "id": "9dd4d72f",
+    "title": "The hearing may be virtual, but the rules are the same",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-08-14T15:08:00.000Z",
+    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
+  },
+  {
+    "id": "717f4e88",
+    "title": "Eyes Wide Open: There are no blinders in merger reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-07-20T18:00:30.000Z",
+    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+  },
+  {
+    "id": "aba5bca6",
+    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2019-05-03T21:21:11.000Z",
+    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
+  },
+  {
+    "id": "d028fde8",
+    "title": "The uphill case for a post-Order divestiture",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2019-03-21T18:59:30.000Z",
+    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
+  },
+  {
+    "id": "35623933",
+    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2021-08-26T18:06:40.000Z",
-    "summary": "Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt jwolf August 26, 2021 | 2:06PM Reforming the Pre-Filing Process for Companies Considering Consolidation and a Change in the Treatment of Debt By Holly Vedova, Bureau of…"
+    "published": "2019-03-06T16:23:19.000Z",
+    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
   },
   {
-    "id": "57aa2fcb",
-    "title": "MMA Reports: No tricks or treats—just facts",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/mma-reports-no-tricks-or-treats-just-facts",
+    "id": "57572c89",
+    "title": "What’s the interest in partial interests?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-10-27T21:15:33.000Z",
-    "summary": "MMA Reports: No tricks or treats—just facts bjames@ftc.gov October 27, 2020 | 5:15PM MMA Reports: No tricks or treats—just facts By Brad Albert, Armine Black, and Jamie Towey, Bureau of Competition With the passage of the Medicare Prescription Drug, Improvement, and Modernizatio…"
+    "published": "2016-05-09T15:29:44.000Z",
+    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
   },
   {
-    "id": "18a72af8",
-    "title": "Leadership Changes in Mergers Divisions",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/leadership-changes-mergers-divisions",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2020-10-07T14:31:20.000Z",
-    "summary": "Leadership Changes in Mergers Divisions sfelder October 7, 2020 | 10:31AM Leadership Changes in Mergers Divisions By Ian R. Conner, Bureau of Competition I am pleased to announce several leadership changes in the Bureau's Mergers I and Mergers IV Divisions. Mark Seidman has been…"
-  },
-  {
-    "id": "05f4b387",
-    "title": "FTC releases agenda for Data To Go virtual workshop",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/09/ftc-releases-agenda-data-go-virtual-workshop",
+    "id": "e9511129",
+    "title": "Calculating the value of stock under HSR rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-09-10T16:12:13.000Z",
-    "summary": "FTC releases agenda for Data To Go virtual workshop bjames@ftc.gov September 10, 2020 | 12:12PM FTC releases agenda for Data To Go virtual workshop By Kate White, Bureau of Consumer Protection, and Andrea Zach, Bureau of Competition “Take out” takes on a whole new meaning when i…"
+    "published": "2015-10-27T18:05:06.000Z",
+    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
   },
   {
-    "id": "387d4117",
-    "title": "Interlocking Mindfulness",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/06/interlocking-mindfulness",
+    "id": "f82b0582",
+    "title": "A license that is more than a license",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-06-26T16:12:58.000Z",
-    "summary": "Interlocking Mindfulness bjames@ftc.gov June 26, 2019 | 12:12PM Interlocking Mindfulness By Michael E. Blaisdell, Bureau of Competition The wellness strategy of the moment is mindfulness: focusing on the present and being completely aware of your situation. Even in the corporate…"
-  },
-  {
-    "id": "8c2ed085",
-    "title": "Joining the issues on the high road",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/joining-issues-high-road",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-05-13T16:40:24.000Z",
-    "summary": "Joining the issues on the high road rcuster May 13, 2019 | 12:40PM Joining the issues on the high road By Bruce Hoffman and Heather M. Johnson, Bureau of Competition The great majority of attorneys appearing before the Commission share a sense of practicing at the height of our…"
-  },
-  {
-    "id": "8229c5c8",
-    "title": "FTC launches first Web API to make Early Terminations more accessible",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/06/ftc-launches-first-web-api-make-early-terminations-more-accessible",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2018-06-25T21:42:59.000Z",
-    "summary": "FTC launches first Web API to make Early Terminations more accessible rcuster June 25, 2018 | 5:42PM FTC launches first Web API to make Early Terminations more accessible By Chris Noonan Sturm, Website Manager An important aspect of the FTC’s Premerger Notification Program is th…"
-  },
-  {
-    "id": "982b8d61",
-    "title": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/02/ftc-milestone-new-age-dawns-ftcs-competition-work",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2015-02-20T15:58:10.000Z",
-    "summary": "FTC Milestone: A New Age Dawns for the FTC’s Competition Work rcuster February 20, 2015 | 10:58AM FTC Milestone: A New Age Dawns for the FTC’s Competition Work By Kelly Signs, Bureau of Competition As anyone of a certain age can attest, the 1970’s were all about change. Hairstyl…"
-  },
-  {
-    "id": "9a6bf58c",
-    "title": "Antitrust by association(s)",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/05/antitrust-associations",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2014-05-01T12:34:44.000Z",
-    "summary": "Antitrust by association(s) cwarner May 1, 2014 | 8:34AM Antitrust by association(s) By Geoffrey Green, Bureau of Competition Antitrust enforcers have always been concerned about the potential for harm arising from the activities of trade groups made up of competitors. From its…"
+    "published": "2014-03-24T17:59:18.000Z",
+    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
   }
 ]
