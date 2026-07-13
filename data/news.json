@@ -1,5 +1,18 @@
 [
   {
+    "id": "dfdfb732",
+    "title": "U.S. v. Eduardo Ruben Lopez",
+    "url": "https://www.justice.gov/atr/case/us-v-eduardo-ruben-lopez",
+    "source": "DOJ Antitrust Division Criminal Case Filings",
+    "sourceId": "doj-atr-criminal-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-07-13T15:59:01.000Z",
+    "summary": "Document filed on July 9, 2026 Answering Brief for the United States"
+  },
+  {
     "id": "93836b47",
     "title": "Measurement investments haven’t simplified advertising decisions: report",
     "url": "https://www.marketingdive.com/news/measurement-investments-havent-simplified-advertising-decisions-report/824957/",
@@ -22,6 +35,19 @@
     "tags": [],
     "published": "2026-07-13T05:00:57.000Z",
     "summary": "The “K” in “K-beauty” stands for “Korean.” But it should also stand for “kaboom” because Korean beauty product sales are exploding internationally, especially in the US market. America is already the No. 1 foreign importer of South Korean cosmetics. And the K-beauty boom is just…"
+  },
+  {
+    "id": "dcabbcd2",
+    "title": "The Open Web Is Shifting From An Audience Economy To A Context Economy",
+    "url": "https://www.adexchanger.com/data-driven-thinking/the-open-web-is-shifting-from-an-audience-economy-to-a-context-economy/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Identity"
+    ],
+    "published": "2026-07-13T04:35:14.000Z",
+    "summary": "The open web is moving beyond identity-based systems built around audience data to context systems that understand who a person is, where they are, what surrounds them and what’s happening right now. We already know what this next stage of open web ad tech will look like. At my…"
   },
   {
     "id": "71d4422c",
@@ -167,20 +193,6 @@
     ],
     "published": "2026-07-09T15:22:48.000Z",
     "summary": "For years, algorithmic decisioning lived on the buy side — inside DSPs that only ever saw a fraction of available inventory. Containerization changes that, moving custom AI decisioning models directly into SSP environments and reshaping the programmatic supply chain in the proce…"
-  },
-  {
-    "id": "f116df9b",
-    "title": "Can Content Drive Performance?",
-    "url": "https://www.adexchanger.com/the-big-story/can-content-drive-performance/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-07-09T14:27:24.000Z",
-    "summary": "From avoiding AI slop to achieving show-level transparency on a CTV buy, we talk through how buyers are supercharging performance by focusing on the content where they place their ads. The post Can Content Drive Performance? appeared first on AdExchanger."
   },
   {
     "id": "6fbdabae",
@@ -1105,17 +1117,6 @@
     "summary": "The Federal Trade Commission took action to protect American patients from higher outpatient surgery costs by requiring national nonprofit health system Ascension Health Alliance (Ascension) to divest several surgery center facilities to complete its proposed $3.9 billion acquis…"
   },
   {
-    "id": "2673cc9f",
-    "title": "Announcing Tech Lab’s 2026 Service Excellence Awards",
-    "url": "https://iabtechlab.com/announcing-tech-labs-2026-service-excellence-awards/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2026-06-01T20:21:28.000Z",
-    "summary": "Find out who earned 2026 Service Excellence Awards at Tech Lab Summit on May 28 and how they make the ecosystem stronger The post Announcing Tech Lab’s 2026 Service Excellence Awards appeared first on IAB Tech Lab."
-  },
-  {
     "id": "8599619b",
     "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
@@ -1400,20 +1401,6 @@
     "summary": ""
   },
   {
-    "id": "fe6b5655",
-    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
-  },
-  {
     "id": "3f5a0cac",
     "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
@@ -1437,6 +1424,20 @@
     "tags": [],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans from rising food prices by requiring 365 Retail Markets LLC (365 Retail)—the nation’s largest provider of micromarket kiosks—to divest a competing business to complete its $848 million acquisition of Cantaloupe…"
+  },
+  {
+    "id": "fe6b5655",
+    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
   },
   {
     "id": "d55f52bd",
@@ -1503,17 +1504,6 @@
     "summary": "The Federal Trade Commission and the Justice Department’s Antitrust Division (“Agencies”) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors that was announced on February 23, 2026. The Agenci…"
   },
   {
-    "id": "17f8c57a",
-    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
-  },
-  {
     "id": "fb9e5ddb",
     "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
@@ -1540,6 +1530,17 @@
     "summary": "The Federal Trade Commission testified before the Senate Committee on Commerce, Science and Transportation today to highlight the agency’s accomplishments in the last year and a half and its ongoing work to protect consumers and promote competition on behalf of the American peop…"
   },
   {
+    "id": "17f8c57a",
+    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
+  },
+  {
     "id": "378d4a5b",
     "title": "Sell-Side Decisioning for Media Owners: How To Create More Value in Programmatic",
     "url": "https://www.indexexchange.com/2026/04/07/sell-side-decisioning-media-owners-more-value-programmatic/",
@@ -1551,17 +1552,6 @@
     "summary": "Sell-side decisioning is creating new avenues for media owners to build more resilient monetization strategies. See how you can take advantage of the opportunity."
   },
   {
-    "id": "805a7674",
-    "title": "FTC Submits Annual Budget Request to Congress",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
-  },
-  {
     "id": "77e1228d",
     "title": "FTC Publishes New Strategic Plan",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
@@ -1571,6 +1561,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
+  },
+  {
+    "id": "805a7674",
+    "title": "FTC Submits Annual Budget Request to Congress",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
   },
   {
     "id": "9f34eee8",
@@ -1779,33 +1780,6 @@
     ],
     "published": "2025-12-03T15:25:55.000Z",
     "summary": "Document filed on November 14, 2025 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Index of Comments"
-  },
-  {
-    "id": "46ebaafd",
-    "title": "Shaping the Future of Attribution Technology",
-    "url": "https://iabtechlab.com/shaping-the-future-of-attribution-technology/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2025-09-08T13:12:38.000Z",
-    "summary": "Environments who do not support third party cookies are challenging for advertisers to operate in for many reasons. Many advertisers choose to simply not spend in such environments and thus the need for browsers who do not support third parties to implement specialized APIs to s…"
-  },
-  {
-    "id": "5c894efa",
-    "title": "ID-Less Solutions Guidance Finalized",
-    "url": "https://iabtechlab.com/id-less-solutions-guidance-finalized/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Identity"
-    ],
-    "published": "2025-07-17T15:53:14.000Z",
-    "summary": "IAB Tech Lab releases the finalized ID-Less Solutions guidance providing a comprehensive review on how ID Solutions and ID-Less Solutions compare, and more The post ID-Less Solutions Guidance Finalized appeared first on IAB Tech Lab."
   },
   {
     "id": "884467a3",
@@ -2044,31 +2018,6 @@
     "summary": "Documents filed on March 19, 2025 Plea Agreement [TranscendBS, LLC] Plea Agreement [Victor A. Garrido] Information"
   },
   {
-    "id": "2e1f274a",
-    "title": "ACIF Validation API specification is ready for Implementation!",
-    "url": "https://iabtechlab.com/acif-validation-api-specification-is-ready-for-implementation/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2025-03-18T14:52:33.000Z",
-    "summary": "Finalized versions of ACIF and the ACIF Validation API specification released The post ACIF Validation API specification is ready for Implementation! appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "2b84bf0e",
-    "title": "Secure Matching & Measurement for Data Clean Rooms",
-    "url": "https://iabtechlab.com/secure-matching-measurement-for-data-clean-rooms/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2025-02-25T15:00:08.000Z",
-    "summary": "A Data Clean Room Interoperability Protocol for Attribution Measurement IAB TechLab is proud to announce the first release of the Attribution Data Mapping Protocol (ADMaP), a next generation standard which utilizes advanced cryptographic techniques to enable measurement with pri…"
-  },
-  {
     "id": "01356b99",
     "title": "U.S. v. Scott Reefe",
     "url": "https://www.justice.gov/atr/case/us-v-scott-reefe",
@@ -2212,17 +2161,6 @@
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
   },
   {
-    "id": "d566b766",
-    "title": "GPP Implementation Guidelines released for Public Comment",
-    "url": "https://iabtechlab.com/gpp-implementation-guidelines-release-for-public-comment/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [],
-    "published": "2024-10-29T12:23:27.000Z",
-    "summary": "IAB Tech Lab releases GPP implementation guidelines for public comment to help companies streamline regulatory compliance The post GPP Implementation Guidelines released for Public Comment appeared first on IAB Tech Lab."
-  },
-  {
     "id": "9b58c964",
     "title": "U.S. v. David A. Coppola",
     "url": "085f8c4f-d401-434a-bca7-709ba5357fb2",
@@ -2234,46 +2172,6 @@
     ],
     "published": "2024-10-25T16:55:02.000Z",
     "summary": "Document filed on October 2, 2024 Plea Agreement"
-  },
-  {
-    "id": "d68a30ea",
-    "title": "CTV Ad Format Hero initiative launched by IAB Tech Lab",
-    "url": "https://iabtechlab.com/ctv-ad-format-hero-initiative-launched-by-iab-tech-lab/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2024-10-22T12:29:31.000Z",
-    "summary": "IAB Tech Lab announces the launch of its latest initiative, \"Ad Format Hero,\" aimed at standardizing emerging Connected TV ad formats. The post CTV Ad Format Hero initiative launched by IAB Tech Lab appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "a5a65132",
-    "title": "IAB Tech Lab releases AI in Advertising Primer",
-    "url": "https://iabtechlab.com/iab-tech-lab-releases-ai-in-advertising-primer/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "AI"
-    ],
-    "published": "2024-10-16T13:00:59.000Z",
-    "summary": "IAB Tech Lab Board releases AI in Advertising Primer to lay the foundations for future discussions on usage of the technology The post IAB Tech Lab releases AI in Advertising Primer appeared first on IAB Tech Lab."
-  },
-  {
-    "id": "832825f5",
-    "title": "Tech Lab releases ADMaP supporting privacy-centric attribution",
-    "url": "https://iabtechlab.com/tech-lab-releases-admap-supporting-privacy-centric-attribution/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy",
-      "Measurement"
-    ],
-    "published": "2024-10-15T12:40:05.000Z",
-    "summary": "Tech Lab's PAIR protocol provides a privacy-centric approach for advertisers and publishers to match and activate their first-party audiences The post Tech Lab releases ADMaP supporting privacy-centric attribution appeared first on IAB Tech Lab."
   },
   {
     "id": "de353f17",
@@ -2300,19 +2198,6 @@
     ],
     "published": "2024-09-30T15:36:08.000Z",
     "summary": "Document filed on April 25, 2024 Plea Agreement Information"
-  },
-  {
-    "id": "99f32839",
-    "title": "Tech Lab releases PAIR protocol for the industry",
-    "url": "https://iabtechlab.com/tech-lab-release-pair-protocol-for-the-industry/",
-    "source": "IAB Tech Lab (Latest News)",
-    "sourceId": "iabtechlab-latest",
-    "category": "Standards",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2024-09-26T12:42:53.000Z",
-    "summary": "Tech Lab's PAIR protocol provides a privacy-centric approach for advertisers and publishers to match and activate their first-party audiences The post Tech Lab releases PAIR protocol for the industry appeared first on IAB Tech Lab."
   },
   {
     "id": "036f4be0",
@@ -2680,19 +2565,6 @@
     "summary": "Document filed on April 25, 2023 Information"
   },
   {
-    "id": "dfdfb732",
-    "title": "U.S. v. Eduardo Ruben Lopez",
-    "url": "https://www.justice.gov/atr/case/us-v-eduardo-ruben-lopez",
-    "source": "DOJ Antitrust Division Criminal Case Filings",
-    "sourceId": "doj-atr-criminal-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2023-09-21T22:49:52.000Z",
-    "summary": "Document filed on September 6, 2023 Superseding Criminal Indictment"
-  },
-  {
     "id": "77d82da8",
     "title": "U.S. v. Nathan Nephi Zito",
     "url": "https://www.justice.gov/atr/case/us-v-nathan-nephi-zito",
@@ -2860,19 +2732,6 @@
     ],
     "published": "2022-04-20T18:17:04.000Z",
     "summary": "Document filed on March 9, 2022 Indictment"
-  },
-  {
-    "id": "68dd2f59",
-    "title": "U.S. v. Hyuk Jin Kwon and Hyun Ki Shin",
-    "url": "https://edit.justice.gov/atr/case/us-v-hyuk-jin-kwon-and-hyun-ki-shin",
-    "source": "DOJ Antitrust Division Criminal Case Filings",
-    "sourceId": "doj-atr-criminal-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2022-03-24T15:59:24.000Z",
-    "summary": "Document filed on March 16, 2022 Indictment"
   },
   {
     "id": "1d25aed5",
