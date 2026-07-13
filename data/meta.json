@@ -1,21 +1,8 @@
 {
-  "generatedAt": "2026-07-13T16:04:55.280Z",
+  "generatedAt": "2026-07-13T18:48:00.730Z",
   "feedCount": 17,
-  "itemCount": 226,
-  "errors": [
-    {
-      "id": "iabtechlab-latest",
-      "name": "IAB Tech Lab (Latest News)",
-      "url": "https://iabtechlab.com/category/latest-news/feed/",
-      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
-    },
-    {
-      "id": "iabtechlab-press",
-      "name": "IAB Tech Lab (Press Releases)",
-      "url": "https://iabtechlab.com/press-releases/feed/",
-      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
-    }
-  ],
+  "itemCount": 234,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -53,9 +40,9 @@
       "id": "iabtechlab-latest",
       "name": "IAB Tech Lab (Latest News)",
       "category": "Standards",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "iabtechlab-press",
@@ -63,7 +50,7 @@
       "category": "Standards",
       "fetched": 0,
       "kept": 0,
-      "error": "HTTP 403 Forbidden — <div style='height: 98vh;'> <div style='text-align: center; padding: 10% 0; font-family: Arial, Helvetica, sans-serif;'> <div><p>MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Fire"
+      "error": null
     },
     {
       "id": "google-ads-dev-blog",
@@ -126,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 14,
+      "kept": 13,
       "error": null
     },
     {
