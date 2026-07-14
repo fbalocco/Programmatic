@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T12:41:19.941Z",
+  "generatedAt": "2026-07-14T15:44:08.252Z",
   "feedCount": 17,
-  "itemCount": 235,
+  "itemCount": 236,
   "errors": [],
   "stats": [
     {
@@ -25,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3750,
+      "fetched": 3751,
       "kept": 3,
       "error": null
     },
@@ -89,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 4,
+      "kept": 3,
       "error": null
     },
     {
