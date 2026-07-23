@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T12:46:35.847Z",
+  "generatedAt": "2026-07-23T15:52:01.216Z",
   "feedCount": 17,
-  "itemCount": 235,
+  "itemCount": 236,
   "errors": [],
   "stats": [
     {
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3781,
+      "fetched": 3784,
       "kept": 3,
       "error": null
     },
@@ -113,14 +113,14 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 13,
+      "kept": 14,
       "error": null
     },
     {
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 149,
+      "fetched": 150,
       "kept": 80,
       "error": null
     },
