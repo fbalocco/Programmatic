@@ -1,27 +1,8 @@
 {
-  "generatedAt": "2026-07-25T09:51:22.007Z",
+  "generatedAt": "2026-07-25T12:33:25.798Z",
   "feedCount": 17,
-  "itemCount": 212,
-  "errors": [
-    {
-      "id": "indexexchange",
-      "name": "Index Exchange Blog",
-      "url": "https://www.indexexchange.com/blog/feed/",
-      "error": "fetch failed"
-    },
-    {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "fetch failed"
-    },
-    {
-      "id": "edpb-news",
-      "name": "European Data Protection Board (News)",
-      "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "fetch failed"
-    }
-  ],
+  "itemCount": 235,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -51,9 +32,9 @@
       "id": "indexexchange",
       "name": "Index Exchange Blog",
       "category": "Industry",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "iabtechlab-latest",
@@ -91,17 +72,17 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 3790,
+      "kept": 3,
+      "error": null
     },
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "ftc-press",
