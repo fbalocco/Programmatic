@@ -1,5 +1,31 @@
 [
   {
+    "id": "e8335077",
+    "title": "‘They haven’t been given the receipts’: Why one brand is auditing its DSPs for greater transparency",
+    "url": "https://digiday.com/sponsored/they-havent-been-given-the-receipts-why-one-brand-is-auditing-its-dsps-for-greater-transparency/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-07-28T18:11:12.000Z",
+    "summary": "Buoyed by the shift of sports programming to streaming, ad spend on digital video continues to climb, but that growth comes with greater scrutiny around transparency and business outcomes. Case in point: A major beverage company is conducting an independent audit of its digital…"
+  },
+  {
+    "id": "ca7cb6b8",
+    "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
+    "url": "http://ads-developers.googleblog.com/2026/07/support-for-ai-content-labeling-using.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-07-28T17:18:08.269Z",
+    "summary": "As the use of AI becomes more prevalent, transparency is key. In the last week, we have launched updates in both the Campaign Manager 360 API and Display & Video 360 API that add new optional fields to resources in both APIs, which allow you to label a creative or creative asset…"
+  },
+  {
     "id": "85e7ab00",
     "title": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
     "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
@@ -1708,6 +1734,17 @@
     "summary": "Document filed on April 1, 2026 Plea Agreement Information"
   },
   {
+    "id": "2fa734d2",
+    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-02T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
+  },
+  {
     "id": "d5ad6832",
     "title": "FTC Seeks Public Comment on Petition to Modify Northrop Grumman Final Order",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-petition-modify-northrop-grumman-final-order",
@@ -1720,17 +1757,6 @@
     ],
     "published": "2026-04-02T12:00:00.000Z",
     "summary": "The Federal Trade Commission is seeking public comment on a petition filed by Northrop Grumman Corporation requesting that the Commission reopen and set aside a final consent order involving Northrop Grumman’s 2018 acquisition of aerospace and defense contractor Orbital ATK. The…"
-  },
-  {
-    "id": "2fa734d2",
-    "title": "FTC Staff Warn Tennessee Legislature of Risks to Patients if Ballad Health COPA Expires and Support Proposed Repeal of Certificate of Need Requirements",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-staff-warn-tennessee-legislature-risks-patients-if-ballad-health-copa-expires-support-proposed",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-02T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff warned Tennessee legislators of the potential harm to patients if it passes proposed legislation that would terminate a Certificate of Public Advantage (COPA) that provides state regulatory oversight for Ballad Health. The letter represents the lat…"
   },
   {
     "id": "a5b5eec7",
@@ -2893,6 +2919,32 @@
     "summary": "Document filed on March 9, 2022 Indictment"
   },
   {
+    "id": "29f3663f",
+    "title": "Real deadlines and real consequences",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-08-06T16:32:47.000Z",
+    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
+  },
+  {
+    "id": "25d4b19d",
+    "title": "Real-Time Transparency for HSR Transaction Numbers",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/real-time-transparency-hsr-transaction-numbers",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-07-09T20:43:13.000Z",
+    "summary": "Real-Time Transparency for HSR Transaction Numbers sfelder July 9, 2020 | 4:43PM Real-Time Transparency for HSR Transaction Numbers By the Premerger Notification Office Staff In response to increased interest in levels of M&A activity, the Bureau of Competition’s Premerger Notif…"
+  },
+  {
     "id": "b593ed48",
     "title": "Leadership Changes in the Anticompetitive Practices Division",
     "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
@@ -2906,30 +2958,18 @@
     "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
   },
   {
-    "id": "22fd8547",
-    "title": "Antitrust review at the FTC: staying the course during uncertain times",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/antitrust-review-ftc-staying-course-during-uncertain-times",
+    "id": "ceffa8ba",
+    "title": "Compliance reports: Reinforcing a commitment to effective orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
-      "Antitrust"
+      "Antitrust",
+      "Policy"
     ],
-    "published": "2020-04-06T15:36:56.000Z",
-    "summary": "Antitrust review at the FTC: staying the course during uncertain times jwolf April 6, 2020 | 11:36AM Antitrust review at the FTC: staying the course during uncertain times By Ian Conner, Bureau of Competition As we navigate uncharted waters in our work and home lives in response…"
-  },
-  {
-    "id": "171567b1",
-    "title": "Resuming early termination of HSR reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/03/resuming-early-termination-hsr-reviews",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-03-27T18:08:11.000Z",
-    "summary": "Resuming early termination of HSR reviews rcuster March 27, 2020 | 2:08PM Resuming early termination of HSR reviews By Ian Conner, Bureau of Competition On Friday, March 13, as part of the Bureau’s response to the COVID-19 coronavirus situation, and in partnership with the Antit…"
+    "published": "2019-03-11T13:36:41.000Z",
+    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
   },
   {
     "id": "aa202941",
@@ -2946,80 +2986,68 @@
     "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
   },
   {
-    "id": "7fbf6c01",
-    "title": "Coming Soon: what’s new in residential real estate brokerage competition?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/coming-soon-whats-new-residential-real-estate-brokerage-competition",
+    "id": "f454a608",
+    "title": "Timing is everything: The Model Timing Agreement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/08/timing-everything-model-timing-agreement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-05-29T14:46:19.000Z",
-    "summary": "Coming Soon: what’s new in residential real estate brokerage competition? jwolf May 29, 2018 | 10:46AM Coming Soon: what’s new in residential real estate brokerage competition? By Jessica Drake, Bureau of Competition More than ten years ago, the FTC and the Department of Justice…"
+    "published": "2018-08-07T19:04:47.000Z",
+    "summary": "Timing is everything: The Model Timing Agreement rcuster August 7, 2018 | 3:04PM Timing is everything: The Model Timing Agreement By Bruce Hoffman, Bureau of Competition The Bureau of Competition has undertaken several initiatives to streamline our merger review process in order…"
   },
   {
-    "id": "3dbaa1e1",
-    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-03-01T16:54:32.000Z",
-    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
-  },
-  {
-    "id": "af3fd3fd",
-    "title": "Have a plan to comply with the bar on horizontal interlocks",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/01/have-plan-comply-bar-horizontal-interlocks",
+    "id": "7833f1ff",
+    "title": "“All” means All: Submit side agreements with an HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/12/all-means-all-submit-side-agreements-hsr-filing",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-01-23T17:18:07.000Z",
-    "summary": "Have a plan to comply with the bar on horizontal interlocks rcuster January 23, 2017 | 12:18PM Have a plan to comply with the bar on horizontal interlocks By Debbie Feinstein, Bureau of Competition With some exceptions, Section 8 of the Clayton Act prohibits the same individual…"
+    "published": "2017-12-20T20:08:17.000Z",
+    "summary": "“All” means All: Submit side agreements with an HSR filing rcuster December 20, 2017 | 3:08PM “All” means All: Submit side agreements with an HSR filing By Bruce Hoffman, Bureau of Competition When preparing an HSR filing for a proposed acquisition, some practitioners counsel th…"
   },
   {
-    "id": "00fe5cb4",
-    "title": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/02/antitrust-violation-vs-injury-fact-distinction-makes-difference",
+    "id": "388e9c75",
+    "title": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/corporate-or-non-corporate-new-approach-classifying-foreign-entities-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-02-26T16:16:59.000Z",
-    "summary": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference rcuster February 26, 2016 | 11:16AM Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference By Dan Butrymowicz, Bureau of Competition There is a basic but important difference bet…"
+    "published": "2016-05-19T15:34:48.000Z",
+    "summary": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules rcuster May 19, 2016 | 11:34AM Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules By Premerger Notification Staff, Bureau of Competition Under the H…"
   },
   {
-    "id": "b8f65d3c",
-    "title": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/antitrust-mailbag-what-can-ftc-do-about-prescription-drug-price-spikes",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2015-05-18T16:31:59.000Z",
-    "summary": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes? rcuster May 18, 2015 | 12:31PM From the antitrust mailbag: What can the FTC do about prescription drug price spikes? By Alan Friedman, Bureau of Competition Consumers frequently contact the Bur…"
-  },
-  {
-    "id": "1a42b3b0",
-    "title": "Have a good plan for HSR compliance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/08/have-good-plan-hsr-compliance",
+    "id": "aecbe8d8",
+    "title": "A fine balance: toward efficient merger review",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/fine-balance-toward-efficient-merger-review",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-08-21T16:16:05.000Z",
-    "summary": "Have a good plan for HSR compliance rcuster August 21, 2014 | 12:16PM Have a good plan for HSR compliance By Dan Ducore, Bureau of Competition Our recent civil penalty action involving Berkshire Hathaway’s failure to file the required Hart-Scott-Rodino notification is a reminder…"
+    "published": "2015-08-04T14:39:03.000Z",
+    "summary": "A fine balance: toward efficient merger review rcuster August 4, 2015 | 10:39AM A fine balance: toward efficient merger review By Debbie Feinstein, Bureau of Competition One of the key functions of the Bureau of Competition is to analyze mergers. Obtaining information through Se…"
+  },
+  {
+    "id": "82be18b4",
+    "title": "Separating fact from opinion",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/separating-fact-opinion",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-03-04T20:45:46.000Z",
+    "summary": "Separating fact from opinion rcuster March 4, 2015 | 3:45PM Separating fact from opinion By Rebecca Egeland and Dan Butrymowicz, Bureau of Competition Although FTC staff often rely on voluntary requests for information in the early stages of an investigation, the use of official…"
   }
 ]
