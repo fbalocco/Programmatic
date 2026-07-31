@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T12:52:14.205Z",
+  "generatedAt": "2026-07-31T15:52:54.614Z",
   "feedCount": 17,
-  "itemCount": 241,
+  "itemCount": 240,
   "errors": [],
   "stats": [
     {
@@ -57,7 +57,7 @@
       "name": "Google Ads Developer Blog",
       "category": "Platforms",
       "fetched": 25,
-      "kept": 20,
+      "kept": 19,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3818,
+      "fetched": 3819,
       "kept": 6,
       "error": null
     },
