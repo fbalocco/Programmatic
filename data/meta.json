@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-07-31T10:05:17.766Z",
+  "generatedAt": "2026-07-31T12:52:14.205Z",
   "feedCount": 17,
-  "itemCount": 232,
-  "errors": [
-    {
-      "id": "edpb-news",
-      "name": "European Data Protection Board (News)",
-      "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "HTTP 404 Not Found — 404 page not found"
-    }
-  ],
+  "itemCount": 241,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -32,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "error": null
     },
     {
@@ -79,7 +72,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3816,
+      "fetched": 3818,
       "kept": 6,
       "error": null
     },
@@ -87,9 +80,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTP 404 Not Found — 404 page not found"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "ftc-press",
