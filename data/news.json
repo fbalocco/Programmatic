@@ -1,5 +1,38 @@
 [
   {
+    "id": "b69b4546",
+    "title": "Ad Agency Holdcos, But Minus The Ads; Creators In Brief",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-08042026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-08-04T04:03:24.000Z",
+    "summary": "What Are You Holding? Agency holding companies haven’t lost their taste for M&A. Problem is, the ad industry is running short on consolidation options. So holdcos are starting to look for targets beyond the traditional creative and media agency world, Adweek reports. Publicis is…"
+  },
+  {
+    "id": "795de5e4",
+    "title": "Ad Tech Briefing: Q2’s Big Tech earnings, small-scale concessions, and frustrated dealmakers",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-q2s-big-tech-earnings-small-scale-concessions-and-frustrated-dealmakers/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-08-04T04:01:00.000Z",
+    "summary": "PE eagerly looms, but despite appetite, stats show dealmaking is flat."
+  },
+  {
+    "id": "b4b9bb39",
+    "title": "Stagwell’s Curate launch puts agencies’ ad tech ambitions in focus",
+    "url": "https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-08-04T04:01:00.000Z",
+    "summary": "Agencies want more control over the pipes of programmatic advertising. Stagwell’s Curate is the latest example."
+  },
+  {
     "id": "42b5d1d3",
     "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
     "url": "http://ads-developers.googleblog.com/2026/08/google-ads-api-pilot-secure-api-access.html",
@@ -62,6 +95,44 @@
     "summary": "Big agencies wrestle with offsetting the rising cost of token consumption. Plus: OpenAI shared policies on how brands can apply ad credit to campaigns. The post Tokenizing Tokens; In OpenAI We Trust? appeared first on AdExchanger."
   },
   {
+    "id": "ad5aca66",
+    "title": "Recursive Vision Language Models for General Symbolic Reasoning",
+    "url": "https://arxiv.org/abs/2608.01534v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Privacy",
+      "AI"
+    ],
+    "published": "2026-08-02T23:01:10.000Z",
+    "summary": "Hard symbolic-reasoning tasks such as Sudoku, maze pathfinding, and ARC remain challenging for LLMs due to their fixed-depth autoregressive reasoning, which limits systematic search, refinement, and backtracking. While recursive models such as Hierarchical Reasoning Model (HRM)…"
+  },
+  {
+    "id": "3ac33fdd",
+    "title": "Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+",
+    "url": "https://arxiv.org/abs/2608.01395v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-08-02T17:20:01.000Z",
+    "summary": "We evaluate large language models (LLMs) as language agents playing goal-directed dialogue games in self-play across 30 languages: the 24 official EU languages plus six others. Unlike static or preference-based evaluation, this paradigm is multi-turn, reference-free and programm…"
+  },
+  {
+    "id": "c351f521",
+    "title": "Verifiable Checks for Business Rule Consistency",
+    "url": "https://arxiv.org/abs/2608.00396v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-08-01T02:22:38.000Z",
+    "summary": "Maintaining consistency between natural language documentation of business rules and their evolving internal implementations is a significant challenge in large-scale systems. We present SIRNA, a tool and framework for checking such consistency using SMT solvers. Using the case…"
+  },
+  {
     "id": "03ede544",
     "title": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
     "url": "https://arxiv.org/abs/2607.29586v1",
@@ -84,17 +155,18 @@
     "summary": "The Federal Trade Commission granted early termination of its review of quantum computing developer IonQ Inc.’s proposed acquisition of SkyWater Technologies Inc., a quantum chip fabrication company. FTC Chairman Andrew N. Ferguson and Commissioner Mark R. Meador issued separate…"
   },
   {
-    "id": "b02d8064",
-    "title": "What a Growing Telegram Disinformation Network Reveals About the DSA",
-    "url": "https://techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
+    "id": "c5d26433",
+    "title": "LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations",
+    "url": "https://arxiv.org/abs/2608.00123v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
     "tags": [
-      "Privacy"
+      "RTB",
+      "AI"
     ],
-    "published": "2026-07-31T11:54:44.000Z",
-    "summary": ""
+    "published": "2026-07-31T11:47:54.000Z",
+    "summary": "LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single response, settling the winner bu…"
   },
   {
     "id": "ff8887e3",
@@ -207,19 +279,6 @@
     "summary": "Ensuring the accuracy and consistency of clinical trial Tables, Figures, and Listings (TFLs) remains a major challenge in regulatory reporting. Independent programming and manual review are essential quality-control practices, but cross-output verification still depends heavily…"
   },
   {
-    "id": "c9922e98",
-    "title": "Performance Marketing’s Biggest Success Created Its Biggest Blind Spot",
-    "url": "https://www.adexchanger.com/content-studio/performance-marketings-biggest-success-created-its-biggest-blind-spot/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-07-30T12:00:08.000Z",
-    "summary": "Performance marketing has fundamentally changed how marketers define success. Better targeting, attribution and optimization finally give marketing leaders what they’ve always wanted, which is a concrete way to prove that advertising works, expressed through performance metrics…"
-  },
-  {
     "id": "f72e8503",
     "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
     "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
@@ -297,19 +356,6 @@
     "summary": "Document filed on July 28, 2026 Response Brief and Opening Brief on Cross-Appeal for The United States and Co-Plaintiff States"
   },
   {
-    "id": "3f08c99c",
-    "title": "What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open",
-    "url": "https://techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-07-29T16:52:06.000Z",
-    "summary": ""
-  },
-  {
     "id": "e89feda3",
     "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
     "url": "https://arxiv.org/abs/2607.27080v1",
@@ -374,32 +420,6 @@
     "summary": "Physics-informed neural networks (PINNs) have emerged as a powerful paradigm for solving partial differential equations (PDEs), yet their performance heavily relies on the manual, trial-and-error engineering of neural representations, loss formulations, and optimization dynamics…"
   },
   {
-    "id": "9e5992af",
-    "title": "Future of TV Briefing: FreeWheel adds show-level reporting to tackle streaming’s transparency problem",
-    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-freewheel-adds-show-level-reporting-to-tackle-streamings-transparency-problem/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-07-29T04:01:00.000Z",
-    "summary": "This week’s Future of TV Briefing looks at Comcast-owned FreeWheel enabling streaming ad sellers to directly pass show-level reporting to programmatic ad buyers."
-  },
-  {
-    "id": "e8335077",
-    "title": "‘They haven’t been given the receipts’: Why one brand is auditing its DSPs for greater transparency",
-    "url": "https://digiday.com/sponsored/they-havent-been-given-the-receipts-why-one-brand-is-auditing-its-dsps-for-greater-transparency/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-07-28T18:11:12.000Z",
-    "summary": "Buoyed by the shift of sports programming to streaming, ad spend on digital video continues to climb, but that growth comes with greater scrutiny around transparency and business outcomes. Case in point: A major beverage company is conducting an independent audit of its digital…"
-  },
-  {
     "id": "ca7cb6b8",
     "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
     "url": "http://ads-developers.googleblog.com/2026/07/support-for-ai-content-labeling-using.html",
@@ -437,19 +457,6 @@
     "summary": "Spectrum Reach's Dan Callahan explains how linear's scale and streaming TV's precision are already converging, powered by first-party data and show-level transparency."
   },
   {
-    "id": "6d9f0f39",
-    "title": "Google Android Antitrust Ruling Shows the Next Battle is Over Who Controls Trust",
-    "url": "https://techpolicy.press/google-android-antitrust-ruling-shows-the-next-battle-is-over-who-controls-trust",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-07-28T08:07:32.000Z",
-    "summary": ""
-  },
-  {
     "id": "10866b1c",
     "title": "HANDBOOK.md: A Benchmark for Long-Context Agentic Instruction Following",
     "url": "https://arxiv.org/abs/2607.25398v2",
@@ -483,33 +490,6 @@
     "tags": [],
     "published": "2026-07-27T15:59:03.183Z",
     "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring passkeys for Google Ads API users. This is part of a broader change in Google Ads that requires passkeys to authorize sensitive actions in your Google Ads account. These important secu…"
-  },
-  {
-    "id": "fdbbf005",
-    "title": "A Roadmap for Confronting the Chilling Effects of Censorship, Surveillance and New Technology",
-    "url": "https://techpolicy.press/a-roadmap-for-confronting-the-chilling-effects-of-censorship-surveillance-and-new-technology",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-07-26T13:36:12.000Z",
-    "summary": ""
-  },
-  {
-    "id": "9a6b6c4a",
-    "title": "Despots, DSA Fines, and an 'Autonomous' AI Attack",
-    "url": "https://techpolicy.press/newsletter-july-26-2026",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-07-26T13:32:00.000Z",
-    "summary": ""
   },
   {
     "id": "9bea6bbe",
@@ -547,19 +527,6 @@
     ],
     "published": "2026-07-23T13:14:54.000Z",
     "summary": "Walmart Connect's Diana Finster shares what's redefining retail media, from shopper intelligence on the open internet to the convergence with streaming TV."
-  },
-  {
-    "id": "c246cabc",
-    "title": "The High Stakes Behind the EU’s €890M Google DMA Fine",
-    "url": "https://techpolicy.press/the-high-stakes-behind-the-eus-890m-google-dma-fine",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-07-23T12:08:50.000Z",
-    "summary": ""
   },
   {
     "id": "7a05cc40",
@@ -683,28 +650,6 @@
     "summary": "Multi-agent planning becomes substantially harder when agents must improve specialized decision-making skills while keeping their executable implementations private. This setting arises when independently developed agents expose heterogeneous interfaces, observations, and capabi…"
   },
   {
-    "id": "2836061a",
-    "title": "Orientation Reading by Production Vision-Language Models on Optotype Charts: A Controlled Multi-Model Evaluation Across Reasoning Modes, Prompts, and Access Modalities",
-    "url": "https://arxiv.org/abs/2607.16595v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-07-18T02:26:29.000Z",
-    "summary": "OBJECTIVES: Vision-language models are increasingly used to interpret medical and everyday images through consumer chat interfaces, yet their ability to read orientation - the single perceptual operation tested by the tumbling-E acuity optotype - is poorly characterized on the s…"
-  },
-  {
-    "id": "a421ace3",
-    "title": "OpenCosmo: Community Portal and Analysis Framework for Flagship Cosmological Simulations",
-    "url": "https://arxiv.org/abs/2607.16059v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-07-17T15:38:12.000Z",
-    "summary": "Cosmology is a precision observational science, and large simulations are necessary components of many analyses. These simulations are computationally expensive and produce massive, complex datasets; sharing them widely -- to enable further explorations, comparison with observat…"
-  },
-  {
     "id": "257611d7",
     "title": "EDPB calls for legal basis for cross-regulatory information sharing",
     "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
@@ -727,30 +672,6 @@
     ],
     "published": "2026-07-16T13:27:16.000Z",
     "summary": "Roku's Miles Fisher shares what’s redefining performance in streaming TV advertising, from signal quality to engaging viewers through the remote control."
-  },
-  {
-    "id": "40d76eeb",
-    "title": "Gold-Guided Programmatic Distillation for Financial Reasoning over Hybrid Tables and Text",
-    "url": "https://arxiv.org/abs/2607.14709v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-07-16T08:18:55.000Z",
-    "summary": "Financial question answering over hybrid tabular and textual data may require multi-source reasoning and precise numerical computation. While large language models (LLMs) can generate intermediate reasoning steps, natural-language rationales remain prone to arithmetic errors, ma…"
-  },
-  {
-    "id": "641db4e0",
-    "title": "ICAConfPubs: A Dataset and User Interface for ICA Conference Papers (2003-2018)",
-    "url": "https://arxiv.org/abs/2607.14234v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-07-15T18:00:46.000Z",
-    "summary": "This paper presents a comprehensive dataset of past ICA (The International Communication Association) annual conference papers from 2003 to 2018, encompassing 27,466 papers, 21,038 authors, and 4,935 sessions. We made the dataset publicly available in both CSV and JSON formats.…"
   },
   {
     "id": "b074ac29",
@@ -1707,17 +1628,6 @@
     "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
-    "id": "805a7674",
-    "title": "FTC Submits Annual Budget Request to Congress",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
-  },
-  {
     "id": "77e1228d",
     "title": "FTC Publishes New Strategic Plan",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
@@ -1727,6 +1637,17 @@
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
     "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
+  },
+  {
+    "id": "805a7674",
+    "title": "FTC Submits Annual Budget Request to Congress",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-03T12:00:00.000Z",
+    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
   },
   {
     "id": "9f34eee8",
@@ -1844,17 +1765,6 @@
     ],
     "published": "2026-02-11T17:07:24.000Z",
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "465cf222",
-    "title": "New HSR thresholds and filing fees for 2026",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-01-20T18:58:00.000Z",
-    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "95c459b6",
@@ -2925,61 +2835,22 @@
     "summary": "Document filed on March 9, 2022 Indictment"
   },
   {
-    "id": "ddfd4316",
-    "title": "Yes, we’re hiring another AD!",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
+    "id": "21c2bf55",
+    "title": "On “Failing” Firms — and Miraculous Recoveries",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/failing-firms-miraculous-recoveries",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-04-08T16:46:18.000Z",
-    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
+    "published": "2020-05-27T14:13:04.000Z",
+    "summary": "On “Failing” Firms — and Miraculous Recoveries bjames@ftc.gov May 27, 2020 | 10:13AM On “Failing” Firms — and Miraculous Recoveries By Ian Conner, Bureau of Competition Over the past few years, the Bureau has faced a surprising number of failing firm claims by merging parties. E…"
   },
   {
-    "id": "6553e984",
-    "title": "HSR threshold adjustments and reportability for 2020",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2020-01-31T19:34:59.000Z",
-    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
-  },
-  {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
-  },
-  {
-    "id": "fd4f6479",
-    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2018-03-20T20:57:15.000Z",
-    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
-  },
-  {
-    "id": "48374fa8",
-    "title": "Vertical mergers, yesterday and today",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
+    "id": "ebbb66ef",
+    "title": "We’re hiring a new AD!",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/were-hiring-new-ad",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2987,61 +2858,111 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2018-01-19T22:21:51.000Z",
-    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
+    "published": "2020-04-06T21:13:39.000Z",
+    "summary": "We’re hiring a new AD! bjames@ftc.gov April 6, 2020 | 5:13PM We’re hiring a new AD! By Ian Conner, Bureau of Competition I want to thank Kevin Hahm for his work in the Bureau of Competition and, most importantly, for his contribution to our competition enforcement. Kevin, most r…"
   },
   {
-    "id": "27e7967f",
-    "title": "Protecting consumers by promoting competition",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
+    "id": "22686dbb",
+    "title": "It takes less time to do a thing right",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/it-takes-less-time-do-thing-right",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-03-06T22:22:12.000Z",
-    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
+    "published": "2018-09-04T18:14:28.000Z",
+    "summary": "It takes less time to do a thing right rcuster September 4, 2018 | 2:14PM It takes less time to do a thing right By Ian Conner and Lynda Lao, Bureau of Competition Longfellow said “It takes less time to do a thing right than to explain why you did it wrong.” We agree, especially…"
   },
   {
-    "id": "94523b41",
-    "title": "Quo Vadis Post-Actavis?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2016-03-30T19:41:40.000Z",
-    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
-  },
-  {
-    "id": "e08384e1",
-    "title": "“Investment-only” means just that",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2015-08-24T21:25:05.000Z",
-    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
-  },
-  {
-    "id": "3022534e",
-    "title": "How to avoid common HSR filing mistakes with attachments",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
+    "id": "b59ea0dd",
+    "title": "You don’t have to write a check to acquire an HSR-reportable interest",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/you-dont-have-write-check-acquire-hsr-reportable-interest",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-09-16T14:42:32.000Z",
-    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
+    "published": "2018-05-15T13:38:39.000Z",
+    "summary": "You don’t have to write a check to acquire an HSR-reportable interest jwolf May 15, 2018 | 9:38AM You don’t have to write a check to acquire an HSR-reportable interest By Premerger Notification Office Staff If your HSR compliance program tracks only those acquisitions that requi…"
+  },
+  {
+    "id": "112e8b5d",
+    "title": "Wiring your HSR filing fee just got easier",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/06/wiring-your-hsr-filing-fee-just-got-easier",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2016-06-06T17:52:06.000Z",
+    "summary": "Wiring your HSR filing fee just got easier rcuster June 6, 2016 | 1:52PM Wiring your HSR filing fee just got easier By Premerger Notification Office Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well over a thousand transaction…"
+  },
+  {
+    "id": "89544ad2",
+    "title": "The not-so-big news about Big Data",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/06/not-so-big-news-about-big-data",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-06-16T15:30:25.000Z",
+    "summary": "The not-so-big news about Big Data afrey June 16, 2015 | 11:30AM The not-so-big news about Big Data By Debbie Feinstein, Bureau of Competition Everywhere these days, folks are talking about big data. (Apparently, even machines are talking amongst themselves using big data in an…"
+  },
+  {
+    "id": "d48a27b8",
+    "title": "Milestones in FTC history: HSR Act launches effective premerger review",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/milestones-ftc-history-hsr-act-launches-effective-premerger-review",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-03-16T12:00:00.000Z",
+    "summary": "Milestones in FTC history: HSR Act launches effective premerger review afrey March 16, 2015 | 8:00AM Milestones in FTC history: HSR Act launches effective premerger review By Kelly Signs Some will remember 1976 as the year of the nation’s bicentennial, but it was also the year t…"
+  },
+  {
+    "id": "af591027",
+    "title": "Putting the “mod” in order modification",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/07/putting-mod-order-modification",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-07-17T18:53:16.000Z",
+    "summary": "Putting the “mod” in order modification rcuster July 17, 2014 | 2:53PM Putting the “mod” in order modification By Kenneth Libby, Bureau of Competition Back in 1998, the must-have toy was a Furby, and if you were a parent with a kid of a certain age, you had to find one. In those…"
+  },
+  {
+    "id": "26ec0ed7",
+    "title": "Looking for something?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/01/looking-something",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-01-15T13:54:50.000Z",
+    "summary": "Looking for something? cwarner January 15, 2014 | 8:54AM Looking for something? By Kelly Signs, Bureau of Competition If you regularly use FTC.gov to find cases, speeches, reports or such, then you’ve probably noticed a few changes. We know -- change is hard. But with added feat…"
+  },
+  {
+    "id": "ba251935",
+    "title": "Un-consummated merger",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2013/12/un-consummated-merger",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2013-12-18T15:44:14.000Z",
+    "summary": "Un-consummated merger cwarner December 18, 2013 | 10:44AM Un-consummated merger By Debbie Feinstein, Director, Bureau of Competition Today, five years post-consummation, the Commission approved Polypore International, Inc.’s application to sell Microporous, a competitor it purch…"
   }
 ]
