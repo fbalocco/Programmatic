@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-08-14T10:14:06.717Z",
+  "generatedAt": "2026-08-14T13:35:58.341Z",
   "feedCount": 17,
-  "itemCount": 240,
-  "errors": [],
+  "itemCount": 236,
+  "errors": [
+    {
+      "id": "techpolicypress",
+      "name": "Tech Policy Press",
+      "url": "https://techpolicy.press/rss/feed.xml",
+      "error": "fetch failed"
+    }
+  ],
   "stats": [
     {
       "id": "adexchanger",
@@ -72,9 +79,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3860,
-      "kept": 6,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "edpb-news",
@@ -113,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 12,
+      "kept": 14,
       "error": null
     },
     {
