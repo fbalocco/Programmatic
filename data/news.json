@@ -1,5 +1,31 @@
 [
   {
+    "id": "e41f7c3e",
+    "title": "Your Team Is Working Faster With AI, But Are They Really Getting Better Results?",
+    "url": "https://www.adexchanger.com/data-driven-thinking/your-team-is-working-faster-with-ai-but-are-they-really-getting-better-results/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-08-19T04:35:19.000Z",
+    "summary": "A lot of marketing leaders are wondering whether AI is really bringing incremental value to their business. Teams are moving faster than ever. Campaign briefs, social copy, first-pass creative and competitive research can now be produced in a fraction of the time it used to take…"
+  },
+  {
+    "id": "d3b1f620",
+    "title": "Demand For Dead Data; ChatGPT’s Miraculous, Disappearing Advertisers",
+    "url": "https://www.adexchanger.com/daily-news-roundup/demand-for-dead-data-chatgpts-miraculous-disappearing-advertisers/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-08-19T04:03:00.000Z",
+    "summary": "Fire Sale Firestarters One surprise beneficiary of the Spirit Airlines bankruptcy debacle: Google. Google spent $10 million to acquire “a trove of deidentified business data, software code and operations records” from the now-defunct airline, Bloomberg Law reports. The data stoc…"
+  },
+  {
     "id": "8bcfadf0",
     "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
     "url": "https://arxiv.org/abs/2608.17975v1",
@@ -234,19 +260,6 @@
     "summary": "Gaming apps are filled with ads for more gaming apps. Why not other advertisers? We go inside AppLovin’s play to bring non-gaming advertisers into the fold. The post AppLovin’s Play To Reach Non-Gaming Advertisers appeared first on AdExchanger."
   },
   {
-    "id": "3c9fe42b",
-    "title": "Agentic AI Is A Shiny New Object, But Supply-Path Optimization Is A Reality Check",
-    "url": "https://www.adexchanger.com/agencies/agentic-ai-is-a-shiny-new-object-but-supply-path-optimization-is-a-reality-check/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-14T05:30:41.000Z",
-    "summary": "AI can add more operational efficiency to the media buying process. But it will take some more time before AI agents are a seamless part of the modern media buying process, Andrea Kwiatek, director of strategic partnerships at the indie agency Goodway Group, told AdExchanger. Th…"
-  },
-  {
     "id": "5daba6f1",
     "title": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
     "url": "https://arxiv.org/abs/2608.13958v1",
@@ -259,19 +272,6 @@
     ],
     "published": "2026-08-14T04:58:01.000Z",
     "summary": "How do we govern AI systems whose reasoning we cannot fully inspect? Governance does not require understanding a system's reasoning. It requires stating what the system is obliged, permitted, and forbidden to do, and checking whether it complied. I present an implementation of R…"
-  },
-  {
-    "id": "f45cb287",
-    "title": "Take It To The Street; The Fossilized Web",
-    "url": "https://www.adexchanger.com/daily-news-roundup/friday-14082026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-14T04:01:07.000Z",
-    "summary": "Investors don’t care about the open web; publishers are hemorrhaging traffic; and Facebook is full of AI bros. The post Take It To The Street; The Fossilized Web appeared first on AdExchanger."
   },
   {
     "id": "e7bdf714",
@@ -945,19 +945,6 @@
     "summary": "The Federal Trade Commission, along with five states, secured an important settlement in an antitrust lawsuit against farm equipment manufacturer Deere & Company that will ensure farmers can enjoy the right to repair their own John Deere tractors and farm equipment. The FTC’s se…"
   },
   {
-    "id": "ceaaae82",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-07-08T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
-  },
-  {
     "id": "126c42c9",
     "title": "U.S. and Plaintiff States v. RealPage, Inc.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
@@ -1551,6 +1538,20 @@
     "summary": "ARTF lays the groundwork for agentic AI in programmatic. Learn what it means in practice and why it marks a turning point for real-time decisioning."
   },
   {
+    "id": "98ba93a7",
+    "title": "Justice Department Files Statement of Interest Highlighting Importance of Enabling Competition and Innovation in the Seeds Industry",
+    "url": "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-highlighting-importance-enabling-competition-and",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-11T12:00:00.000Z",
+    "summary": "Today, the Department of Justice filed a statement of interest in Corteva Agriscience LLC, et al. v. Inari Agriculture Inc. et al. in the U.S. District Court for the District of Delaware. The statement of interest reaffirms the importance of the public’s ability to access and re…"
+  },
+  {
     "id": "297984ba",
     "title": "FTC Chairman Ferguson Issues Noncompete Warning Letter to Mortgage Connect",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-chairman-ferguson-issues-noncompete-warning-letter-mortgage-connect",
@@ -1576,6 +1577,34 @@
     "summary": "The Federal Trade Commission finalized a consent order resolving antitrust concerns related to a deal between Valvoline Inc. and private equity firm Greenbriar Equity Fund V., L.P. (Greenbriar). The consent order requires the divestiture of 45 quick-lube oil change shops to addr…"
   },
   {
+    "id": "3b3c424f",
+    "title": "Justice Department Requires Agri Stats to End Exchange of Competitively Sensitive Information Among Nation’s Largest Meat Processors that Suppressed Competition and Increased Prices for Decades",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-agri-stats-end-exchange-competitively-sensitive-information",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-07T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Agri Stats Inc. (Agri Stats) for unlawful information sharing of price, output, and costs among competing meat processors. Filed in the District of Minnesot…"
+  },
+  {
+    "id": "fe6b5655",
+    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
+  },
+  {
     "id": "3f5a0cac",
     "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
@@ -1599,20 +1628,6 @@
     "tags": [],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans from rising food prices by requiring 365 Retail Markets LLC (365 Retail)—the nation’s largest provider of micromarket kiosks—to divest a competing business to complete its $848 million acquisition of Cantaloupe…"
-  },
-  {
-    "id": "fe6b5655",
-    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
   },
   {
     "id": "d55f52bd",
@@ -1642,6 +1657,19 @@
     "summary": "The Federal Trade Commission has reached an agreement in principle with U.S. Anesthesia Partners Inc. (USAP) to settle the litigation and restore competition for anesthesia services in Texas. This preliminary settlement resolves charges, brought in 2023, alleging that USAP viola…"
   },
   {
+    "id": "8214bad3",
+    "title": "Antitrust Division Approves Department of Energy Defense Production Act Consortium’s Updated Voluntary Agreement and Plans of Action",
+    "url": "https://www.justice.gov/opa/pr/antitrust-division-approves-department-energy-defense-production-act-consortiums-updated",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-04-23T12:00:00.000Z",
+    "summary": "Today, the Justice Department’s Antitrust Division, after consulting with the Federal Trade Commission (FTC), published approvals for the U.S. Department of Energy (DOE) Defense Production Act (DPA) Consortium’s updated Voluntary Agreement and related Plans of Action."
+  },
+  {
     "id": "3658095a",
     "title": "FTC and DOJ Extend Deadline for Public Comment on Guidance on Business Collaborations",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-doj-extend-deadline-public-comment-guidance-business-collaborations",
@@ -1653,6 +1681,17 @@
     ],
     "published": "2026-04-17T12:00:00.000Z",
     "summary": "The Federal Trade Commission and the Justice Department’s Antitrust Division (“Agencies”) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors that was announced on February 23, 2026. The Agenci…"
+  },
+  {
+    "id": "17f8c57a",
+    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
     "id": "fb9e5ddb",
@@ -1679,17 +1718,6 @@
     ],
     "published": "2026-04-15T12:00:00.000Z",
     "summary": "The Federal Trade Commission testified before the Senate Committee on Commerce, Science and Transportation today to highlight the agency’s accomplishments in the last year and a half and its ongoing work to protect consumers and promote competition on behalf of the American peop…"
-  },
-  {
-    "id": "17f8c57a",
-    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
     "id": "805a7674",
