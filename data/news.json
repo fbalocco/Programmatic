@@ -75,17 +75,6 @@
     "summary": "Just in time for new TV programming to hit the screens in September, Nielsen is rolling out a few upgrades to its video measurement currency that will go live by the end of August The post Nielsen’s Latest Updates Aim To Remove Bias From Its Measurement Strategy appeared first o…"
   },
   {
-    "id": "8981816b",
-    "title": "Towards a Deductive Verification Infrastructure for Weighted Programming",
-    "url": "https://arxiv.org/abs/2608.18971v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-19T14:40:05.000Z",
-    "summary": "Weighted programs extend guarded commands with trace weights drawn from a semiring, or more generally a monoid-module. Varying this algebra gives one programmatic syntax for a variety of quantitative and symbolic models. Weakest-preweighting semantics provides a compositional ba…"
-  },
-  {
     "id": "f3ef145d",
     "title": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
     "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic",
@@ -138,41 +127,6 @@
     "summary": "Fire Sale Firestarters One surprise beneficiary of the Spirit Airlines bankruptcy debacle: Google. Google spent $10 million to acquire “a trove of deidentified business data, software code and operations records” from the now-defunct airline, Bloomberg Law reports. The data stoc…"
   },
   {
-    "id": "fc645bf8",
-    "title": "ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents",
-    "url": "https://arxiv.org/abs/2608.18307v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T20:38:26.000Z",
-    "summary": "Current evaluation of computer-use agents is split between long-horizon workflow benchmarks and atomic GUI-grounding tests. This leaves an under-instrumented middle layer: realistic component-centered interactions (e.g., toggle a button set) that are short enough to diagnose and…"
-  },
-  {
-    "id": "9cacdd08",
-    "title": "ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning",
-    "url": "https://arxiv.org/abs/2608.18242v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T18:36:21.000Z",
-    "summary": "We introduce ClosureBench, a constructive benchmark for compositional graph-relational reasoning with programmatically verified ground truth. Unlike fixed-test-set benchmarks vulnerable to data contamination, ClosureBench generates instances on demand: each task's reference answ…"
-  },
-  {
-    "id": "8bcfadf0",
-    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-    "url": "https://arxiv.org/abs/2608.17975v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-18T16:27:44.000Z",
-    "summary": "Programmatic representations provide a compelling paradigm for 3D content creation, enabling fine-grained edits, interpretability, and explicit structural control. Yet, agentic workflows that rely on large language models (LLMs) to author 3D programs remain brittle, often failin…"
-  },
-  {
     "id": "0d3a52cc",
     "title": "Taking A Look At Tuple, A New Entrant To The Ossified DSP Market",
     "url": "https://www.adexchanger.com/programmatic/taking-a-look-at-tuple-a-new-entrant-to-the-ossified-dsp-market/",
@@ -197,31 +151,6 @@
     "summary": "The accepted narrative says linear TV can no longer provide what modern advertisers want. The real story is more complicated. Fragmented linear audiences are harder to reach, but they’re not gone. Sophisticated targeting, measurement and optimization are harder to execute in lin…"
   },
   {
-    "id": "32fc67fb",
-    "title": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
-    "url": "https://arxiv.org/abs/2608.17659v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-08-18T11:33:22.000Z",
-    "summary": "LLM-powered GUI agents that autonomously operate smartphones are rapidly transitioning from research prototypes to early real-world deployment. However, because these agents routinely process untrusted environmental content, they are highly vulnerable to environmental injection…"
-  },
-  {
-    "id": "dac19d21",
-    "title": "Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback",
-    "url": "https://arxiv.org/abs/2608.17587v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T09:52:48.000Z",
-    "summary": "Expert-written natural language skills can improve tool-using agents, yet agent-authored skills perform 8-11 points worse than using no skill. This gap suggests that following procedural guidance and improving it from execution evidence are distinct capabilities. Inference time…"
-  },
-  {
     "id": "42e5a0c3",
     "title": "Ad Tech Briefing: TV measurement’s competitive reset gathers pace (with more job cuts)",
     "url": "https://digiday.com/future-of-tv/ad-tech-briefing-tv-measurements-competitive-reset-gathers-pace-with-more-job-cuts/",
@@ -233,28 +162,6 @@
     ],
     "published": "2026-08-18T04:01:00.000Z",
     "summary": "ComScore and VideoAmp confirm large job cuts, just days after rival Nielsen makes bold M&A move."
-  },
-  {
-    "id": "9b76cfd7",
-    "title": "If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation",
-    "url": "https://arxiv.org/abs/2608.17318v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T03:22:29.000Z",
-    "summary": "Vision-language navigation agents are often evaluated on their ability to follow route-like instructions toward a fixed goal. Yet, real navigation instructions often depend on observed states of the environment: if a condition holds, then follow one path, otherwise take another.…"
-  },
-  {
-    "id": "e92aa3ed",
-    "title": "PowderLine: a programmatic powder diffraction analysis application",
-    "url": "https://arxiv.org/abs/2608.17009v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-17T18:05:05.000Z",
-    "summary": "Whole-pattern fitting methods, such as Rietveld refinement, excel at extracting detailed structural, chemical, and microstructural information from powder diffraction data. Obtaining reliable results requires both considerable expertise and software-specific knowledge, and apply…"
   },
   {
     "id": "9ccc1700",
@@ -283,44 +190,6 @@
     "summary": "The Federal Trade Commission secured an important victory in the fight to lower the cost of housing construction materials for Americans by preventing German multinational Henkel AG & Co. KGaA (Henkel), the manufacturer of the industry-leading Loctite brand construction adhesive…"
   },
   {
-    "id": "649551a0",
-    "title": "Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback",
-    "url": "https://arxiv.org/abs/2608.15591v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-16T07:27:26.000Z",
-    "summary": "Large Language Model (LLM) agents deployed in production environments face a fundamental tension: the agent's behavior is frozen at deployment time, while the business rules and edge cases it must handle continue to evolve. Existing approaches address agent construction and one-…"
-  },
-  {
-    "id": "aa6f2a83",
-    "title": "BOCoDe: Engineering-Centered Benchmarking for Bayesian Optimization",
-    "url": "https://arxiv.org/abs/2608.15073v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-15T06:47:28.000Z",
-    "summary": "Bayesian optimization (BO) is a sample-efficient, surrogate-based approach to black-box optimization (BBO), but its evaluation remains dominated by synthetic functions and hyperparameter optimization (HPO) tasks that are typically low-dimensional and single-objective. Engineerin…"
-  },
-  {
-    "id": "5daba6f1",
-    "title": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
-    "url": "https://arxiv.org/abs/2608.13958v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI",
-      "Policy"
-    ],
-    "published": "2026-08-14T04:58:01.000Z",
-    "summary": "How do we govern AI systems whose reasoning we cannot fully inspect? Governance does not require understanding a system's reasoning. It requires stating what the system is obliged, permitted, and forbidden to do, and checking whether it complied. I present an implementation of R…"
-  },
-  {
     "id": "e7bdf714",
     "title": "Google Ads language targeting changes starting September 2026",
     "url": "http://ads-developers.googleblog.com/2026/08/google-ads-language-targeting-changes.html",
@@ -332,6 +201,19 @@
     ],
     "published": "2026-08-14T02:42:05.501Z",
     "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search and AI Max for Search campaigns, the c…"
+  },
+  {
+    "id": "12ccce7a",
+    "title": "Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition",
+    "url": "https://techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-08-13T13:02:15.000Z",
+    "summary": ""
   },
   {
     "id": "4dbc82ff",
@@ -347,30 +229,6 @@
     "summary": "The Federal Trade Commission is sending payments totaling more than $23.8 million to drivers harmed by Grubhub’s deceptive earnings claims and diners harmed by the company’s misleading and unlawful conduct. View Press Release"
   },
   {
-    "id": "029d75d8",
-    "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
-    "url": "https://arxiv.org/abs/2608.11924v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-12T11:11:07.000Z",
-    "summary": "Turning a research idea into a complete paper requires more than text generation: the system must retrieve literature, design and execute experiments, revise claims according to evidence, produce publication-ready figures, and maintain consistency across a long generation proces…"
-  },
-  {
-    "id": "ae2a041f",
-    "title": "Better, Faster, Stronger: Programmatic Skill Learning Best Reduces Agent Cost",
-    "url": "https://arxiv.org/abs/2608.11338v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-11T18:42:23.000Z",
-    "summary": "Recently, the practice of augmenting LLM agent capability with skills has gained prevalence. We explore the cost effective adaptation of agents to novel domains by means of learning skills. Existing works focus on performance gain over cost effectiveness. As a result, little is…"
-  },
-  {
     "id": "86edbdc5",
     "title": "Innovators Unscripted With NBCUniversal",
     "url": "https://www.indexexchange.com/2026/08/11/innovators-unscripted-with-nbcuniversal/",
@@ -382,63 +240,6 @@
     ],
     "published": "2026-08-11T13:32:00.000Z",
     "summary": "NBCUniversal's Kristina Shepard explains how live sports advertising and programmatic streaming TV are proving performance at scale."
-  },
-  {
-    "id": "41e2c455",
-    "title": "Auditable AI-Assisted Research Writing: An Engineering Discipline with Pre-Registered Process Observation",
-    "url": "https://arxiv.org/abs/2608.10858v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-11T12:30:42.000Z",
-    "summary": "Language models now draft, classify and criticise inside research production, yet the artifacts they help produce carry little accountable history. Rather than detecting machine involvement afterwards, we specify an auditability discipline built at production time: git sealing w…"
-  },
-  {
-    "id": "5c934efc",
-    "title": "The Evaluation Protocol Determines the Result: An Independent Reproduction of LeWorldModel on TwoRoom",
-    "url": "https://arxiv.org/abs/2608.10145v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-10T19:00:51.000Z",
-    "summary": "LeWorldModel trains a latent world model with a prediction loss and a single anti-collapse regulariser, and reports approximately 87% of goals reached on TwoRoom, its simplest diagnostic environment. We reproduce that result by independent reimplementation on roughly $25 of rent…"
-  },
-  {
-    "id": "32b93b0b",
-    "title": "Technology and Science Advancing Observations with Roman Coronagraph Informed by Ground-Based High-Contrast Imaging",
-    "url": "https://arxiv.org/abs/2608.10092v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-10T18:03:27.000Z",
-    "summary": "The Roman Coronagraph technology demonstration focuses on achieving $<$ 10$^{-7}$ contrasts within the instrument's dark hole and our ability to detect and characterize properties of faint companions around bright stars. Here, we describe results from a study of potential Roman…"
-  },
-  {
-    "id": "a4c7a5df",
-    "title": "UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers",
-    "url": "https://arxiv.org/abs/2608.09209v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-10T07:31:08.000Z",
-    "summary": "Neural language models trained on large crowdsourced corpora frequently exploit spurious surface patterns tied to target labels without true linguistic or causal relevance, boosting benchmark performance while failing on adversarial or out-of-distribution inputs. Existing approa…"
-  },
-  {
-    "id": "4386d62e",
-    "title": "A New Approach to Characterising Optimisation Problems Using Programmatic Representation and Complexity Measures",
-    "url": "https://arxiv.org/abs/2608.08898v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-09T20:19:51.000Z",
-    "summary": "Characterising optimisation problem instances is a fundamental part of understanding the behaviour and performance of different algorithms as well as providing information for algorithm selection and configuration. In this paper we propose a novel approach to problem characteris…"
   },
   {
     "id": "e12a564e",
@@ -466,89 +267,6 @@
     ],
     "published": "2026-08-07T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division, joined by the Attorney General of Tennessee, announced today that they will require CRH and its subsidiary APAC-Tennessee to divest two hot-mix asphalt plants as part of its acquisition of Standard Construction to address antitrust co…"
-  },
-  {
-    "id": "140c7e3d",
-    "title": "AgentChaos: Chaos Engineering for Agent Systems via Programmatic Fault Injection",
-    "url": "https://arxiv.org/abs/2608.06790v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-07T04:24:29.000Z",
-    "summary": "Agent systems rely on LLM APIs for every response, but these APIs can return server errors, truncated responses, or corrupted content that propagates through downstream agents and causes task failure. Evaluating robustness under these faults is crucial for reliable deployment. E…"
-  },
-  {
-    "id": "7fe57171",
-    "title": "Stockmark-Nemotron-3-Nano-Omni-JapanDocReader: Structured Document Parsing via Capability Injection and Forgetting Control",
-    "url": "https://arxiv.org/abs/2608.06758v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-07T03:24:59.000Z",
-    "summary": "We present Stockmark-Nemotron-3-Nano-Omni-JapanDocReader, a Japanese document understanding model built from Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16. The central goal of this work is structured document parsing via capability injection and forgetting control: we inject Japan…"
-  },
-  {
-    "id": "a9c2850e",
-    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-    "url": "https://arxiv.org/abs/2608.06474v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-06T18:06:12.000Z",
-    "summary": "Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlenecked by reward design. Hand-authored browser scri…"
-  },
-  {
-    "id": "a880d6eb",
-    "title": "The Bitter Lesson of Tool Calling",
-    "url": "https://arxiv.org/abs/2608.06370v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-06T17:58:32.000Z",
-    "summary": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as cod…"
-  },
-  {
-    "id": "d4fa7a15",
-    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
-    "url": "https://arxiv.org/abs/2608.06361v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-06T17:57:06.000Z",
-    "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than…"
-  },
-  {
-    "id": "a20c6d07",
-    "title": "ProDVI: Programmatic Dynamics Priors for Value Network Initialization",
-    "url": "https://arxiv.org/abs/2608.06015v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-06T13:19:29.000Z",
-    "summary": "Deep Reinforcement Learning (RL) is notoriously sample inefficient. One contributing factor is that RL agents are typically initialized from scratch, forcing them to acquire task-relevant knowledge through online interaction. Existing approaches obtain informative initialization…"
-  },
-  {
-    "id": "1b98bd3f",
-    "title": "When Does Consensus Mean Correctness? Measuring the Agreement-Accuracy Coupling with Semantics-Preserving Re-Rendering",
-    "url": "https://arxiv.org/abs/2608.05670v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-06T07:08:05.000Z",
-    "summary": "A model's agreement across perturbed inputs is used both as a label-free reliability signal and as a self-training target, on the premise that agreement tracks correctness. That coupling is rarely measured directly: natural-image perturbations preserve meaning only by assumption…"
   },
   {
     "id": "53f0cae4",
@@ -610,6 +328,19 @@
     "summary": "The Federal Trade Commission granted early termination of its review of quantum computing developer IonQ Inc.’s proposed acquisition of SkyWater Technologies Inc., a quantum chip fabrication company. FTC Chairman Andrew N. Ferguson and Commissioner Mark R. Meador issued separate…"
   },
   {
+    "id": "b02d8064",
+    "title": "What a Growing Telegram Disinformation Network Reveals About the DSA",
+    "url": "https://techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-07-31T11:54:44.000Z",
+    "summary": ""
+  },
+  {
     "id": "f72e8503",
     "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
     "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
@@ -646,6 +377,19 @@
     ],
     "published": "2026-07-29T21:38:04.000Z",
     "summary": "Document filed on July 27, 2026 Answering Brief for the United States"
+  },
+  {
+    "id": "3f08c99c",
+    "title": "What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open",
+    "url": "https://techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-07-29T16:52:06.000Z",
+    "summary": ""
   },
   {
     "id": "51a6703c",
@@ -686,6 +430,19 @@
     ],
     "published": "2026-07-28T11:13:14.000Z",
     "summary": "Spectrum Reach's Dan Callahan explains how linear's scale and streaming TV's precision are already converging, powered by first-party data and show-level transparency."
+  },
+  {
+    "id": "6d9f0f39",
+    "title": "Google Android Antitrust Ruling Shows the Next Battle is Over Who Controls Trust",
+    "url": "https://techpolicy.press/google-android-antitrust-ruling-shows-the-next-battle-is-over-who-controls-trust",
+    "source": "Tech Policy Press",
+    "sourceId": "techpolicypress",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-28T08:07:32.000Z",
+    "summary": ""
   },
   {
     "id": "6afbecbd",
@@ -2794,48 +2551,61 @@
     "summary": "Document filed on March 9, 2022 Indictment"
   },
   {
-    "id": "b593ed48",
-    "title": "Leadership Changes in the Anticompetitive Practices Division",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
+    "id": "7594d49d",
+    "title": "Adjusting merger review to deal with the surge in merger filings",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/08/adjusting-merger-review-deal-surge-merger-filings",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-29T13:45:42.000Z",
-    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
+    "published": "2021-08-03T16:28:44.000Z",
+    "summary": "Adjusting merger review to deal with the surge in merger filings bjames@ftc.gov August 3, 2021 | 12:28PM Adjusting merger review to deal with the surge in merger filings By Holly Vedova, Bureau of Competition Given the recent surge in merger filings, the FTC is reviewing its pro…"
   },
   {
-    "id": "22fd8547",
-    "title": "Antitrust review at the FTC: staying the course during uncertain times",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/antitrust-review-ftc-staying-course-during-uncertain-times",
+    "id": "11ffd583",
+    "title": "A Fiscal Year Like No Other",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/10/fiscal-year-no-other",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-04-06T15:36:56.000Z",
-    "summary": "Antitrust review at the FTC: staying the course during uncertain times jwolf April 6, 2020 | 11:36AM Antitrust review at the FTC: staying the course during uncertain times By Ian Conner, Bureau of Competition As we navigate uncharted waters in our work and home lives in response…"
+    "published": "2020-10-06T15:06:46.000Z",
+    "summary": "A Fiscal Year Like No Other sfelder October 6, 2020 | 11:06AM A Fiscal Year Like No Other By Ian R. Conner, Bureau of Competition With the conclusion of FY2020, we look back on a year unlike any other in the history of the Bureau of Competition. The year has been marked by a com…"
   },
   {
-    "id": "171567b1",
-    "title": "Resuming early termination of HSR reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/03/resuming-early-termination-hsr-reviews",
+    "id": "9dd4d72f",
+    "title": "The hearing may be virtual, but the rules are the same",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/hearing-may-be-virtual-rules-are-same",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-03-27T18:08:11.000Z",
-    "summary": "Resuming early termination of HSR reviews rcuster March 27, 2020 | 2:08PM Resuming early termination of HSR reviews By Ian Conner, Bureau of Competition On Friday, March 13, as part of the Bureau’s response to the COVID-19 coronavirus situation, and in partnership with the Antit…"
+    "published": "2020-08-14T15:08:00.000Z",
+    "summary": "The hearing may be virtual, but the rules are the same jwolf August 14, 2020 | 11:08AM The hearing may be virtual, but the rules are the same By Daniel Francis, Bureau of Competition It is generally a serious violation of our rules for counsel to pass private notes to a witness…"
   },
   {
-    "id": "aa202941",
-    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
+    "id": "717f4e88",
+    "title": "Eyes Wide Open: There are no blinders in merger reviews",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-07-20T18:00:30.000Z",
+    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+  },
+  {
+    "id": "aba5bca6",
+    "title": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/05/ftc-becomes-founding-member-icn-framework-promote-procedural-fairness-competition-enforcement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -2843,84 +2613,70 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2018-09-10T17:53:43.000Z",
-    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
+    "published": "2019-05-03T21:21:11.000Z",
+    "summary": "FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement rgiura May 3, 2019 | 5:21PM FTC becomes a founding member of ICN Framework to promote procedural fairness in competition enforcement By Paul O’Brien, Office of International…"
   },
   {
-    "id": "7fbf6c01",
-    "title": "Coming Soon: what’s new in residential real estate brokerage competition?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/coming-soon-whats-new-residential-real-estate-brokerage-competition",
+    "id": "d028fde8",
+    "title": "The uphill case for a post-Order divestiture",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/uphill-case-post-order-divestiture",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-05-29T14:46:19.000Z",
-    "summary": "Coming Soon: what’s new in residential real estate brokerage competition? jwolf May 29, 2018 | 10:46AM Coming Soon: what’s new in residential real estate brokerage competition? By Jessica Drake, Bureau of Competition More than ten years ago, the FTC and the Department of Justice…"
+    "published": "2019-03-21T18:59:30.000Z",
+    "summary": "The uphill case for a post-Order divestiture rcuster March 21, 2019 | 2:59PM The uphill case for a post-Order divestiture By Ian Conner, Bureau of Competition Designing effective merger remedy orders is one of the Commission’s most important tasks. An effective merger remedy pre…"
   },
   {
-    "id": "3dbaa1e1",
-    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
+    "id": "35623933",
+    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [],
-    "published": "2018-03-01T16:54:32.000Z",
-    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
+    "published": "2019-03-06T16:23:19.000Z",
+    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
   },
   {
-    "id": "af3fd3fd",
-    "title": "Have a plan to comply with the bar on horizontal interlocks",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/01/have-plan-comply-bar-horizontal-interlocks",
+    "id": "57572c89",
+    "title": "What’s the interest in partial interests?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/whats-interest-partial-interests",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-01-23T17:18:07.000Z",
-    "summary": "Have a plan to comply with the bar on horizontal interlocks rcuster January 23, 2017 | 12:18PM Have a plan to comply with the bar on horizontal interlocks By Debbie Feinstein, Bureau of Competition With some exceptions, Section 8 of the Clayton Act prohibits the same individual…"
+    "published": "2016-05-09T15:29:44.000Z",
+    "summary": "What’s the interest in partial interests? rcuster May 9, 2016 | 11:29AM What’s the interest in partial interests? By Mike Moiseyev, Bureau of Competition Most mergers reviewed by the Commission involve the acquisition of an entire company, or an identifiable set of assets – that…"
   },
   {
-    "id": "00fe5cb4",
-    "title": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/02/antitrust-violation-vs-injury-fact-distinction-makes-difference",
+    "id": "e9511129",
+    "title": "Calculating the value of stock under HSR rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/10/calculating-value-stock-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2016-02-26T16:16:59.000Z",
-    "summary": "Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference rcuster February 26, 2016 | 11:16AM Antitrust Violation vs. Injury-in-Fact: A distinction that makes a difference By Dan Butrymowicz, Bureau of Competition There is a basic but important difference bet…"
+    "published": "2015-10-27T18:05:06.000Z",
+    "summary": "Calculating the value of stock under HSR rules rcuster October 27, 2015 | 2:05PM Calculating the value of stock under HSR rules By the Premerger Notification Staff, Bureau of Competition The Hart-Scott-Rodino statute and rules contain a number of reporting thresholds for transac…"
   },
   {
-    "id": "b8f65d3c",
-    "title": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes?",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/antitrust-mailbag-what-can-ftc-do-about-prescription-drug-price-spikes",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2015-05-18T16:31:59.000Z",
-    "summary": "From the antitrust mailbag: What can the FTC do about prescription drug price spikes? rcuster May 18, 2015 | 12:31PM From the antitrust mailbag: What can the FTC do about prescription drug price spikes? By Alan Friedman, Bureau of Competition Consumers frequently contact the Bur…"
-  },
-  {
-    "id": "1a42b3b0",
-    "title": "Have a good plan for HSR compliance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/08/have-good-plan-hsr-compliance",
+    "id": "f82b0582",
+    "title": "A license that is more than a license",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/03/license-more-license",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2014-08-21T16:16:05.000Z",
-    "summary": "Have a good plan for HSR compliance rcuster August 21, 2014 | 12:16PM Have a good plan for HSR compliance By Dan Ducore, Bureau of Competition Our recent civil penalty action involving Berkshire Hathaway’s failure to file the required Hart-Scott-Rodino notification is a reminder…"
+    "published": "2014-03-24T17:59:18.000Z",
+    "summary": "A license that is more than a license cwarner March 24, 2014 | 1:59PM A license that is more than a license By Susan Huber and Cathlin Tully, Bureau of Competition Today, the Commission accepted for public comment a proposed order designed to preserve competition after the merge…"
   }
 ]
