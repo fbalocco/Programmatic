@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T18:53:55.732Z",
+  "generatedAt": "2026-08-25T21:39:33.910Z",
   "feedCount": 17,
-  "itemCount": 235,
+  "itemCount": 236,
   "errors": [],
   "stats": [
     {
@@ -113,14 +113,14 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 13,
+      "kept": 14,
       "error": null
     },
     {
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 156,
+      "fetched": 157,
       "kept": 80,
       "error": null
     },
