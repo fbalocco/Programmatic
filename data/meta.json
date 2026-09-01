@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-09-01T18:26:59.739Z",
+  "generatedAt": "2026-09-01T23:16:48.403Z",
   "feedCount": 17,
-  "itemCount": 225,
+  "itemCount": 234,
   "errors": [
     {
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "url": "https://techpolicy.press/rss/feed.xml",
       "error": "This operation was aborted"
-    },
-    {
-      "id": "edpb-news",
-      "name": "European Data Protection Board (News)",
-      "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "fetch failed"
     }
   ],
   "stats": [
@@ -93,9 +87,9 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "ftc-press",
@@ -126,7 +120,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 15,
+      "kept": 14,
       "error": null
     },
     {
