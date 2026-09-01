@@ -1,5 +1,18 @@
 [
   {
+    "id": "364a5160",
+    "title": "Making Google Ads More Secure with Updates to Developer Policies",
+    "url": "http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-08-31T22:03:49.258Z",
+    "summary": "We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates establish clear frameworks for emerging te…"
+  },
+  {
     "id": "3cd3243d",
     "title": "Chipotle deploys 100 creators for latest ads spotlighting fresh food",
     "url": "https://www.marketingdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829149/",
@@ -1447,19 +1460,6 @@
     ],
     "published": "2026-06-16T22:33:19.000Z",
     "summary": "Documents posted on June 16, 2026: United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Exhibit A - Stipulation and Order Exhibit B - [Proposed] Final Judgment"
-  },
-  {
-    "id": "d0bb863f",
-    "title": "Updates to Smart Bidding Strategy Naming and Organization in Google Ads",
-    "url": "http://ads-developers.googleblog.com/2026/06/updates-to-smart-bidding-strategy.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-06-16T14:04:10.570Z",
-    "summary": "Starting in June 2026, Google Ads is updating how bidding strategies are labeled to offer greater clarity between volume-focused and target-focused goals. As part of this update, we are decoupling Target CPA and Target ROAS from Maximize conversions and Maximize conversion value…"
   },
   {
     "id": "980e8937",
