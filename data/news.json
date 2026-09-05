@@ -1,5 +1,19 @@
 [
   {
+    "id": "126c42c9",
+    "title": "U.S. and Plaintiff States v. RealPage, Inc.",
+    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-04T23:54:58.000Z",
+    "summary": "Documents Filed on September 4, 2026 Competitive Impact Statement [Pinnacle Property Management Services, LLC] United States' Explanation of Procedures Under the Antitrust Procedures and Penalties Act [Pinnacle Property Management Services, LLC]&nbsp; Stipulation and Proposed Or…"
+  },
+  {
     "id": "2c8629a9",
     "title": "What ChatGPT’s DSA Designation Means for OpenAI and the EU",
     "url": "https://techpolicy.press/what-chatgpts-dsa-designation-means-for-openai-and-the-eu",
@@ -87,17 +101,6 @@
     ],
     "published": "2026-09-03T19:49:04.000Z",
     "summary": "It feels like déjà vu all over again. The Federal Trade Commission (FTC) and 22 state attorneys general are suing Amazon, the commission announced Monday. The FTC claims Amazon’s ad platform introduced a change in late 2018 that allowed it to secretly inflate prices for Sponsore…"
-  },
-  {
-    "id": "a48972d5",
-    "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-    "url": "https://arxiv.org/abs/2609.04094v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-09-03T17:02:20.000Z",
-    "summary": "Reinforcement Learning from Verifiable Rewards works well when a task has a programmatic checker, but most long-horizon agent domains have none. We work in the outcome-blind setting, where ground-truth success signals are not available. Multi-criteria rubrics are a popular way t…"
   },
   {
     "id": "dd0339ac",
@@ -198,19 +201,6 @@
     "summary": "Google will not be required to break up its ad tech business, despite a federal court ruling last April that found the company operated a monopoly. The post Google Won’t Have To Break Up Its Ad Tech Business, Judge Brinkema Rules appeared first on AdExchanger."
   },
   {
-    "id": "a550c33d",
-    "title": "Large Language Models and Language Server Protocol: a match made in context",
-    "url": "https://arxiv.org/abs/2609.03086v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-09-02T18:59:40.000Z",
-    "summary": "This article introduces Eiffel-tools, a language server protocol (LSP) implementation for the Eiffel programming language that uses Large Language Models (LLMs) to aid the development of statically verified software. The tool provides various interactive and non-interactive comm…"
-  },
-  {
     "id": "7aa4da3e",
     "title": "Google Ads API v22 sunset reminder",
     "url": "http://ads-developers.googleblog.com/2026/09/google-ads-api-v22-sunset-reminder.html",
@@ -242,32 +232,6 @@
     "tags": [],
     "published": "2026-09-02T12:00:00.000Z",
     "summary": "On Sept. 1, 2026, Adena Health announced its acquisition of Fairfield Medical Center (FMC), a hospital system in southeastern Ohio. The announcement follows a Federal Trade Commission investigation of an earlier attempt by a different acquirer—OhioHealth—to buy FMC. Commission s…"
-  },
-  {
-    "id": "f2e41f4b",
-    "title": "Bridging the Gap: A Longitudinal Analysis of Extended Identifiers in the Post-Cookie Era",
-    "url": "https://arxiv.org/abs/2609.02069v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-09-02T03:52:59.000Z",
-    "summary": "As third-party cookies fade because of browser restrictions, the online advertising ecosystem is turning to extended identifiers (EIDs) as an alternative. EIDs are persistent user identifiers, such as hashed email addresses, that are employed to link users across domains and dev…"
-  },
-  {
-    "id": "f748a75c",
-    "title": "Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents",
-    "url": "https://arxiv.org/abs/2609.02042v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-09-02T03:17:11.000Z",
-    "summary": "Large language model (LLM) agents for long-horizon interactive tasks typically follow a ReAct-style protocol, issuing one primitive action per LLM round. While this enables frequent replanning, it is inefficient for long-horizon tasks where many rounds are spent on routine actio…"
   },
   {
     "id": "77afcba3",
@@ -308,17 +272,6 @@
     "summary": "We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates establish clear frameworks for emerging te…"
   },
   {
-    "id": "5edfeae6",
-    "title": "One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning",
-    "url": "https://arxiv.org/abs/2608.30952v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-31T15:22:19.000Z",
-    "summary": "Chemistry questions often demand exact computation and database lookups that a language model cannot supply from its parameters, so it must reach for external tools. Tool use here is a three-part problem: select the right tool from a large pool, fill it with correctly typed argu…"
-  },
-  {
     "id": "a0caec3d",
     "title": "Privacy by Architecture Makes AI Compliance Work",
     "url": "https://techpolicy.press/privacy-by-architecture-makes-ai-compliance-work",
@@ -346,43 +299,6 @@
     "summary": "FTC and 22 state attorneys general allege Amazon concealed unfair charges in its digital advertising auction pricing Today, 22 states joined the Federal Trade Commission in filing suit against Amazon, alleging that the company engaged in deceptive and unfair practices that secre…"
   },
   {
-    "id": "7d7b7e9b",
-    "title": "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories",
-    "url": "https://arxiv.org/abs/2609.00038v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-29T10:14:05.000Z",
-    "summary": "Outcome-only evaluation is the production default for LLM agents: show a judge the request and the final reply and ask whether it was handled well. The metric is structurally blind to an agent that reaches the right answer the wrong way. We measure that blind spot where ground t…"
-  },
-  {
-    "id": "a1704e15",
-    "title": "MineCEraft: Evaluating Language Models as Construction Engineers in the World of Minecraft",
-    "url": "https://arxiv.org/abs/2608.28884v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-28T21:38:54.000Z",
-    "summary": "We introduce MineCEraft (Minecraft Construction Engineering Benchmark, pronounced mine-see-ee-raft), an easy-to-use, open-source benchmark designed to systematically evaluate the reliability and limitations of LLMs for construction tasks in Minecraft. The MineCEraft benchmark co…"
-  },
-  {
-    "id": "ab9a2868",
-    "title": "FoldKit: A Python library for efficient storage and retrieval of co-folding predictions",
-    "url": "https://arxiv.org/abs/2608.28788v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-28T18:49:04.000Z",
-    "summary": "AlphaFold 3 (AF3) enables structure prediction of biomolecular complexes through co-folding multiple interacting molecules, making it increasingly useful for de novo protein design and for large-scale studies of protein-protein, protein-peptide, and other biomolecular interactio…"
-  },
-  {
     "id": "e313d04e",
     "title": "U.S. v. KKR & Co. Inc., et al.",
     "url": "https://www.justice.gov/atr/case/us-v-kkr-co-inc-et-al",
@@ -395,19 +311,6 @@
     ],
     "published": "2026-08-28T15:54:31.000Z",
     "summary": "Document filed on August 27, 2026 Competitive Impact Statement United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act Stipulation and Order Proposed] Final Judgment"
-  },
-  {
-    "id": "a9de0864",
-    "title": "VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2608.28128v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-28T09:43:54.000Z",
-    "summary": "Fine-grained credit assignment is a central challenge in reinforcement learning for long horizon LLM agents. Standard objectives often train from programmatically verifiable terminal rewards by broadcasting each sparse outcome to every action in a trajectory. Existing methods ty…"
   },
   {
     "id": "8e942485",
@@ -435,43 +338,6 @@
     "summary": ""
   },
   {
-    "id": "a76828a2",
-    "title": "AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling",
-    "url": "https://arxiv.org/abs/2608.26623v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-27T05:20:22.000Z",
-    "summary": "LLM judges are widely used to evaluate agentic tool-calling systems, yet their reliability on structured, dependency-driven workflows remains largely unexamined. We present AgentJudgeBench, the first benchmark to systematically study LLM-as-a-judge reliability for agentic tool-c…"
-  },
-  {
-    "id": "b39ed7f8",
-    "title": "Chart2SVG: Editable SVG Generation from Raster Chart Images",
-    "url": "https://arxiv.org/abs/2608.26544v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-27T02:35:30.000Z",
-    "summary": "We present Chart2SVG, a multimodal large language model that converts static raster charts into structurally organized, semantically enriched SVGs that support programmatic editing. By incorporating chart-specific semantic tokens into a vision-language model, Chart2SVG captures…"
-  },
-  {
-    "id": "c3a716d3",
-    "title": "Towards Scaling Reinforcement Learning to Massive Populations: Learning Mean-Field Representations",
-    "url": "https://arxiv.org/abs/2609.02928v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "RTB"
-    ],
-    "published": "2026-08-26T18:54:16.000Z",
-    "summary": "Modern multi-agent systems are increasingly deployed at scale over large populations of agents in settings such as ad-auctions, traffic routing, and recommendation systems. The dominant approach in such settings is to optimize each agent's policy independently, treating the othe…"
-  },
-  {
     "id": "7bbd87d7",
     "title": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
     "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law",
@@ -484,32 +350,6 @@
     ],
     "published": "2026-08-26T12:00:00.000Z",
     "summary": "The Justice Department filed a proposed settlement today requiring KKR & Co. GP LLC to pay a civil penalty of $250,000,000 to resolve allegations that KKR repeatedly flouted the premerger antitrust review process. The United States’ Complaint alleged KKR evaded antitrust scrutin…"
-  },
-  {
-    "id": "2e3a66f6",
-    "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
-    "url": "https://arxiv.org/abs/2608.25529v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-26T08:35:42.000Z",
-    "summary": "Multimodal Large Language Models (MLLMs) have shown strong performance in video understanding. However, their ability to follow instructions in this domain remains under-explored. Real-world video understanding requires models not only to interpret video content correctly, but a…"
-  },
-  {
-    "id": "54a5d9dc",
-    "title": "BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks",
-    "url": "https://arxiv.org/abs/2608.25286v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-26T01:45:55.000Z",
-    "summary": "Artificial intelligence (AI) promises to accelerate biological research by automating computational analyses. Yet the ability of AI agents to carry out computational biology at the scale of complete research studies has not been systematically evaluated. Here we introduce BixBen…"
   },
   {
     "id": "9ccc1700",
@@ -562,17 +402,6 @@
     "summary": "The Federal Trade Commission finalized a consent order involving Ascension Health Alliance’s (Ascension) proposed $3.9 billion acquisition of AmSurg LLC. The FTC’s final consent order requires Ascension to divest seven AmSurg ambulatory surgery centers across Nashville, Tennesse…"
   },
   {
-    "id": "930b963a",
-    "title": "Prime Agent: A Self-Improving RLM Harness",
-    "url": "https://arxiv.org/abs/2608.23552v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-24T17:54:19.000Z",
-    "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follo…"
-  },
-  {
     "id": "4654b78e",
     "title": "FTC Secures Order Resolving Antitrust Concerns with Zillow-Redfin Agreement",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-secures-order-resolving-antitrust-concerns-zillow-redfin-agreement",
@@ -585,19 +414,6 @@
     ],
     "published": "2026-08-24T12:00:00.000Z",
     "summary": "The Federal Trade Commission, joined by five states, today notified the court that it will file a stipulated order that resolves its litigation against Zillow and Redfin and restores competition in the online platforms that renters use to find apartments and property managers us…"
-  },
-  {
-    "id": "0ea80ef3",
-    "title": "Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
-    "url": "https://arxiv.org/abs/2608.21690v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-21T23:39:19.000Z",
-    "summary": "LLM agents increasingly take on long-running tasks whose history grows far beyond a single model context window. Existing approaches compress earlier interactions or extract selected information into fixed memory representations, committing to what to preserve before future need…"
   },
   {
     "id": "92ebb616",
@@ -627,43 +443,6 @@
     "summary": "The Federal Trade Commission filed an amicus brief in an antitrust case alleging that drug manufacturer Amgen illegally acquired exclusive rights to patent applications that it shaped to cover Enbrel—a drug used to treat rheumatoid arthritis and other inflammatory conditions—all…"
   },
   {
-    "id": "9b9b779d",
-    "title": "Integrating Semantics into Research Data Management: Modelling and Validating Materials Science Experiment Workflows",
-    "url": "https://arxiv.org/abs/2608.20879v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-21T08:58:37.000Z",
-    "summary": "The incorporation of Semantic Web technologies within scientific environments is becoming an increasingly popular Research Data Management (RDM) practice. While ontologies offer flexible, reusable and machine-readable vocabularies to describe domain-specific research data, Knowl…"
-  },
-  {
-    "id": "b36300d6",
-    "title": "AEGIS: Preventing Cross-Domain Resource Abuse in MCP",
-    "url": "https://arxiv.org/abs/2608.20481v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-20T18:12:20.000Z",
-    "summary": "The Model Context Protocol (MCP) is an open source JSON-RPC protocol that standardizes how large language models (LLMs) interact with external systems through programmatic functions known as tools. Attackers or malicious agents can exploit certain modalities of these MCP tools t…"
-  },
-  {
-    "id": "d0319083",
-    "title": "Large reasoning models for abnormal situation management in safety-critical industrial processes",
-    "url": "https://arxiv.org/abs/2608.19819v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-08-20T09:13:37.000Z",
-    "summary": "Automation operates safety-critical processes inside their design envelope and leaves abnormal situations to human operators. Mismanagement of these situations is a leading contributor to process-safety incidents and a hindrance to achieving autonomy. Here we show that a general…"
-  },
-  {
     "id": "adbb77b6",
     "title": "Announcing v25.1 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/08/announcing-v251-of-google-ads-api.html",
@@ -673,17 +452,6 @@
     "tags": [],
     "published": "2026-08-19T19:06:12.971Z",
     "summary": "Today we are announcing the release of v25.1 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "8981816b",
-    "title": "Towards a Deductive Verification Infrastructure for Weighted Programming",
-    "url": "https://arxiv.org/abs/2608.18971v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-19T14:40:05.000Z",
-    "summary": "Weighted programs extend guarded commands with trace weights drawn from a semiring, or more generally a monoid-module. Varying this algebra gives one programmatic syntax for a variety of quantitative and symbolic models. Weakest-preweighting semantics provides a compositional ba…"
   },
   {
     "id": "f3ef145d",
@@ -697,66 +465,6 @@
     ],
     "published": "2026-08-19T12:00:00.000Z",
     "summary": "Associate Attorney General Stanley E. Woodward Jr. of the U.S. Department of Justice issued the following statement today in connection with the closing of the Antitrust Division’s investigation into the proposed merger between Seismic Software, Inc. (Seismic) and Highspot Inc.…"
-  },
-  {
-    "id": "fc645bf8",
-    "title": "ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents",
-    "url": "https://arxiv.org/abs/2608.18307v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T20:38:26.000Z",
-    "summary": "Current evaluation of computer-use agents is split between long-horizon workflow benchmarks and atomic GUI-grounding tests. This leaves an under-instrumented middle layer: realistic component-centered interactions (e.g., toggle a button set) that are short enough to diagnose and…"
-  },
-  {
-    "id": "9cacdd08",
-    "title": "ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning",
-    "url": "https://arxiv.org/abs/2608.18242v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T18:36:21.000Z",
-    "summary": "We introduce ClosureBench, a constructive benchmark for compositional graph-relational reasoning with programmatically verified ground truth. Unlike fixed-test-set benchmarks vulnerable to data contamination, ClosureBench generates instances on demand: each task's reference answ…"
-  },
-  {
-    "id": "8bcfadf0",
-    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-    "url": "https://arxiv.org/abs/2608.17975v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-08-18T16:27:44.000Z",
-    "summary": "Programmatic representations provide a compelling paradigm for 3D content creation, enabling fine-grained edits, interpretability, and explicit structural control. Yet, agentic workflows that rely on large language models (LLMs) to author 3D programs remain brittle, often failin…"
-  },
-  {
-    "id": "32fc67fb",
-    "title": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
-    "url": "https://arxiv.org/abs/2608.17659v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-08-18T11:33:22.000Z",
-    "summary": "LLM-powered GUI agents that autonomously operate smartphones are rapidly transitioning from research prototypes to early real-world deployment. However, because these agents routinely process untrusted environmental content, they are highly vulnerable to environmental injection…"
-  },
-  {
-    "id": "dac19d21",
-    "title": "Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback",
-    "url": "https://arxiv.org/abs/2608.17587v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-08-18T09:52:48.000Z",
-    "summary": "Expert-written natural language skills can improve tool-using agents, yet agent-authored skills perform 8-11 points worse than using no skill. This gap suggests that following procedural guidance and improving it from execution evidence are distinct capabilities. Inference time…"
   },
   {
     "id": "e6be68eb",
@@ -1175,20 +883,6 @@
     ],
     "published": "2026-07-08T12:00:00.000Z",
     "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
-  },
-  {
-    "id": "126c42c9",
-    "title": "U.S. and Plaintiff States v. RealPage, Inc.",
-    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-07T13:35:37.000Z",
-    "summary": "Documents filed on July 6, 2026 Competitive Impact Statement [Willow Bridge Property Company, LLC] United States&rsquo; Explanation of Procedures Under the Antitrust Procedures and Penalties Act [Willow Bridge Property Company, LLC] Stipulation and Order [Willow Bridge Property…"
   },
   {
     "id": "a50b8939",
@@ -2675,17 +2369,6 @@
     "summary": "Documents filed on January 31, 2024 Plea Agreement [Al's Asphalt] Plea Agreement [Ed Swanson] Plea Agreement [ASI]"
   },
   {
-    "id": "e3268d4f",
-    "title": "New HSR thresholds and filing fees for 2024",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/02/new-hsr-thresholds-filing-fees-2024",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2024-02-01T22:30:02.000Z",
-    "summary": "New HSR thresholds and filing fees for 2024 bacree February 1, 2024 | 5:30PM New HSR thresholds and filing fees for 2024 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino Act based on the chang…"
-  },
-  {
     "id": "8af11501",
     "title": "U.S. v. Bruce F. Israel",
     "url": "https://www.justice.gov/atr/case/us-v-bruce-f-israel",
@@ -2944,6 +2627,19 @@
     ],
     "published": "2022-02-14T18:44:32.000Z",
     "summary": "HSR threshold adjustments and reportability for 2022 bacree February 14, 2022 | 1:44PM HSR threshold adjustments and reportability for 2022 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
+  },
+  {
+    "id": "656bb753",
+    "title": "HSR threshold adjustments and reportability for 2021",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/02/hsr-threshold-adjustments-reportability-2021",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2021-02-17T22:19:50.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2021 bacree February 17, 2021 | 5:19PM HSR threshold adjustments and reportability for 2021 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
     "id": "2676c27a",
