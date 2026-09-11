@@ -1,5 +1,51 @@
 [
   {
+    "id": "ee600fe9",
+    "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
+    "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-09-11T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Ad…"
+  },
+  {
+    "id": "2f329672",
+    "title": "Why Wall Street Turned Against The Trade Desk",
+    "url": "https://www.adexchanger.com/platforms/why-wall-street-turned-against-the-trade-desk/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-09-11T10:08:54.000Z",
+    "summary": "It’s a little less sunny in California these days – at least as far as The Trade Desk is concerned. The Ventura-based independent DSP is less than a third as valuable as it was a year ago. It retains about one-tenth of its high-water market cap from December 2024, when the compa…"
+  },
+  {
+    "id": "0828651d",
+    "title": "Auctions In The Crosshairs",
+    "url": "https://www.adexchanger.com/the-big-story/auctions-in-the-crosshairs/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "RTB"
+    ],
+    "published": "2026-09-11T09:00:05.000Z",
+    "summary": "Two Big Tech moments capped the summer: The FTC sued Amazon over its kinda-sorta second-price auctions, alleging deceptive practices. And Judge Brinkema declared that Google will not have to spin off its ad server. The post Auctions In The Crosshairs appeared first on AdExchange…"
+  },
+  {
+    "id": "384f56fb",
+    "title": "FAST Channels Could Prove Their Value If Platforms Would Quit Hiding Their Data",
+    "url": "https://www.adexchanger.com/on-tv-and-video/fast-channels-could-prove-their-value-if-platforms-would-quit-hiding-their-data/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-09-11T05:00:54.000Z",
+    "summary": "At a recent industry event, an executive described a meeting with a major distribution platform. The platform had agreed to share audience data. When the meeting finally happened, they arrived with a printout. They wouldn’t let anyone keep it. That anecdote captures something im…"
+  },
+  {
     "id": "d18665b3",
     "title": "The Ad Spend Outlook Is Looking Up; Google Brings AI To MMM",
     "url": "https://www.adexchanger.com/daily-news-roundup/friday-11092026/",
@@ -135,19 +181,6 @@
     "summary": "Telly, the startup that gives away free smart TVs in exchange for data and ad exposure, is making its home screen ads available for brands to buy programmatically – and pushing for industry standards to help attract more spend. The post TV Manufacturer Telly Touts Programmatic H…"
   },
   {
-    "id": "0ca2b386",
-    "title": "Everyone In Ad Tech Will Soon Have An AI Operational Layer. Are You Building Yours Or Renting Someone Else’s?",
-    "url": "https://www.adexchanger.com/content-studio/everyone-in-ad-tech-will-soon-have-an-ai-operational-layer-are-you-building-yours-or-renting-someone-elses/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-09-09T12:00:24.000Z",
-    "summary": "Look at ad tech’s press releases this year. Magnite is rebuilding SpringServe to own the decisioning layer, AI-driven demand routing, price setting and coordination between buyer and seller agents. Raptive launched an intelligence division, appointed a chief AI officer and outri…"
-  },
-  {
     "id": "6fd2a7b1",
     "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
     "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
@@ -157,34 +190,6 @@
     "tags": [],
     "published": "2026-09-09T12:00:00.000Z",
     "summary": "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subject), Decision: Administrative fine Keywo…"
-  },
-  {
-    "id": "3f7b84a8",
-    "title": "Actionable Raises $10 Million To Build A Better Understanding Of Cause And Effect In Customer Service",
-    "url": "https://www.adexchanger.com/marketers/actionable-raises-10-million-to-build-a-better-understanding-of-cause-and-effect-in-customer-service/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-09-09T05:00:22.000Z",
-    "summary": "Actionable uses causal AI to determine what leads to customer dissatisfaction, and addresses those problems before they lead to churn. The post Actionable Raises $10 Million To Build A Better Understanding Of Cause And Effect In Customer Service appeared first on AdExchanger."
-  },
-  {
-    "id": "5b320f4e",
-    "title": "The Amazon Ads Lawsuit Raises Questions About Auction Disclosure DSP Buyers Need To Ask",
-    "url": "https://www.adexchanger.com/data-driven-thinking/the-amazon-ads-lawsuit-raises-questions-about-auction-disclosure-dsp-buyers-need-to-ask/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy",
-      "RTB",
-      "Policy"
-    ],
-    "published": "2026-09-09T04:35:08.000Z",
-    "summary": "For 22 years, I have worked on the buy side – across agencies, brands and now at their intersection – helping buyers navigate ad tech and helping ad tech understand buyers. This past year, I have found a clear common cause: Buyers are exhausted. They spend too much time tracking…"
   },
   {
     "id": "4875c245",
@@ -1414,19 +1419,6 @@
     "summary": "Today, we’re announcing the v24.2 release of the Google Ads API. This minor release brings critical security updates, new AI transparency features, reporting enhancements, and powerful planning insights. To use these new capabilities, you must upgrade your client libraries and c…"
   },
   {
-    "id": "f352a77a",
-    "title": "Supporting GDPR consistency: EDPB launches dedicated form",
-    "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-06-24T12:00:00.000Z",
-    "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and e…"
-  },
-  {
     "id": "72b326c5",
     "title": "FTC Files Amicus Brief to Protect Consumers from Pharmaceutical Monopolies",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-files-amicus-brief-protect-consumers-pharmaceutical-monopolies",
@@ -1701,20 +1693,6 @@
     "summary": "The Federal Trade Commission finalized a consent order resolving antitrust concerns related to a deal between Valvoline Inc. and private equity firm Greenbriar Equity Fund V., L.P. (Greenbriar). The consent order requires the divestiture of 45 quick-lube oil change shops to addr…"
   },
   {
-    "id": "fe6b5655",
-    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
-  },
-  {
     "id": "3f5a0cac",
     "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
@@ -1738,6 +1716,20 @@
     "tags": [],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "Today, the Federal Trade Commission took action to protect Americans from rising food prices by requiring 365 Retail Markets LLC (365 Retail)—the nation’s largest provider of micromarket kiosks—to divest a competing business to complete its $848 million acquisition of Cantaloupe…"
+  },
+  {
+    "id": "fe6b5655",
+    "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
   },
   {
     "id": "d55f52bd",
@@ -1780,17 +1772,6 @@
     "summary": "The Federal Trade Commission and the Justice Department’s Antitrust Division (“Agencies”) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors that was announced on February 23, 2026. The Agenci…"
   },
   {
-    "id": "17f8c57a",
-    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
-  },
-  {
     "id": "fb9e5ddb",
     "title": "FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
@@ -1817,15 +1798,26 @@
     "summary": "The Federal Trade Commission testified before the Senate Committee on Commerce, Science and Transportation today to highlight the agency’s accomplishments in the last year and a half and its ongoing work to protect consumers and promote competition on behalf of the American peop…"
   },
   {
-    "id": "805a7674",
-    "title": "FTC Submits Annual Budget Request to Congress",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-submits-annual-budget-request-congress",
+    "id": "17f8c57a",
+    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-04-15T12:00:00.000Z",
+    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
+  },
+  {
+    "id": "77e1228d",
+    "title": "FTC Publishes New Strategic Plan",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-publishes-new-strategic-plan",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
     "tags": [],
     "published": "2026-04-03T12:00:00.000Z",
-    "summary": "The Federal Trade Commission submitted to Congress its Fiscal Year 2027 budget request, in support of the President’s FY 2027 budget for the federal government. The request seeks $426.71 million and 1,183 full-time equivalent (FTE) positions for the FTC for FY2027. The budget re…"
+    "summary": "The Federal Trade Commission has published its FY 2026-2030 Strategic Plan, which will guide the agency over the next five years. The new plan lays out the agency’s mission, vision, and goals and establishes metrics to track the agency’s work. Updates to the strategic plan were…"
   },
   {
     "id": "9f34eee8",
@@ -2921,130 +2913,135 @@
     "summary": "Document filed on March 9, 2022 Indictment"
   },
   {
-    "id": "717f4e88",
-    "title": "Eyes Wide Open: There are no blinders in merger reviews",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/eyes-wide-open-there-are-no-blinders-merger-reviews",
+    "id": "29f3663f",
+    "title": "Real deadlines and real consequences",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/08/real-deadlines-real-consequences",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-07-20T18:00:30.000Z",
-    "summary": "Eyes Wide Open: There are no blinders in merger reviews sfelder July 20, 2020 | 2:00PM Eyes Wide Open: There are no blinders in merger reviews By Tara Isa Koslov and Heather M. Johnson, Bureau of Competition The FTC's Bureau of Competition sometimes reviews proposed mergers agai…"
+    "published": "2020-08-06T16:32:47.000Z",
+    "summary": "Real deadlines and real consequences bjames@ftc.gov August 6, 2020 | 12:32PM Real deadlines and real consequences By Maribeth Petrizzi, Bureau of Competition Recently, Alimentation Couche-Tard and CrossAmerica Partners (collectively ACT) agreed to pay a $3.5 million civil penalt…"
   },
   {
-    "id": "2ec6393e",
-    "title": "HSR Filing Fees – Reminders and Tips",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/hsr-filing-fees-reminders-tips",
+    "id": "25d4b19d",
+    "title": "Real-Time Transparency for HSR Transaction Numbers",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/real-time-transparency-hsr-transaction-numbers",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2020-05-18T19:38:55.000Z",
-    "summary": "HSR Filing Fees – Reminders and Tips sfelder May 18, 2020 | 3:38PM HSR Filing Fees – Reminders and Tips By the Premerger Notification Office Staff The PNO handles Hart-Scott-Rodino (HSR) premerger notification filings for thousands of transactions each year. Filing fees are also…"
+    "published": "2020-07-09T20:43:13.000Z",
+    "summary": "Real-Time Transparency for HSR Transaction Numbers sfelder July 9, 2020 | 4:43PM Real-Time Transparency for HSR Transaction Numbers By the Premerger Notification Office Staff In response to increased interest in levels of M&A activity, the Bureau of Competition’s Premerger Notif…"
   },
   {
-    "id": "35623933",
-    "title": "The FTC takes its subpoenas and CIDs seriously – and you should, too",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2019-03-06T16:23:19.000Z",
-    "summary": "The FTC takes its subpoenas and CIDs seriously – and you should, too rcuster March 6, 2019 | 11:23AM The FTC takes its subpoenas and CIDs seriously – and you should, too By Burke Kappler, Attorney, FTC Office of General Counsel The FTC’s ability to obtain information through sub…"
-  },
-  {
-    "id": "e43a3581",
-    "title": "U.S. Privilege Following Akzo Nobel v. European Commission",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/us-privilege-following-akzo-nobel-v-european-commission",
+    "id": "b593ed48",
+    "title": "Leadership Changes in the Anticompetitive Practices Division",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/leadership-changes-anticompetitive-practices-division",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
+      "Antitrust"
+    ],
+    "published": "2020-05-29T13:45:42.000Z",
+    "summary": "Leadership Changes in the Anticompetitive Practices Division bjames@ftc.gov May 29, 2020 | 9:45AM Leadership Changes in the Anticompetitive Practices Division By Ian Conner, Bureau of Competition I am pleased to announce the appointment of a new manager in the Bureau of Competit…"
+  },
+  {
+    "id": "ceffa8ba",
+    "title": "Compliance reports: Reinforcing a commitment to effective orders",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/03/compliance-reports-reinforcing-commitment-effective-orders",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
       "Policy"
     ],
-    "published": "2018-10-03T15:08:45.000Z",
-    "summary": "U.S. Privilege Following Akzo Nobel v. European Commission rcuster October 3, 2018 | 11:08AM U.S. Privilege Following Akzo Nobel v. European Commission By Alden F. Abbott, General Counsel, and Ashley Gum, Assistant General Counsel Lawyers who have been paying attention to such t…"
+    "published": "2019-03-11T13:36:41.000Z",
+    "summary": "Compliance reports: Reinforcing a commitment to effective orders rgiura March 11, 2019 | 9:36AM Compliance reports: Reinforcing a commitment to effective orders By Roberta Baruch and Bruce Hoffman, Bureau of Competition Commission orders – both from negotiated settlements and fr…"
   },
   {
-    "id": "89f7226d",
-    "title": "FTC at work outside the Beltway",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/ftc-work-outside-beltway",
+    "id": "aa202941",
+    "title": "Lessons from FTC v. Wilhelmsen for merger practitioners",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/lessons-ftc-v-wilhelmsen-merger-practitioners",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2018-09-10T17:53:43.000Z",
+    "summary": "Lessons from FTC v. Wilhelmsen for merger practitioners rcuster September 10, 2018 | 1:53PM Lessons from FTC v. Wilhelmsen for merger practitioners By Amy Dobrzynski, Bureau of Competition Last month, Judge Tanya S. Chutkan of the United States District Court for the District of…"
+  },
+  {
+    "id": "f454a608",
+    "title": "Timing is everything: The Model Timing Agreement",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/08/timing-everything-model-timing-agreement",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-09-24T19:34:35.000Z",
-    "summary": "FTC at work outside the Beltway rgiura September 24, 2018 | 3:34PM FTC at work outside the Beltway By Bruce Hoffman, Bureau of Competition This week, we are celebrating the 100th anniversary of the opening of the first FTC regional office. According to the Commission’s 1918 Annu…"
+    "published": "2018-08-07T19:04:47.000Z",
+    "summary": "Timing is everything: The Model Timing Agreement rcuster August 7, 2018 | 3:04PM Timing is everything: The Model Timing Agreement By Bruce Hoffman, Bureau of Competition The Bureau of Competition has undertaken several initiatives to streamline our merger review process in order…"
   },
   {
-    "id": "f588e36b",
-    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
+    "id": "7833f1ff",
+    "title": "“All” means All: Submit side agreements with an HSR filing",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/12/all-means-all-submit-side-agreements-hsr-filing",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2018-07-27T19:24:55.000Z",
-    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
+    "published": "2017-12-20T20:08:17.000Z",
+    "summary": "“All” means All: Submit side agreements with an HSR filing rcuster December 20, 2017 | 3:08PM “All” means All: Submit side agreements with an HSR filing By Bruce Hoffman, Bureau of Competition When preparing an HSR filing for a proposed acquisition, some practitioners counsel th…"
   },
   {
-    "id": "171c9d16",
-    "title": "Taking a hard look at the asset package",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/11/taking-hard-look-asset-package",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Privacy",
-      "Antitrust"
-    ],
-    "published": "2016-11-09T18:33:07.000Z",
-    "summary": "Taking a hard look at the asset package jwolf November 9, 2016 | 1:33PM Taking a hard look at the asset package By Andrea Zach, Bureau of Competition On Monday, the FTC accepted for public comment a proposed consent order involving a consummated merger in the eye care industry.…"
-  },
-  {
-    "id": "dccaef13",
-    "title": "Unflattering resemblance",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/unflattering-resemblance",
+    "id": "388e9c75",
+    "title": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/05/corporate-or-non-corporate-new-approach-classifying-foreign-entities-under-hsr-rules",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-01-13T18:18:49.000Z",
-    "summary": "Unflattering resemblance rcuster January 13, 2015 | 1:18PM Unflattering resemblance By Geoffrey Green, Bureau of Competition As discussed in a previous blog post, trade association members are subject to the same antitrust rules of the road as other companies or individuals who…"
+    "published": "2016-05-19T15:34:48.000Z",
+    "summary": "Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules rcuster May 19, 2016 | 11:34AM Corporate or Non-Corporate? A New Approach To Classifying Foreign Entities Under HSR Rules By Premerger Notification Staff, Bureau of Competition Under the H…"
   },
   {
-    "id": "3e8d00f8",
-    "title": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/01/how-avoid-common-hsr-filing-mistakes-item-4c-4d-documents",
+    "id": "aecbe8d8",
+    "title": "A fine balance: toward efficient merger review",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/fine-balance-toward-efficient-merger-review",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2015-01-08T18:05:44.000Z",
-    "summary": "How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents cwarner January 8, 2015 | 1:05PM How to avoid common HSR filing mistakes with Item 4(c) and 4(d) documents By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger…"
+    "published": "2015-08-04T14:39:03.000Z",
+    "summary": "A fine balance: toward efficient merger review rcuster August 4, 2015 | 10:39AM A fine balance: toward efficient merger review By Debbie Feinstein, Bureau of Competition One of the key functions of the Bureau of Competition is to analyze mergers. Obtaining information through Se…"
   },
   {
-    "id": "97295bbe",
-    "title": "FTC Milestones: Weighing in on weight loss cases",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/12/ftc-milestones-weighing-weight-loss-cases",
+    "id": "82be18b4",
+    "title": "Separating fact from opinion",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/separating-fact-opinion",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2014-12-04T16:25:36.000Z",
-    "summary": "FTC Milestones: Weighing in on weight loss cases cwarner December 4, 2014 | 11:25AM FTC Milestones: Weighing in on weight loss cases By Lesley Fair, Bureau of Consumer Protection “No need to be fat. No need to diet or go through unpleasant exercise.” “Men avoided me. I was too f…"
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-03-04T20:45:46.000Z",
+    "summary": "Separating fact from opinion rcuster March 4, 2015 | 3:45PM Separating fact from opinion By Rebecca Egeland and Dan Butrymowicz, Bureau of Competition Although FTC staff often rely on voluntary requests for information in the early stages of an investigation, the use of official…"
   }
 ]
