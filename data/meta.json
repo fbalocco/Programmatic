@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T04:49:02.793Z",
+  "generatedAt": "2026-09-14T12:37:55.119Z",
   "feedCount": 17,
-  "itemCount": 216,
+  "itemCount": 214,
   "errors": [
     {
       "id": "arxiv-ad-auctions",
@@ -32,7 +32,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
@@ -79,8 +79,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3937,
-      "kept": 6,
+      "fetched": 3938,
+      "kept": 5,
       "error": null
     },
     {
