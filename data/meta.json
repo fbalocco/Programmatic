@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T11:28:19.074Z",
+  "generatedAt": "2026-09-23T16:51:49.593Z",
   "feedCount": 17,
-  "itemCount": 242,
+  "itemCount": 240,
   "errors": [],
   "stats": [
     {
@@ -72,8 +72,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3974,
-      "kept": 7,
+      "fetched": 3977,
+      "kept": 6,
       "error": null
     },
     {
@@ -113,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 16,
+      "kept": 15,
       "error": null
     },
     {
