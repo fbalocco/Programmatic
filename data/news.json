@@ -1,5 +1,31 @@
 [
   {
+    "id": "2d6ec2a0",
+    "title": "U.S. v. Cathleen Shrive",
+    "url": "https://www.justice.gov/atr/case/united-states-v-cathleen-shive",
+    "source": "DOJ Antitrust Division Criminal Case Filings",
+    "sourceId": "doj-atr-criminal-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-09-25T19:54:04.000Z",
+    "summary": "Document filed on August 13, 2026 Guilty Plea Agreement Document filed on July 23, 2026 Information"
+  },
+  {
+    "id": "403eec4d",
+    "title": "Why This Marketing Measurement Company Just Open-Sourced Its Forecasting Engine",
+    "url": "https://www.adexchanger.com/measurement/this-marketing-measurement-company-just-open-sourced-its-forecasting-engine/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-09-25T13:00:31.000Z",
+    "summary": "Marketing measurement is really about answering two questions: What happened? And what should I do about it? Most marketing mix models are built to answer the first one, but the second is where things get harder and also more interesting. On Friday, Lifesight – a marketing measu…"
+  },
+  {
     "id": "03657baf",
     "title": "Buying CTV In The WarnerMount World",
     "url": "https://www.adexchanger.com/the-big-story/buying-ctv-in-the-warnermount-world/",
@@ -51,7 +77,7 @@
       "Policy"
     ],
     "published": "2026-09-24T19:54:04.000Z",
-    "summary": "Document filed on August 13, 2026 Guilty Plea Agreement Information"
+    "summary": "Document filed on August 13, 2026 Guilty Plea Agreement Document filed on July 23, 2026 Information"
   },
   {
     "id": "f8d8cff0",
@@ -63,6 +89,17 @@
     "tags": [],
     "published": "2026-09-24T17:09:14.000Z",
     "summary": "The digital audio market is becoming more programmatic, with dynamically inserted podcast ads leading the way. But, as programmatic buying becomes more common in audio, marketers and audio platforms are falling into the same habits that have long been decried in programmatic dis…"
+  },
+  {
+    "id": "f23c0658",
+    "title": "Wayfair ups investment in sports for values-focused brand platform",
+    "url": "https://www.marketingdive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831231/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-09-24T15:26:00.000Z",
+    "summary": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its previous spend."
   },
   {
     "id": "ec297867",
@@ -268,19 +305,6 @@
     "tags": [],
     "published": "2026-09-22T18:31:09.000Z",
     "summary": "Sample return from South Pole-Aitken Basin (SPA) on the Moon has been recognized as the highest priority lunar science mission for well over two decades, appearing as a recommended New Frontiers class mission in the two previous Planetary Science Decadal Survey documents (2003-2…"
-  },
-  {
-    "id": "c55c5bc5",
-    "title": "Performance CTV Is All The Rage, But The Mid-Funnel Still Matters",
-    "url": "https://www.adexchanger.com/ctv-roundup/performance-ctv-is-all-the-rage-but-the-mid-funnel-still-matters/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-09-22T13:00:38.000Z",
-    "summary": "Jenny Wall is a veteran of the TV and CTV industry, but tends to specialize in what she calls “disruptive” companies. The post Performance CTV Is All The Rage, But The Mid-Funnel Still Matters appeared first on AdExchanger."
   },
   {
     "id": "08594e23",
@@ -1273,20 +1297,6 @@
     "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public…"
   },
   {
-    "id": "aa145848",
-    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
-  },
-  {
     "id": "7fb0ae38",
     "title": "FTC Endorses Ohio Supreme Court Proposal to Weaken ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly",
@@ -1299,6 +1309,20 @@
     ],
     "published": "2026-07-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission lauded an Ohio Supreme Court proposal to lower the cost of legal representation by ending the American Bar Association’s explicit control over whether an Ohio bar applicant’s legal education is sufficient for practicing law in the state, undermining…"
+  },
+  {
+    "id": "aa145848",
+    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
   },
   {
     "id": "0452f3aa",
@@ -1726,17 +1750,6 @@
     "summary": "The Federal Trade Commission finalized a consent order resolving antitrust concerns related to a deal between Valvoline Inc. and private equity firm Greenbriar Equity Fund V., L.P. (Greenbriar). The consent order requires the divestiture of 45 quick-lube oil change shops to addr…"
   },
   {
-    "id": "6c8a86ee",
-    "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Today, the Federal Trade Commission took action to protect Americans from rising food prices by requiring 365 Retail Markets LLC (365 Retail)—the nation’s largest provider of micromarket kiosks—to divest a competing business to complete its $848 million acquisition of Cantaloupe…"
-  },
-  {
     "id": "fe6b5655",
     "title": "FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals",
@@ -1763,6 +1776,17 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
+  },
+  {
+    "id": "6c8a86ee",
+    "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Today, the Federal Trade Commission took action to protect Americans from rising food prices by requiring 365 Retail Markets LLC (365 Retail)—the nation’s largest provider of micromarket kiosks—to divest a competing business to complete its $848 million acquisition of Cantaloupe…"
   },
   {
     "id": "d55f52bd",
@@ -1805,17 +1829,15 @@
     "summary": "The Federal Trade Commission and the Justice Department’s Antitrust Division (“Agencies”) hereby extend the period for receiving public comments on their inquiry for consideration of guidance on collaborations among competitors that was announced on February 23, 2026. The Agenci…"
   },
   {
-    "id": "83999437",
-    "title": "FTC Testifies Before Senate Commerce, Science and Transportation Committee",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee",
+    "id": "17f8c57a",
+    "title": "FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers",
     "source": "U.S. FTC Competition Press Releases",
     "sourceId": "ftc-press-competition",
     "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
+    "tags": [],
     "published": "2026-04-15T12:00:00.000Z",
-    "summary": "The Federal Trade Commission testified before the Senate Committee on Commerce, Science and Transportation today to highlight the agency’s accomplishments in the last year and a half and its ongoing work to protect consumers and promote competition on behalf of the American peop…"
+    "summary": "The Federal Trade Commission today ordered Rollins, Inc.—one of the largest pest-control companies in the United States—to stop enforcing noncompete agreements against more than 18,000 employees nationwide. The agency also sent warning letters to 13 other companies in the pest-c…"
   },
   {
     "id": "9f34eee8",
@@ -1828,7 +1850,7 @@
       "Policy"
     ],
     "published": "2026-04-02T21:08:16.000Z",
-    "summary": "Document filed on April 1, 2026 Plea Agreement Information"
+    "summary": "Document filed on April 1, 2026 Plea Agreement Document filed on March 20, 2026 Information"
   },
   {
     "id": "72d73f82",
@@ -1867,7 +1889,7 @@
       "Policy"
     ],
     "published": "2026-03-11T19:15:19.000Z",
-    "summary": "Document filed on October 1, 2025 Plea Agreement Information"
+    "summary": "Document filed on October 1, 2025 Plea Agreement Document filed on July 30, 2025 Information"
   },
   {
     "id": "f4b0fdf0",
@@ -1881,6 +1903,17 @@
     ],
     "published": "2026-02-11T17:07:24.000Z",
     "summary": "Documents filed on February 10, 2026 Competitive Impact Statement"
+  },
+  {
+    "id": "465cf222",
+    "title": "New HSR thresholds and filing fees for 2026",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2026/01/new-hsr-thresholds-filing-fees-2026",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-01-20T18:58:00.000Z",
+    "summary": "New HSR thresholds and filing fees for 2026 hbarber January 20, 2026 | 1:58PM New HSR thresholds and filing fees for 2026 Each year, the Commission adjusts the minimum dollar jurisdictional thresholds that determine reportability under the Hart-Scott-Rodino (HSR) Act based on th…"
   },
   {
     "id": "95c459b6",
@@ -1960,7 +1993,7 @@
       "Policy"
     ],
     "published": "2025-06-26T23:06:09.000Z",
-    "summary": "Document filed on June 17, 2025 Plea Agreement Criminal Information"
+    "summary": "Document filed on June 17, 2025 Plea Agreement Document filed on April 29, 2025 Criminal Information"
   },
   {
     "id": "c2bd6843",
@@ -1973,7 +2006,7 @@
       "Policy"
     ],
     "published": "2025-06-26T23:04:36.000Z",
-    "summary": "Document filed on March 7, 2025 Plea Agreement Criminal Information"
+    "summary": "Document filed on March 7, 2025 Plea Agreement Document filed on January 14, 2025 Criminal Information"
   },
   {
     "id": "af6ad37c",
@@ -1999,7 +2032,7 @@
       "Policy"
     ],
     "published": "2025-06-26T22:51:04.000Z",
-    "summary": "Document filed on March 26 2024 Plea Agreement Information"
+    "summary": "Document filed on March 26 2024 Plea Agreement Document filed on January 14, 2025 Information"
   },
   {
     "id": "b9ddfc21",
@@ -2012,7 +2045,7 @@
       "Policy"
     ],
     "published": "2025-06-25T23:58:58.000Z",
-    "summary": "Document filed on March 5, 2025 Plea Agreement Criminal Information"
+    "summary": "Document filed on March 5, 2025 Plea Agreement Document filed on March 4, 2025 Criminal Information"
   },
   {
     "id": "5927cee0",
@@ -2038,7 +2071,7 @@
       "Policy"
     ],
     "published": "2025-06-25T22:32:28.000Z",
-    "summary": "Document filed on February 20, 2024 Plea Agreement Information"
+    "summary": "Document filed on February 20, 2024 Plea Agreement Document filed on January 14, 2025 Information"
   },
   {
     "id": "6aa219c0",
@@ -2078,17 +2111,6 @@
     ],
     "published": "2025-06-23T17:01:43.000Z",
     "summary": "Document filed on January 27, 2025 Plea Agreement"
-  },
-  {
-    "id": "74a6f70b",
-    "title": "First Research Published from Physician 6(b) Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/06/first-research-published-physician-6b-study",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2025-06-16T18:41:12.000Z",
-    "summary": "First Research Published from Physician 6(b) Study bacree June 16, 2025 | 2:41PM First Research Published from Physician 6(b) Study By Tom Koch (Acting DAD, BE Office of Applied Research and Outreach) and Ted Rosenbaum (Acting BE Director) We are excited to announce the publicat…"
   },
   {
     "id": "2b45c4b4",
@@ -2325,19 +2347,6 @@
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
   },
   {
-    "id": "8c079b48",
-    "title": "Planning for the new HSR Form",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2024-11-12T15:30:21.000Z",
-    "summary": "Planning for the new HSR Form bjames@ftc.gov November 12, 2024 | 10:30AM Planning for the new HSR Form By Bureau of Competition As antitrust practitioners know, parties to certain mergers and acquisitions are required to submit premerger notification forms that disclose informat…"
-  },
-  {
     "id": "d566b766",
     "title": "GPP Implementation Guidelines released for Public Comment",
     "url": "https://iabtechlab.com/gpp-implementation-guidelines-release-for-public-comment/",
@@ -2412,7 +2421,7 @@
       "Policy"
     ],
     "published": "2024-10-01T23:42:52.000Z",
-    "summary": "Document filed on September 24, 2024 Plea Agreement Information"
+    "summary": "Document filed on September 24, 2024 Plea Agreement Document filed on August 26, 2024 Information"
   },
   {
     "id": "dae5801d",
@@ -2425,7 +2434,7 @@
       "Policy"
     ],
     "published": "2024-09-30T15:36:08.000Z",
-    "summary": "Document filed on April 25, 2024 Plea Agreement Information"
+    "summary": "Document filed on April 25, 2024 Plea Agreement Document filed on March 19, 2024 Information"
   },
   {
     "id": "99f32839",
@@ -2490,7 +2499,7 @@
       "Policy"
     ],
     "published": "2024-09-05T00:39:21.000Z",
-    "summary": "Document filed on May 13, 2024 Plea Agreement Criminal Information"
+    "summary": "Document filed on May 13, 2024 Plea Agreement Document filed on January 9, 2024 Criminal Information"
   },
   {
     "id": "56ddd02c",
@@ -2555,7 +2564,7 @@
       "Policy"
     ],
     "published": "2024-03-29T21:03:24.000Z",
-    "summary": "Document filed on November 6, 2023 Plea Agreement Information"
+    "summary": "Document filed on November 6, 2023 Plea Agreement Document filed on October 25, 2023 Information"
   },
   {
     "id": "ef7373b4",
@@ -2594,7 +2603,7 @@
       "Policy"
     ],
     "published": "2024-03-26T20:13:29.000Z",
-    "summary": "Document filed on February 27, 2022 Plea Agreement Information"
+    "summary": "Document filed on February 27, 2022 Plea Agreement Document filed on February 15, 2022 Information"
   },
   {
     "id": "7242191d",
@@ -2607,7 +2616,7 @@
       "Policy"
     ],
     "published": "2024-03-19T22:26:37.000Z",
-    "summary": "Document filed on February 9, 2024 Sentencing Memorandum Plea Agreement Information"
+    "summary": "Document filed on February 9, 2024 Sentencing Memorandum Document filed on September 20, 2022 Plea Agreement Document filed on August 25, 2022 Information"
   },
   {
     "id": "e165832f",
@@ -2633,7 +2642,7 @@
       "Policy"
     ],
     "published": "2024-03-13T19:23:46.000Z",
-    "summary": "Document filed on October 27, 2022 Plea Agreement Sentencing Memorandum Indictment"
+    "summary": "Document filed on October 27, 2022 Plea Agreement Document filed on October 10, 2022 Sentencing Memorandum Document filed on March 30, 2021 Indictment"
   },
   {
     "id": "882c43e5",
@@ -2646,7 +2655,7 @@
       "Policy"
     ],
     "published": "2024-03-11T23:52:56.000Z",
-    "summary": "Document filed on November 30, 2022 Order Granting Government's Motion to Unseal the Indictment Indictment"
+    "summary": "Document filed on November 30, 2022 Order Granting Government's Motion to Unseal the Indictment Document filed on November 9, 2022 Indictment"
   },
   {
     "id": "a20c2976",
@@ -2659,7 +2668,7 @@
       "Policy"
     ],
     "published": "2024-03-08T00:35:05.000Z",
-    "summary": "Document filed on April 10, 2023 United States' Sentencing Memorandum Plea Agreement Information"
+    "summary": "Document filed on April 10, 2023 United States' Sentencing Memorandum Document filed on November 14, 2022 Plea Agreement Document filed on October 6, 2022 Information"
   },
   {
     "id": "139cb0b2",
@@ -2672,7 +2681,7 @@
       "Policy"
     ],
     "published": "2024-03-08T00:34:53.000Z",
-    "summary": "Document filed on April 17, 2023 United States' Sentencing Memorandum Plea Agreement Information"
+    "summary": "Document filed on April 17, 2023 United States' Sentencing Memorandum Document filed on October 3, 2022 Plea Agreement Document filed on June 29, 2022 Information"
   },
   {
     "id": "dac4729e",
@@ -2685,7 +2694,7 @@
       "Policy"
     ],
     "published": "2024-03-07T23:49:47.000Z",
-    "summary": "Document filed on April 17, 2023 United States' Sentencing Memorandum Plea Agreement"
+    "summary": "Document filed on April 17, 2023 United States' Sentencing Memorandum Document filed on April 11, 2022 Plea Agreement"
   },
   {
     "id": "6aa1e412",
@@ -2789,7 +2798,7 @@
       "Policy"
     ],
     "published": "2023-09-12T21:42:30.000Z",
-    "summary": "Document filed on February 10, 2023 Sentencing Memorandum Plea Agreement Information"
+    "summary": "Document filed on February 10, 2023 Sentencing Memorandum Documents filed on September 19, 2022 Plea Agreement Information"
   },
   {
     "id": "efe41d58",
@@ -2828,7 +2837,7 @@
       "Policy"
     ],
     "published": "2023-03-30T19:09:02.000Z",
-    "summary": "Document filed on February 15, 2023 Information Plea Agreement"
+    "summary": "Document filed on February 15, 2023 Information Document filed on February 14, 2023 Plea Agreement"
   },
   {
     "id": "8ab6eea3",
@@ -2909,96 +2918,61 @@
     "summary": "Document filed on May 25, 2022 Indictment"
   },
   {
-    "id": "adab2c6f",
-    "title": "U.S. v. Jerry P. Watson and Commercial Carpet Consultants, Inc.",
-    "url": "https://www.justice.gov/atr/case/us-v-jerry-p-watson-and-commercial-carpet-consultants-inc",
-    "source": "DOJ Antitrust Division Criminal Case Filings",
-    "sourceId": "doj-atr-criminal-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2022-05-16T20:07:36.000Z",
-    "summary": "Document filed on May 11, 2022 Information"
-  },
-  {
-    "id": "7eec9f35",
-    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
+    "id": "ddfd4316",
+    "title": "Yes, we’re hiring another AD!",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/yes-were-hiring-another-ad",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-03-19T13:25:32.000Z",
-    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
+    "published": "2020-04-08T16:46:18.000Z",
+    "summary": "Yes, we’re hiring another AD! rcuster April 8, 2020 | 12:46PM Yes, we’re hiring another AD! By Ian Conner, Bureau of Competition I want to thank Mike Moiseyev for his dedication and commitment to the Bureau of Competition. Mike has led the Mergers I Division for the past 16-and-…"
   },
   {
-    "id": "2bde3954",
-    "title": "The closest competitor is not the only competitor",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/12/closest-competitor-not-only-competitor",
+    "id": "6553e984",
+    "title": "HSR threshold adjustments and reportability for 2020",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/01/hsr-threshold-adjustments-reportability-2020",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-12-09T19:06:57.000Z",
-    "summary": "The closest competitor is not the only competitor bjames@ftc.gov December 9, 2019 | 2:06PM The closest competitor is not the only competitor By Stephen Mohr, Bureau of Competition More and more, merging parties argue that their merger does not raise competition concerns because…"
+    "published": "2020-01-31T19:34:59.000Z",
+    "summary": "HSR threshold adjustments and reportability for 2020 sfelder January 31, 2020 | 2:34PM HSR threshold adjustments and reportability for 2020 By the Premerger Notification Office Staff When Congress passed the Hart-Scott-Rodino Antitrust Improvements Act of 1976, it created minimu…"
   },
   {
-    "id": "93dde92c",
-    "title": "Developing the Antitrust Bar",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
+    "id": "f588e36b",
+    "title": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/07/oorah-hooah-hooyah-florida-bar-eases-licensing-military-spouses",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-10-31T21:20:10.000Z",
-    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
+    "published": "2018-07-27T19:24:55.000Z",
+    "summary": "Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses rcuster July 27, 2018 | 3:24PM Oorah, Hooah, and Hooyah: the Florida Bar eases licensing for military spouses By Kelly Signs, Bureau of Competition July is Military Consumer Month, so it’s the perfect…"
   },
   {
-    "id": "3dbaa1e1",
-    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-03-01T16:54:32.000Z",
-    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
-  },
-  {
-    "id": "07d03c6a",
-    "title": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/voices-liberty-videos-fireside-chat-participants-explain-burdens-unnecessary-occupational-licensing",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-01-17T18:55:23.000Z",
-    "summary": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing rgiura January 17, 2018 | 1:55PM Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing By Tara Koslov, Office of…"
-  },
-  {
-    "id": "72a86d63",
-    "title": "Looking back (again) at FTC merger remedies",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/02/looking-back-again-ftc-merger-remedies",
+    "id": "fd4f6479",
+    "title": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/avoiding-antitrust-pitfalls-during-pre-merger-negotiations-due-diligence",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2017-02-03T13:46:03.000Z",
-    "summary": "Looking back (again) at FTC merger remedies rgiura February 3, 2017 | 8:46AM Looking back (again) at FTC merger remedies By Dan Ducore and Naomi Licker, Bureau of Competition The newly released Remedy Study is the culmination of nearly two years of effort by FTC staff to look ba…"
+    "published": "2018-03-20T20:57:15.000Z",
+    "summary": "Avoiding antitrust pitfalls during pre-merger negotiations and due diligence rcuster March 20, 2018 | 4:57PM Avoiding antitrust pitfalls during pre-merger negotiations and due diligence By Holly Vedova, Keitha Clopper, and Clarke Edwards, Bureau of Competition Most antitrust pra…"
   },
   {
-    "id": "6d8e0ceb",
-    "title": "Direct-to-consumer auto sales: It’s not just about Tesla",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/direct-consumer-auto-sales-its-not-just-about-tesla",
+    "id": "48374fa8",
+    "title": "Vertical mergers, yesterday and today",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/vertical-mergers-yesterday-today",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -3006,18 +2980,61 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2015-05-11T15:00:39.000Z",
-    "summary": "Direct-to-consumer auto sales: It’s not just about Tesla cwarner May 11, 2015 | 11:00AM Direct-to-consumer auto sales: It’s not just about Tesla By Marina Lao, Debbie Feinstein, and Francine Lafontaine A fundamental principle of competition is that consumers – not regulation – s…"
+    "published": "2018-01-19T22:21:51.000Z",
+    "summary": "Vertical mergers, yesterday and today rcuster January 19, 2018 | 5:21PM Vertical mergers, yesterday and today By Bruce Hoffman, Bureau of Competition Last week, I spoke about a topic that has attracted a lot of popular interest in antitrust enforcement lately—vertical merger enf…"
   },
   {
-    "id": "46a6cce0",
-    "title": "FTC Milestones: Shared beginnings in the Circle Cilk case",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-shared-beginnings-circle-cilk-case",
+    "id": "27e7967f",
+    "title": "Protecting consumers by promoting competition",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/03/protecting-consumers-promoting-competition",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2014-11-06T19:05:13.000Z",
-    "summary": "FTC Milestones: Shared beginnings in the Circle Cilk case rcuster November 6, 2014 | 2:05PM FTC Milestones: Shared beginnings in the Circle Cilk case By Lesley Fair, Bureau of Consumer Protection In celebration of the FTC’s 100th anniversary, we’ve been examining the leaves on o…"
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2017-03-06T22:22:12.000Z",
+    "summary": "Protecting consumers by promoting competition rcuster March 6, 2017 | 5:22PM Protecting consumers by promoting competition By Abbott B. Lipsky, Jr., Bureau of Competition This is National Consumer Protection Week, a week set aside every year to help consumers know their rights a…"
+  },
+  {
+    "id": "94523b41",
+    "title": "Quo Vadis Post-Actavis?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2016/03/quo-vadis-post-actavis",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2016-03-30T19:41:40.000Z",
+    "summary": "Quo Vadis Post-Actavis? rcuster March 30, 2016 | 3:41PM Quo Vadis Post-Actavis? By Jamie Towey, Bureau of Competition For more than 15 years, one of the FTC’s top priorities has been to put an end to anticompetitive reverse-payment settlements between brand-name drug makers and…"
+  },
+  {
+    "id": "e08384e1",
+    "title": "“Investment-only” means just that",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/08/investment-only-means-just",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2015-08-24T21:25:05.000Z",
+    "summary": "“Investment-only” means just that rcuster August 24, 2015 | 5:25PM “Investment-only” means just that By Debbie Feinstein, Ken Libby, and Jennifer Lee, Bureau of Competition Today, the Commission (with the help of our friends at the Justice Department) filed a proposed settlement…"
+  },
+  {
+    "id": "3022534e",
+    "title": "How to avoid common HSR filing mistakes with attachments",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/09/how-avoid-common-hsr-filing-mistakes-attachments",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-09-16T14:42:32.000Z",
+    "summary": "How to avoid common HSR filing mistakes with attachments cwarner September 16, 2014 | 10:42AM How to avoid common HSR filing mistakes with attachments By Premerger Notification Staff, Bureau of Competition The PNO handles Hart-Scott-Rodino Premerger Notification Filings for well…"
   }
 ]
