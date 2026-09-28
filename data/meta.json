@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T05:16:25.421Z",
+  "generatedAt": "2026-09-28T13:45:46.215Z",
   "feedCount": 17,
-  "itemCount": 239,
+  "itemCount": 241,
   "errors": [],
   "stats": [
     {
@@ -72,8 +72,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 3990,
-      "kept": 5,
+      "fetched": 3992,
+      "kept": 6,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 4,
+      "kept": 5,
       "error": null
     },
     {
@@ -113,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 16,
+      "kept": 17,
       "error": null
     },
     {
