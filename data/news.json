@@ -1,8 +1,19 @@
 [
   {
-    "id": "45a46d79",
+    "id": "0ee9099c",
+    "title": "Apple’s Latest Operating System Blocks The Trade Desk From Serving Ads On Safari",
+    "url": "https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-09-29T19:43:20.000Z",
+    "summary": "The Trade Desk is unable to serve ads to the Safari browser for Apple device owners that have downloaded iOS 27, which is the latest Apple operating system update. IOS 27 was released on September 14. Apple has been investigating the issue since last week, although there’s no re…"
+  },
+  {
+    "id": "c7f8ac8d",
     "title": "Amazon Ads And The Amazon DSP Get An Agentic Rebrand",
-    "url": "https://www.adexchanger.com/content-studio/amazon-ads-and-the-amazon-dsp-get-an-agentic-rebrand/",
+    "url": "https://www.adexchanger.com/platforms/amazon-ads-and-the-amazon-dsp-get-an-agentic-rebrand/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
     "category": "Industry",
@@ -11,9 +22,9 @@
     "summary": "Amazon Ads has overhauled its DSP and the sponsored product and search-based ad console for on-platform ads, the company announced at its unBoxed event in San Francisco on Tuesday. As one part of that overhaul, the product name “Amazon DSP” has been replaced by a new product dub…"
   },
   {
-    "id": "a0eaa7bc",
+    "id": "413b4730",
     "title": "Amazon Gets Conversational With New Agentic Ad Formats And Brand Controls",
-    "url": "https://www.adexchanger.com/content-studio/amazon-gets-conversational-with-new-agentic-ad-formats-and-brand-controls/",
+    "url": "https://www.adexchanger.com/platforms/amazon-gets-conversational-with-new-agentic-ad-formats-and-brand-controls/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
     "category": "Industry",
@@ -38,7 +49,7 @@
   },
   {
     "id": "7b80faec",
-    "title": "OpenAI Says Sponsored Chats Are The Future – But Publisher Monetization Isn’t A Priority",
+    "title": "OpenAI Says Sponsored Chats Are The Future. The Future Of Publisher Monetization Isn’t So Clear",
     "url": "https://www.adexchanger.com/ai/openai-says-sponsored-chats-are-the-future-but-publisher-monetization-isnt-a-priority/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
@@ -47,7 +58,7 @@
       "AI"
     ],
     "published": "2026-09-29T12:33:48.000Z",
-    "summary": "Sponsored agents are the future of AI-native advertising experiences, according to Colleen Coulter, global ad solutions lead at OpenAI. But what do LLMs owe publishers? The post OpenAI Says Sponsored Chats Are The Future – But Publisher Monetization Isn’t A Priority appeared fir…"
+    "summary": "Sponsored agents are the future of AI-native advertising experiences, according to Colleen Coulter, global ad solutions lead at OpenAI. But what do LLMs owe publishers? The post OpenAI Says Sponsored Chats Are The Future. The Future Of Publisher Monetization Isn’t So Clear appea…"
   },
   {
     "id": "fd8c889f",
@@ -244,19 +255,6 @@
     ],
     "published": "2026-09-25T15:36:43.000Z",
     "summary": "Position-independent KV cache reuse aims to reduce latency in retrieval-augmented generation by reusing chunk-level KV caches across prompts. We show that current evaluations of KV cache reuse techniques rely on measurements that fail to faithfully capture the loss of accuracy a…"
-  },
-  {
-    "id": "403eec4d",
-    "title": "Why This Marketing Measurement Company Just Open-Sourced Its Forecasting Engine",
-    "url": "https://www.adexchanger.com/measurement/this-marketing-measurement-company-just-open-sourced-its-forecasting-engine/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-09-25T13:00:31.000Z",
-    "summary": "Marketing measurement is really about answering two questions: What happened? And what should I do about it? Most marketing mix models are built to answer the first one, but the second is where things get harder and also more interesting. On Friday, Lifesight – a marketing measu…"
   },
   {
     "id": "bb3f851e",
@@ -1301,20 +1299,6 @@
     "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public…"
   },
   {
-    "id": "aa145848",
-    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
-  },
-  {
     "id": "7fb0ae38",
     "title": "FTC Endorses Ohio Supreme Court Proposal to Weaken ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly",
@@ -1327,6 +1311,20 @@
     ],
     "published": "2026-07-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission lauded an Ohio Supreme Court proposal to lower the cost of legal representation by ending the American Bar Association’s explicit control over whether an Ohio bar applicant’s legal education is sufficient for practicing law in the state, undermining…"
+  },
+  {
+    "id": "aa145848",
+    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
   },
   {
     "id": "0452f3aa",
@@ -1754,6 +1752,20 @@
     "summary": "The Federal Trade Commission finalized a consent order resolving antitrust concerns related to a deal between Valvoline Inc. and private equity firm Greenbriar Equity Fund V., L.P. (Greenbriar). The consent order requires the divestiture of 45 quick-lube oil change shops to addr…"
   },
   {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
+  },
+  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -1777,20 +1789,6 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
-  },
-  {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "d55f52bd",
