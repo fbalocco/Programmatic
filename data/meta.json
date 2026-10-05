@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-10-05T14:28:31.445Z",
+  "generatedAt": "2026-10-05T21:58:43.498Z",
   "feedCount": 17,
-  "itemCount": 233,
-  "errors": [
-    {
-      "id": "techpolicypress",
-      "name": "Tech Policy Press",
-      "url": "https://techpolicy.press/rss/feed.xml",
-      "error": "This operation was aborted"
-    }
-  ],
+  "itemCount": 238,
+  "errors": [],
   "stats": [
     {
       "id": "adexchanger",
@@ -32,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {
@@ -79,9 +72,9 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 4022,
+      "kept": 4,
+      "error": null
     },
     {
       "id": "edpb-news",
@@ -96,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 5,
+      "kept": 4,
       "error": null
     },
     {
