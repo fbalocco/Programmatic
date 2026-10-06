@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T06:13:27.557Z",
+  "generatedAt": "2026-10-06T13:16:24.674Z",
   "feedCount": 17,
-  "itemCount": 240,
+  "itemCount": 239,
   "errors": [],
   "stats": [
     {
@@ -25,7 +25,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -113,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 17,
+      "kept": 15,
       "error": null
     },
     {
