@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T20:13:43.343Z",
+  "generatedAt": "2026-10-07T00:38:36.011Z",
   "feedCount": 17,
-  "itemCount": 243,
+  "itemCount": 242,
   "errors": [],
   "stats": [
     {
@@ -89,7 +89,7 @@
       "name": "U.S. FTC Press Releases",
       "category": "Regulation",
       "fetched": 10,
-      "kept": 3,
+      "kept": 4,
       "error": null
     },
     {
@@ -113,7 +113,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 18,
+      "kept": 16,
       "error": null
     },
     {
