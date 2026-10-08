@@ -1,5 +1,42 @@
 [
   {
+    "id": "325f6508",
+    "title": "How The OAAA Is Guiding DOOH Through Its Next Stage Of Programmatic Evolution",
+    "url": "https://www.adexchanger.com/digital-out-of-home/how-the-oaaa-is-guiding-dooh-through-its-next-stage-of-programmatic-evolution/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-08T04:45:07.000Z",
+    "summary": "Digital out-of-home (DOOH) is booming, which means programmatic’s share of the out-of-home (OOH) market is also growing. DOOH campaigns accounted for 38.4% of OOH spend in Q2 this year, according to research by the Out of Home Advertising Association of America (OAAA). That’s an…"
+  },
+  {
+    "id": "9269e1da",
+    "title": "Why The Silver Screen Is Golden; Amazon Is Tracking The Shape Of Your Butt",
+    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-08102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-10-08T04:03:59.000Z",
+    "summary": "Walmart has big plans to foray into the TV ad market. Plus: Amazon knows the shape of your butt. The post Why The Silver Screen Is Golden; Amazon Is Tracking The Shape Of Your Butt appeared first on AdExchanger."
+  },
+  {
+    "id": "af41e747",
+    "title": "Apple’s Safari ad tech blocklist sends publishers back to IAB Tech Lab’s Trusted Server",
+    "url": "https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-08T04:01:00.000Z",
+    "summary": "What publishers once filed under someday now has a deadline, and Apple set it."
+  },
+  {
     "id": "64965db4",
     "title": "Agencies Need A New Job Description, Not Just New Titles",
     "url": "https://www.adexchanger.com/agencies/agencies-need-a-new-job-description-not-just-new-titles/",
@@ -22,6 +59,19 @@
     "tags": [],
     "published": "2026-10-07T13:09:00.000Z",
     "summary": "Marketers at Advertising Week say growth mandates have given them a bigger seat at the table, but research points to downsides for external brand trust."
+  },
+  {
+    "id": "dddf1fe2",
+    "title": "How Liquid Death is building an AI-native marketing organization",
+    "url": "https://www.marketingdive.com/news/how-liquid-death-is-building-an-ai-native-marketing-organization/832345/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-07T13:00:00.000Z",
+    "summary": "Benoit Vatere, chief media and digital commerce officer at the brand, explained at Advertising Week how it is using the tech to move faster than competitors."
   },
   {
     "id": "9a5258b0",
@@ -117,7 +167,7 @@
     "category": "Industry",
     "tags": [],
     "published": "2026-10-06T13:47:00.000Z",
-    "summary": "At Advertising Week New York, marketers from Target and JPMorgan Chase discussed balancing algorithmic content and analog activations."
+    "summary": "At Advertising Week, marketers from Target and JPMorgan Chase discussed balancing algorithmic content and analog activations."
   },
   {
     "id": "ee204146",
@@ -221,6 +271,17 @@
     "summary": "The mobile advertising duo’s legal dual exposes a bigger question about who owns the data generated inside mobile ad auctions."
   },
   {
+    "id": "3e15767c",
+    "title": "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting",
+    "url": "https://arxiv.org/abs/2610.08868v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T02:32:25.000Z",
+    "summary": "Smart light-emitting diode (LED) bulbs are networked devices that produce information-carrying output. This study asks whether that light can carry digital data through changes small enough to be difficult for a person in the room to notice. To explore this covert communication…"
+  },
+  {
     "id": "91ae24a1",
     "title": "Explore, Then Commit: Measurement-Efficient Scientific Law Discovery with Language Models",
     "url": "https://arxiv.org/abs/2610.07620v1",
@@ -259,20 +320,6 @@
     ],
     "published": "2026-10-05T23:37:23.000Z",
     "summary": "Document filed on May 14, 2026 Indictment"
-  },
-  {
-    "id": "30b82d05",
-    "title": "Google And The DOJ Filed Their Proposed Final Judgments In The Ad Tech Case – Here’s What They’re Still Arguing About",
-    "url": "https://www.adexchanger.com/publishers/google-and-the-doj-filed-their-proposed-final-judgments-in-the-ad-tech-case-heres-what-theyre-still-arguing-about/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-10-05T18:35:02.000Z",
-    "summary": "On Friday night at 10:15 p.m., Google and the Department of Justice filed the next round of paperwork that will determine what Google’s punishment will look like in the ad tech antitrust case – the latest move in a legal saga that’s been grinding through the courts since January…"
   },
   {
     "id": "548b76b8",
@@ -324,19 +371,6 @@
     ],
     "published": "2026-10-05T13:40:38.000Z",
     "summary": ""
-  },
-  {
-    "id": "32388848",
-    "title": "T-Mobile Brings Its Mobile Data Exclusively To Vistar To Scale Up DOOH Targeting",
-    "url": "https://www.adexchanger.com/digital-out-of-home/t-mobile-brings-its-mobile-data-exclusively-to-vistar-to-scale-up-dooh-targeting/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement"
-    ],
-    "published": "2026-10-05T13:00:18.000Z",
-    "summary": "Mobile data is the lifeblood of the digital out of home (DOOH) ad market. And T-Mobile sees an opportunity to infuse the market with better targeting data and, eventually, new measurement capabilities. T-Mobile Advertising Solutions announced Monday that its mobile data is now e…"
   },
   {
     "id": "d863d79e",
@@ -437,9 +471,9 @@
     "summary": "Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrast…"
   },
   {
-    "id": "cf802e6c",
+    "id": "d2803325",
     "title": "Harnessing LLMs as Agents: What Does It Cost?",
-    "url": "https://arxiv.org/abs/2610.02488v1",
+    "url": "https://arxiv.org/abs/2610.02488v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -629,17 +663,6 @@
     "summary": "We propose RegLLM, a diagnostic harness for bounded autonomy in regulated agentic workflows. It instruments six trustworthiness signals: citation validity, source grounding, schema compliance, escalation correctness, constitutional alignment, and unsafe-action rate. Signals are…"
   },
   {
-    "id": "ad717dc1",
-    "title": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning",
-    "url": "https://arxiv.org/abs/2609.34826v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-09-28T10:23:42.000Z",
-    "summary": "Humans often solve spatial problems by mentally simulating visual transformations. In contrast, conventional vision-language models (VLMs) reason primarily through language. We investigate whether VLMs can solve spatial problems by reasoning with both text and generated visual s…"
-  },
-  {
     "id": "c7358952",
     "title": "U.S. v. Scott G. Srodes",
     "url": "https://www.justice.gov/atr/case/us-v-scott-g-srodes",
@@ -755,6 +778,19 @@
     "summary": "The Federal Trade Commission strongly endorsed the Department of Education’s proposed reforms to promote competition among accreditation agencies. Increased competition among accreditors and lower administrative burdens could lower the cost and improve the quality of higher educ…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "98eb2e04",
     "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
     "url": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
@@ -805,6 +841,20 @@
     ],
     "published": "2026-09-17T15:03:08.000Z",
     "summary": ""
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "6fc1acaf",
@@ -1406,20 +1456,6 @@
     "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public…"
   },
   {
-    "id": "aa145848",
-    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-14T12:00:00.000Z",
-    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
-  },
-  {
     "id": "7fb0ae38",
     "title": "FTC Endorses Ohio Supreme Court Proposal to Weaken ABA’s Law School Accreditation Monopoly",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly",
@@ -1432,6 +1468,20 @@
     ],
     "published": "2026-07-14T12:00:00.000Z",
     "summary": "The Federal Trade Commission lauded an Ohio Supreme Court proposal to lower the cost of legal representation by ending the American Bar Association’s explicit control over whether an Ohio bar applicant’s legal education is sufficient for practicing law in the state, undermining…"
+  },
+  {
+    "id": "aa145848",
+    "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-14T12:00:00.000Z",
+    "summary": "The Federal Trade Commission secured a settlement agreement with one of the nation’s largest pharmacy benefit managers (PBMs) and its affiliated entities, marking yet another important victory in the Commission’s fight to lower healthcare costs for Americans. Caremark Rx LLC and…"
   },
   {
     "id": "0452f3aa",
@@ -1459,6 +1509,19 @@
     ],
     "published": "2026-07-08T12:00:00.000Z",
     "summary": "The Federal Trade Commission, along with five states, secured an important settlement in an antitrust lawsuit against farm equipment manufacturer Deere & Company that will ensure farmers can enjoy the right to repair their own John Deere tractors and farm equipment. The FTC’s se…"
+  },
+  {
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
   },
   {
     "id": "a50b8939",
@@ -1808,19 +1871,6 @@
     "summary": "Document Posted on May 21, 2026: Competitive Impact Statement"
   },
   {
-    "id": "7f1184c4",
-    "title": "Justice Department Requires Taiheiyo Cement Corporation and CalPortland Company to Divest Assets to Proceed with Acquisition of Ready-Mix Concrete Assets from Vulcan Materials Company",
-    "url": "https://www.justice.gov/opa/pr/justice-department-requires-taiheiyo-cement-corporation-and-calportland-company-divest",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-05-21T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division announced today that it will require Taiheiyo Cement Corporation and its subsidiary CalPortland Company to divest three ready-mix concrete plants along with related assets to address antitrust concerns arising from CalPortland’s propos…"
-  },
-  {
     "id": "560ab1c8",
     "title": "U.S. and Plaintiff States v. Deutsche Telekom AG, et al.",
     "url": "https://www.justice.gov/atr/case/us-et-al-v-deutsche-telekom-ag-et-al",
@@ -1857,6 +1907,20 @@
     "summary": "The Federal Trade Commission finalized a consent order resolving antitrust concerns related to a deal between Valvoline Inc. and private equity firm Greenbriar Equity Fund V., L.P. (Greenbriar). The consent order requires the divestiture of 45 quick-lube oil change shops to addr…"
   },
   {
+    "id": "3f5a0cac",
+    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
+    "source": "U.S. FTC Competition Press Releases",
+    "sourceId": "ftc-press-competition",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-05-01T12:00:00.000Z",
+    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
+  },
+  {
     "id": "6c8a86ee",
     "title": "FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
@@ -1880,20 +1944,6 @@
     ],
     "published": "2026-05-01T12:00:00.000Z",
     "summary": "WHAT: The FTC will host a workshop titled “Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix.” It will discuss the rise in litigate-the-fix cases and how federal enforcers and the courts should respond. Litigate-the-fix cases arise when merging parties propose reme…"
-  },
-  {
-    "id": "3f5a0cac",
-    "title": "FTC Urges Tennessee Supreme Court to Oppose the ABA’s Law School Accreditation Monopoly",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly",
-    "source": "U.S. FTC Competition Press Releases",
-    "sourceId": "ftc-press-competition",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-05-01T12:00:00.000Z",
-    "summary": "Federal Trade Commission staff urged the Tennessee Supreme Court yesterday to open law school accreditation to competition by reducing its reliance on the American Bar Association (ABA) in determining which law schools provide sufficient education for their graduates to take the…"
   },
   {
     "id": "d55f52bd",
@@ -2171,17 +2221,6 @@
     "summary": "Document filed on January 27, 2025 Plea Agreement"
   },
   {
-    "id": "74a6f70b",
-    "title": "First Research Published from Physician 6(b) Study",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2025/06/first-research-published-physician-6b-study",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2025-06-16T18:41:12.000Z",
-    "summary": "First Research Published from Physician 6(b) Study bacree June 16, 2025 | 2:41PM First Research Published from Physician 6(b) Study By Tom Koch (Acting DAD, BE Office of Applied Research and Outreach) and Ted Rosenbaum (Acting BE Director) We are excited to announce the publicat…"
-  },
-  {
     "id": "2b45c4b4",
     "title": "U.S. v. Ryan Cohen",
     "url": "https://www.justice.gov/atr/case/us-v-ryan-cohen",
@@ -2414,19 +2453,6 @@
     ],
     "published": "2024-11-15T01:57:26.000Z",
     "summary": "Document filed on February 12, 2024 Final Judgment Order United States' Unopposed Motion and Memorandum In Support Of Entry Of Final Judgment and to Vacate Procedural Order"
-  },
-  {
-    "id": "8c079b48",
-    "title": "Planning for the new HSR Form",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2024-11-12T15:30:21.000Z",
-    "summary": "Planning for the new HSR Form bjames@ftc.gov November 12, 2024 | 10:30AM Planning for the new HSR Form By Bureau of Competition As antitrust practitioners know, parties to certain mergers and acquisitions are required to submit premerger notification forms that disclose informat…"
   },
   {
     "id": "d566b766",
@@ -2974,83 +3000,35 @@
     "summary": "Documents filed on August 3, 2022 Plea Agreement Information"
   },
   {
-    "id": "7eec9f35",
-    "title": "Wait for it—a Waiting Period Letter confirms your HSR filing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2021/03/wait-it-waiting-period-letter-confirms-your-hsr-filing",
+    "id": "e40cd650",
+    "title": "A Busy Six Months",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/07/busy-six-months",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2021-03-19T13:25:32.000Z",
-    "summary": "Wait for it—a Waiting Period Letter confirms your HSR filing jwolf March 19, 2021 | 9:25AM Wait for it—a Waiting Period Letter confirms your HSR filing By the Premerger Notification Office Staff Once you’ve submitted a Hart-Scott-Rodino filing to the FTC’s Premerger Notification…"
+    "published": "2020-07-08T14:08:40.000Z",
+    "summary": "A Busy Six Months bjames@ftc.gov July 8, 2020 | 10:08AM A Busy Six Months By Gail Levine, Bureau of Competition As we head into the second half of 2020, it’s a good time to pause and take stock of the past six months of work in the Bureau of Competition. Despite the challenges c…"
   },
   {
-    "id": "2bde3954",
-    "title": "The closest competitor is not the only competitor",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/12/closest-competitor-not-only-competitor",
+    "id": "21c2bf55",
+    "title": "On “Failing” Firms — and Miraculous Recoveries",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/05/failing-firms-miraculous-recoveries",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
     "tags": [
       "Antitrust"
     ],
-    "published": "2019-12-09T19:06:57.000Z",
-    "summary": "The closest competitor is not the only competitor bjames@ftc.gov December 9, 2019 | 2:06PM The closest competitor is not the only competitor By Stephen Mohr, Bureau of Competition More and more, merging parties argue that their merger does not raise competition concerns because…"
+    "published": "2020-05-27T14:13:04.000Z",
+    "summary": "On “Failing” Firms — and Miraculous Recoveries bjames@ftc.gov May 27, 2020 | 10:13AM On “Failing” Firms — and Miraculous Recoveries By Ian Conner, Bureau of Competition Over the past few years, the Bureau has faced a surprising number of failing firm claims by merging parties. E…"
   },
   {
-    "id": "93dde92c",
-    "title": "Developing the Antitrust Bar",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2019/10/developing-antitrust-bar",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2019-10-31T21:20:10.000Z",
-    "summary": "Developing the Antitrust Bar rcuster October 31, 2019 | 5:20PM Developing the Antitrust Bar By Bruce Hoffman, Bureau of Competition For the good of the antitrust bar and our entire profession, the BC Front Office encourages parties to give associates, counsel, and newer partners…"
-  },
-  {
-    "id": "3dbaa1e1",
-    "title": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/03/insights-contact-lenses-ftc-workshop-will-focus-contact-lens-rule",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-03-01T16:54:32.000Z",
-    "summary": "Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule rcuster March 1, 2018 | 11:54AM Insights into contact lenses: FTC workshop will focus on the Contact Lens Rule By Tara Isa Koslov, Office of Policy Planning, and Christopher Grengs, Bureau of Competit…"
-  },
-  {
-    "id": "07d03c6a",
-    "title": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/01/voices-liberty-videos-fireside-chat-participants-explain-burdens-unnecessary-occupational-licensing",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2018-01-17T18:55:23.000Z",
-    "summary": "Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing rgiura January 17, 2018 | 1:55PM Voices for Liberty Videos: “Fireside chat” participants explain burdens of unnecessary occupational licensing By Tara Koslov, Office of…"
-  },
-  {
-    "id": "72a86d63",
-    "title": "Looking back (again) at FTC merger remedies",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2017/02/looking-back-again-ftc-merger-remedies",
-    "source": "FTC - Competition Matters (Blog)",
-    "sourceId": "ftc-competition-matters",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2017-02-03T13:46:03.000Z",
-    "summary": "Looking back (again) at FTC merger remedies rgiura February 3, 2017 | 8:46AM Looking back (again) at FTC merger remedies By Dan Ducore and Naomi Licker, Bureau of Competition The newly released Remedy Study is the culmination of nearly two years of effort by FTC staff to look ba…"
-  },
-  {
-    "id": "6d8e0ceb",
-    "title": "Direct-to-consumer auto sales: It’s not just about Tesla",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/05/direct-consumer-auto-sales-its-not-just-about-tesla",
+    "id": "ebbb66ef",
+    "title": "We’re hiring a new AD!",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2020/04/were-hiring-new-ad",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
@@ -3058,18 +3036,98 @@
       "Antitrust",
       "Policy"
     ],
-    "published": "2015-05-11T15:00:39.000Z",
-    "summary": "Direct-to-consumer auto sales: It’s not just about Tesla cwarner May 11, 2015 | 11:00AM Direct-to-consumer auto sales: It’s not just about Tesla By Marina Lao, Debbie Feinstein, and Francine Lafontaine A fundamental principle of competition is that consumers – not regulation – s…"
+    "published": "2020-04-06T21:13:39.000Z",
+    "summary": "We’re hiring a new AD! bjames@ftc.gov April 6, 2020 | 5:13PM We’re hiring a new AD! By Ian Conner, Bureau of Competition I want to thank Kevin Hahm for his work in the Bureau of Competition and, most importantly, for his contribution to our competition enforcement. Kevin, most r…"
   },
   {
-    "id": "46a6cce0",
-    "title": "FTC Milestones: Shared beginnings in the Circle Cilk case",
-    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/11/ftc-milestones-shared-beginnings-circle-cilk-case",
+    "id": "4be8e749",
+    "title": "Control no longer controlling for HSR reporting of not-for-profit combinations",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/10/control-no-longer-controlling-hsr-reporting-not-profit-combinations",
     "source": "FTC - Competition Matters (Blog)",
     "sourceId": "ftc-competition-matters",
     "category": "Regulation",
-    "tags": [],
-    "published": "2014-11-06T19:05:13.000Z",
-    "summary": "FTC Milestones: Shared beginnings in the Circle Cilk case rcuster November 6, 2014 | 2:05PM FTC Milestones: Shared beginnings in the Circle Cilk case By Lesley Fair, Bureau of Consumer Protection In celebration of the FTC’s 100th anniversary, we’ve been examining the leaves on o…"
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-10-26T18:37:54.000Z",
+    "summary": "Control no longer controlling for HSR reporting of not-for-profit combinations rcuster October 26, 2018 | 2:37PM Control no longer controlling for HSR reporting of not-for-profit combinations By Premerger Notification Office Staff The PNO routinely provides informal guidance on…"
+  },
+  {
+    "id": "22686dbb",
+    "title": "It takes less time to do a thing right",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/09/it-takes-less-time-do-thing-right",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-09-04T18:14:28.000Z",
+    "summary": "It takes less time to do a thing right rcuster September 4, 2018 | 2:14PM It takes less time to do a thing right By Ian Conner and Lynda Lao, Bureau of Competition Longfellow said “It takes less time to do a thing right than to explain why you did it wrong.” We agree, especially…"
+  },
+  {
+    "id": "b59ea0dd",
+    "title": "You don’t have to write a check to acquire an HSR-reportable interest",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2018/05/you-dont-have-write-check-acquire-hsr-reportable-interest",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2018-05-15T13:38:39.000Z",
+    "summary": "You don’t have to write a check to acquire an HSR-reportable interest jwolf May 15, 2018 | 9:38AM You don’t have to write a check to acquire an HSR-reportable interest By Premerger Notification Office Staff If your HSR compliance program tracks only those acquisitions that requi…"
+  },
+  {
+    "id": "89544ad2",
+    "title": "The not-so-big news about Big Data",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/06/not-so-big-news-about-big-data",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-06-16T15:30:25.000Z",
+    "summary": "The not-so-big news about Big Data afrey June 16, 2015 | 11:30AM The not-so-big news about Big Data By Debbie Feinstein, Bureau of Competition Everywhere these days, folks are talking about big data. (Apparently, even machines are talking amongst themselves using big data in an…"
+  },
+  {
+    "id": "d48a27b8",
+    "title": "Milestones in FTC history: HSR Act launches effective premerger review",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2015/03/milestones-ftc-history-hsr-act-launches-effective-premerger-review",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2015-03-16T12:00:00.000Z",
+    "summary": "Milestones in FTC history: HSR Act launches effective premerger review afrey March 16, 2015 | 8:00AM Milestones in FTC history: HSR Act launches effective premerger review By Kelly Signs Some will remember 1976 as the year of the nation’s bicentennial, but it was also the year t…"
+  },
+  {
+    "id": "26ec0ed7",
+    "title": "Looking for something?",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2014/01/looking-something",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2014-01-15T13:54:50.000Z",
+    "summary": "Looking for something? cwarner January 15, 2014 | 8:54AM Looking for something? By Kelly Signs, Bureau of Competition If you regularly use FTC.gov to find cases, speeches, reports or such, then you’ve probably noticed a few changes. We know -- change is hard. But with added feat…"
+  },
+  {
+    "id": "ba251935",
+    "title": "Un-consummated merger",
+    "url": "https://www.ftc.gov/enforcement/competition-matters/2013/12/un-consummated-merger",
+    "source": "FTC - Competition Matters (Blog)",
+    "sourceId": "ftc-competition-matters",
+    "category": "Regulation",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2013-12-18T15:44:14.000Z",
+    "summary": "Un-consummated merger cwarner December 18, 2013 | 10:44AM Un-consummated merger By Debbie Feinstein, Director, Bureau of Competition Today, five years post-consummation, the Commission approved Polypore International, Inc.’s application to sell Microporous, a competitor it purch…"
   }
 ]
