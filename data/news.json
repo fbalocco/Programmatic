@@ -1,5 +1,99 @@
 [
   {
+    "id": "fb6e9b0f",
+    "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-09T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special categories of personal data), Article 13 (I…"
+  },
+  {
+    "id": "2f0cf8a2",
+    "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-10-09T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 13 (Information to be provid…"
+  },
+  {
+    "id": "c2adecc7",
+    "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-10-09T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of t…"
+  },
+  {
+    "id": "b9ee78cb",
+    "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-10-09T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communicatio…"
+  },
+  {
+    "id": "7788551b",
+    "title": "The Apple Bites Back",
+    "url": "https://www.adexchanger.com/the-big-story/the-apple-bites-back/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-10-09T09:30:19.000Z",
+    "summary": "Apple has a new block list for data brokers and ad tech vendors that do cross-site user tracking – which could expand to include a much broader slate of ad tech and martech vendors across the entire ecosystem. Plus: a few thoughts on Advertising Week New York. The post The Apple…"
+  },
+  {
+    "id": "03ab8027",
+    "title": "Nestlé Mexico Had More Scale Than It Knew What To Do With – Until It Unified Its Data",
+    "url": "https://www.adexchanger.com/marketers/nestle-mexico-had-more-scale-than-it-knew-what-to-do-with-until-it-unified-its-data/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-09T05:00:37.000Z",
+    "summary": "Prior to adopting Treasure AI, Nestlé Mexico had looked at data and targeting on a brand-by-brand basis. Now, its entire portfolio is unified in one system. The post Nestlé Mexico Had More Scale Than It Knew What To Do With – Until It Unified Its Data appeared first on AdExcha…"
+  },
+  {
+    "id": "1ffc8016",
+    "title": "Xbox Wants What TV Has (As In, Ads); Meta’s Link Toll",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-09102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-09T04:03:46.000Z",
+    "summary": "Xbox gets into the TV biz; Meta is testing a new monetization model; and who wants to be a hold, anyway? The post Xbox Wants What TV Has (As In, Ads); Meta’s Link Toll appeared first on AdExchanger."
+  },
+  {
+    "id": "7677a2d9",
+    "title": "Launching Structured Data Files v11",
+    "url": "http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-10-09T00:46:49.482Z",
+    "summary": "Today we’re announcing the general availability of Structured Data Files v11. All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and…"
+  },
+  {
     "id": "f90f322d",
     "title": "How Data And Ad Tech Vendors Are Preparing For The iOS 27 Fallout",
     "url": "https://www.adexchanger.com/platforms/how-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout/",
@@ -9,6 +103,17 @@
     "tags": [],
     "published": "2026-10-08T18:50:30.000Z",
     "summary": "Against the backdrop of Advertising Week New York this week, the programmatic ecosystem has been buzzing madly like the inhabitants of an overturned beehive. That’s because Apple’s latest operating system update, iOS 27, which launched in mid-September, has been, without warning…"
+  },
+  {
+    "id": "95dc0785",
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.12402v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T17:44:17.000Z",
+    "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: constructing a scene from observations, anticipating how an intervention changes it…"
   },
   {
     "id": "5df1ac6a",
@@ -81,7 +186,7 @@
       "Policy"
     ],
     "published": "2026-10-08T12:00:00.000Z",
-    "summary": "Background information Cross-border case Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision: Administrative fine Key words: Automa…"
+    "summary": "Background information Cross-border case Controller: Uber B.V Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision: Administrative f…"
   },
   {
     "id": "744f6146",
@@ -95,6 +200,28 @@
     ],
     "published": "2026-10-08T12:00:00.000Z",
     "summary": "The U.S. Department of Justice issued the following statement today in connection with the closing of the Antitrust Division’s investigation into Arrive AS’s (Arrive) proposed acquisition of Passport Labs Inc. (Passport):"
+  },
+  {
+    "id": "94010dc5",
+    "title": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
+    "url": "https://arxiv.org/abs/2610.11605v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T09:49:39.000Z",
+    "summary": "We introduce NanoProof, to our knowledge the first factorized execution-guided theorem prover in Lean 4 whose training data, extraction tooling, training pipeline, and weights are all released, making it end-to-end reproducible using open-source resources. To this end, we build…"
+  },
+  {
+    "id": "213f1361",
+    "title": "USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation",
+    "url": "https://arxiv.org/abs/2610.11322v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T06:23:24.000Z",
+    "summary": "Geometrically faithful and functional articulated 3D assets are essential for real-to-sim robot manipulation, where policies trained in simulation must transfer to physical objects. Recent mesh-based methods learn to infer articulation from annotated 3D assets, but deployment re…"
   },
   {
     "id": "325f6508",
@@ -209,18 +336,15 @@
     "summary": "Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan."
   },
   {
-    "id": "65e1f5e5",
-    "title": "Want an AI-Built MMM You Can Trust? Start With a Thesis",
-    "url": "https://www.adexchanger.com/inside-the-stack/want-an-ai-built-mmm-you-can-trust-start-with-a-thesis/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement",
-      "AI"
-    ],
-    "published": "2026-10-06T20:58:38.000Z",
-    "summary": "AI can build a marketing mix model in days. Whether you should believe it is another matter. On this episode of Inside the Stack, AdExchanger speaks with Madan Bharadwaj, Founder and CEO of M-Squared, about how marketers can decide whether an AI-built marketing mix model is reli…"
+    "id": "c7e4d449",
+    "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+    "url": "https://arxiv.org/abs/2610.08621v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T16:21:44.000Z",
+    "summary": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creator, an experience-oriented harness to advance agentic game development from rou…"
   },
   {
     "id": "27589865",
@@ -260,30 +384,29 @@
     "summary": "Attorney General Todd Blanche and Secretary of Agriculture Brooke L. Rollins have agreed to a Memorandum of Understanding (MOU), building on the joint progress of the Department of Justice and Department of Agriculture to strengthen competition for agricultural inputs. Under the…"
   },
   {
-    "id": "8ac3d2af",
-    "title": "PubX Raises $5 Million And Buys Digital Governance Startup Compliant",
-    "url": "https://www.adexchanger.com/ai/pubx-raises-5-million-and-buys-digital-governance-startup-compliant/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-06T11:00:37.000Z",
-    "summary": "Andrew Mole, the CEO and co-founder of UK-based agentic AI ad startup pubX, has a theory about why agentic ad tech has a tendency to hallucinate. In his view, it’s not the LLM’s fault. Hallucinations happen when a large language model queries a demand-side platform that doesn’t…"
+    "id": "3e15767c",
+    "title": "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting",
+    "url": "https://arxiv.org/abs/2610.08868v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T02:32:25.000Z",
+    "summary": "Smart light-emitting diode (LED) bulbs are networked devices that produce information-carrying output. This study asks whether that light can carry digital data through changes small enough to be difficult for a person in the room to notice. To explore this covert communication…"
   },
   {
-    "id": "ec9a5e8a",
-    "title": "New WBD Report Makes The Case For Getting The Measurement Basics Right",
-    "url": "https://www.adexchanger.com/tv/new-wbd-report-makes-the-case-for-getting-the-measurement-basics-right/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
+    "id": "91ae24a1",
+    "title": "Explore, Then Commit: Measurement-Efficient Scientific Law Discovery with Language Models",
+    "url": "https://arxiv.org/abs/2610.07620v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
     "tags": [
-      "Measurement"
+      "Measurement",
+      "Policy"
     ],
-    "published": "2026-10-06T09:00:51.000Z",
-    "summary": "Warner Bros. Discovery has a new white paper analyzing the data and methodologies of five top video measurement providers: VideoAmp, iSpot, Comscore, Innovid and Samba. The post New WBD Report Makes The Case For Getting The Measurement Basics Right appeared first on AdExchanger."
+    "published": "2026-10-06T02:11:39.000Z",
+    "summary": "Scientific law discovery requires selecting measurements and converting evidence into a governing equation. We evaluate an explore-then-commit protocol in which a large language model proposes hypotheses, a programmatic planner gathers measurements, and a fresh prompt synthesize…"
   },
   {
     "id": "1a14a8e0",
@@ -312,6 +435,30 @@
     "summary": "Document filed on May 14, 2026 Indictment"
   },
   {
+    "id": "548b76b8",
+    "title": "Agentic Design Space Exploration for Joint Hardware Configuration Selection and Mapping of AI Inference Workloads on Heterogeneous Edge SoCs",
+    "url": "https://arxiv.org/abs/2610.07191v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T18:08:58.000Z",
+    "summary": "Modern edge Systems-on-Chip (SoCs) integrate heterogeneous processing units (PUs) such as CPUs, GPUs, and NPUs, each with distinct performance and energy characteristics. Deploying AI inference workloads on them under real-time latency and energy constraints requires jointly map…"
+  },
+  {
+    "id": "da57434d",
+    "title": "Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation",
+    "url": "https://arxiv.org/abs/2610.06689v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-05T16:52:57.000Z",
+    "summary": "Search agents adapt their queries, yet fixed search interfaces leave candidate processing and evidence presentation outside the agent's direct control. Our trajectory analysis shows that supporting passages can be retrieved yet never delivered to the agent; a same-page oracle in…"
+  },
+  {
     "id": "48b58a90",
     "title": "Circuit Court Ruling on Border Searches Deals Serious Blow to Privacy Rights",
     "url": "https://techpolicy.press/circuit-court-ruling-on-border-searches-deals-serious-blow-to-privacy-rights",
@@ -326,6 +473,139 @@
     "summary": ""
   },
   {
+    "id": "d863d79e",
+    "title": "Do Small Language Models Learn to Negotiate? A Controlled Scaling Study of RL-Trained Sellers",
+    "url": "https://arxiv.org/abs/2610.06204v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T12:17:22.000Z",
+    "summary": "LLM agents are starting to own the full customer experience. Soon, LLMs may be selling and buying on behalf of companies and customers respectively. Small models are more cost-efficient at scale, but can reinforcement learning train them into competent sellers? We train four Gem…"
+  },
+  {
+    "id": "1dab970b",
+    "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
+    "url": "https://arxiv.org/abs/2610.05949v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T08:04:09.000Z",
+    "summary": "Site-specific fertilizer recommendation systems adapt nutrient advice to location, soil properties, crop type, and production targets, but scientific reuse is constrained when recommendation functions remain accessible mainly through interactive interfaces, outputs are not versi…"
+  },
+  {
+    "id": "4291c1e2",
+    "title": "Scaling Verifiable Environments for Long-horizon Work Agents",
+    "url": "https://arxiv.org/abs/2610.04906v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-04T03:36:14.000Z",
+    "summary": "Work agents operate over digital artifacts to execute professional knowledge-intensive work, requiring training environments that support long-horizon interaction and trustworthy verification. However, hand-crafted environments incur prohibitive engineering overhead that prevent…"
+  },
+  {
+    "id": "847dd910",
+    "title": "Agent Behavior as Code: Efficient and Robust LLM Agents with Programmatic Specifications",
+    "url": "https://arxiv.org/abs/2610.04824v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-04T00:14:33.000Z",
+    "summary": "AI agents based on foundation models (FMs) have demonstrated strong capabilities to perform complex open-ended tasks. However, they face some common challenges in practice: (a) agent behavior can deviate drastically even for semantically similar tasks, leading to catastrophicall…"
+  },
+  {
+    "id": "fc51152e",
+    "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+    "url": "https://arxiv.org/abs/2610.04116v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-02T22:43:06.000Z",
+    "summary": "The prevailing approach to computer-use agents couples a model with a domain-specific harness: a browser or desktop environment equipped with human engineered tools that are fixed before task execution. As models' coding capabilities improve, the GUI native and static harness pr…"
+  },
+  {
+    "id": "e55bd205",
+    "title": "MintEval: Do LLMs Implement the Trading Strategy You Asked For? A Behavioural-Equivalence Benchmark for Natural-Language-to-Strategy Code",
+    "url": "https://arxiv.org/abs/2610.03080v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-02T10:01:26.000Z",
+    "summary": "Large language models are moving from producing trading signals to writing the code that executes them. The failure mode of the second role is silent: generated code runs, a backtest plots, yet the risk logic that the trader described is not the logic being executed. Existing co…"
+  },
+  {
+    "id": "03d75745",
+    "title": "Information Operations Exploit APIs to Manipulate Social Media",
+    "url": "https://arxiv.org/abs/2610.02591v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T23:39:47.000Z",
+    "summary": "Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrast…"
+  },
+  {
+    "id": "d2803325",
+    "title": "Harnessing LLMs as Agents: What Does It Cost?",
+    "url": "https://arxiv.org/abs/2610.02488v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-01T21:05:49.000Z",
+    "summary": "Language-model agents increasingly rely on harnesses that manage bounded context, persistent memory, tools, verification, and repeated execution, yet existing notions of model capability do not quantify the computational resources these mechanisms consume. We introduce the Langu…"
+  },
+  {
+    "id": "983a7518",
+    "title": "PROWBench: Do Video Models Render What the Program Specifies?",
+    "url": "https://arxiv.org/abs/2610.02205v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T17:59:53.000Z",
+    "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual…"
+  },
+  {
+    "id": "8b392955",
+    "title": "Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills",
+    "url": "https://arxiv.org/abs/2610.01833v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-01T15:06:23.000Z",
+    "summary": "Enterprise AI agent skills evolve as tool APIs, models, and specifications change, yet final-output evaluation can miss process-level behavioral drift. We present a continuous evaluation framework combining outcome-level and process-level checks, applied to Revenue and Productiv…"
+  },
+  {
+    "id": "75f717cb",
+    "title": "Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation",
+    "url": "https://arxiv.org/abs/2610.01178v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T06:52:05.000Z",
+    "summary": "Manipulation failures can leave scenes in states from which a task policy cannot recover. Learning corrective behaviors requires scalable failure exploration and physical grounding. We present Recova, an agent-guided framework that jointly develops task execution and recovery in…"
+  },
+  {
     "id": "8599619b",
     "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
@@ -338,6 +618,76 @@
     ],
     "published": "2026-09-30T21:30:47.000Z",
     "summary": "Documents filed on September 18, 2026: United States&rsquo; Unopposed Motion and Memorandum in Support of Entry of Final Judgment &nbsp; Exhibit A: [Proposed] Final Judgment Exhibit B: Certificate of Compliance with Provisions of the Antitrust Procedures and Penalties Act"
+  },
+  {
+    "id": "43135421",
+    "title": "Two-sided Market Design Meets Autobidding",
+    "url": "https://arxiv.org/abs/2609.40267v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T17:43:41.000Z",
+    "summary": "Autobidding has become a dominant paradigm in online advertising by enabling advertisers to set high-level goals while algorithms handle real-time bid optimization. A prominent example is the Return-on-Spend (RoS) value maximizer, which maximizes total value subject to an aggreg…"
+  },
+  {
+    "id": "2856f548",
+    "title": "Local-Minimum Escaper: Programmatic Subgoal Generation for Robust Navigation in Unknown Environments",
+    "url": "https://arxiv.org/abs/2609.38928v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T04:10:16.000Z",
+    "summary": "Mapless navigation in unknown and partially observable environments remains challenging for mobile robots, particularly when local minima prevent the robot from making progress toward its goal. Existing local navigation methods often lack an explicit mechanism for escaping such…"
+  },
+  {
+    "id": "aea07d77",
+    "title": "Consistent Plan-Act for Long-Horizon Agentic Tasks",
+    "url": "https://arxiv.org/abs/2609.38891v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T03:38:49.000Z",
+    "summary": "Long-horizon agentic tasks demand strong reasoning and efficient execution across successive interactions with dynamic environments. A common approach decouples high-level planning from low-level execution through separate planner and actor roles. To investigate coordination fai…"
+  },
+  {
+    "id": "e7c3718b",
+    "title": "Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces",
+    "url": "https://arxiv.org/abs/2609.38107v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-29T17:46:55.000Z",
+    "summary": "Chain-of-thought traces are widely read as records of how models reach their answers, informing debugging, agent auditing, and claims about reasoning. Testing this interpretation is difficult because natural-language thinking traces are rarely mechanically verifiable. We revisit…"
+  },
+  {
+    "id": "29b5bcb2",
+    "title": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+    "url": "https://arxiv.org/abs/2609.37686v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-09-29T14:32:35.000Z",
+    "summary": "Autonomous agents have made rapid progress in general-purpose computer use, but reliable automation of professional industrial engineering remains out of reach, as engineering workflows demand reasoning over geometric and physical constraints and dependencies preserved across so…"
+  },
+  {
+    "id": "79ef6205",
+    "title": "Accessible, but Not Adopted: Increasing LLM Adoption among First-generation, Low-income (FGLI) College Students beyond Expanding Access",
+    "url": "https://arxiv.org/abs/2609.36129v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-09-28T19:00:34.000Z",
+    "summary": "Large language models (LLMs) are increasingly positioned as a force to empower underserved communities, and significant efforts are being made to expand access. Yet, access alone does not equate to meaningful adoption. First, even if a system is accessible, it won't be adopted i…"
   },
   {
     "id": "3e34d028",
@@ -428,15 +778,28 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
-    "id": "76e4586b",
-    "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-    "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
+    "id": "60ea16c6",
+    "title": "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+    "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
     "source": "European Data Protection Board (News)",
     "sourceId": "edpb-news",
     "category": "Regulation",
     "tags": [],
     "published": "2026-09-22T12:00:00.000Z",
     "summary": "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine…"
+  },
+  {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
   },
   {
     "id": "98eb2e04",
@@ -491,6 +854,20 @@
     "summary": ""
   },
   {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
+  },
+  {
     "id": "afc8a01b",
     "title": "Department of Justice Again Wins Substantial Relief Against Google",
     "url": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
@@ -518,17 +895,6 @@
     "summary": "Documents filed on August 26, 2026 Summons In a Criminal Case [China International Marine Containers (Group) Co., Ltd.] Summons In a Criminal Case [Shanghai Universal Logistics Equipment Co., Ltd.] Summons In a Criminal Case [Singamas Container Holdings Ltd.] Summons In a Crimin…"
   },
   {
-    "id": "1c431439",
-    "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
-    "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-09-11T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Ad…"
-  },
-  {
     "id": "d8f5a969",
     "title": "A new onboarding experience for Google Ads API developers",
     "url": "http://ads-developers.googleblog.com/2026/09/new-onboarding-experience-for-google-ads-api.html",
@@ -538,17 +904,6 @@
     "tags": [],
     "published": "2026-09-10T15:59:58.036Z",
     "summary": "To improve the developer onboarding and usage experience, we built a new homepage for the Google Ads API in the Google Cloud Console. Basic Access applications are now automated for developers who have completed brand verification. This blog post covers several related changes t…"
-  },
-  {
-    "id": "8cdbbee1",
-    "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
-    "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-09-09T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subject), Decision: Administrative fine Keywo…"
   },
   {
     "id": "4875c245",
@@ -591,17 +946,6 @@
     ],
     "published": "2026-09-04T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division filed a proposed consent decree today to resolve the United States’ claims against Pinnacle Property Management Services LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordi…"
-  },
-  {
-    "id": "d5e2d182",
-    "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
-    "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [],
-    "published": "2026-09-03T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 28 August 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority),…"
   },
   {
     "id": "7aa4da3e",
@@ -827,20 +1171,6 @@
     "summary": "The Google Ads API is piloting a security feature designed for securing API access to Google Ads manager accounts. We are seeking developers who would like to participate in this pilot project and provide us with feedback. What are we offering? The new pilot program protects acc…"
   },
   {
-    "id": "f72e8503",
-    "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: agenda now available",
-    "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-30T12:00:00.000Z",
-    "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection. The event will take place on 15 October 2026 and is an opportunity for…"
-  },
-  {
     "id": "ef24c34f",
     "title": "Launching Structured Data Files v10.1",
     "url": "http://ads-developers.googleblog.com/2026/07/launching-structured-data-files-v101.html",
@@ -974,6 +1304,19 @@
     "summary": "Sell-side decisioning is helping WPP’s Lauren Wetzel unlock a new era of connected intelligence and ROI for brands."
   },
   {
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
+  },
+  {
     "id": "a50b8939",
     "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
     "url": "http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html",
@@ -1083,17 +1426,6 @@
     "tags": [],
     "published": "2026-06-26T00:06:36.798Z",
     "summary": "Google Ads API v21 will sunset on August 5, 2026. Starting on this date, all v21 API requests will begin to fail. Migrate to a newer version prior to August 5, 2026 to ensure your API access is unaffected. Here are some resources to help you with the migration: Upgrade to the ne…"
-  },
-  {
-    "id": "720ea8f2",
-    "title": "Multi-party approvals in the Google Ads API",
-    "url": "http://ads-developers.googleblog.com/2026/06/multi-party-approvals-in-google-ads-api.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2026-06-25T23:24:24.037Z",
-    "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring multi-party approvals when performing sensitive API actions. This is part of a broader change in Google Ads that requires multi-party approvals to perform sensitive actions in your Goo…"
   },
   {
     "id": "deb47892",

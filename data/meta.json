@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T01:11:35.683Z",
+  "generatedAt": "2026-10-09T10:26:52.674Z",
   "feedCount": 17,
-  "itemCount": 178,
+  "itemCount": 206,
   "errors": [
     {
       "id": "ftc-press",
@@ -20,12 +20,6 @@
       "name": "FTC - Competition Matters (Blog)",
       "url": "https://www.ftc.gov/feeds/blog-competition-matters.xml",
       "error": "HTTP 404 Not Found — <html> <head> <!-- Latest compiled and minified CSS --> <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+"
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -97,7 +91,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4032,
+      "fetched": 4035,
       "kept": 4,
       "error": null
     },
@@ -138,7 +132,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 16,
+      "kept": 19,
       "error": null
     },
     {
@@ -161,9 +155,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
