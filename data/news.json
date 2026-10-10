@@ -116,6 +116,17 @@
     "summary": "Against the backdrop of Advertising Week New York this week, the programmatic ecosystem has been buzzing madly like the inhabitants of an overturned beehive. That’s because Apple’s latest operating system update, iOS 27, which launched in mid-September, has been, without warning…"
   },
   {
+    "id": "95dc0785",
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.12402v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T17:44:17.000Z",
+    "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: constructing a scene from observations, anticipating how an intervention changes it…"
+  },
+  {
     "id": "5df1ac6a",
     "title": "Sociable: Meta introduces new AI-powered tools at Advertising Week",
     "url": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
@@ -200,6 +211,28 @@
     ],
     "published": "2026-10-08T12:00:00.000Z",
     "summary": "The U.S. Department of Justice issued the following statement today in connection with the closing of the Antitrust Division’s investigation into Arrive AS’s (Arrive) proposed acquisition of Passport Labs Inc. (Passport):"
+  },
+  {
+    "id": "94010dc5",
+    "title": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
+    "url": "https://arxiv.org/abs/2610.11605v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T09:49:39.000Z",
+    "summary": "We introduce NanoProof, to our knowledge the first factorized execution-guided theorem prover in Lean 4 whose training data, extraction tooling, training pipeline, and weights are all released, making it end-to-end reproducible using open-source resources. To this end, we build…"
+  },
+  {
+    "id": "213f1361",
+    "title": "USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation",
+    "url": "https://arxiv.org/abs/2610.11322v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T06:23:24.000Z",
+    "summary": "Geometrically faithful and functional articulated 3D assets are essential for real-to-sim robot manipulation, where policies trained in simulation must transfer to physical objects. Recent mesh-based methods learn to infer articulation from annotated 3D assets, but deployment re…"
   },
   {
     "id": "325f6508",
@@ -301,6 +334,17 @@
     "summary": "Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan."
   },
   {
+    "id": "c7e4d449",
+    "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+    "url": "https://arxiv.org/abs/2610.08621v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T16:21:44.000Z",
+    "summary": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creator, an experience-oriented harness to advance agentic game development from rou…"
+  },
+  {
     "id": "4c7306d5",
     "title": "How a Global Hotel Brand Cut Cost per Booking by 41% With dentsu, Chalice AI, and Index Cloud",
     "url": "https://www.indexexchange.com/2026/10/06/hotel-brand-dentsu-chalice-ai-index-cloud/",
@@ -325,6 +369,31 @@
     ],
     "published": "2026-10-06T12:00:00.000Z",
     "summary": "Attorney General Todd Blanche and Secretary of Agriculture Brooke L. Rollins have agreed to a Memorandum of Understanding (MOU), building on the joint progress of the Department of Justice and Department of Agriculture to strengthen competition for agricultural inputs. Under the…"
+  },
+  {
+    "id": "3e15767c",
+    "title": "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting",
+    "url": "https://arxiv.org/abs/2610.08868v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T02:32:25.000Z",
+    "summary": "Smart light-emitting diode (LED) bulbs are networked devices that produce information-carrying output. This study asks whether that light can carry digital data through changes small enough to be difficult for a person in the room to notice. To explore this covert communication…"
+  },
+  {
+    "id": "91ae24a1",
+    "title": "Explore, Then Commit: Measurement-Efficient Scientific Law Discovery with Language Models",
+    "url": "https://arxiv.org/abs/2610.07620v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Measurement",
+      "Policy"
+    ],
+    "published": "2026-10-06T02:11:39.000Z",
+    "summary": "Scientific law discovery requires selecting measurements and converting evidence into a governing equation. We evaluate an explore-then-commit protocol in which a large language model proposes hypotheses, a programmatic planner gathers measurements, and a fresh prompt synthesize…"
   },
   {
     "id": "1a14a8e0",
@@ -353,6 +422,30 @@
     "summary": "Document filed on May 14, 2026 Indictment"
   },
   {
+    "id": "548b76b8",
+    "title": "Agentic Design Space Exploration for Joint Hardware Configuration Selection and Mapping of AI Inference Workloads on Heterogeneous Edge SoCs",
+    "url": "https://arxiv.org/abs/2610.07191v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T18:08:58.000Z",
+    "summary": "Modern edge Systems-on-Chip (SoCs) integrate heterogeneous processing units (PUs) such as CPUs, GPUs, and NPUs, each with distinct performance and energy characteristics. Deploying AI inference workloads on them under real-time latency and energy constraints requires jointly map…"
+  },
+  {
+    "id": "da57434d",
+    "title": "Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation",
+    "url": "https://arxiv.org/abs/2610.06689v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-05T16:52:57.000Z",
+    "summary": "Search agents adapt their queries, yet fixed search interfaces leave candidate processing and evidence presentation outside the agent's direct control. Our trajectory analysis shows that supporting passages can be retrieved yet never delivered to the agent; a same-page oracle in…"
+  },
+  {
     "id": "48b58a90",
     "title": "Circuit Court Ruling on Border Searches Deals Serious Blow to Privacy Rights",
     "url": "https://techpolicy.press/circuit-court-ruling-on-border-searches-deals-serious-blow-to-privacy-rights",
@@ -367,6 +460,139 @@
     "summary": ""
   },
   {
+    "id": "d863d79e",
+    "title": "Do Small Language Models Learn to Negotiate? A Controlled Scaling Study of RL-Trained Sellers",
+    "url": "https://arxiv.org/abs/2610.06204v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T12:17:22.000Z",
+    "summary": "LLM agents are starting to own the full customer experience. Soon, LLMs may be selling and buying on behalf of companies and customers respectively. Small models are more cost-efficient at scale, but can reinforcement learning train them into competent sellers? We train four Gem…"
+  },
+  {
+    "id": "1dab970b",
+    "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
+    "url": "https://arxiv.org/abs/2610.05949v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-05T08:04:09.000Z",
+    "summary": "Site-specific fertilizer recommendation systems adapt nutrient advice to location, soil properties, crop type, and production targets, but scientific reuse is constrained when recommendation functions remain accessible mainly through interactive interfaces, outputs are not versi…"
+  },
+  {
+    "id": "4291c1e2",
+    "title": "Scaling Verifiable Environments for Long-horizon Work Agents",
+    "url": "https://arxiv.org/abs/2610.04906v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-04T03:36:14.000Z",
+    "summary": "Work agents operate over digital artifacts to execute professional knowledge-intensive work, requiring training environments that support long-horizon interaction and trustworthy verification. However, hand-crafted environments incur prohibitive engineering overhead that prevent…"
+  },
+  {
+    "id": "847dd910",
+    "title": "Agent Behavior as Code: Efficient and Robust LLM Agents with Programmatic Specifications",
+    "url": "https://arxiv.org/abs/2610.04824v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-04T00:14:33.000Z",
+    "summary": "AI agents based on foundation models (FMs) have demonstrated strong capabilities to perform complex open-ended tasks. However, they face some common challenges in practice: (a) agent behavior can deviate drastically even for semantically similar tasks, leading to catastrophicall…"
+  },
+  {
+    "id": "fc51152e",
+    "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+    "url": "https://arxiv.org/abs/2610.04116v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-02T22:43:06.000Z",
+    "summary": "The prevailing approach to computer-use agents couples a model with a domain-specific harness: a browser or desktop environment equipped with human engineered tools that are fixed before task execution. As models' coding capabilities improve, the GUI native and static harness pr…"
+  },
+  {
+    "id": "e55bd205",
+    "title": "MintEval: Do LLMs Implement the Trading Strategy You Asked For? A Behavioural-Equivalence Benchmark for Natural-Language-to-Strategy Code",
+    "url": "https://arxiv.org/abs/2610.03080v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-02T10:01:26.000Z",
+    "summary": "Large language models are moving from producing trading signals to writing the code that executes them. The failure mode of the second role is silent: generated code runs, a backtest plots, yet the risk logic that the trader described is not the logic being executed. Existing co…"
+  },
+  {
+    "id": "03d75745",
+    "title": "Information Operations Exploit APIs to Manipulate Social Media",
+    "url": "https://arxiv.org/abs/2610.02591v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T23:39:47.000Z",
+    "summary": "Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrast…"
+  },
+  {
+    "id": "d2803325",
+    "title": "Harnessing LLMs as Agents: What Does It Cost?",
+    "url": "https://arxiv.org/abs/2610.02488v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-01T21:05:49.000Z",
+    "summary": "Language-model agents increasingly rely on harnesses that manage bounded context, persistent memory, tools, verification, and repeated execution, yet existing notions of model capability do not quantify the computational resources these mechanisms consume. We introduce the Langu…"
+  },
+  {
+    "id": "983a7518",
+    "title": "PROWBench: Do Video Models Render What the Program Specifies?",
+    "url": "https://arxiv.org/abs/2610.02205v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T17:59:53.000Z",
+    "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual…"
+  },
+  {
+    "id": "8b392955",
+    "title": "Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills",
+    "url": "https://arxiv.org/abs/2610.01833v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-01T15:06:23.000Z",
+    "summary": "Enterprise AI agent skills evolve as tool APIs, models, and specifications change, yet final-output evaluation can miss process-level behavioral drift. We present a continuous evaluation framework combining outcome-level and process-level checks, applied to Revenue and Productiv…"
+  },
+  {
+    "id": "75f717cb",
+    "title": "Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation",
+    "url": "https://arxiv.org/abs/2610.01178v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-01T06:52:05.000Z",
+    "summary": "Manipulation failures can leave scenes in states from which a task policy cannot recover. Learning corrective behaviors requires scalable failure exploration and physical grounding. We present Recova, an agent-guided framework that jointly develops task execution and recovery in…"
+  },
+  {
     "id": "8599619b",
     "title": "U.S. and State of California v. Taiheiyo Cement Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-state-california-v-taiheiyo-cement-corporation-et-al",
@@ -379,6 +605,76 @@
     ],
     "published": "2026-09-30T21:30:47.000Z",
     "summary": "Documents filed on September 18, 2026: United States&rsquo; Unopposed Motion and Memorandum in Support of Entry of Final Judgment &nbsp; Exhibit A: [Proposed] Final Judgment Exhibit B: Certificate of Compliance with Provisions of the Antitrust Procedures and Penalties Act"
+  },
+  {
+    "id": "43135421",
+    "title": "Two-sided Market Design Meets Autobidding",
+    "url": "https://arxiv.org/abs/2609.40267v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T17:43:41.000Z",
+    "summary": "Autobidding has become a dominant paradigm in online advertising by enabling advertisers to set high-level goals while algorithms handle real-time bid optimization. A prominent example is the Return-on-Spend (RoS) value maximizer, which maximizes total value subject to an aggreg…"
+  },
+  {
+    "id": "2856f548",
+    "title": "Local-Minimum Escaper: Programmatic Subgoal Generation for Robust Navigation in Unknown Environments",
+    "url": "https://arxiv.org/abs/2609.38928v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T04:10:16.000Z",
+    "summary": "Mapless navigation in unknown and partially observable environments remains challenging for mobile robots, particularly when local minima prevent the robot from making progress toward its goal. Existing local navigation methods often lack an explicit mechanism for escaping such…"
+  },
+  {
+    "id": "aea07d77",
+    "title": "Consistent Plan-Act for Long-Horizon Agentic Tasks",
+    "url": "https://arxiv.org/abs/2609.38891v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-30T03:38:49.000Z",
+    "summary": "Long-horizon agentic tasks demand strong reasoning and efficient execution across successive interactions with dynamic environments. A common approach decouples high-level planning from low-level execution through separate planner and actor roles. To investigate coordination fai…"
+  },
+  {
+    "id": "e7c3718b",
+    "title": "Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces",
+    "url": "https://arxiv.org/abs/2609.38107v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-09-29T17:46:55.000Z",
+    "summary": "Chain-of-thought traces are widely read as records of how models reach their answers, informing debugging, agent auditing, and claims about reasoning. Testing this interpretation is difficult because natural-language thinking traces are rarely mechanically verifiable. We revisit…"
+  },
+  {
+    "id": "29b5bcb2",
+    "title": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+    "url": "https://arxiv.org/abs/2609.37686v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-09-29T14:32:35.000Z",
+    "summary": "Autonomous agents have made rapid progress in general-purpose computer use, but reliable automation of professional industrial engineering remains out of reach, as engineering workflows demand reasoning over geometric and physical constraints and dependencies preserved across so…"
+  },
+  {
+    "id": "79ef6205",
+    "title": "Accessible, but Not Adopted: Increasing LLM Adoption among First-generation, Low-income (FGLI) College Students beyond Expanding Access",
+    "url": "https://arxiv.org/abs/2609.36129v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-09-28T19:00:34.000Z",
+    "summary": "Large language models (LLMs) are increasingly positioned as a force to empower underserved communities, and significant efforts are being made to expand access. Yet, access alone does not equate to meaningful adoption. First, even if a system is accessible, it won't be adopted i…"
   },
   {
     "id": "3e34d028",

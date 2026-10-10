@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T18:19:50.610Z",
+  "generatedAt": "2026-10-10T00:45:07.506Z",
   "feedCount": 17,
-  "itemCount": 179,
+  "itemCount": 204,
   "errors": [
     {
       "id": "ftc-press",
@@ -20,12 +20,6 @@
       "name": "FTC - Competition Matters (Blog)",
       "url": "https://www.ftc.gov/feeds/blog-competition-matters.xml",
       "error": "HTTP 404 Not Found — <html> <head> <!-- Latest compiled and minified CSS --> <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+"
-    },
-    {
-      "id": "arxiv-ad-auctions",
-      "name": "arXiv (ad auctions / RTB / programmatic)",
-      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
-      "error": "This operation was aborted"
     }
   ],
   "stats": [
@@ -161,9 +155,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 0,
-      "kept": 0,
-      "error": "This operation was aborted"
+      "fetched": 25,
+      "kept": 25,
+      "error": null
     }
   ]
 }
