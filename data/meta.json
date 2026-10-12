@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T10:39:54.530Z",
+  "generatedAt": "2026-10-12T21:14:16.955Z",
   "feedCount": 17,
-  "itemCount": 201,
+  "itemCount": 202,
   "errors": [
     {
       "id": "ftc-press",
@@ -44,7 +44,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 2,
+      "kept": 3,
       "error": null
     },
     {
@@ -84,15 +84,15 @@
       "name": "Chrome for Developers Blog",
       "category": "Platforms",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4040,
-      "kept": 3,
+      "fetched": 4043,
+      "kept": 2,
       "error": null
     },
     {

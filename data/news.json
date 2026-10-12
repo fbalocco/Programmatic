@@ -1,5 +1,66 @@
 [
   {
+    "id": "ad87b960",
+    "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
+    "url": "http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-10-12T16:57:15.356Z",
+    "summary": "Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI. As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines eve…"
+  },
+  {
+    "id": "76087430",
+    "title": "‘Don’t be boring’: How Smirnoff, Hinge cozy up to Gen Z through culture",
+    "url": "https://www.marketingdive.com/news/dont-be-boring-how-smirnoff-hinge-cozy-up-to-gen-z-through-culture/832572/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-12T13:38:00.000Z",
+    "summary": "As younger consumers avoid bars and change their approach to dating, the marketers discussed how brands can get on Gen Z’s level at Advertising Week."
+  },
+  {
+    "id": "d8aa71a2",
+    "title": "TV Budgets Are Following The Wrong Scorecard",
+    "url": "https://www.adexchanger.com/content-studio/tv-budgets-are-following-the-wrong-scorecard/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-10-12T12:00:30.000Z",
+    "summary": "The last decade saw television audiences steadily shift from linear toward streaming. The fact that advertising budgets followed isn’t too surprising. If more people are watching streaming, more TV advertising dollars should move there, too, right? But that logic rests on an ove…"
+  },
+  {
+    "id": "19025f98",
+    "title": "How This Golf Training Brand Fixed Its Subpar Attribution",
+    "url": "https://www.adexchanger.com/measurement/how-this-golf-training-brand-fixed-its-subpar-attribution/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-10-12T12:00:13.000Z",
+    "summary": "Shane Jackson didn’t set out to be a marketer. A former golf pro and All-American golfer, he bought PureOne Golf, a struggling golf training-aid company in Scottsdale, Arizona, in November 2024. What he got was less a business than a pile of parts: some inventory, a trademark an…"
+  },
+  {
+    "id": "7171b90d",
+    "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-12T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and mo…"
+  },
+  {
     "id": "9656a393",
     "title": "When Data Providers Get Acquired, Neutrality Has To Be Proven, Not Promised",
     "url": "https://www.adexchanger.com/data-driven-thinking/when-data-providers-get-acquired-neutrality-has-to-be-proven-not-promised/",
@@ -283,19 +344,6 @@
     "summary": "Digital out-of-home (DOOH) is booming, which means programmatic’s share of the out-of-home (OOH) market is also growing. DOOH campaigns accounted for 38.4% of OOH spend in Q2 this year, according to research by the Out of Home Advertising Association of America (OAAA). That’s an…"
   },
   {
-    "id": "9269e1da",
-    "title": "Why The Silver Screen Is Golden; Amazon Is Tracking The Shape Of Your Butt",
-    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-08102026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-10-08T04:03:59.000Z",
-    "summary": "Walmart has big plans to foray into the TV ad market. Plus: Amazon knows the shape of your butt. The post Why The Silver Screen Is Golden; Amazon Is Tracking The Shape Of Your Butt appeared first on AdExchanger."
-  },
-  {
     "id": "af41e747",
     "title": "Apple’s Safari ad tech blocklist sends publishers back to IAB Tech Lab’s Trusted Server",
     "url": "https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/",
@@ -307,19 +355,6 @@
     ],
     "published": "2026-10-08T04:01:00.000Z",
     "summary": "What publishers once filed under someday now has a deadline, and Apple set it."
-  },
-  {
-    "id": "64965db4",
-    "title": "Agencies Need A New Job Description, Not Just New Titles",
-    "url": "https://www.adexchanger.com/agencies/agencies-need-a-new-job-description-not-just-new-titles/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-07T14:53:12.000Z",
-    "summary": "Everyone at McKinsey is nervous, and agencies should be, too. Because the generalist pitch (“We’ve seen a bit of everything, and here’s a deck about it”) is up against AI models that have read everything and don’t need to be staffed on retainer. “If you look at what Fable says v…"
   },
   {
     "id": "c7e4d449",
@@ -472,6 +507,19 @@
     ],
     "published": "2026-10-05T08:04:09.000Z",
     "summary": "Site-specific fertilizer recommendation systems adapt nutrient advice to location, soil properties, crop type, and production targets, but scientific reuse is constrained when recommendation functions remain accessible mainly through interactive interfaces, outputs are not versi…"
+  },
+  {
+    "id": "72b5c396",
+    "title": "Email verification updates, October 2026",
+    "url": "https://developer.chrome.com/blog/email-verification-october-2026?hl=en",
+    "source": "Chrome for Developers Blog",
+    "sourceId": "chrome-dev-blog",
+    "category": "Platforms",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-05T07:00:00.000Z",
+    "summary": "Updates to the Email Verification origin trial, including Android support, third-party origin trials, optional kid handling, and Sec-Fetch-Dest header changes."
   },
   {
     "id": "4291c1e2",
@@ -751,30 +799,17 @@
     "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
   },
   {
-    "id": "98eb2e04",
-    "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
-    "url": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
+    "id": "291cef65",
+    "title": "New in DevTools - October 2026",
+    "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
+    "source": "Chrome for Developers Blog",
+    "sourceId": "chrome-dev-blog",
+    "category": "Platforms",
     "tags": [
       "Privacy"
     ],
-    "published": "2026-09-21T12:00:00.000Z",
-    "summary": "Brussels, 21 September – During its latest plenary, the EDPB has adopted guidelines on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR and the final version of its guidelines on interplay between the Digital Servi…"
-  },
-  {
-    "id": "7dd40af1",
-    "title": "A Deep Dive into the Antitrust Remedies that Spared Google's Ad Tech Business",
-    "url": "https://techpolicy.press/a-deep-dive-into-the-antitrust-remedies-that-spared-googles-ad-tech-business",
-    "source": "Tech Policy Press",
-    "sourceId": "techpolicypress",
-    "category": "Regulation",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-09-20T14:57:33.000Z",
-    "summary": ""
+    "published": "2026-09-22T07:00:00.000Z",
+    "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
   },
   {
     "id": "9ccc1700",
@@ -1353,17 +1388,6 @@
     "summary": "Today we’re announcing two unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect on July 13, 2026 and may impact your existing integrations. The following changes have been fully detailed on our Announced Deprecations page: The third-…"
   },
   {
-    "id": "1994a458",
-    "title": "Google Ads API v21 sunset reminder",
-    "url": "http://ads-developers.googleblog.com/2026/06/google-ads-api-v21-sunset-reminder.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2026-06-26T00:06:36.798Z",
-    "summary": "Google Ads API v21 will sunset on August 5, 2026. Starting on this date, all v21 API requests will begin to fail. Migrate to a newer version prior to August 5, 2026 to ensure your API access is unaffected. Here are some resources to help you with the migration: Upgrade to the ne…"
-  },
-  {
     "id": "deb47892",
     "title": "U.S. and Plaintiff States v. Constellation Energy Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-constellation-energy-corporation-et-al",
@@ -1373,19 +1397,6 @@
     "tags": [],
     "published": "2026-06-22T14:28:25.000Z",
     "summary": "Document posted on May 26, 2026 Final Judgment"
-  },
-  {
-    "id": "24be4a6b",
-    "title": "Unlock runtime insights: Introducing third-party developer tools for Chrome DevTools for agents",
-    "url": "https://developer.chrome.com/blog/devtools-for-agents-3p-tools?hl=en",
-    "source": "Chrome for Developers Blog",
-    "sourceId": "chrome-dev-blog",
-    "category": "Platforms",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-06-18T07:00:00.000Z",
-    "summary": "Chrome DevTools for agents introduces third-party developer tools, which lets frameworks and applications share rich, runtime context with AI coding assistants."
   },
   {
     "id": "b70d4b0c",
