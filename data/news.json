@@ -1,5 +1,67 @@
 [
   {
+    "id": "20b5f9a5",
+    "title": "Meet Starling, The Startup That Says It’s More Than Just Another CTV SSP",
+    "url": "https://www.adexchanger.com/tv/meet-starling-the-startup-that-says-its-more-than-just-another-ctv-ssp/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-10-13T09:00:10.000Z",
+    "summary": "Starling recently launched as a connected TV SSP and wants to capitalize on the opportunity to address a major pain point facing CTV marketers: the lack of show-level data. The post Meet Starling, The Startup That Says It’s More Than Just Another CTV SSP appeared first on AdExch…"
+  },
+  {
+    "id": "94805208",
+    "title": "Making AI Pay Its Way, With Cloudflare",
+    "url": "https://www.adexchanger.com/adexchanger-talks/making-ai-pay-its-way-with-cloudflare/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-13T05:00:39.000Z",
+    "summary": "For every human reader they send back to publishers, AI bots scrape thousands of pages, according to Cloudflare. Yikes. That’s not what publishers agreed to when they started letting search engines crawl their sites in exchange for traffic, says Lara Cohen, VP of strategic partn…"
+  },
+  {
+    "id": "c72c5748",
+    "title": "Dear Performance CTV Companies: Please Stop. You’re Hurting Us",
+    "url": "https://www.adexchanger.com/on-tv-and-video/dear-performance-ctv-companies-please-stop-youre-hurting-us/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "CTV"
+    ],
+    "published": "2026-10-13T04:35:34.000Z",
+    "summary": "Dear performance CTV companies, Please stop calling everything performance CTV. By all means, measure outcomes. Optimize toward sales. Make television more accountable. I’m all for it. But if the product is basically a pixel, an attribution window and a CPA column, that doesn’t…"
+  },
+  {
+    "id": "301881b5",
+    "title": "Google Is Feeding Bad Data To Rival Scrapers; YouTube (Still) Can’t Pick A Side",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-13102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-13T04:03:02.000Z",
+    "summary": "Google is targeting scrapers; YouTube insists it's not trying to replace traditional TV; and publishers are wary of agentic media buying. The post Google Is Feeding Bad Data To Rival Scrapers; YouTube (Still) Can’t Pick A Side appeared first on AdExchanger."
+  },
+  {
+    "id": "bf3d769f",
+    "title": "Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-13T04:01:00.000Z",
+    "summary": "Advertising Week New York saw more ad tech M&A, plus, the rise of the \"universal buying platform.\""
+  },
+  {
     "id": "ad87b960",
     "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
     "url": "http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html",
@@ -181,17 +243,6 @@
     "summary": "Prior to adopting Treasure AI, Nestlé Mexico had looked at data and targeting on a brand-by-brand basis. Now, its entire portfolio is unified in one system. The post Nestlé Mexico Had More Scale Than It Knew What To Do With – Until It Unified Its Data appeared first on AdExcha…"
   },
   {
-    "id": "1ffc8016",
-    "title": "Xbox Wants What TV Has (As In, Ads); Meta’s Link Toll",
-    "url": "https://www.adexchanger.com/daily-news-roundup/friday-09102026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-09T04:03:46.000Z",
-    "summary": "Xbox gets into the TV biz; Meta is testing a new monetization model; and who wants to be a hold, anyway? The post Xbox Wants What TV Has (As In, Ads); Meta’s Link Toll appeared first on AdExchanger."
-  },
-  {
     "id": "74fee295",
     "title": "MVGraph: Benchmarking LVLMs on Evidence Composition across Multi-View Visual Graph",
     "url": "https://arxiv.org/abs/2610.12961v1",
@@ -212,17 +263,6 @@
     "tags": [],
     "published": "2026-10-09T00:46:49.482Z",
     "summary": "Today we’re announcing the general availability of Structured Data Files v11. All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and…"
-  },
-  {
-    "id": "f90f322d",
-    "title": "How Data And Ad Tech Vendors Are Preparing For The iOS 27 Fallout",
-    "url": "https://www.adexchanger.com/platforms/how-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-08T18:50:30.000Z",
-    "summary": "Against the backdrop of Advertising Week New York this week, the programmatic ecosystem has been buzzing madly like the inhabitants of an overturned beehive. That’s because Apple’s latest operating system update, iOS 27, which launched in mid-September, has been, without warning…"
   },
   {
     "id": "95dc0785",
@@ -247,20 +287,6 @@
     ],
     "published": "2026-10-08T16:20:00.000Z",
     "summary": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements."
-  },
-  {
-    "id": "76ab4d1f",
-    "title": "How Does Agentic Buying Work In CTV?",
-    "url": "https://www.adexchanger.com/ctv-roundup/how-does-agentic-buying-work-in-ctv/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-10-08T13:00:25.000Z",
-    "summary": "Given how much agentic AI pervades nearly every conversation these days, it’s easy to overlook how nascent the technology still is, particularly when it comes to buying ads on connected TV. The post How Does Agentic Buying Work In CTV? appeared first on AdExchanger."
   },
   {
     "id": "1e1ff169",
@@ -331,30 +357,6 @@
     "tags": [],
     "published": "2026-10-08T06:23:24.000Z",
     "summary": "Geometrically faithful and functional articulated 3D assets are essential for real-to-sim robot manipulation, where policies trained in simulation must transfer to physical objects. Recent mesh-based methods learn to infer articulation from annotated 3D assets, but deployment re…"
-  },
-  {
-    "id": "325f6508",
-    "title": "How The OAAA Is Guiding DOOH Through Its Next Stage Of Programmatic Evolution",
-    "url": "https://www.adexchanger.com/digital-out-of-home/how-the-oaaa-is-guiding-dooh-through-its-next-stage-of-programmatic-evolution/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-08T04:45:07.000Z",
-    "summary": "Digital out-of-home (DOOH) is booming, which means programmatic’s share of the out-of-home (OOH) market is also growing. DOOH campaigns accounted for 38.4% of OOH spend in Q2 this year, according to research by the Out of Home Advertising Association of America (OAAA). That’s an…"
-  },
-  {
-    "id": "af41e747",
-    "title": "Apple’s Safari ad tech blocklist sends publishers back to IAB Tech Lab’s Trusted Server",
-    "url": "https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-10-08T04:01:00.000Z",
-    "summary": "What publishers once filed under someday now has a deadline, and Apple set it."
   },
   {
     "id": "c7e4d449",
@@ -786,19 +788,6 @@
     "summary": "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine…"
   },
   {
-    "id": "c3aa078c",
-    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-09-22T12:00:00.000Z",
-    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
-  },
-  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -823,20 +812,6 @@
     ],
     "published": "2026-09-18T23:40:17.000Z",
     "summary": "Documents filed on September 17, 2026 Plaintiffs' Second Status Report as to the Enforcement of and Google's Compliance with the Final Judgment Joint Status Report [Redacted - Redline version]"
-  },
-  {
-    "id": "627a1b7a",
-    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
-    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-09-17T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1273,19 +1248,6 @@
     "tags": [],
     "published": "2026-07-14T13:04:11.000Z",
     "summary": "Sell-side decisioning is helping WPP’s Lauren Wetzel unlock a new era of connected intelligence and ROI for brands."
-  },
-  {
-    "id": "ceaaae82",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-07-08T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
   },
   {
     "id": "a50b8939",
