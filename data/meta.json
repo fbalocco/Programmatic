@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T19:19:08.237Z",
+  "generatedAt": "2026-10-14T23:53:45.227Z",
   "feedCount": 17,
-  "itemCount": 204,
+  "itemCount": 205,
   "errors": [
     {
       "id": "ftc-press",
@@ -76,7 +76,7 @@
       "name": "Google Ads Developer Blog",
       "category": "Platforms",
       "fetched": 25,
-      "kept": 19,
+      "kept": 20,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4049,
+      "fetched": 4050,
       "kept": 3,
       "error": null
     },

@@ -1,5 +1,43 @@
 [
   {
+    "id": "c82d87ed",
+    "title": "Announcing v26 of the Google Ads API",
+    "url": "http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-10-14T22:51:56.751Z",
+    "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our \"Goog…"
+  },
+  {
+    "id": "e537dd7e",
+    "title": "Who Is Teaching AI Who Your Customers Are? Why Identity is Your Most Critical Asset",
+    "url": "https://www.adexchanger.com/inside-the-stack/who-is-teaching-ai-who-your-customers-are-why-identity-is-your-most-critical-asset/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Identity",
+      "AI"
+    ],
+    "published": "2026-10-14T20:28:23.000Z",
+    "summary": "Experian’s Matt Tipperreiter and AtData’s John Oronte on why marketers must prioritize data freshness and interoperability in the AI era. AI is beginning to automate how brands interact with consumers, but many marketing organizations are handing over the reins before they’ve es…"
+  },
+  {
+    "id": "b70d4b0c",
+    "title": "U.S. and State of Ohio v. OhioHealth Corporation",
+    "url": "https://www.justice.gov/atr/case/us-and-state-ohio-v-ohiohealth-corporation",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-14T20:23:19.000Z",
+    "summary": "Document Filed on July 15, 2026 Competitive Impact Statement Plaintiffs' Memorandum in Opposition to Defendant OhioHealth's Motion to Dismiss Under Fed.R.Civ.P.12(b)(6)"
+  },
+  {
     "id": "0ed3a073",
     "title": "Making the case for purchase and intent data in programmatic",
     "url": "https://digiday.com/sponsored/making-the-case-for-purchase-and-intent-data-in-programmatic/",
@@ -102,19 +140,6 @@
     "summary": "FOR IMMEDIATE RELEASE Two of the industry’s most consequential leaders receive the program’s highest individual honors. New York, NY — October 12, 2026 — AdExchanger today named Kristi Argyilan, Chief Commercial Officer at The Trade Desk, and Lauren Wetzel, Global President, Dat…"
   },
   {
-    "id": "b70d4b0c",
-    "title": "U.S. and State of Ohio v. OhioHealth Corporation",
-    "url": "https://www.justice.gov/atr/case/us-and-state-ohio-v-ohiohealth-corporation",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-10-13T15:54:00.000Z",
-    "summary": "Document Filed on May 29, 2026 Plaintiffs' Memorandum in Opposition to Defendant OhioHealth's Motion to Dismiss Under Fed.R.Civ.P.12(b)(6) Competitive Impact Statement"
-  },
-  {
     "id": "4757a301",
     "title": "Making Every Millisecond Count: How Index Cloud Creates More Programmatic Efficiency",
     "url": "https://www.indexexchange.com/2026/10/13/how-index-cloud-creates-more-programmatic-efficiency/",
@@ -215,20 +240,6 @@
     ],
     "published": "2026-10-13T05:00:39.000Z",
     "summary": "For every human reader they send back to publishers, AI bots scrape thousands of pages, according to Cloudflare. Yikes. That’s not what publishers agreed to when they started letting search engines crawl their sites in exchange for traffic, says Lara Cohen, VP of strategic partn…"
-  },
-  {
-    "id": "c72c5748",
-    "title": "Dear Performance CTV Companies: Please Stop. You’re Hurting Us",
-    "url": "https://www.adexchanger.com/on-tv-and-video/dear-performance-ctv-companies-please-stop-youre-hurting-us/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement",
-      "CTV"
-    ],
-    "published": "2026-10-13T04:35:34.000Z",
-    "summary": "Dear performance CTV companies, Please stop calling everything performance CTV. By all means, measure outcomes. Optimize toward sales. Make television more accountable. I’m all for it. But if the product is basically a pixel, an attribution window and a CPA column, that doesn’t…"
   },
   {
     "id": "bf3d769f",
