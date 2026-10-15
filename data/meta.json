@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T11:20:29.149Z",
+  "generatedAt": "2026-10-15T16:53:51.001Z",
   "feedCount": 17,
-  "itemCount": 205,
+  "itemCount": 201,
   "errors": [
     {
       "id": "ftc-press",
@@ -44,7 +44,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 3,
+      "kept": 2,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4050,
+      "fetched": 4053,
       "kept": 3,
       "error": null
     },
@@ -132,7 +132,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 19,
+      "kept": 16,
       "error": null
     },
     {
