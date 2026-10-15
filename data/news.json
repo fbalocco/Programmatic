@@ -1,5 +1,16 @@
 [
   {
+    "id": "7d5900b0",
+    "title": "Microdramas Bid For Big Bucks; The Truth Behind Mobile Game Ad Algorithms Tiny TV",
+    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-15102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-15T04:03:34.000Z",
+    "summary": "Social-native brands love microdramas; Free games will show you more ads if they think you’re worth more; And gambling ads are taking over ESPN. The post Microdramas Bid For Big Bucks; The Truth Behind Mobile Game Ad Algorithms Tiny TV appeared first on AdExchanger."
+  },
+  {
     "id": "c82d87ed",
     "title": "Announcing v26 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
@@ -62,6 +73,17 @@
     "summary": "The advertising industry has a relatability problem. Don’t just take it from me. Look at how the industry talks about itself. “I’m going to talk about a few problems that folks might find relatable,” said one startup founder at a LiveRamp-hosted AI demo day that took place adjac…"
   },
   {
+    "id": "da63eee7",
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "url": "https://arxiv.org/abs/2610.20584v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-14T17:57:12.000Z",
+    "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. C…"
+  },
+  {
     "id": "9da9b7da",
     "title": "After Two Decades Of Performance Marketing Dominance, Brand Is Poised For A Renaissance",
     "url": "https://www.adexchanger.com/content-studio/after-two-decades-of-performance-marketing-dominance-brand-is-poised-for-a-renaissance/",
@@ -101,6 +123,19 @@
     "summary": "Brands, agencies and platforms with a finger on the pulse took to Advertising Week to break down the group’s habits with AI, creators and co-viewing."
   },
   {
+    "id": "6a8a9e2d",
+    "title": "One Monitor Does Not Fit All: Formalism-Agnostic Runtime Verification for Agentic AI",
+    "url": "https://arxiv.org/abs/2610.19818v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-14T08:58:24.000Z",
+    "summary": "Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a…"
+  },
+  {
     "id": "fe176024",
     "title": "Prebid’s Proposed Auction Overhaul Would Do What The Court Wouldn’t: Separate AdX From GAM",
     "url": "https://www.adexchanger.com/programmatic/prebids-proposed-auction-overhaul-would-do-what-the-court-wouldnt-separate-adx-from-gam/",
@@ -127,6 +162,17 @@
     ],
     "published": "2026-10-14T04:03:56.000Z",
     "summary": "Show ’Em Who’s Boss No CEO wants to fall behind in the AI race. Publicis is turning that fear into a selling point. The holding company saw consistent net revenue growth in Q3, up 5% from the first half of the year, and notably won PepsiCo’s business last month. Funny note about…"
+  },
+  {
+    "id": "03e4132f",
+    "title": "EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence",
+    "url": "https://arxiv.org/abs/2610.18867v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-13T17:59:51.000Z",
+    "summary": "Coding agents can construct executable programs and revise them through feedback, offering a foundation for embodied control without target-task fine-tuning. Through a programmatic robot interface, the agent observes the scene, executes control programs, and adapts them to the r…"
   },
   {
     "id": "6e525e56",
@@ -227,19 +273,6 @@
     ],
     "published": "2026-10-13T09:00:10.000Z",
     "summary": "Starling recently launched as a connected TV SSP and wants to capitalize on the opportunity to address a major pain point facing CTV marketers: the lack of show-level data. The post Meet Starling, The Startup That Says It’s More Than Just Another CTV SSP appeared first on AdExch…"
-  },
-  {
-    "id": "94805208",
-    "title": "Making AI Pay Its Way, With Cloudflare",
-    "url": "https://www.adexchanger.com/adexchanger-talks/making-ai-pay-its-way-with-cloudflare/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-13T05:00:39.000Z",
-    "summary": "For every human reader they send back to publishers, AI bots scrape thousands of pages, according to Cloudflare. Yikes. That’s not what publishers agreed to when they started letting search engines crawl their sites in exchange for traffic, says Lara Cohen, VP of strategic partn…"
   },
   {
     "id": "bf3d769f",
@@ -710,32 +743,6 @@
     "summary": ""
   },
   {
-    "id": "d863d79e",
-    "title": "Do Small Language Models Learn to Negotiate? A Controlled Scaling Study of RL-Trained Sellers",
-    "url": "https://arxiv.org/abs/2610.06204v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-05T12:17:22.000Z",
-    "summary": "LLM agents are starting to own the full customer experience. Soon, LLMs may be selling and buying on behalf of companies and customers respectively. Small models are more cost-efficient at scale, but can reinforcement learning train them into competent sellers? We train four Gem…"
-  },
-  {
-    "id": "1dab970b",
-    "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
-    "url": "https://arxiv.org/abs/2610.05949v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-05T08:04:09.000Z",
-    "summary": "Site-specific fertilizer recommendation systems adapt nutrient advice to location, soil properties, crop type, and production targets, but scientific reuse is constrained when recommendation functions remain accessible mainly through interactive interfaces, outputs are not versi…"
-  },
-  {
     "id": "72b5c396",
     "title": "Email verification updates, October 2026",
     "url": "https://developer.chrome.com/blog/email-verification-october-2026?hl=en",
@@ -747,17 +754,6 @@
     ],
     "published": "2026-10-05T07:00:00.000Z",
     "summary": "Updates to the Email Verification origin trial, including Android support, third-party origin trials, optional kid handling, and Sec-Fetch-Dest header changes."
-  },
-  {
-    "id": "4391c375",
-    "title": "Scaling Verifiable Environments for Long-horizon Work Agents",
-    "url": "https://arxiv.org/abs/2610.04906v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-04T03:36:14.000Z",
-    "summary": "Work agents operate over digital artifacts to execute professional knowledge-intensive work, requiring training environments that support long-horizon interaction and trustworthy verification. However, hand-crafted environments incur prohibitive engineering overhead that prevent…"
   },
   {
     "id": "8599619b",
