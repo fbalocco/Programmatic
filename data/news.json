@@ -1,5 +1,31 @@
 [
   {
+    "id": "fc5f695d",
+    "title": "Sure, Debates Between Prebid Members Can Get Heated. That’s Why It’s The Programmatic Melting Pot",
+    "url": "https://www.adexchanger.com/publishers/sure-debates-between-prebid-members-can-get-heated-thats-why-its-the-programmatic-melting-pot/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-15T20:00:30.000Z",
+    "summary": "The Prebid Summit in New York City on Tuesday exceeded the event’s reputation for liveliness. That reputation was cemented last year, when the Prebid Summit was roiled by controversy after The Trade Desk had forked the main Prebid code over a data collection disagreement over ho…"
+  },
+  {
+    "id": "1d23c88c",
+    "title": "The Auction Flip: Prebid’s Plan To Swap Places With Google",
+    "url": "https://www.adexchanger.com/the-big-story/the-auction-flip-prebids-plan-to-swap-places-with-google/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "RTB",
+      "AI",
+      "Policy"
+    ],
+    "published": "2026-10-15T19:30:44.000Z",
+    "summary": "Google won’t have to break up its SSP and ad server. So this week, Prebid unveiled its plan to help Google fulfill the court’s requirements at its annual Prebid Summit. Then: how brands are using their data in an agentic world, and why there’s a rise of AI “employees.” The post…"
+  },
+  {
     "id": "4a705609",
     "title": "Meta Is Selling Ad Slots, TV-Style",
     "url": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
@@ -9,6 +35,20 @@
     "tags": [],
     "published": "2026-10-15T14:00:03.000Z",
     "summary": "Prime time is coming to the feed. On Thursday, Meta announced a new feature, called Ads Super Burst, that lets advertisers lock in a window of between three and 24 hours on a single day across Facebook and Instagram, such as during the Grammys or opening weekend of the new NBA s…"
+  },
+  {
+    "id": "b1497ba0",
+    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-10-15T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "7d5900b0",
@@ -186,17 +226,6 @@
     "summary": "Coding agents can construct executable programs and revise them through feedback, offering a foundation for embodied control without target-task fine-tuning. Through a programmatic robot interface, the agent observes the scene, executes control programs, and adapts them to the r…"
   },
   {
-    "id": "6e525e56",
-    "title": "AdExchanger Names Lauren Wetzel Of WPP And Kristi Argyilan Of The Trade Desk As 2026 Top Women Special Recognition Award Recipients",
-    "url": "https://www.adexchanger.com/marketers/adexchanger-names-lauren-wetzel-of-wpp-and-kristi-argyilan-of-the-trade-desk-as-2026-top-women-special-recognition-award-recipients/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-13T16:04:51.000Z",
-    "summary": "FOR IMMEDIATE RELEASE Two of the industry’s most consequential leaders receive the program’s highest individual honors. New York, NY — October 12, 2026 — AdExchanger today named Kristi Argyilan, Chief Commercial Officer at The Trade Desk, and Lauren Wetzel, Global President, Dat…"
-  },
-  {
     "id": "4757a301",
     "title": "Making Every Millisecond Count: How Index Cloud Creates More Programmatic Efficiency",
     "url": "https://www.indexexchange.com/2026/10/13/how-index-cloud-creates-more-programmatic-efficiency/",
@@ -233,19 +262,6 @@
     ],
     "published": "2026-10-13T12:01:11.000Z",
     "summary": "While AI agents are useful for many tasks, they regularly misbehave in destructive ways, such as deleting important data. While prior work has focused on preventing such misbehavior, we consider how to recover after an agent misbehaves. We propose verifiable agent insurance (VAI…"
-  },
-  {
-    "id": "e2bfd2fb",
-    "title": "Live Sports Streaming Has The Fans. Now Advertisers Need A Smarter Way To Reach Them",
-    "url": "https://www.adexchanger.com/content-studio/live-sports-streaming-has-the-fans-now-advertisers-need-a-smarter-way-to-reach-them/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-10-13T12:00:06.000Z",
-    "summary": "Live sports delivers something increasingly scarce in today’s fragmented media landscape: large, highly engaged audiences that show up together in real time. It’s no surprise that advertisers want in. According to research from Premion and Advertiser Perceptions, 73% of surveyed…"
   },
   {
     "id": "4be32f25",
@@ -845,6 +861,19 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -869,6 +898,20 @@
     ],
     "published": "2026-09-18T23:40:17.000Z",
     "summary": "Documents filed on September 17, 2026 Plaintiffs' Second Status Report as to the Enforcement of and Google's Compliance with the Final Judgment Joint Status Report [Redacted - Redline version]"
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1296,6 +1339,19 @@
     "summary": "Roku's Miles Fisher shares what’s redefining performance in streaming TV advertising, from signal quality to engaging viewers through the remote control."
   },
   {
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
+  },
+  {
     "id": "a50b8939",
     "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
     "url": "http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html",
@@ -1419,19 +1475,6 @@
     ],
     "published": "2026-06-16T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ civil antitrust lawsuit against OhioHealth Corporation (OhioHealth) challenging the company’s anticompetitive contract restrictions. The proposed settlement would make hea…"
-  },
-  {
-    "id": "644e245d",
-    "title": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Paramount Skydance and Warner Bros.",
-    "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-paramount",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-06-12T12:00:00.000Z",
-    "summary": "The Antitrust Division of the U.S. Department of Justice (“Division”) issued the following statement today in connection with the closing of the Division’s investigation into the proposed acquisition of Warner Bros. Discovery (“WBD” or “Warner Bros.”) by Paramount Skydance (“Par…"
   },
   {
     "id": "197ed2e1",
