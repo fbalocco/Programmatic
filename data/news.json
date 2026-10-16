@@ -1,5 +1,16 @@
 [
   {
+    "id": "4f88e8a2",
+    "title": "Devising A New (Ad) Metric System; Where Did All The UTMs Go?",
+    "url": "https://www.adexchanger.com/daily-news-roundup/16102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-16T04:03:54.000Z",
+    "summary": "The fight over standardized metrics; UTM parameters no longer appear in ChatGPT results; and the ad agency that's been spying on online users. The post Devising A New (Ad) Metric System; Where Did All The UTMs Go? appeared first on AdExchanger."
+  },
+  {
     "id": "fc5f695d",
     "title": "Sure, Debates Between Prebid Members Can Get Heated. That’s Why It’s The Programmatic Melting Pot",
     "url": "https://www.adexchanger.com/publishers/sure-debates-between-prebid-members-can-get-heated-thats-why-its-the-programmatic-melting-pot/",
@@ -8,7 +19,7 @@
     "category": "Industry",
     "tags": [],
     "published": "2026-10-15T20:00:30.000Z",
-    "summary": "The Prebid Summit in New York City on Tuesday exceeded the event’s reputation for liveliness. That reputation was cemented last year, when the Prebid Summit was roiled by controversy after The Trade Desk had forked the main Prebid code over a data collection disagreement over ho…"
+    "summary": "The Prebid Summit in New York City on Tuesday exceeded the event’s reputation for liveliness. That reputation was cemented last year, when the Prebid Summit was roiled by controversy after The Trade Desk had forked the main Prebid code due to a data collection disagreement over…"
   },
   {
     "id": "1d23c88c",
@@ -24,6 +35,28 @@
     ],
     "published": "2026-10-15T19:30:44.000Z",
     "summary": "Google won’t have to break up its SSP and ad server. So this week, Prebid unveiled its plan to help Google fulfill the court’s requirements at its annual Prebid Summit. Then: how brands are using their data in an agentic world, and why there’s a rise of AI “employees.” The post…"
+  },
+  {
+    "id": "66dcd0a7",
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "url": "https://arxiv.org/abs/2610.22234v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T17:14:02.000Z",
+    "summary": "Real desktop automation is neither purely visual nor purely programmatic. Agents must understand user-facing interfaces while efficiently manipulating files, scripts, and system state. However, native GUI/code coordination cannot be obtained by prompt-level tool composition. In…"
+  },
+  {
+    "id": "a75ed280",
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "url": "https://arxiv.org/abs/2610.22200v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T16:51:35.000Z",
+    "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how t…"
   },
   {
     "id": "4a705609",
@@ -201,20 +234,6 @@
     "summary": "Last month, a federal court ordered Google to integrate with Prebid but didn’t say how. So Prebid is writing the instructions itself. The organization is moving ahead with a proposal to let ad servers bid into Prebid rather than Prebid bidding into ad servers, which is how Prebi…"
   },
   {
-    "id": "2ab00d9d",
-    "title": "Big Wins For Publicis; Small Wins For Privacy",
-    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-14102026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy",
-      "AI"
-    ],
-    "published": "2026-10-14T04:03:56.000Z",
-    "summary": "Show ’Em Who’s Boss No CEO wants to fall behind in the AI race. Publicis is turning that fear into a selling point. The holding company saw consistent net revenue growth in Q3, up 5% from the first half of the year, and notably won PepsiCo’s business last month. Funny note about…"
-  },
-  {
     "id": "03e4132f",
     "title": "EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence",
     "url": "https://arxiv.org/abs/2610.18867v2",
@@ -235,20 +254,6 @@
     "tags": [],
     "published": "2026-10-13T13:14:59.000Z",
     "summary": "As an SSP, we have a panoramic view of the open internet. Spikes in digital traffic reflect where consumer attention ..."
-  },
-  {
-    "id": "d2cb80fc",
-    "title": "How Lowe’s is building — and measuring — a full-funnel media network",
-    "url": "https://www.marketingdive.com/news/how-lowes-is-building-and-measuring-a-full-funnel-media-network/832747/",
-    "source": "Marketing Dive",
-    "sourceId": "marketingdive",
-    "category": "Industry",
-    "tags": [
-      "Measurement",
-      "AI"
-    ],
-    "published": "2026-10-13T13:00:00.000Z",
-    "summary": "The home improvement retailer is expanding its advertising business to new platforms and rolling out tools around incrementality and AI optimization."
   },
   {
     "id": "e65bc38c",
@@ -287,17 +292,6 @@
     ],
     "published": "2026-10-13T11:25:39.000Z",
     "summary": ""
-  },
-  {
-    "id": "bf3d769f",
-    "title": "Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week",
-    "url": "https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-13T04:01:00.000Z",
-    "summary": "Advertising Week New York saw more ad tech M&A, plus, the rise of the \"universal buying platform.\""
   },
   {
     "id": "3cf5ba0c",
@@ -706,30 +700,6 @@
     ],
     "published": "2026-10-05T23:37:23.000Z",
     "summary": "Document filed on May 14, 2026 Indictment"
-  },
-  {
-    "id": "548b76b8",
-    "title": "Agentic Design Space Exploration for Joint Hardware Configuration Selection and Mapping of AI Inference Workloads on Heterogeneous Edge SoCs",
-    "url": "https://arxiv.org/abs/2610.07191v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-05T18:08:58.000Z",
-    "summary": "Modern edge Systems-on-Chip (SoCs) integrate heterogeneous processing units (PUs) such as CPUs, GPUs, and NPUs, each with distinct performance and energy characteristics. Deploying AI inference workloads on them under real-time latency and energy constraints requires jointly map…"
-  },
-  {
-    "id": "da57434d",
-    "title": "Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation",
-    "url": "https://arxiv.org/abs/2610.06689v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-05T16:52:57.000Z",
-    "summary": "Search agents adapt their queries, yet fixed search interfaces leave candidate processing and evidence presentation outside the agent's direct control. Our trajectory analysis shows that supporting passages can be retrieved yet never delivered to the agent; a same-page oracle in…"
   },
   {
     "id": "48b58a90",

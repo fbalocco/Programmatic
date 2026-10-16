@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T21:18:30.786Z",
+  "generatedAt": "2026-10-16T04:24:14.572Z",
   "feedCount": 17,
-  "itemCount": 204,
+  "itemCount": 202,
   "errors": [
     {
       "id": "ftc-press",
@@ -36,7 +36,7 @@
       "name": "Digiday",
       "category": "Industry",
       "fetched": 15,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
