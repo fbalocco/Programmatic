@@ -1,5 +1,43 @@
 [
   {
+    "id": "3473af7a",
+    "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
+    "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-16T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principl…"
+  },
+  {
+    "id": "4a53d7ce",
+    "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+    "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "AI"
+    ],
+    "published": "2026-10-16T09:00:09.000Z",
+    "summary": "VideoAmp is competing in the measurement space by sharpening its focus on TV audience data, ad performance and, of course, AI. The company is also making strategic hires and promoting from within. The post VideoAmp Bets On AI To Connect Ad Planning And Measurement appeared first…"
+  },
+  {
+    "id": "a046dbac",
+    "title": "Comic: Carriage Dispute",
+    "url": "https://www.adexchanger.com/comic-strip/comic-carriage-dispute/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-16T04:15:31.000Z",
+    "summary": "Enjoy this weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem … The post Comic: Carriage Dispute appeared first on AdExchanger."
+  },
+  {
     "id": "4f88e8a2",
     "title": "Devising A New (Ad) Metric System; Where Did All The UTMs Go?",
     "url": "https://www.adexchanger.com/daily-news-roundup/16102026/",
@@ -181,19 +219,6 @@
     "summary": "Anyone old enough to remember drinking martinis from an office liquor cabinet on Monday mornings will tell you the Golden Age of brand advertising ended long ago. Back then, production and distribution barriers limited competition across most consumer categories, while scarce me…"
   },
   {
-    "id": "52f865cd",
-    "title": "LG And Magnite Launch Agentic Home Screen Ads With A Winning NFL Quarterback",
-    "url": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-14T12:00:15.000Z",
-    "summary": "Magnite and LG Ad Solutions announced LG smart TV home screen inventory will be available to agencies through agentic AI media buying. Northern California Toyota Dealers Association is part of the first campaign accessing this inventory through agentic pipes with the help of ind…"
-  },
-  {
     "id": "74e2f531",
     "title": "5 ways marketers can make a lasting impact with Gen Alpha",
     "url": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
@@ -218,20 +243,6 @@
     ],
     "published": "2026-10-14T08:58:24.000Z",
     "summary": "Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a…"
-  },
-  {
-    "id": "fe176024",
-    "title": "Prebid’s Proposed Auction Overhaul Would Do What The Court Wouldn’t: Separate AdX From GAM",
-    "url": "https://www.adexchanger.com/programmatic/prebids-proposed-auction-overhaul-would-do-what-the-court-wouldnt-separate-adx-from-gam/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "RTB",
-      "Policy"
-    ],
-    "published": "2026-10-14T04:45:04.000Z",
-    "summary": "Last month, a federal court ordered Google to integrate with Prebid but didn’t say how. So Prebid is writing the instructions itself. The organization is moving ahead with a proposal to let ad servers bid into Prebid rather than Prebid bidding into ad servers, which is how Prebi…"
   },
   {
     "id": "03e4132f",
@@ -552,7 +563,7 @@
     "category": "Regulation",
     "tags": [],
     "published": "2026-10-08T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Origin of the case In August 2025, the IT s…"
+    "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Key words: Cybersecurity, personal data breaches Summary of the Decision Origin of the case In August 2025, the IT servic…"
   },
   {
     "id": "e360aa08",
@@ -802,19 +813,6 @@
     "tags": [],
     "published": "2026-09-23T23:12:17.240Z",
     "summary": "Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in…"
-  },
-  {
-    "id": "ad02ebca",
-    "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
-    "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-    "source": "European Data Protection Board (News)",
-    "sourceId": "edpb-news",
-    "category": "Regulation",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-09-23T12:00:00.000Z",
-    "summary": "Background information Date of final decision: 21 September 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exer…"
   },
   {
     "id": "99306d06",
