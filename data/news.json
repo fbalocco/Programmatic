@@ -115,6 +115,28 @@
     "summary": "Google won’t have to break up its SSP and ad server. So this week, Prebid unveiled its plan to help Google fulfill the court’s requirements at its annual Prebid Summit. Then: how brands are using their data in an agentic world, and why there’s a rise of AI “employees.” The post…"
   },
   {
+    "id": "66dcd0a7",
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "url": "https://arxiv.org/abs/2610.22234v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T17:14:02.000Z",
+    "summary": "Real desktop automation is neither purely visual nor purely programmatic. Agents must understand user-facing interfaces while efficiently manipulating files, scripts, and system state. However, native GUI/code coordination cannot be obtained by prompt-level tool composition. In…"
+  },
+  {
+    "id": "a75ed280",
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "url": "https://arxiv.org/abs/2610.22200v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T16:51:35.000Z",
+    "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how t…"
+  },
+  {
     "id": "4a705609",
     "title": "Meta Is Selling Ad Slots, TV-Style",
     "url": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
@@ -199,6 +221,54 @@
     "summary": "The advertising industry has a relatability problem. Don’t just take it from me. Look at how the industry talks about itself. “I’m going to talk about a few problems that folks might find relatable,” said one startup founder at a LiveRamp-hosted AI demo day that took place adjac…"
   },
   {
+    "id": "da63eee7",
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "url": "https://arxiv.org/abs/2610.20584v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-14T17:57:12.000Z",
+    "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. C…"
+  },
+  {
+    "id": "74e2f531",
+    "title": "5 ways marketers can make a lasting impact with Gen Alpha",
+    "url": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-14T12:00:00.000Z",
+    "summary": "Brands, agencies and platforms with a finger on the pulse took to Advertising Week to break down the group’s habits with AI, creators and co-viewing."
+  },
+  {
+    "id": "6a8a9e2d",
+    "title": "One Monitor Does Not Fit All: Formalism-Agnostic Runtime Verification for Agentic AI",
+    "url": "https://arxiv.org/abs/2610.19818v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-14T08:58:24.000Z",
+    "summary": "Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a…"
+  },
+  {
+    "id": "03e4132f",
+    "title": "EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence",
+    "url": "https://arxiv.org/abs/2610.18867v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-13T17:59:51.000Z",
+    "summary": "Coding agents can construct executable programs and revise them through feedback, offering a foundation for embodied control without target-task fine-tuning. Through a programmatic robot interface, the agent observes the scene, executes control programs, and adapts them to the r…"
+  },
+  {
     "id": "4757a301",
     "title": "Making Every Millisecond Count: How Index Cloud Creates More Programmatic Efficiency",
     "url": "https://www.indexexchange.com/2026/10/13/how-index-cloud-creates-more-programmatic-efficiency/",
@@ -208,6 +278,19 @@
     "tags": [],
     "published": "2026-10-13T13:14:59.000Z",
     "summary": "As an SSP, we have a panoramic view of the open internet. Spikes in digital traffic reflect where consumer attention ..."
+  },
+  {
+    "id": "e65bc38c",
+    "title": "Holding Agents Accountable with Verifiable Agent Insurance",
+    "url": "https://arxiv.org/abs/2610.18230v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-13T12:01:11.000Z",
+    "summary": "While AI agents are useful for many tasks, they regularly misbehave in destructive ways, such as deleting important data. While prior work has focused on preventing such misbehavior, we consider how to recover after an agent misbehaves. We propose verifiable agent insurance (VAI…"
   },
   {
     "id": "4be32f25",
@@ -235,6 +318,17 @@
     "summary": ""
   },
   {
+    "id": "3cf5ba0c",
+    "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
+    "url": "https://arxiv.org/abs/2610.17309v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-12T19:05:56.000Z",
+    "summary": "We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirectional attention in full-attention layers to improve decision accuracy while keepin…"
+  },
+  {
     "id": "ad87b960",
     "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
     "url": "http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html",
@@ -244,6 +338,142 @@
     "tags": [],
     "published": "2026-10-12T16:57:15.356Z",
     "summary": "Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI. As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines eve…"
+  },
+  {
+    "id": "f2bae3e4",
+    "title": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
+    "url": "https://arxiv.org/abs/2610.17020v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-12T16:00:55.000Z",
+    "summary": "Cybersecurity evaluations of AI agents have focused largely on offense, yet a working exploit does not show that an agent can make software safe. An attacker needs to exploit only one vulnerability; a defender must find and fix all of them. We introduce CWE-bench, a private benc…"
+  },
+  {
+    "id": "1df58fc9",
+    "title": "CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization",
+    "url": "https://arxiv.org/abs/2610.16158v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-12T04:33:11.000Z",
+    "summary": "Conflict-graph search can stagnate despite effective operators when interventions fail to address the conflicts blocking progress. A disruptive intervention may also require further search before its value emerges. We propose CIPHEUR, a large language model (LLM)-guided framewor…"
+  },
+  {
+    "id": "de32b871",
+    "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+    "url": "https://arxiv.org/abs/2610.15924v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-11T21:10:19.000Z",
+    "summary": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate eva…"
+  },
+  {
+    "id": "34666eca",
+    "title": "CodeWalk: Generating Coding Benchmarks by Walking a Problem Graph",
+    "url": "https://arxiv.org/abs/2610.15345v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-11T04:57:00.000Z",
+    "summary": "High-quality coding problems are expensive to collect. Benchmarks such as SWE-bench rely on substantial human curation, while synthetic alternatives typically rely on costly model generation and validation. In this work, we show that new coding problems can be created at almost…"
+  },
+  {
+    "id": "5eb4c8c2",
+    "title": "SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition",
+    "url": "https://arxiv.org/abs/2610.14966v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-10T14:36:39.000Z",
+    "summary": "Long-horizon agents must complete workflows in which later activities depend on earlier outputs and changes to shared state. A key challenge for evaluation is to expand task requirements and their dependencies while keeping tasks executable and outcomes verifiable. We introduce…"
+  },
+  {
+    "id": "dedeef8b",
+    "title": "ProgAgent: Learning Tool Orchestration through Programmatic Training",
+    "url": "https://arxiv.org/abs/2610.14774v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-10T09:57:26.000Z",
+    "summary": "Large language models (LLMs) are increasingly expected to orchestrate diverse tools over long-horizon tasks. Existing agents typically use Direct Tool Calling (DTC), where the model invokes tools sequentially, and tool responses accumulate in the model context, which can lead to…"
+  },
+  {
+    "id": "1f9cc2cf",
+    "title": "HumanPhys: A Human-Centric Physical-World Perception Benchmark for Real-World Visual Reasoning",
+    "url": "https://arxiv.org/abs/2610.14679v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-10T07:50:31.000Z",
+    "summary": "We introduce HumanPhys, a human-centric benchmark for real-world physical perception, and a training corpus emitted by the same pipeline. Each question targets a physically grounded quantity related to people, including depth, inter-person distance, gaze angle, displacement, vel…"
+  },
+  {
+    "id": "a1f3e265",
+    "title": "Beyond Independent Values: Optimal Auctions with Correlated Valuations for LLM-Native Advertising",
+    "url": "https://arxiv.org/abs/2610.14646v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "RTB",
+      "AI"
+    ],
+    "published": "2026-10-10T06:57:44.000Z",
+    "summary": "Conversational assistants are becoming the place where people ask what to buy, and sponsored content is moving into their answers. Several advertisers then compete for one sponsored slot, and all of them read the same conversation, so their willingness to pay usually moves toget…"
+  },
+  {
+    "id": "adcbae5b",
+    "title": "Diffusion-Based Auctions for Multi-Winner Banner Ads",
+    "url": "https://arxiv.org/abs/2610.14473v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "RTB"
+    ],
+    "published": "2026-10-10T02:04:55.000Z",
+    "summary": "We propose a new framework for banner ad auctions, leveraging diffusion models to allow for multiple bidders to co-win a single banner ad opportunity, and in particular influence the ad shown on the banner depending on the strength of their bids, enabling a far richer outcome sp…"
+  },
+  {
+    "id": "b00288fb",
+    "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+    "url": "https://arxiv.org/abs/2610.14381v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-09T23:01:57.000Z",
+    "summary": "Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make…"
+  },
+  {
+    "id": "6774dbd7",
+    "title": "OpenH-RF: A Large-Scale Ultrasound Raw Channel Dataset Initiative",
+    "url": "https://arxiv.org/abs/2610.13616v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-09T14:00:00.000Z",
+    "summary": "Medical ultrasound is a widely accessible, real-time imaging modality, yet progress in data-driven ultrasound research is constrained by the scarcity of large, open collections of raw channel data. Existing public datasets are predominantly based on reconstructed images, while t…"
   },
   {
     "id": "fb6e9b0f",
@@ -292,6 +522,17 @@
     "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communicatio…"
   },
   {
+    "id": "74fee295",
+    "title": "MVGraph: Benchmarking LVLMs on Evidence Composition across Multi-View Visual Graph",
+    "url": "https://arxiv.org/abs/2610.12961v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-09T03:59:34.000Z",
+    "summary": "We introduce MVGraph, a benchmark for evaluating large vision-language models (LVLMs) on multi-graph reasoning where the evidence required by a query is distributed across multiple interrelated visual graph views. Although such evidence commonly resides in source-specific graphs…"
+  },
+  {
     "id": "7677a2d9",
     "title": "Launching Structured Data Files v11",
     "url": "http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html",
@@ -301,6 +542,17 @@
     "tags": [],
     "published": "2026-10-09T00:46:49.482Z",
     "summary": "Today we’re announcing the general availability of Structured Data Files v11. All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and…"
+  },
+  {
+    "id": "95dc0785",
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.12402v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T17:44:17.000Z",
+    "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: constructing a scene from observations, anticipating how an intervention changes it…"
   },
   {
     "id": "1e1ff169",
@@ -338,6 +590,39 @@
     "summary": "Background information Cross-border case Controller: Uber B.V Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision: Administrative f…"
   },
   {
+    "id": "94010dc5",
+    "title": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
+    "url": "https://arxiv.org/abs/2610.11605v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T09:49:39.000Z",
+    "summary": "We introduce NanoProof, to our knowledge the first factorized execution-guided theorem prover in Lean 4 whose training data, extraction tooling, training pipeline, and weights are all released, making it end-to-end reproducible using open-source resources. To this end, we build…"
+  },
+  {
+    "id": "213f1361",
+    "title": "USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation",
+    "url": "https://arxiv.org/abs/2610.11322v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-08T06:23:24.000Z",
+    "summary": "Geometrically faithful and functional articulated 3D assets are essential for real-to-sim robot manipulation, where policies trained in simulation must transfer to physical objects. Recent mesh-based methods learn to infer articulation from annotated 3D assets, but deployment re…"
+  },
+  {
+    "id": "c7e4d449",
+    "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+    "url": "https://arxiv.org/abs/2610.08621v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T16:21:44.000Z",
+    "summary": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creator, an experience-oriented harness to advance agentic game development from rou…"
+  },
+  {
     "id": "4c7306d5",
     "title": "How a Global Hotel Brand Cut Cost per Booking by 41% With dentsu, Chalice AI, and Index Cloud",
     "url": "https://www.indexexchange.com/2026/10/06/hotel-brand-dentsu-chalice-ai-index-cloud/",
@@ -349,6 +634,31 @@
     ],
     "published": "2026-10-06T13:00:00.000Z",
     "summary": "To turn media quality into a buying signal, dentsu activated Chalice's CurateAI technology through Index Marketplaces."
+  },
+  {
+    "id": "3e15767c",
+    "title": "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting",
+    "url": "https://arxiv.org/abs/2610.08868v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-06T02:32:25.000Z",
+    "summary": "Smart light-emitting diode (LED) bulbs are networked devices that produce information-carrying output. This study asks whether that light can carry digital data through changes small enough to be difficult for a person in the room to notice. To explore this covert communication…"
+  },
+  {
+    "id": "91ae24a1",
+    "title": "Explore, Then Commit: Measurement-Efficient Scientific Law Discovery with Language Models",
+    "url": "https://arxiv.org/abs/2610.07620v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Measurement",
+      "Policy"
+    ],
+    "published": "2026-10-06T02:11:39.000Z",
+    "summary": "Scientific law discovery requires selecting measurements and converting evidence into a governing equation. We evaluate an explore-then-commit protocol in which a large language model proposes hypotheses, a programmatic planner gathers measurements, and a fresh prompt synthesize…"
   },
   {
     "id": "1a14a8e0",
