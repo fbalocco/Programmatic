@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T20:35:23.895Z",
+  "generatedAt": "2026-10-18T23:06:01.932Z",
   "feedCount": 17,
-  "itemCount": 183,
+  "itemCount": 199,
   "errors": [
     {
       "id": "ftc-press",
@@ -131,8 +131,8 @@
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
-      "fetched": 0,
-      "kept": 0,
+      "fetched": 25,
+      "kept": 16,
       "error": null
     },
     {
