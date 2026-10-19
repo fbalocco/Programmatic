@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T23:06:01.932Z",
+  "generatedAt": "2026-10-19T04:32:18.250Z",
   "feedCount": 17,
-  "itemCount": 199,
+  "itemCount": 182,
   "errors": [
     {
       "id": "ftc-press",
@@ -44,7 +44,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": null
     },
     {
@@ -131,8 +131,8 @@
       "id": "doj-atr-press",
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
-      "fetched": 25,
-      "kept": 16,
+      "fetched": 0,
+      "kept": 0,
       "error": null
     },
     {
