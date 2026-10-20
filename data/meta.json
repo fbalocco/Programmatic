@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-10-20T19:10:36.840Z",
+  "generatedAt": "2026-10-20T23:49:54.275Z",
   "feedCount": 17,
-  "itemCount": 202,
+  "itemCount": 192,
   "errors": [
+    {
+      "id": "adexchanger",
+      "name": "AdExchanger",
+      "url": "https://adexchanger.com/feed/",
+      "error": "fetch failed"
+    },
     {
       "id": "ftc-press",
       "name": "U.S. FTC Press Releases",
@@ -27,9 +33,9 @@
       "id": "adexchanger",
       "name": "AdExchanger",
       "category": "Industry",
-      "fetched": 10,
-      "kept": 10,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "fetch failed"
     },
     {
       "id": "digiday",
