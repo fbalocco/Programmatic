@@ -1,5 +1,55 @@
 [
   {
+    "id": "870b15a9",
+    "title": "Introducing The Netflix Pixel (Netflixel?); FTC Approves The Publicis-LiveRamp Deal",
+    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-21102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-10-21T04:03:53.000Z",
+    "summary": "Pixel Me Rollin’ After recent layoffs, Netflix headed into earnings with a fresh pitch to advertisers. On Tuesday, Netflix unveiled what it calls the Netflix Pixel, an add-on to the conversion API (CAPI) it launched in March within the Netflix Ads Suite. The Pixel helps standard…"
+  },
+  {
+    "id": "bc7d4975",
+    "title": "Indie agencies want The Trade Desk and Amazon DSP to acknowledge their buying power with negotiating leverage",
+    "url": "https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-21T04:01:00.000Z",
+    "summary": "Indie agencies say DSP giants block direct seats and fee relief despite spend commitments."
+  },
+  {
+    "id": "ee4241fe",
+    "title": "Netflix Touts New Measurement Capabilities As It Struggles With “Modest” Engagement Growth",
+    "url": "https://www.adexchanger.com/tv/netflix-touts-new-measurement-capabilities-as-it-struggles-with-modest-engagement-growth/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement"
+    ],
+    "published": "2026-10-20T23:58:10.000Z",
+    "summary": "Netflix's revenue grew 12% YOY to $12.9 billion in Q3, which it maintains is in line with its forecast. Its ads business, however, is lagging slightly compared with expectations, causing Netflix to tweak its forecast for the rest of the year. The post Netflix Touts New Measureme…"
+  },
+  {
+    "id": "e20482ca",
+    "title": "Apple Publishes Its Plan To Wipe Out Web Tracking",
+    "url": "https://www.adexchanger.com/platforms/apple-publishes-its-plan-to-wipe-out-web-tracking/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-10-20T16:29:42.000Z",
+    "summary": "Do you hear them? The bells? The drums? Apple is coming. And we’re not talking about 30%. “It’s not enough to block cross-site cookies to prevent cross-site tracking today because the tracking industry has not stopped trying to track users on the web.” Those are the words of App…"
+  },
+  {
     "id": "5c9ce6e3",
     "title": "AI Hype Helped Google Dodge an Antitrust Breakup. What Comes Next?",
     "url": "https://techpolicy.press/ai-hype-helped-google-dodge-an-antitrust-breakup-what-comes-next",
@@ -12,6 +62,19 @@
     ],
     "published": "2026-10-20T16:12:26.000Z",
     "summary": ""
+  },
+  {
+    "id": "5c50123f",
+    "title": "Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V",
+    "url": "https://arxiv.org/abs/2610.28416v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-20T15:51:41.000Z",
+    "summary": "Code-based video generation offers fine-grained control, targeted editing, and component reuse compared with direct video generation. This approach requires multimodal large language models (MLLMs) to translate visual and temporal requirements into executable programs that produ…"
   },
   {
     "id": "bebecde1",
@@ -40,6 +103,56 @@
     "summary": ""
   },
   {
+    "id": "9ec6367d",
+    "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
+    "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-20T08:00:00.000Z",
+    "summary": "Ad industry insiders have consistently warned that generative AI would ignite an explosion in made-for-advertising (MFA) sites that cynically monetize via programmatic ad tech. Well, research is starting to prove the case. A study released Tuesday by advertising supply chain int…"
+  },
+  {
+    "id": "ed6ce7a7",
+    "title": "What Frogs And Socks Can Teach Us About AI Implementation",
+    "url": "https://www.adexchanger.com/adexchanger-talks/what-frogs-and-socks-can-teach-us-about-ai-implementation/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-20T05:00:35.000Z",
+    "summary": "Conventional wisdom says that you need clean data before you can use AI. But Rebecca Sykes isn’t so sure the data needs to be pristine. Sykes, a partner at The Brandtech Group who leads its emerging technology practice, says generative AI can work with the kind of fuzzy, siloed…"
+  },
+  {
+    "id": "42307290",
+    "title": "Political Campaigns Are Bringing Broadcast Habits To CTV. That Could Cost Them Billions",
+    "url": "https://www.adexchanger.com/on-tv-and-video/political-campaigns-are-bringing-broadcast-habits-to-ctv-that-could-cost-them-billions/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-10-20T04:35:32.000Z",
+    "summary": "Political campaigns are set to spend more than $11 billion on advertising in the midterms, and a growing share will land on connected television (CTV). But shifting the budget to streaming without shifting the thinking behind it can lead to a tremendous amount of waste. For year…"
+  },
+  {
+    "id": "4b262163",
+    "title": "So Begins ChatGPT’s Endless Ad Iterations; YouTube Affiliates With AliExpress",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-20102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-20T04:03:05.000Z",
+    "summary": "ChatGPT launches its latest iteration of ads; retail giant AliExpress expands its partnership with YouTube; and people are making their smart TVs less smart. The post So Begins ChatGPT’s Endless Ad Iterations; YouTube Affiliates With AliExpress appeared first on AdExchanger."
+  },
+  {
     "id": "dcfce56f",
     "title": "Ad Tech Briefing: Can flipping the ad auction wrest control of ad tech from Google?",
     "url": "https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/",
@@ -51,6 +164,17 @@
     ],
     "published": "2026-10-20T04:01:00.000Z",
     "summary": "Prebid wants to change one of the key fundamentals of ad tech."
+  },
+  {
+    "id": "5d35ce36",
+    "title": "TxnQA: Benchmarking Analytical Reasoning and Evidence Grounding over Transaction Event Sequences",
+    "url": "https://arxiv.org/abs/2610.27256v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-19T20:25:47.000Z",
+    "summary": "Analyzing merchant transaction histories requires dynamic temporal filtering, entity resolution, and aggregation over irregular event streams--operations poorly captured by static tabular or time-series forecasting benchmarks. We introduce TxnQA, an analytical QA benchmark compr…"
   },
   {
     "id": "1a2ed1ce",
@@ -66,6 +190,19 @@
     "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evalua…"
   },
   {
+    "id": "e8774ed9",
+    "title": "How Australian Home Lender Lendi Measures The Invisible Work Of AI",
+    "url": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-19T16:03:46.000Z",
+    "summary": "Most brands and businesses are trying to figure out how to improve their metrics when it comes to AI – and also what those metrics even are. Problem is, measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said M…"
+  },
+  {
     "id": "2bbfbd61",
     "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
     "url": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
@@ -75,6 +212,30 @@
     "tags": [],
     "published": "2026-10-19T16:00:00.000Z",
     "summary": "The campaign includes Meta and programmatic display ads, in-store signage and a Whole Foods Market activation."
+  },
+  {
+    "id": "769e6e9e",
+    "title": "How Amazon Ads Plans To Make Programmatic Simple Without Taking Control From Marketers",
+    "url": "https://www.adexchanger.com/inside-the-stack/how-amazon-ads-plans-to-make-programmatic-simple-without-taking-control-from-marketers/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-19T12:05:36.000Z",
+    "summary": "Amazon Ads VP Kelly MacLean on how AI helps marketers connect the dots across the customer journey, with lower costs and better delivery in early tests. The post How Amazon Ads Plans To Make Programmatic Simple Without Taking Control From Marketers appeared first on AdExchanger."
+  },
+  {
+    "id": "43a6c838",
+    "title": "You Know Your Ideal Customer. But Can Your Media Plan Actually Reach Them?",
+    "url": "https://www.adexchanger.com/content-studio/you-know-your-ideal-customer-but-can-your-media-plan-actually-reach-them/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-19T12:00:23.000Z",
+    "summary": "Marketers today describe their ideal customers in extraordinary detail, with rich personas that go beyond basic demographics to include attitudes, motivations, values, preferences and even future intentions. But a media buyer still has to turn that persona into a handful of targ…"
   },
   {
     "id": "bf9f6195",
@@ -179,6 +340,17 @@
     "summary": "Existing quality control for long-context instruction-tuning data is a one-shot judgment inside the generation pipeline that leaves only a scalar, revealing neither which document parts an answer uses nor how many reasoning steps it writes down; the data can thus be neither audi…"
   },
   {
+    "id": "ce01146b",
+    "title": "TRACE: Trustworthy Reasoning from Acoustic Cues and Evidence",
+    "url": "https://arxiv.org/abs/2610.26894v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T19:59:23.000Z",
+    "summary": "We introduce TRACE (Trustworthy Reasoning from Acoustic Cues and Evidence), a benchmark for diagnosing the reliability of large audio-language models (LALMs) by revealing when, and under what acoustic conditions these models behave untrustworthily. Existing benchmarks primarily…"
+  },
+  {
     "id": "66dcd0a7",
     "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
     "url": "https://arxiv.org/abs/2610.22234v1",
@@ -199,6 +371,20 @@
     "tags": [],
     "published": "2026-10-15T16:51:35.000Z",
     "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how t…"
+  },
+  {
+    "id": "b1497ba0",
+    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-10-15T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "c82d87ed",
@@ -309,9 +495,22 @@
     "summary": ""
   },
   {
-    "id": "3cf5ba0c",
+    "id": "ab4fd307",
+    "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+    "url": "https://arxiv.org/abs/2610.26887v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-13T07:19:22.000Z",
+    "summary": "Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical re…"
+  },
+  {
+    "id": "3ff5bec5",
     "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
-    "url": "https://arxiv.org/abs/2610.17309v1",
+    "url": "https://arxiv.org/abs/2610.17309v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -430,43 +629,6 @@
     "summary": "Conversational assistants are becoming the place where people ask what to buy, and sponsored content is moving into their answers. Several advertisers then compete for one sponsored slot, and all of them read the same conversation, so their willingness to pay usually moves toget…"
   },
   {
-    "id": "adcbae5b",
-    "title": "Diffusion-Based Auctions for Multi-Winner Banner Ads",
-    "url": "https://arxiv.org/abs/2610.14473v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "RTB"
-    ],
-    "published": "2026-10-10T02:04:55.000Z",
-    "summary": "We propose a new framework for banner ad auctions, leveraging diffusion models to allow for multiple bidders to co-win a single banner ad opportunity, and in particular influence the ad shown on the banner depending on the strength of their bids, enabling a far richer outcome sp…"
-  },
-  {
-    "id": "b00288fb",
-    "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
-    "url": "https://arxiv.org/abs/2610.14381v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-09T23:01:57.000Z",
-    "summary": "Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make…"
-  },
-  {
-    "id": "6874dd6a",
-    "title": "Open-H-RF: A Large-Scale Ultrasound Raw Channel Dataset Initiative",
-    "url": "https://arxiv.org/abs/2610.13616v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-09T14:00:00.000Z",
-    "summary": "Medical ultrasound is a widely accessible, real-time imaging modality, yet progress in data-driven ultrasound research is constrained by the scarcity of large, open collections of raw channel data. Existing public datasets are predominantly based on reconstructed images, while t…"
-  },
-  {
     "id": "fb6e9b0f",
     "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
     "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
@@ -511,17 +673,6 @@
     "tags": [],
     "published": "2026-10-09T12:00:00.000Z",
     "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communicatio…"
-  },
-  {
-    "id": "74fee295",
-    "title": "MVGraph: Benchmarking LVLMs on Evidence Composition across Multi-View Visual Graph",
-    "url": "https://arxiv.org/abs/2610.12961v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-09T03:59:34.000Z",
-    "summary": "We introduce MVGraph, a benchmark for evaluating large vision-language models (LVLMs) on multi-graph reasoning where the evidence required by a query is distributed across multiple interrelated visual graph views. Although such evidence commonly resides in source-specific graphs…"
   },
   {
     "id": "7677a2d9",
@@ -764,6 +915,19 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -775,6 +939,20 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1202,6 +1380,19 @@
     "summary": "Roku's Miles Fisher shares what’s redefining performance in streaming TV advertising, from signal quality to engaging viewers through the remote control."
   },
   {
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
+  },
+  {
     "id": "a50b8939",
     "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
     "url": "http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html",
@@ -1325,19 +1516,6 @@
     ],
     "published": "2026-06-16T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ civil antitrust lawsuit against OhioHealth Corporation (OhioHealth) challenging the company’s anticompetitive contract restrictions. The proposed settlement would make hea…"
-  },
-  {
-    "id": "644e245d",
-    "title": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Paramount Skydance and Warner Bros.",
-    "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-paramount",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-06-12T12:00:00.000Z",
-    "summary": "The Antitrust Division of the U.S. Department of Justice (“Division”) issued the following statement today in connection with the closing of the Division’s investigation into the proposed acquisition of Warner Bros. Discovery (“WBD” or “Warner Bros.”) by Paramount Skydance (“Par…"
   },
   {
     "id": "197ed2e1",

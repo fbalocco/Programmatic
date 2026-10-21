@@ -1,14 +1,8 @@
 {
-  "generatedAt": "2026-10-20T23:49:54.275Z",
+  "generatedAt": "2026-10-21T04:37:15.458Z",
   "feedCount": 17,
-  "itemCount": 192,
+  "itemCount": 206,
   "errors": [
-    {
-      "id": "adexchanger",
-      "name": "AdExchanger",
-      "url": "https://adexchanger.com/feed/",
-      "error": "fetch failed"
-    },
     {
       "id": "ftc-press",
       "name": "U.S. FTC Press Releases",
@@ -33,16 +27,16 @@
       "id": "adexchanger",
       "name": "AdExchanger",
       "category": "Industry",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 10,
+      "kept": 10,
+      "error": null
     },
     {
       "id": "digiday",
       "name": "Digiday",
       "category": "Industry",
       "fetched": 15,
-      "kept": 1,
+      "kept": 2,
       "error": null
     },
     {
@@ -138,7 +132,7 @@
       "name": "DOJ Antitrust Division Press Releases",
       "category": "Court & Enforcement",
       "fetched": 25,
-      "kept": 16,
+      "kept": 19,
       "error": null
     },
     {
