@@ -1,5 +1,31 @@
 [
   {
+    "id": "d2f23b7e",
+    "title": "Subscription Streamers Fall Back In Love With Ads; Indie Agencies Get Lost In The DSP Margins",
+    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-22102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-10-22T04:03:53.000Z",
+    "summary": "The streaming market is looking bleak; indie agencies are frustrated with DSP fees; and publishers and artists turn to paid newsletters for revenue. The post Subscription Streamers Fall Back In Love With Ads; Indie Agencies Get Lost In The DSP Margins appeared first on AdExchang…"
+  },
+  {
+    "id": "ce81b451",
+    "title": "Meta Grows Revenue 26% Despite Massive Muse Operating Costs",
+    "url": "https://www.adexchanger.com/platforms/meta-grows-revenue-26-despite-massive-muse-operating-costs/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-22T00:14:00.000Z",
+    "summary": "Despite spending billions in lawsuits and high Muse operating costs, Meta's third quarter earnings still showed significant growth. The post Meta Grows Revenue 26% Despite Massive Muse Operating Costs appeared first on AdExchanger."
+  },
+  {
     "id": "734eb8b0",
     "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
     "url": "http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html",
@@ -47,6 +73,17 @@
     "summary": "ChatGPT Ads continues to grow, expanding to 26 new countries. But it's still figuring out what, exactly, those ads will look like moving forward. The post ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats appeared first on AdExchanger."
   },
   {
+    "id": "20ca9177",
+    "title": "Reference Manual of MEDiml",
+    "url": "https://arxiv.org/abs/2610.29666v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-21T12:41:23.000Z",
+    "summary": "Radiomics is the high-throughput extraction of quantitative features (e.g., tumor shape, intensity distributions, and texture) from medical images to characterize tissues and uncover disease patterns invisible to the human eye. These features can serve as candidate imaging bioma…"
+  },
+  {
     "id": "08334a0c",
     "title": "Video Podcasts Are Hot, But Don’t Abandon Audio, Says Horizon Media’s Maria Tullin",
     "url": "https://www.adexchanger.com/ctv-roundup/video-podcasts-are-hot-but-dont-abandon-audio-says-horizon-medias-maria-tullin/",
@@ -84,6 +121,17 @@
     "summary": "Indie agencies say DSP giants block direct seats and fee relief despite spend commitments."
   },
   {
+    "id": "9820aa04",
+    "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+    "url": "https://arxiv.org/abs/2610.29014v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-21T00:28:16.000Z",
+    "summary": "Coding agents are rapidly advancing from single-file generation to long-horizon repository-scale engineering, yet the evaluation of their capabilities to author interactive extended reality (XR) applications remains an open challenge. Unlike traditional software, XR applications…"
+  },
+  {
     "id": "ee4241fe",
     "title": "Netflix Touts New Measurement Capabilities As It Struggles With “Modest” Engagement Growth",
     "url": "https://www.adexchanger.com/tv/netflix-touts-new-measurement-capabilities-as-it-struggles-with-modest-engagement-growth/",
@@ -95,6 +143,17 @@
     ],
     "published": "2026-10-20T23:58:10.000Z",
     "summary": "Netflix's revenue grew 12% YOY to $12.9 billion in Q3, which it maintains is in line with its forecast. Its ads business, however, is lagging slightly compared with expectations, causing Netflix to tweak its forecast for the rest of the year. The post Netflix Touts New Measureme…"
+  },
+  {
+    "id": "7f4c4856",
+    "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
+    "url": "https://arxiv.org/abs/2610.28819v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-20T18:40:22.000Z",
+    "summary": "Common instruction following (IF) benchmarks, such as IFEval, evaluate the ability of language models (LMs) to follow simple constraints that can easily be verified programmatically. These same constraints, in turn, are used as reward signals for reinforcement learning. This des…"
   },
   {
     "id": "e20482ca",
@@ -174,45 +233,6 @@
     ],
     "published": "2026-10-20T08:00:00.000Z",
     "summary": "Ad industry insiders have consistently warned that generative AI would ignite an explosion in made-for-advertising (MFA) sites that cynically monetize via programmatic ad tech. Well, research is starting to prove the case. A study released Tuesday by advertising supply chain int…"
-  },
-  {
-    "id": "ed6ce7a7",
-    "title": "What Frogs And Socks Can Teach Us About AI Implementation",
-    "url": "https://www.adexchanger.com/adexchanger-talks/what-frogs-and-socks-can-teach-us-about-ai-implementation/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-20T05:00:35.000Z",
-    "summary": "Conventional wisdom says that you need clean data before you can use AI. But Rebecca Sykes isn’t so sure the data needs to be pristine. Sykes, a partner at The Brandtech Group who leads its emerging technology practice, says generative AI can work with the kind of fuzzy, siloed…"
-  },
-  {
-    "id": "42307290",
-    "title": "Political Campaigns Are Bringing Broadcast Habits To CTV. That Could Cost Them Billions",
-    "url": "https://www.adexchanger.com/on-tv-and-video/political-campaigns-are-bringing-broadcast-habits-to-ctv-that-could-cost-them-billions/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-10-20T04:35:32.000Z",
-    "summary": "Political campaigns are set to spend more than $11 billion on advertising in the midterms, and a growing share will land on connected television (CTV). But shifting the budget to streaming without shifting the thinking behind it can lead to a tremendous amount of waste. For year…"
-  },
-  {
-    "id": "dcfce56f",
-    "title": "Ad Tech Briefing: Can flipping the ad auction wrest control of ad tech from Google?",
-    "url": "https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "RTB"
-    ],
-    "published": "2026-10-20T04:01:00.000Z",
-    "summary": "Prebid wants to change one of the key fundamentals of ad tech."
   },
   {
     "id": "5d35ce36",
@@ -588,44 +608,6 @@
     "tags": [],
     "published": "2026-10-10T14:36:39.000Z",
     "summary": "Long-horizon agents must complete workflows in which later activities depend on earlier outputs and changes to shared state. A key challenge for evaluation is to expand task requirements and their dependencies while keeping tasks executable and outcomes verifiable. We introduce…"
-  },
-  {
-    "id": "dedeef8b",
-    "title": "ProgAgent: Learning Tool Orchestration through Programmatic Training",
-    "url": "https://arxiv.org/abs/2610.14774v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-10T09:57:26.000Z",
-    "summary": "Large language models (LLMs) are increasingly expected to orchestrate diverse tools over long-horizon tasks. Existing agents typically use Direct Tool Calling (DTC), where the model invokes tools sequentially, and tool responses accumulate in the model context, which can lead to…"
-  },
-  {
-    "id": "1f9cc2cf",
-    "title": "HumanPhys: A Human-Centric Physical-World Perception Benchmark for Real-World Visual Reasoning",
-    "url": "https://arxiv.org/abs/2610.14679v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-10T07:50:31.000Z",
-    "summary": "We introduce HumanPhys, a human-centric benchmark for real-world physical perception, and a training corpus emitted by the same pipeline. Each question targets a physically grounded quantity related to people, including depth, inter-person distance, gaze angle, displacement, vel…"
-  },
-  {
-    "id": "a1f3e265",
-    "title": "Beyond Independent Values: Optimal Auctions with Correlated Valuations for LLM-Native Advertising",
-    "url": "https://arxiv.org/abs/2610.14646v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "RTB",
-      "AI"
-    ],
-    "published": "2026-10-10T06:57:44.000Z",
-    "summary": "Conversational assistants are becoming the place where people ask what to buy, and sponsored content is moving into their answers. Several advertisers then compete for one sponsored slot, and all of them read the same conversation, so their willingness to pay usually moves toget…"
   },
   {
     "id": "fb6e9b0f",
