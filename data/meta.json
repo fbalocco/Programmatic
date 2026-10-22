@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T17:05:38.549Z",
+  "generatedAt": "2026-10-22T21:30:02.361Z",
   "feedCount": 17,
-  "itemCount": 199,
+  "itemCount": 200,
   "errors": [
     {
       "id": "ftc-press",
@@ -76,7 +76,7 @@
       "name": "Google Ads Developer Blog",
       "category": "Platforms",
       "fetched": 25,
-      "kept": 20,
+      "kept": 21,
       "error": null
     },
     {
@@ -139,7 +139,7 @@
       "id": "doj-atr-civil-filings",
       "name": "DOJ Antitrust Division Civil Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 163,
+      "fetched": 164,
       "kept": 80,
       "error": null
     },

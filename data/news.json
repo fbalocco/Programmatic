@@ -1,14 +1,38 @@
 [
   {
+    "id": "9fccebf8",
+    "title": "Announcing beta launch of Display & Video 360 API v5",
+    "url": "http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html",
+    "source": "Google Ads Developer Blog",
+    "sourceId": "google-ads-dev-blog",
+    "category": "Platforms",
+    "tags": [],
+    "published": "2026-10-22T18:43:54.905Z",
+    "summary": "We’re pleased to announce that Display & Video 360 API v5 is available in public beta starting today. Here is a subset of changes introduced in v5: Full management of advertiser-level YouTube video and channel exclusion targeting. Support for Digital Out of Home InsertionOrder r…"
+  },
+  {
+    "id": "b70d4b0c",
+    "title": "U.S. and State of Ohio v. OhioHealth Corporation",
+    "url": "https://www.justice.gov/atr/case/us-and-state-ohio-v-ohiohealth-corporation",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-10-22T16:59:56.000Z",
+    "summary": "Documents filed on October 20, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Exhibit A"
+  },
+  {
     "id": "e67322b3",
-    "title": "Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spinoff",
+    "title": "Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off",
     "url": "https://www.adexchanger.com/tv/newly-profitable-peacock-is-the-feather-in-the-cap-of-nbcus-planned-spinoff/",
     "source": "AdExchanger",
     "sourceId": "adexchanger",
     "category": "Industry",
     "tags": [],
     "published": "2026-10-22T15:23:29.000Z",
-    "summary": "NBCUniversal might find itself in a pretty enviable position when it finally spins off from Comcast next year, judging from the third quarter earnings report the company posted on Thursday. The post Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spinoff app…"
+    "summary": "NBCUniversal might find itself in a pretty enviable position when it finally spins off from Comcast next year, judging from the third quarter earnings report the company posted on Thursday. The post Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off ap…"
   },
   {
     "id": "a7969748",
@@ -373,19 +397,6 @@
     "tags": [],
     "published": "2026-10-14T22:51:56.751Z",
     "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our \"Goog…"
-  },
-  {
-    "id": "b70d4b0c",
-    "title": "U.S. and State of Ohio v. OhioHealth Corporation",
-    "url": "https://www.justice.gov/atr/case/us-and-state-ohio-v-ohiohealth-corporation",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-10-14T20:23:19.000Z",
-    "summary": "Document Filed on July 15, 2026 Competitive Impact Statement Plaintiffs' Memorandum in Opposition to Defendant OhioHealth's Motion to Dismiss Under Fed.R.Civ.P.12(b)(6)"
   },
   {
     "id": "da63eee7",
