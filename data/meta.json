@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T11:31:16.334Z",
+  "generatedAt": "2026-10-23T17:00:15.033Z",
   "feedCount": 17,
-  "itemCount": 200,
+  "itemCount": 199,
   "errors": [
     {
       "id": "ftc-press",
@@ -91,8 +91,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4070,
-      "kept": 5,
+      "fetched": 4074,
+      "kept": 4,
       "error": null
     },
     {
