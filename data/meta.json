@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T12:51:09.690Z",
+  "generatedAt": "2026-10-26T20:26:41.606Z",
   "feedCount": 17,
-  "itemCount": 201,
+  "itemCount": 202,
   "errors": [
     {
       "id": "ftc-press",
@@ -44,7 +44,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4076,
+      "fetched": 4078,
       "kept": 4,
       "error": null
     },
