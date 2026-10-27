@@ -1,5 +1,53 @@
 [
   {
+    "id": "3f47e168",
+    "title": "From Puppies To Programmatic To AI Agents",
+    "url": "https://www.adexchanger.com/adexchanger-talks/kovva/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-27T05:30:19.000Z",
+    "summary": "Tanja Mimica will be honored at AdExchanger’s 2026 Top Women in Media & Ad Tech Awards. The gala takes place on November 4 in New York City. Join us to celebrate the leaders shaping the future of our industry. Use promo code TWTALKS to save on your ticket. Every major ad platfor…"
+  },
+  {
+    "id": "b11c9730",
+    "title": "NBCU Gets FreeWheel In The Split; Instacart Is In Stock",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-27102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-27T04:03:09.000Z",
+    "summary": "NBCU will be taking over FreeWheel; Instacart is for sale (and DoorDash is interested); and is your smart TV listening to you? The post NBCU Gets FreeWheel In The Split; Instacart Is In Stock appeared first on AdExchanger."
+  },
+  {
+    "id": "18b60803",
+    "title": "Inside indie agencies’ DSP gripes and the rise of agentic media buying",
+    "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-27T04:01:00.000Z",
+    "summary": "Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars."
+  },
+  {
+    "id": "c99f50e1",
+    "title": "Ad Tech Briefing: Stagwell’s Freestar deal brings buying and selling under one roof",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-27T04:01:00.000Z",
+    "summary": "The acquisition expands the holding company’s publisher monetization business, making fees, incentives and inventory selection a test of transparency."
+  },
+  {
     "id": "eb32faa0",
     "title": "Pinterest strengthens bid to media buyers with programmatic solution",
     "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
@@ -70,6 +118,17 @@
     "tags": [],
     "published": "2026-10-26T04:03:15.000Z",
     "summary": "Maybe Apple’s onto something with its ID vendor blocking; Formula 1 makes for a great advertising partner; and retail media is flirting with Flock. The post Why WebKit Did It; Apple’s Car In The Ads Race appeared first on AdExchanger."
+  },
+  {
+    "id": "799d25e5",
+    "title": "The Right Fact, the Wrong Decision: SciValidityBench for Scientific Agent Memory",
+    "url": "https://arxiv.org/abs/2610.34767v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-26T03:12:57.000Z",
+    "summary": "Most agent-memory benchmarks frame long-term memory as retrieval: can an agent recover the relevant record from a long and evolving history? Scientific agents face a stricter problem: a correctly remembered fact may still be invalid to use. The same reported test result can supp…"
   },
   {
     "id": "59cf9d47",
@@ -147,19 +206,6 @@
     "summary": "Chat assistants increasingly answer conceptual questions with interactive, animated explanations, generated either as free-form HTML/JavaScript or as declarative specifications that a fixed runtime plays. The declarative route is widely expected to be cheaper, faster and more re…"
   },
   {
-    "id": "1af9c021",
-    "title": "Q3: Omnicom’s Media Business Is Growing, But Is It Agent-Proof?",
-    "url": "https://www.adexchanger.com/agencies/q3-omnicoms-media-business-is-growing-but-is-it-agent-proof/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-22T23:34:10.000Z",
-    "summary": "If AI agents can plan and buy media, who needs a holding company? Good question. Toward the end of Omnicom’s third-quarter earnings call on Thursday, Tim Nollen, an equity analyst at independent financial research firm SSR, asked Omnicom’s leadership how the role of a large hold…"
-  },
-  {
     "id": "236ee849",
     "title": "TAPESTRY: an interactive resource for exploring tumor-enriched splice junctions in pediatric brain tumors",
     "url": "https://arxiv.org/abs/2610.31816v1",
@@ -195,9 +241,9 @@
     "summary": "Documents filed on October 20, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Exhibit A"
   },
   {
-    "id": "fb92c41e",
+    "id": "fa92c28b",
     "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
-    "url": "https://arxiv.org/abs/2610.31466v1",
+    "url": "https://arxiv.org/abs/2610.31466v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -206,17 +252,6 @@
     ],
     "published": "2026-10-22T15:58:39.000Z",
     "summary": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyGameRenderer, a video-to-video generative renderer that turns such footage into…"
-  },
-  {
-    "id": "e67322b3",
-    "title": "Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off",
-    "url": "https://www.adexchanger.com/tv/newly-profitable-peacock-is-the-feather-in-the-cap-of-nbcus-planned-spinoff/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-22T15:23:29.000Z",
-    "summary": "NBCUniversal might find itself in a pretty enviable position when it finally spins off from Comcast next year, judging from the third quarter earnings report the company posted on Thursday. The post Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off ap…"
   },
   {
     "id": "8d073755",
@@ -555,19 +590,6 @@
     "tags": [],
     "published": "2026-10-13T13:14:59.000Z",
     "summary": "As an SSP, we have a panoramic view of the open internet. Spikes in digital traffic reflect where consumer attention ..."
-  },
-  {
-    "id": "e65bc38c",
-    "title": "Holding Agents Accountable with Verifiable Agent Insurance",
-    "url": "https://arxiv.org/abs/2610.18230v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-13T12:01:11.000Z",
-    "summary": "While AI agents are useful for many tasks, they regularly misbehave in destructive ways, such as deleting important data. While prior work has focused on preventing such misbehavior, we consider how to recover after an agent misbehaves. We propose verifiable agent insurance (VAI…"
   },
   {
     "id": "4be32f25",
