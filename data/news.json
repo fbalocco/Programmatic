@@ -1,5 +1,31 @@
 [
   {
+    "id": "fd343564",
+    "title": "Scamming The AI Search Scrapers; Skydancing In The Dark",
+    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-28102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-28T04:03:50.000Z",
+    "summary": "Poison Tasters Agentic search traffic raises fundamental new questions for first-party data and content owners, but this is one of the biggest: Should a site allow agents to freely peruse its media or should it block scrapers as potential usurpers of the direct customer or reade…"
+  },
+  {
+    "id": "52b4ae37",
+    "title": "Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
+    "url": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-10-28T04:01:00.000Z",
+    "summary": "Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain."
+  },
+  {
     "id": "9373f18e",
     "title": "Beehiiv Brings Dynamically Inserted Podcast Ads To Its Publisher Platform",
     "url": "https://www.adexchanger.com/audio/beehiiv-brings-dynamically-inserted-podcast-ads-to-its-publisher-platform/",
@@ -70,6 +96,17 @@
     "tags": [],
     "published": "2026-10-27T04:01:00.000Z",
     "summary": "The acquisition expands the holding company’s publisher monetization business, making fees, incentives and inventory selection a test of transparency."
+  },
+  {
+    "id": "6cf543f0",
+    "title": "TAC2: Timestamped Audio Captioning as composable functions",
+    "url": "https://arxiv.org/abs/2610.36568v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-27T03:18:25.000Z",
+    "summary": "Real-world audio applications require precise, queryable representations grounded in physical time. Yet modern Large Audio-Language Models (LALMs) increasingly favor conversational generation, producing free-form descriptions that conflate acoustic perception with higher-level r…"
   },
   {
     "id": "eb32faa0",
@@ -177,20 +214,6 @@
     ],
     "published": "2026-10-23T10:06:55.000Z",
     "summary": "Large language model (LLM) agents are increasingly capable of supporting scientific workflows, but their capabilities across diverse research activities remain difficult to assess systematically. Existing benchmarks often focus on selected scientific capabilities or task types,…"
-  },
-  {
-    "id": "8ffe58bc",
-    "title": "Identity Resolution Goes The Way Of The Cookie",
-    "url": "https://www.adexchanger.com/the-big-story/identity-resolution-goes-the-way-of-the-cookie/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy",
-      "Identity"
-    ],
-    "published": "2026-10-23T09:00:27.000Z",
-    "summary": "Safari is tracking the trackers. Apple officially blocked identity resolution providers this week. Our guest, Zach Edwards, a cybersecurity researcher and the co-founder of DecryptAds, puts the decision into context. Plus: Edwards discusses his research into how programmatic cha…"
   },
   {
     "id": "8999e54b",
@@ -568,17 +591,6 @@
     ],
     "published": "2026-10-14T08:58:24.000Z",
     "summary": "Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a…"
-  },
-  {
-    "id": "03e4132f",
-    "title": "EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence",
-    "url": "https://arxiv.org/abs/2610.18867v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-13T17:59:51.000Z",
-    "summary": "Coding agents can construct executable programs and revise them through feedback, offering a foundation for embodied control without target-task fine-tuning. Through a programmatic robot interface, the agent observes the scene, executes control programs, and adapts them to the r…"
   },
   {
     "id": "4757a301",
