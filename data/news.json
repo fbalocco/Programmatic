@@ -1,5 +1,43 @@
 [
   {
+    "id": "2cd86e80",
+    "title": "Meta’s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
+    "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-10-29T05:00:13.000Z",
+    "summary": "Last week, a district court judge in New Mexico ordered Meta to pay $25 billion for misleading Facebook users about how it handled their data. It’s an eye-popping number, not only the largest fine ever levied against Meta, but also the largest ever levied against any technology…"
+  },
+  {
+    "id": "09197cc0",
+    "title": "Can We Really Blame Apple For Blocking ID Tech?",
+    "url": "https://www.adexchanger.com/data-driven-thinking/can-we-really-blame-apple-for-blocking-id-tech/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-29T04:35:21.000Z",
+    "summary": "Earlier this month, ad tech received its latest warning about the cybersecurity vulnerabilities baked into programmatic advertising. That context is largely missing from discussions about Apple’s plan to disable the third-party ID infrastructure that powers digital advertising o…"
+  },
+  {
+    "id": "1d2ae201",
+    "title": "The Server-Side Escape Plan; A Lament For The Dead Internet",
+    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-29102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Identity"
+    ],
+    "published": "2026-10-29T04:03:57.000Z",
+    "summary": "Should identity infrastructure move server-side? Plus: The “dead internet theory” hardly seems like a theory anymore. The post The Server-Side Escape Plan; A Lament For The Dead Internet appeared first on AdExchanger."
+  },
+  {
     "id": "5c5ecd0a",
     "title": "Google Earned More Than $100 Billion In Ad Revenue Last Quarter, But Is It Even An Ad Business?",
     "url": "https://www.adexchanger.com/platforms/google-earned-more-than-100-billion-in-ad-revenue-last-quarter-but-is-it-even-an-ad-business/",
@@ -99,30 +137,6 @@
     "summary": "Pie, an AI-powered growth platform for SMBs, aims to give smaller businesses affordable access to AI tools that often cater to larger businesses with bigger budgets. The post This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs appeared first on AdExchanger."
   },
   {
-    "id": "3f47e168",
-    "title": "From Puppies To Programmatic To AI Agents",
-    "url": "https://www.adexchanger.com/adexchanger-talks/kovva/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-27T05:30:19.000Z",
-    "summary": "Tanja Mimica will be honored at AdExchanger’s 2026 Top Women in Media & Ad Tech Awards. The gala takes place on November 4 in New York City. Join us to celebrate the leaders shaping the future of our industry. Use promo code TWTALKS to save $100 on the cost of your ticket. Every…"
-  },
-  {
-    "id": "b11c9730",
-    "title": "NBCU Gets FreeWheel In The Split; Instacart Is In Stock",
-    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-27102026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-27T04:03:09.000Z",
-    "summary": "NBCU will be taking over FreeWheel; Instacart is for sale (and DoorDash is interested); and is your smart TV listening to you? The post NBCU Gets FreeWheel In The Split; Instacart Is In Stock appeared first on AdExchanger."
-  },
-  {
     "id": "18b60803",
     "title": "Inside indie agencies’ DSP gripes and the rise of agentic media buying",
     "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
@@ -134,17 +148,6 @@
     ],
     "published": "2026-10-27T04:01:00.000Z",
     "summary": "Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars."
-  },
-  {
-    "id": "c99f50e1",
-    "title": "Ad Tech Briefing: Stagwell’s Freestar deal brings buying and selling under one roof",
-    "url": "https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-27T04:01:00.000Z",
-    "summary": "The acquisition expands the holding company’s publisher monetization business, making fees, incentives and inventory selection a test of transparency."
   },
   {
     "id": "6cf543f0",
@@ -167,19 +170,6 @@
     "tags": [],
     "published": "2026-10-26T14:40:00.000Z",
     "summary": "Magnite is the supply-side partner for Programmatic Deals and Amazon Ads DVA+, Google Display & Video 360 and Yahoo DSP are demand-side partners."
-  },
-  {
-    "id": "43b0f5f4",
-    "title": "Stagwell Acquires Publisher Monetization Network Freestar",
-    "url": "https://www.adexchanger.com/agencies/stagwell-acquires-publisher-monetization-network-freestar/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-26T14:30:13.000Z",
-    "summary": "Agency holding company Stagwell is acquiring publisher monetization network Freestar, it announced Monday. The deal is the latest sign that media buyers are moving closer to publishers to shorten supply paths and get at the audience data they need to train AI agents. The compani…"
   },
   {
     "id": "799d25e5",
