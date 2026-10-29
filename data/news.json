@@ -1,5 +1,58 @@
 [
   {
+    "id": "491b5d84",
+    "title": "DoorDash Acquires Instacart As Consolidation Comes For Mobility Media",
+    "url": "https://www.adexchanger.com/marketers/doordash-acquires-instacart-as-consolidation-comes-for-mobility-media/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-29T16:49:25.000Z",
+    "summary": "DoorDash on Thursday confirmed the rumors and announced its intention to acquire Instacart at a $17 billion valuation. The deal is a logical one for a variety of reasons. The two fit into the same category of mobile app-based, last-mile-fulfillment specialists that have shoehorn…"
+  },
+  {
+    "id": "48c49a49",
+    "title": "Tatari Gives CTV Ad Matching The Max Treatment",
+    "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV",
+      "AI"
+    ],
+    "published": "2026-10-29T13:00:26.000Z",
+    "summary": "Tatari's new optimization engine sits at the ad server level and uses machine learning to determine which TV ads to serve to which audiences. The post Tatari Gives CTV Ad Matching The Max Treatment appeared first on AdExchanger."
+  },
+  {
+    "id": "bc92f436",
+    "title": "Justice Department Provides Update on Collaboration with State Attorneys General on Review of Local Mergers",
+    "url": "https://www.justice.gov/opa/pr/justice-department-provides-update-collaboration-state-attorneys-general-review-local",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-10-29T12:00:00.000Z",
+    "summary": "The Department of Justice provided the following update on the Antitrust Division’s collaboration with state Attorneys General regarding investigations of mergers with predominantly intrastate effects."
+  },
+  {
+    "id": "bc0adb78",
+    "title": "Antitrust Division Announces Successful Referrals in Two Local Asphalt Merger Investigations to State Attorneys General",
+    "url": "https://www.justice.gov/opa/pr/antitrust-division-announces-successful-referrals-two-local-asphalt-merger-investigations",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-10-29T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division provided the following statement on the closing of its investigations into two transactions that presented competition issues in local asphalt markets: (1) the acquisition of Suit-Kote Corporation by Colas Inc., a subsidiary of Bouygue…"
+  },
+  {
     "id": "2cd86e80",
     "title": "Meta’s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
     "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
@@ -113,30 +166,6 @@
     "summary": "Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain."
   },
   {
-    "id": "9373f18e",
-    "title": "Beehiiv Brings Dynamically Inserted Podcast Ads To Its Publisher Platform",
-    "url": "https://www.adexchanger.com/audio/beehiiv-brings-dynamically-inserted-podcast-ads-to-its-publisher-platform/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-27T13:00:38.000Z",
-    "summary": "Content discovery has moved away from the channels controlled by publishers and their audiences. People just don’t go to websites like they used to, which has some media industry insiders declaring that the pageview era of digital publishing is dead. Meanwhile, search, social me…"
-  },
-  {
-    "id": "0d068cd6",
-    "title": "This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs",
-    "url": "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-27T12:54:52.000Z",
-    "summary": "Pie, an AI-powered growth platform for SMBs, aims to give smaller businesses affordable access to AI tools that often cater to larger businesses with bigger budgets. The post This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs appeared first on AdExchanger."
-  },
-  {
     "id": "18b60803",
     "title": "Inside indie agencies’ DSP gripes and the rise of agentic media buying",
     "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
@@ -159,17 +188,6 @@
     "tags": [],
     "published": "2026-10-27T03:18:25.000Z",
     "summary": "Real-world audio applications require precise, queryable representations grounded in physical time. Yet modern Large Audio-Language Models (LALMs) increasingly favor conversational generation, producing free-form descriptions that conflate acoustic perception with higher-level r…"
-  },
-  {
-    "id": "eb32faa0",
-    "title": "Pinterest strengthens bid to media buyers with programmatic solution",
-    "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
-    "source": "Marketing Dive",
-    "sourceId": "marketingdive",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-26T14:40:00.000Z",
-    "summary": "Magnite is the supply-side partner for Programmatic Deals and Amazon Ads DVA+, Google Display & Video 360 and Yahoo DSP are demand-side partners."
   },
   {
     "id": "799d25e5",
@@ -1421,20 +1439,6 @@
     "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
   },
   {
-    "id": "496428a8",
-    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-02T12:00:00.000Z",
-    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
-  },
-  {
     "id": "57eaf726",
     "title": "U.S. and Plaintiff States v. Live Nation Entertainment, Inc. and Ticketmaster L.L.C..",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc",
@@ -1444,20 +1448,6 @@
     "tags": [],
     "published": "2026-06-30T21:36:22.000Z",
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "847ceeb1",
-    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
-    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-06-30T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
   },
   {
     "id": "deb47892",
