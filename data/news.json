@@ -1,5 +1,30 @@
 [
   {
+    "id": "58b13679",
+    "title": "Ghost Audiences Are Haunting CTV Measurement",
+    "url": "https://www.adexchanger.com/on-tv-and-video/ghost-audiences-are-haunting-ctv-measurement/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "CTV"
+    ],
+    "published": "2026-10-30T04:35:43.000Z",
+    "summary": "CTV upfront spend surpassed linear for the first time this year. And yet the industry continues to value audiences using metrics built for a bygone era. The post Ghost Audiences Are Haunting CTV Measurement appeared first on AdExchanger."
+  },
+  {
+    "id": "41ce34e2",
+    "title": "‘E’ For ‘Exactly The Same As Always’; Google’s Very Bad Day On Wall Street",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-30102026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-10-30T04:03:38.000Z",
+    "summary": "How ad tech vendors misuse extended identifiers; Google’s search ad business worries investors; and why TelevisaUnivision plans to expand its sports portfolio. The post ‘E’ For ‘Exactly The Same As Always’; Google’s Very Bad Day On Wall Street appeared first on AdExchanger."
+  },
+  {
     "id": "07525af0",
     "title": "Reddit Is Going Login Only. Blame Google.",
     "url": "https://www.adexchanger.com/platforms/reddit-is-going-login-only-blame-google/",
@@ -77,6 +102,19 @@
     "summary": "The Justice Department’s Antitrust Division provided the following statement on the closing of its investigations into two transactions that presented competition issues in local asphalt markets: (1) the acquisition of Suit-Kote Corporation by Colas Inc., a subsidiary of Bouygue…"
   },
   {
+    "id": "5b212a75",
+    "title": "Compile Away Uncertainty: Self-Evolving Agent Skills via Programmatic Compilation",
+    "url": "https://arxiv.org/abs/2610.39508v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-29T07:07:17.000Z",
+    "summary": "Self-evolving agent skills enable AI agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. However, since such skills are typically represented as textual documents and executed through LLM reasoning, even pr…"
+  },
+  {
     "id": "2cd86e80",
     "title": "Meta’s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
     "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
@@ -126,30 +164,6 @@
     "summary": "What Google advertising business? To be fair, Google did earn $127.6 billion in Q3 this year, up a staggering 25% from a year before. And that’s practically all from advertising. YouTube Ads cleared $11.2 billion, up almost 10% year over year, while Google Search advertising gre…"
   },
   {
-    "id": "37e44e4a",
-    "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
-    "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-28T16:00:04.000Z",
-    "summary": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it introduced last year, and a new generative recommendations…"
-  },
-  {
-    "id": "3f5407b7",
-    "title": "Marketbridge Acquires The B2B Advertising And Analytics Startup Channel99",
-    "url": "https://www.adexchanger.com/marketers/marketbridge-acquires-channel99-a-specialized-dsp-for-b2b/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-28T13:00:02.000Z",
-    "summary": "Who doesn’t know that doleful tune, “The agencies they are a-changin’.” That’s not exactly how Bob Dylan sang it in the original, but it’s not wrong. One such agency is Marketbridge, a 35-year-old B2B marketing firm that’s been a recent acquirer of agency and consultancy service…"
-  },
-  {
     "id": "52b4ae37",
     "title": "Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
     "url": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/",
@@ -163,6 +177,39 @@
     "summary": "Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain."
   },
   {
+    "id": "d9a625f7",
+    "title": "Beyond Similarity Search: Knowledge Graph Metadata Enrichment for Enterprise Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.37728v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-27T12:09:48.000Z",
+    "summary": "A key challenge of RAG systems is retrieving information from enterprise documents created by multiple teams over time, where it is not possible to enrich the information using the latest information and metadata available outside the scope of organizational documentation respon…"
+  },
+  {
+    "id": "6cf543f0",
+    "title": "TAC2: Timestamped Audio Captioning as composable functions",
+    "url": "https://arxiv.org/abs/2610.36568v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-27T03:18:25.000Z",
+    "summary": "Real-world audio applications require precise, queryable representations grounded in physical time. Yet modern Large Audio-Language Models (LALMs) increasingly favor conversational generation, producing free-form descriptions that conflate acoustic perception with higher-level r…"
+  },
+  {
+    "id": "799d25e5",
+    "title": "The Right Fact, the Wrong Decision: SciValidityBench for Scientific Agent Memory",
+    "url": "https://arxiv.org/abs/2610.34767v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-26T03:12:57.000Z",
+    "summary": "Most agent-memory benchmarks frame long-term memory as retrieval: can an agent recover the relevant record from a long and evolving history? Scientific agents face a stricter problem: a correctly remembered fact may still be invalid to use. The same reported test result can supp…"
+  },
+  {
     "id": "59cf9d47",
     "title": "Intelligence, Meet Impression: What Sell-Side Decisioning Means for Programmatic Advertising",
     "url": "https://www.indexexchange.com/2026/10/23/intelligence-meet-impression/",
@@ -172,6 +219,43 @@
     "tags": [],
     "published": "2026-10-23T13:00:00.000Z",
     "summary": "For years, most programmatic decisioning has lived on the buy side, far from the moment an ad opportunity begins. That ..."
+  },
+  {
+    "id": "d3a28c12",
+    "title": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+    "url": "https://arxiv.org/abs/2610.32441v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-23T10:06:55.000Z",
+    "summary": "Large language model (LLM) agents are increasingly capable of supporting scientific workflows, but their capabilities across diverse research activities remain difficult to assess systematically. Existing benchmarks often focus on selected scientific capabilities or task types,…"
+  },
+  {
+    "id": "8999e54b",
+    "title": "Shorter Is Not Cheaper: A Controlled Comparison of Declarative Animation Specifications and Free-Form Code for LLM-Generated Explanations",
+    "url": "https://arxiv.org/abs/2610.32129v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-23T03:56:19.000Z",
+    "summary": "Chat assistants increasingly answer conceptual questions with interactive, animated explanations, generated either as free-form HTML/JavaScript or as declarative specifications that a fixed runtime plays. The declarative route is widely expected to be cheaper, faster and more re…"
+  },
+  {
+    "id": "236ee849",
+    "title": "TAPESTRY: an interactive resource for exploring tumor-enriched splice junctions in pediatric brain tumors",
+    "url": "https://arxiv.org/abs/2610.31816v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-22T18:53:50.000Z",
+    "summary": "TAPESTRY (https://tapestry.rokitalab.com) is a database and web application for exploring recurrent tumor-enriched splice junctions (TEJs) in pediatric brain tumors, cancers that carry few protein-coding mutations and therefore few mutation-derived neoantigens. However, TEJs rep…"
   },
   {
     "id": "9fccebf8",
@@ -198,6 +282,56 @@
     "summary": "Documents filed on October 20, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Exhibit A"
   },
   {
+    "id": "f992c0f8",
+    "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+    "url": "https://arxiv.org/abs/2610.31466v3",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-22T15:58:39.000Z",
+    "summary": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyGameRenderer, a video-to-video generative renderer that turns such footage into…"
+  },
+  {
+    "id": "8d073755",
+    "title": "Typed Template Fuzzing",
+    "url": "https://arxiv.org/abs/2610.31342v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-22T14:26:20.000Z",
+    "summary": "Fuzzing software with complex inputs has been a longstanding challenge. Traditionally, fuzzers either programmatically encode language constraints, requiring significant engineering effort, or rely on users to declare grammars and constraints. Recent LLM-based fuzzers address th…"
+  },
+  {
+    "id": "3d02cac4",
+    "title": "DagFlow AI: Agentic Synthetic Data Generation for Personalized Statistics Learning",
+    "url": "https://arxiv.org/abs/2610.30580v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-22T01:17:37.000Z",
+    "summary": "To provide personalized learning experiences in courses that teach data analysis skills, instructors often search for datasets that appeal to a student's interests, align with specific learning objectives, and are appropriate for the student's skill level. Datasets that match al…"
+  },
+  {
+    "id": "defd21e2",
+    "title": "RubricCraft: Where Solutions Diverge, Criteria Emerge",
+    "url": "https://arxiv.org/abs/2610.31707v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-21T21:13:36.000Z",
+    "summary": "Evaluating language agents on open-ended, artifact-producing tasks is difficult: model-based graders can be inconsistent, while exhaustive programmatic checks are often impractical. Textual rubrics make evaluation criteria explicit, but writing them requires domain expertise. Ru…"
+  },
+  {
     "id": "734eb8b0",
     "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
     "url": "http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html",
@@ -207,6 +341,39 @@
     "tags": [],
     "published": "2026-10-21T17:04:53.294Z",
     "summary": "Starting December 4, 2026, image extraction (GENERATE_IMAGE_EXTRACTION) will be enabled by default (OPTED_IN) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API, Google Ads UI, and Google Ads Editor. Crucially, this new cam…"
+  },
+  {
+    "id": "20ca9177",
+    "title": "Reference Manual of MEDiml",
+    "url": "https://arxiv.org/abs/2610.29666v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-21T12:41:23.000Z",
+    "summary": "Radiomics is the high-throughput extraction of quantitative features (e.g., tumor shape, intensity distributions, and texture) from medical images to characterize tissues and uncover disease patterns invisible to the human eye. These features can serve as candidate imaging bioma…"
+  },
+  {
+    "id": "9b20aebd",
+    "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+    "url": "https://arxiv.org/abs/2610.29014v2",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-21T00:28:16.000Z",
+    "summary": "Coding agents are rapidly advancing from single-file generation to long-horizon repository-scale engineering, yet the evaluation of their capabilities to author interactive extended reality (XR) applications remains an open challenge. Unlike traditional software, XR applications…"
+  },
+  {
+    "id": "7f4c4856",
+    "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
+    "url": "https://arxiv.org/abs/2610.28819v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-20T18:40:22.000Z",
+    "summary": "Common instruction following (IF) benchmarks, such as IFEval, evaluate the ability of language models (LMs) to follow simple constraints that can easily be verified programmatically. These same constraints, in turn, are used as reward signals for reinforcement learning. This des…"
   },
   {
     "id": "5c9ce6e3",
@@ -223,6 +390,19 @@
     "summary": ""
   },
   {
+    "id": "5c50123f",
+    "title": "Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V",
+    "url": "https://arxiv.org/abs/2610.28416v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-20T15:51:41.000Z",
+    "summary": "Code-based video generation offers fine-grained control, targeted editing, and component reuse compared with direct video generation. This approach requires multimodal large language models (MLLMs) to translate visual and temporal requirements into executable programs that produ…"
+  },
+  {
     "id": "1f681d85",
     "title": "The EU KIDS Act Could Put Young Gamers' Privacy at Risk",
     "url": "https://techpolicy.press/the-eu-kids-act-could-put-young-gamers-privacy-at-risk",
@@ -234,6 +414,69 @@
     ],
     "published": "2026-10-20T08:34:30.000Z",
     "summary": ""
+  },
+  {
+    "id": "5d35ce36",
+    "title": "TxnQA: Benchmarking Analytical Reasoning and Evidence Grounding over Transaction Event Sequences",
+    "url": "https://arxiv.org/abs/2610.27256v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-19T20:25:47.000Z",
+    "summary": "Analyzing merchant transaction histories requires dynamic temporal filtering, entity resolution, and aggregation over irregular event streams--operations poorly captured by static tabular or time-series forecasting benchmarks. We introduce TxnQA, an analytical QA benchmark compr…"
+  },
+  {
+    "id": "1a2ed1ce",
+    "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+    "url": "https://arxiv.org/abs/2610.26826v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-19T17:55:06.000Z",
+    "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evalua…"
+  },
+  {
+    "id": "bf9f6195",
+    "title": "Symbolic Constraint Agents: Mining Formal Tool-Call Constraints to Prevent Agent Errors",
+    "url": "https://arxiv.org/abs/2610.25552v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-18T21:49:20.000Z",
+    "summary": "Symbolic constraints (programmatic, deterministic checks for tool calls) enable deterministic verification of LLM agents' tool calls, but existing approaches primarily enforce predefined safety policies rather than tool dependencies in complex tool environments. We explore wheth…"
+  },
+  {
+    "id": "bbfe3401",
+    "title": "CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents",
+    "url": "https://arxiv.org/abs/2610.24960v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-18T02:20:30.000Z",
+    "summary": "AI coworkers must coordinate tools, communicate across turns, and act on changing workspace state while respecting workflow constraints. Constructing training experience for these capabilities requires coherent requests, service records, tool interfaces, and grading checks. We p…"
+  },
+  {
+    "id": "8f1188b5",
+    "title": "ReTRACE: Feedback-Guided LLM Agent in a Chemistry Harness for Retrosynthesis Planning",
+    "url": "https://arxiv.org/abs/2610.24744v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-17T15:22:01.000Z",
+    "summary": "Computer-aided retrosynthesis has advanced through single-step prediction, tree search and route scoring, but complex targets still require judgement over the whole route, where stereochemistry, functional-group compatibility, cost and greenness interact. Here we present \\textbf…"
   },
   {
     "id": "9ccc1700",
@@ -249,6 +492,19 @@
     "summary": "Documents filed on October 13, 2026 Plaintiffs' Supplemental Joint Recommendation for Template Search and Search Text Ads Syndication License Agreement Appendix A [REDACTED - PUBLIC VERSION] Plaintiffs' Joint Recommendation for Template Search and Search Text Ads Syndication Agr…"
   },
   {
+    "id": "191e1d39",
+    "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
+    "url": "https://arxiv.org/abs/2610.24090v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-16T18:20:13.000Z",
+    "summary": "Does persistent memory accumulated from previous attempts help an LLM agent solve new problems, and does memory design affect that benefit? We study programmatic Chinese-character drawing across five agent conditions attempting the same 668 items. Accumulated memory produces mod…"
+  },
+  {
     "id": "3473af7a",
     "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
     "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
@@ -260,6 +516,50 @@
     ],
     "published": "2026-10-16T12:00:00.000Z",
     "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principl…"
+  },
+  {
+    "id": "23cc66ab",
+    "title": "LongForge: Measuring and Improving Long-Context Instruction Data via Evidence-Assertion Reasoning Graphs",
+    "url": "https://arxiv.org/abs/2610.23167v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-16T09:05:30.000Z",
+    "summary": "Existing quality control for long-context instruction-tuning data is a one-shot judgment inside the generation pipeline that leaves only a scalar, revealing neither which document parts an answer uses nor how many reasoning steps it writes down; the data can thus be neither audi…"
+  },
+  {
+    "id": "ce01146b",
+    "title": "TRACE: Trustworthy Reasoning from Acoustic Cues and Evidence",
+    "url": "https://arxiv.org/abs/2610.26894v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T19:59:23.000Z",
+    "summary": "We introduce TRACE (Trustworthy Reasoning from Acoustic Cues and Evidence), a benchmark for diagnosing the reliability of large audio-language models (LALMs) by revealing when, and under what acoustic conditions these models behave untrustworthily. Existing benchmarks primarily…"
+  },
+  {
+    "id": "66dcd0a7",
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "url": "https://arxiv.org/abs/2610.22234v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T17:14:02.000Z",
+    "summary": "Real desktop automation is neither purely visual nor purely programmatic. Agents must understand user-facing interfaces while efficiently manipulating files, scripts, and system state. However, native GUI/code coordination cannot be obtained by prompt-level tool composition. In…"
+  },
+  {
+    "id": "a75ed280",
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "url": "https://arxiv.org/abs/2610.22200v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-15T16:51:35.000Z",
+    "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how t…"
   },
   {
     "id": "b1497ba0",
