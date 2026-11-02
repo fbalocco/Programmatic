@@ -1,5 +1,40 @@
 [
   {
+    "id": "9a361bf6",
+    "title": "Affle Acquires Perion For $420 Million, Because ‘Synergies’",
+    "url": "https://www.adexchanger.com/platforms/affle-acquires-perion-for-420-million-because-synergies/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-02T17:03:43.000Z",
+    "summary": "If you ask the executive leadership of Affle and Perion why the two companies are merging, the answer you’ll get is “synergies.” Tal Jacobson, Perion’s CEO, is well aware that the term has become a total cliche. “Every time I write an email and use ‘synergy,’ Google pops up and…"
+  },
+  {
+    "id": "1a18a4a8",
+    "title": "Fox Doesn’t Want To Talk About Roku, But It’s Got Lots To Say About Tubi And Politics",
+    "url": "https://www.adexchanger.com/tv/fox-doesnt-want-to-talk-about-roku-but-its-got-lots-to-say-about-tubi-and-politics/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-02T16:09:56.000Z",
+    "summary": "Any investor hoping to ask about Fox’s pending Roku acquisition during its fiscal Q1 2027 earnings call on Monday was out of luck. Fox’s IR rep made that clear up front and pointed analysts to Fox’s SEC filings instead. However, CEO Lachlan Murdoch did share a mini update, inclu…"
+  },
+  {
+    "id": "9ad60306",
+    "title": "AI Labels Don’t Tell Consumers Whether An Ad’s Claims Are Real",
+    "url": "https://www.adexchanger.com/data-driven-thinking/ai-labels-dont-tell-consumers-whether-an-ads-claims-are-real/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-02T05:25:16.000Z",
+    "summary": "Disclosure: Sourin Chakrabarti works on AI labeling for advertising at Meta. The views expressed are his own and do not represent Meta. In October 2025, three clips appearing to show police detaining and pepper-spraying protesters racked up millions of views across X, Instagram…"
+  },
+  {
     "id": "113624a7",
     "title": "Down To The Wire To Acquire; Meta Wants To Be TV, Too",
     "url": "https://www.adexchanger.com/daily-news-roundup/monday-02112026/",
@@ -166,33 +201,6 @@
     "summary": "In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference\" (ATI) (similar to zero-shot inference), rather than those designed for pre-training fine-tuning. To achieve this m…"
   },
   {
-    "id": "491b5d84",
-    "title": "DoorDash Acquires Instacart As Consolidation Comes For Mobility Media",
-    "url": "https://www.adexchanger.com/marketers/doordash-acquires-instacart-as-consolidation-comes-for-mobility-media/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-29T16:49:25.000Z",
-    "summary": "DoorDash on Thursday confirmed the rumors and announced its intention to acquire Instacart at a $17 billion valuation. The deal is a logical one for a variety of reasons. The two fit into the same category of mobile app-based, last-mile-fulfillment specialists that have shoehorn…"
-  },
-  {
-    "id": "48c49a49",
-    "title": "Tatari Gives CTV Ad Matching The Max Treatment",
-    "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-10-29T13:00:26.000Z",
-    "summary": "Tatari's new optimization engine sits at the ad server level and uses machine learning to determine which TV ads to serve to which audiences. The post Tatari Gives CTV Ad Matching The Max Treatment appeared first on AdExchanger."
-  },
-  {
     "id": "bc92f436",
     "title": "Justice Department Provides Update on Collaboration with State Attorneys General on Review of Local Mergers",
     "url": "https://www.justice.gov/opa/pr/justice-department-provides-update-collaboration-state-attorneys-general-review-local",
@@ -230,20 +238,6 @@
     ],
     "published": "2026-10-29T07:07:17.000Z",
     "summary": "Self-evolving agent skills enable AI agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. However, since such skills are typically represented as textual documents and executed through LLM reasoning, even pr…"
-  },
-  {
-    "id": "2cd86e80",
-    "title": "Meta’s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
-    "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Privacy",
-      "Policy"
-    ],
-    "published": "2026-10-29T05:00:13.000Z",
-    "summary": "Last week, a district court judge in New Mexico ordered Meta to pay $25 billion for misleading Facebook users about how it handled their data. It’s an eye-popping number, not only the largest fine ever levied against Meta, but also the largest ever levied against any technology…"
   },
   {
     "id": "d9a625f7",
@@ -559,20 +553,6 @@
     ],
     "published": "2026-10-16T12:00:00.000Z",
     "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principl…"
-  },
-  {
-    "id": "b1497ba0",
-    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-10-15T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "c82d87ed",
@@ -908,19 +888,6 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
-    "id": "c3aa078c",
-    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-09-22T12:00:00.000Z",
-    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
-  },
-  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -932,20 +899,6 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
-  },
-  {
-    "id": "627a1b7a",
-    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
-    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-09-17T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1360,19 +1313,6 @@
     "summary": "Today, we’re announcing the v25 release of the Google Ads API. This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have b…"
   },
   {
-    "id": "ceaaae82",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-07-08T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
-  },
-  {
     "id": "a50b8939",
     "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
     "url": "http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html",
@@ -1409,6 +1349,34 @@
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
   },
   {
+    "id": "3057e5b7",
+    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
+    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-03T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
+  },
+  {
+    "id": "496428a8",
+    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
+    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-02T12:00:00.000Z",
+    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
+  },
+  {
     "id": "57eaf726",
     "title": "U.S. and Plaintiff States v. Live Nation Entertainment, Inc. and Ticketmaster L.L.C..",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc",
@@ -1420,6 +1388,20 @@
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
   },
   {
+    "id": "847ceeb1",
+    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-06-30T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
+  },
+  {
     "id": "deb47892",
     "title": "U.S. and Plaintiff States v. Constellation Energy Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-constellation-energy-corporation-et-al",
@@ -1429,6 +1411,20 @@
     "tags": [],
     "published": "2026-06-22T14:28:25.000Z",
     "summary": "Document posted on May 26, 2026 Final Judgment"
+  },
+  {
+    "id": "980e8937",
+    "title": "Justice Department Requires OhioHealth to Stop Using Anticompetitive Healthcare Contract Terms That Raise Costs for Ohio Patients",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-ohiohealth-stop-using-anticompetitive-healthcare-contract-terms",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-06-16T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ civil antitrust lawsuit against OhioHealth Corporation (OhioHealth) challenging the company’s anticompetitive contract restrictions. The proposed settlement would make hea…"
   },
   {
     "id": "197ed2e1",
