@@ -1,5 +1,29 @@
 [
   {
+    "id": "4d653789",
+    "title": "Chord Buys Its Rival Zenlytic To Build An Agentic Version Of A CDP",
+    "url": "https://www.adexchanger.com/commerce/chord-buys-its-rival-zenlytic-to-build-an-agentic-version-of-a-cdp/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-03T14:49:11.000Z",
+    "summary": "Two data infrastructure startups with agentic commerce ambitions are combining forces. On Tuesday, Chord, a 6-year-old commerce tech startup, acquired Zenlytic, an AI startup with an anthropomorphized data analyst agent named “Zoë,” for $5 million. Chord’s co-founder and CEO, Br…"
+  },
+  {
+    "id": "c64aba12",
+    "title": "This Ad Tech Company Wants To Ensure Brands Don’t Go Viral For The Wrong Reasons",
+    "url": "https://www.adexchanger.com/ai/this-ad-tech-company-wants-to-ensure-brands-dont-go-viral-for-the-wrong-reasons/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-03T07:00:12.000Z",
+    "summary": "Digital Culture Group aims to stop ineffective or offensive ads before they ever go live by preemptively determining what will resonate with – or push away – an audience. The post This Ad Tech Company Wants To Ensure Brands Don’t Go Viral For The Wrong Reasons appeared first on…"
+  },
+  {
     "id": "0a82a1f7",
     "title": "OpenAI May Not Be So Open For Long; Prediction Markets Bet On Endorsements",
     "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-03112026/",
@@ -33,6 +57,19 @@
     "tags": [],
     "published": "2026-11-03T05:01:00.000Z",
     "summary": "Digiday’s executive editor of news Seb Joseph and senior ad tech reporter Ronan Shields joined the Digiday Podcast to hash out ad tech’s Game of Thrones amid the server-side shift."
+  },
+  {
+    "id": "adc1802d",
+    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+    "url": "https://arxiv.org/abs/2611.03575v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-02T18:27:55.000Z",
+    "summary": "Large language model (LLM) coding agents increasingly operate with shell access, allowing them to write scripts, move files, alter permissions, and modify system configurations. However, an agent may achieve a user's goal while causing unintended harm, such as deleting unrelated…"
   },
   {
     "id": "9a361bf6",
@@ -275,17 +312,6 @@
     "summary": "CTV upfront spend surpassed linear for the first time this year. And yet the industry continues to value audiences using metrics built for a bygone era. The post Ghost Audiences Are Haunting CTV Measurement appeared first on AdExchanger."
   },
   {
-    "id": "41ce34e2",
-    "title": "‘E’ For ‘Exactly The Same As Always’; Google’s Very Bad Day On Wall Street",
-    "url": "https://www.adexchanger.com/daily-news-roundup/friday-30102026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-30T04:03:38.000Z",
-    "summary": "How ad tech vendors misuse extended identifiers; Google’s search ad business worries investors; and why TelevisaUnivision plans to expand its sports portfolio. The post ‘E’ For ‘Exactly The Same As Always’; Google’s Very Bad Day On Wall Street appeared first on AdExchanger."
-  },
-  {
     "id": "92ca8c56",
     "title": "ORCHID: Connecting Finite-Temperature Thermodynamic Evidence to Computational Materials Discovery",
     "url": "https://arxiv.org/abs/2610.41164v1",
@@ -306,17 +332,6 @@
     "tags": [],
     "published": "2026-10-30T01:09:20.000Z",
     "summary": "Rooftop solar potential estimation often relies on LiDAR, digital surface models (DSMs), or pipelines that explicitly reconstruct roof geometry before estimating solar potential. We propose Direct Rooftop Solar Prediction (DRSP), an end-to-end formulation that maps satellite ima…"
-  },
-  {
-    "id": "07525af0",
-    "title": "Reddit Is Going Login Only. Blame Google",
-    "url": "https://www.adexchanger.com/platforms/reddit-is-going-login-only-blame-google/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-30T00:10:53.000Z",
-    "summary": "Reddit is getting ready to shift to a login-only experience, CEO and Co-Founder Steve Huffman told investors on the company’s Q3 earnings call on Thursday. Starting in Q4, Reddit will test logged-in-only mode in “select markets outside the US,” Huffman said, calling it the first…"
   },
   {
     "id": "1abf44a6",
@@ -498,19 +513,6 @@
     ],
     "published": "2026-10-22T14:26:20.000Z",
     "summary": "Fuzzing software with complex inputs has been a longstanding challenge. Traditionally, fuzzers either programmatically encode language constraints, requiring significant engineering effort, or rely on users to declare grammars and constraints. Recent LLM-based fuzzers address th…"
-  },
-  {
-    "id": "3d02cac4",
-    "title": "DagFlow AI: Agentic Synthetic Data Generation for Personalized Statistics Learning",
-    "url": "https://arxiv.org/abs/2610.30580v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-22T01:17:37.000Z",
-    "summary": "To provide personalized learning experiences in courses that teach data analysis skills, instructors often search for datasets that appeal to a student's interests, align with specific learning objectives, and are appropriate for the student's skill level. Datasets that match al…"
   },
   {
     "id": "734eb8b0",
