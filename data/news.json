@@ -1,5 +1,42 @@
 [
   {
+    "id": "b85110d1",
+    "title": "DoorDash’s Instacart Deal: What A Successful Integration Will Mean For Retailers",
+    "url": "https://www.adexchanger.com/data-driven-thinking/doordashs-instacart-deal-what-a-successful-integration-will-mean-for-retailers/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-04T05:35:59.000Z",
+    "summary": "Running a local business is already a full-time job. Becoming an expert in every advertising platform shouldn’t become a second one. So will DoorDash’s $17 billion acquisition of Instacart make local retailers’ jobs any easier? It can, if the combined company makes its tools pra…"
+  },
+  {
+    "id": "e1a9537f",
+    "title": "Google Plays Hardball With Schoolchildren; Reddit Upvotes Search Ads",
+    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-04T05:03:50.000Z",
+    "summary": "All Or Nothing Schools looking to ban AI for students are realizing just how much weight Google has to throw around. It’s a story publishers and ad tech companies know well. As more K-12 schools ban AI, Google is playing ball by turning off the AI features in its products (unles…"
+  },
+  {
+    "id": "1a14a8e0",
+    "title": "U.S. v. Carlos Duque",
+    "url": "https://www.justice.gov/atr/case/us-v-carolos-duque",
+    "source": "DOJ Antitrust Division Criminal Case Filings",
+    "sourceId": "doj-atr-criminal-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-03T23:18:27.000Z",
+    "summary": "Document filed on October 28, 2026 Memorandum of Plea Agreement"
+  },
+  {
     "id": "24ca3112",
     "title": "With Search Traffic Down 70%, People Inc. Bets On Revenue Beyond Site Visits",
     "url": "https://www.adexchanger.com/publishers/with-search-traffic-down-70-people-inc-bets-on-revenue-beyond-site-visits/",
@@ -60,6 +97,19 @@
     "tags": [],
     "published": "2026-11-03T07:00:12.000Z",
     "summary": "Digital Culture Group aims to stop ineffective or offensive ads before they ever go live by preemptively determining what will resonate with – or push away – an audience. The post This Ad Tech Company Wants To Ensure Brands Don’t Go Viral For The Wrong Reasons appeared first on…"
+  },
+  {
+    "id": "6eae81bb",
+    "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
+    "url": "https://arxiv.org/abs/2611.04338v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-03T05:23:45.000Z",
+    "summary": "Pre-registration is increasingly proposed as a trust mechanism for machine-learning research involving LLM-generated content, but its canonical form assumes a frozen protocol can be executed unchanged. Software-intensive studies violate this assumption: the protocol is partly im…"
   },
   {
     "id": "0a82a1f7",
@@ -130,6 +180,17 @@
     "tags": [],
     "published": "2026-11-02T16:09:56.000Z",
     "summary": "Any investor hoping to ask about Fox’s pending Roku acquisition during its fiscal Q1 2027 earnings call on Monday was out of luck. Fox’s IR rep made that clear up front and pointed analysts to Fox’s SEC filings instead. However, CEO Lachlan Murdoch did share a mini update, inclu…"
+  },
+  {
+    "id": "52504469",
+    "title": "Honest Small Decision Models for Finance: Scale, Specialization Collapse, and Mixed-Corpus Remediation",
+    "url": "https://arxiv.org/abs/2611.03755v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-02T11:18:05.000Z",
+    "summary": "Financial workflows need fast, calibrated, auditable decisions, not just generated text. We train System-1 decision models, small language models fine-tuned to answer typed questions (choice/score/noul) with a probability in a single forward pass, across two model families (K2-H…"
   },
   {
     "id": "dc2213ef",
@@ -274,28 +335,6 @@
     "tags": [],
     "published": "2026-10-30T17:18:13.000Z",
     "summary": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize. While p…"
-  },
-  {
-    "id": "a7311308",
-    "title": "Smart Acquisition Or Frankenstack? Stagwell-Freestar And DoorDash-Instacart",
-    "url": "https://www.adexchanger.com/the-big-story/smart-acquisition-or-frankenstack-stagwell-freestar-and-doordash-instacart/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-30T16:26:17.000Z",
-    "summary": "It’s fall, M&A is in the air. Two acquisitions happened this week: Stagwell bought Freestar and DoorDash bought Instacart. The post Smart Acquisition Or Frankenstack? Stagwell-Freestar And DoorDash-Instacart appeared first on AdExchanger."
-  },
-  {
-    "id": "c32475b0",
-    "title": "Your Media Plan Might Be Missing Its Best Customers",
-    "url": "https://www.adexchanger.com/content-studio/your-media-plan-might-be-missing-its-best-customers/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-10-30T12:00:30.000Z",
-    "summary": "If you plan media, you’re being asked to find new customers across more screens with fewer partners and to prove that what you’re doing worked. The IAB’s September outlook shows 63% of buyers say acquiring new customers is a top-three goal this year. But the best media plan is o…"
   },
   {
     "id": "ffd3fcad",
@@ -513,32 +552,6 @@
     "summary": "Documents filed on October 20, 2026 Response of Plaintiff United States to Public Comments on the Proposed Final Judgment Exhibit A"
   },
   {
-    "id": "f992c0f8",
-    "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
-    "url": "https://arxiv.org/abs/2610.31466v3",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-22T15:58:39.000Z",
-    "summary": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyGameRenderer, a video-to-video generative renderer that turns such footage into…"
-  },
-  {
-    "id": "8d073755",
-    "title": "Typed Template Fuzzing",
-    "url": "https://arxiv.org/abs/2610.31342v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-22T14:26:20.000Z",
-    "summary": "Fuzzing software with complex inputs has been a longstanding challenge. Traditionally, fuzzers either programmatically encode language constraints, requiring significant engineering effort, or rely on users to declare grammars and constraints. Recent LLM-based fuzzers address th…"
-  },
-  {
     "id": "734eb8b0",
     "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
     "url": "http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html",
@@ -601,20 +614,6 @@
     ],
     "published": "2026-10-16T12:00:00.000Z",
     "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principl…"
-  },
-  {
-    "id": "b1497ba0",
-    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-10-15T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "c82d87ed",
@@ -806,19 +805,6 @@
     "summary": "Attorney General Todd Blanche and Secretary of Agriculture Brooke L. Rollins have agreed to a Memorandum of Understanding (MOU), building on the joint progress of the Department of Justice and Department of Agriculture to strengthen competition for agricultural inputs. Under the…"
   },
   {
-    "id": "1a14a8e0",
-    "title": "U.S. v. Carlos Duque",
-    "url": "https://www.justice.gov/atr/case/us-v-carolos-duque",
-    "source": "DOJ Antitrust Division Criminal Case Filings",
-    "sourceId": "doj-atr-criminal-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-10-05T23:38:12.000Z",
-    "summary": "Document filed on August 31, 2026 Information"
-  },
-  {
     "id": "1bdc8599",
     "title": "U.S. v. Brian Kent and Leonard Pick",
     "url": "https://www.justice.gov/atr/case/us-v-brian-kent-and-leonard-pick",
@@ -936,19 +922,6 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
-    "id": "c3aa078c",
-    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-09-22T12:00:00.000Z",
-    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
-  },
-  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -960,20 +933,6 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
-  },
-  {
-    "id": "627a1b7a",
-    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
-    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-09-17T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1388,19 +1347,6 @@
     "summary": "Today, we’re announcing the v25 release of the Google Ads API. This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have b…"
   },
   {
-    "id": "ceaaae82",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-07-08T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
-  },
-  {
     "id": "a50b8939",
     "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
     "url": "http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html",
@@ -1437,6 +1383,34 @@
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
   },
   {
+    "id": "3057e5b7",
+    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
+    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-03T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
+  },
+  {
+    "id": "496428a8",
+    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
+    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-02T12:00:00.000Z",
+    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
+  },
+  {
     "id": "57eaf726",
     "title": "U.S. and Plaintiff States v. Live Nation Entertainment, Inc. and Ticketmaster L.L.C..",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc",
@@ -1448,6 +1422,20 @@
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
   },
   {
+    "id": "847ceeb1",
+    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-06-30T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
+  },
+  {
     "id": "deb47892",
     "title": "U.S. and Plaintiff States v. Constellation Energy Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-constellation-energy-corporation-et-al",
@@ -1457,6 +1445,20 @@
     "tags": [],
     "published": "2026-06-22T14:28:25.000Z",
     "summary": "Document posted on May 26, 2026 Final Judgment"
+  },
+  {
+    "id": "980e8937",
+    "title": "Justice Department Requires OhioHealth to Stop Using Anticompetitive Healthcare Contract Terms That Raise Costs for Ohio Patients",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-ohiohealth-stop-using-anticompetitive-healthcare-contract-terms",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-06-16T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ civil antitrust lawsuit against OhioHealth Corporation (OhioHealth) challenging the company’s anticompetitive contract restrictions. The proposed settlement would make hea…"
   },
   {
     "id": "197ed2e1",
@@ -2518,18 +2520,5 @@
     ],
     "published": "2023-02-08T21:42:47.000Z",
     "summary": "Document filed on November 18, 2022 Supplement to the Plea Agreement"
-  },
-  {
-    "id": "6c414bc1",
-    "title": "U.S. v. BC Flynn Contracting Corp.",
-    "url": "https://www.justice.gov/atr/case/us-v-bc-flynn-contracting-corp",
-    "source": "DOJ Antitrust Division Criminal Case Filings",
-    "sourceId": "doj-atr-criminal-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2022-10-18T19:55:40.000Z",
-    "summary": "Documents filed on August 3, 2022 Plea Agreement Information"
   }
 ]

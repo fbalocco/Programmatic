@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T23:15:50.581Z",
+  "generatedAt": "2026-11-04T06:06:50.979Z",
   "feedCount": 17,
-  "itemCount": 202,
+  "itemCount": 201,
   "errors": [
     {
       "id": "ftc-press",
@@ -147,7 +147,7 @@
       "id": "doj-atr-criminal-filings",
       "name": "DOJ Antitrust Division Criminal Case Filings",
       "category": "Court & Enforcement",
-      "fetched": 90,
+      "fetched": 91,
       "kept": 80,
       "error": null
     },
