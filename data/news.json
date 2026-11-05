@@ -1,5 +1,27 @@
 [
   {
+    "id": "d37837f0",
+    "title": "AppLovin Is Back To Smashing Earnings But Investors Are Slow To Buy",
+    "url": "https://www.adexchanger.com/platforms/applovin-is-back-to-smashing-earnings-but-investors-are-slow-to-buy/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-05T17:04:33.000Z",
+    "summary": "AppLovin is growing at a blistering pace, but Wall Street investors remain cautious about the business. The mobile ad tech company earned just shy of $2.2 billion in Q3 this year, per the company’s earnings report after-hours on Wednesday. Of that, $1.44 billion fell straight to…"
+  },
+  {
+    "id": "2ec6d72a",
+    "title": "Ads Drive Consumer Demand. The Shelf Captures It",
+    "url": "https://www.adexchanger.com/content-studio/ads-drive-consumer-demand-the-shelf-captures-it/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-05T13:00:50.000Z",
+    "summary": "Imagine you’re shopping for laundry detergent. You click to buy your preferred brand, but when your order is fulfilled, the product is out of stock. What do you do? Recent DoorDash data shows that shoppers in this scenario buy a competing brand nearly 12% of the time, while more…"
+  },
+  {
     "id": "1a6ec8f3",
     "title": "Gamers Love Ad Blockers. So This Site Found Another Way To Show Them Ads",
     "url": "https://www.adexchanger.com/publishers/gamers-love-ad-blockers-so-this-site-found-another-way-to-show-them-ads/",
@@ -82,6 +104,19 @@
     "summary": "Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026, we are introducing additional changes to improve the developer experience for multi-party approvals. What’s changing?…"
   },
   {
+    "id": "9598423c",
+    "title": "VABAR: A Variational Automation Benchmark for Agentic Robotics",
+    "url": "https://arxiv.org/abs/2611.06881v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-04T18:38:01.000Z",
+    "summary": "For robots to operate reliably in commercial and industrial applications, they must persistently perform specific tasks with known variations in object shape and pose. We call this Variational Automation (VA) to differentiate these settings from fixed automation. Inspired by rec…"
+  },
+  {
     "id": "3b2aa36c",
     "title": "Intent Data Is A Gift, With Edible Brands",
     "url": "https://www.adexchanger.com/adexchanger-talks/intent-data-is-a-gift-with-edible-brands/",
@@ -141,17 +176,6 @@
     "summary": "Document filed on October 28, 2026 Memorandum of Plea Agreement"
   },
   {
-    "id": "24ca3112",
-    "title": "With Search Traffic Down 70%, People Inc. Bets On Revenue Beyond Site Visits",
-    "url": "https://www.adexchanger.com/publishers/with-search-traffic-down-70-people-inc-bets-on-revenue-beyond-site-visits/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-03T19:19:40.000Z",
-    "summary": "People Inc. isn’t mincing words about the current state of digital publishing: It’s bad. The company has seen a “critical loss of sessions,” Barry Diller, People Inc.’s chairman and senior executive, told investors during the company’s Q3 earnings call Tuesday morning. People In…"
-  },
-  {
     "id": "1584ae18",
     "title": "U. S. v. Ilya Zagaryuk",
     "url": "https://www.justice.gov/atr/case/united-states-v-ilya-zagaryuk",
@@ -176,20 +200,31 @@
       "AI"
     ],
     "published": "2026-11-03T17:00:00.000Z",
-    "summary": "The nostalgic campaign arrives following a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic."
+    "summary": "The nostalgic effort follows a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic."
   },
   {
-    "id": "4d653789",
-    "title": "Chord Buys Its Rival Zenlytic To Build An Agentic Version Of A CDP",
-    "url": "https://www.adexchanger.com/commerce/chord-buys-its-rival-zenlytic-to-build-an-agentic-version-of-a-cdp/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
+    "id": "e6a515c3",
+    "title": "LIBRA: Programmatic Induction of Executable Tool Libraries",
+    "url": "https://arxiv.org/abs/2611.05445v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-03T16:57:04.000Z",
+    "summary": "Large language model agents increasingly retrieve tools from large catalogs, yet most retrievers rank each tool independently by request similarity. For multi tool tasks, this recovers the goal matching tool while omitting prerequisite tools required by the workflow.We introduce…"
+  },
+  {
+    "id": "6eae81bb",
+    "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
+    "url": "https://arxiv.org/abs/2611.04338v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
     "tags": [
       "AI"
     ],
-    "published": "2026-11-03T14:49:11.000Z",
-    "summary": "Two data infrastructure startups with agentic commerce ambitions are combining forces. On Tuesday, Chord, a 6-year-old commerce tech startup, acquired Zenlytic, an AI startup with an anthropomorphized data analyst agent named “Zoë,” for $5 million. Chord’s co-founder and CEO, Br…"
+    "published": "2026-11-03T05:23:45.000Z",
+    "summary": "Pre-registration is increasingly proposed as a trust mechanism for machine-learning research involving LLM-generated content, but its canonical form assumes a frozen protocol can be executed unchanged. Software-intensive studies violate this assumption: the protocol is partly im…"
   },
   {
     "id": "5f3ececc",
@@ -216,6 +251,148 @@
     "summary": "Digiday’s executive editor of news Seb Joseph and senior ad tech reporter Ronan Shields joined the Digiday Podcast to hash out ad tech’s Game of Thrones amid the server-side shift."
   },
   {
+    "id": "adc1802d",
+    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+    "url": "https://arxiv.org/abs/2611.03575v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-02T18:27:55.000Z",
+    "summary": "Large language model (LLM) coding agents increasingly operate with shell access, allowing them to write scripts, move files, alter permissions, and modify system configurations. However, an agent may achieve a user's goal while causing unintended harm, such as deleting unrelated…"
+  },
+  {
+    "id": "52504469",
+    "title": "Honest Small Decision Models for Finance: Scale, Specialization Collapse, and Mixed-Corpus Remediation",
+    "url": "https://arxiv.org/abs/2611.03755v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-02T11:18:05.000Z",
+    "summary": "Financial workflows need fast, calibrated, auditable decisions, not just generated text. We train System-1 decision models, small language models fine-tuned to answer typed questions (choice/score/noul) with a probability in a single forward pass, across two model families (K2-H…"
+  },
+  {
+    "id": "dc2213ef",
+    "title": "Parametric CAD Bench v3: Evaluating Agentic Parametric CAD Authoring from Text and Engineering Drawings",
+    "url": "https://arxiv.org/abs/2611.02659v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-02T07:19:55.000Z",
+    "summary": "Producing an executable CAD script is not sufficient to establish that an agent has satisfied an engineering design request. Evaluation must also consider the resulting geometry, specified dimensions, and native CAD modeling history. We present Parametric CAD Bench v3, a 100-tas…"
+  },
+  {
+    "id": "98a05743",
+    "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
+    "url": "https://arxiv.org/abs/2611.02633v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-02T06:59:08.000Z",
+    "summary": "Progress in AI is often measured by what a single model can do on its own. Yet teams of AI agents are starting to make breakthroughs and discoveries in science, medicine, mathematics and software engineering. As AI begins to work in teams of agents and people, the ability to col…"
+  },
+  {
+    "id": "096fd9fa",
+    "title": "Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI",
+    "url": "https://arxiv.org/abs/2611.01891v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-01T13:34:04.000Z",
+    "summary": "Modifying an existing application is difficult when it does not provide programmatic access for that change. Recent advances in computer-use agents (CUAs) enable richer understanding and operation of existing interfaces, while generative UI (GenUI) makes it practical to generate…"
+  },
+  {
+    "id": "7d7f6798",
+    "title": "Delivered, Not Used: Evaluating Agent Memory at Its Point of Use",
+    "url": "https://arxiv.org/abs/2611.01718v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-01T09:09:43.000Z",
+    "summary": "Task success, retrieval quality, and cost do not show whether an LLM agent used a delivered memory or what followed from that use. We introduce MemUse, which evaluates memory at its point of use in recorded trajectories: each memory delivery is compared with what the agent could…"
+  },
+  {
+    "id": "ae868d36",
+    "title": "I-PTC: Interactive Programmatic Tool Calling for Stateful Tool-Augmented Agents",
+    "url": "https://arxiv.org/abs/2611.01446v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-01T02:32:02.000Z",
+    "summary": "Large language models are increasingly capable of writing and executing code, suggesting a natural paradigm for tool-augmented agents: expressing tool use as programs rather than isolated calls. Programmatic tool calling (PTC) captures this idea through loops, batching, abstract…"
+  },
+  {
+    "id": "ce33bdf9",
+    "title": "Extensible Programmatic Specification of Finite Element Methods",
+    "url": "https://arxiv.org/abs/2611.01414v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-01T01:50:46.000Z",
+    "summary": "Finite element methods (FEMs) are a powerful and ubiquitous tool for solving engineering problems. Experimenting with different finite elements can improve the quality and efficiency of solutions. In some cases, the wrong (but nonetheless most common) choice of finite element wi…"
+  },
+  {
+    "id": "7c32ac1f",
+    "title": "Can agents reliably design therapeutic antibodies?",
+    "url": "https://arxiv.org/abs/2611.00558v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-31T02:35:17.000Z",
+    "summary": "Recent work has demonstrated agents driving protein design workflows, either through orchestration of specialized tools or direct manipulation of sequences. Yet the fidelity with which agents follow protein design instructions and the factors contributing to their effectiveness…"
+  },
+  {
+    "id": "a4f5a893",
+    "title": "Understanding GPU Megakernels: Why Residency Can Mislead",
+    "url": "https://arxiv.org/abs/2611.00495v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-31T00:34:52.000Z",
+    "summary": "Megakernels let one persistent GPU program prepare dependent operators early and execute ready tasks together. We study the benefits and costs of these capabilities by reconstructing two LLM megakernels, ThunderKittens (TK) and VDCores, as separate kernels on H100 using their or…"
+  },
+  {
+    "id": "d2f14c5e",
+    "title": "Real-VAS: a Real-World Video Amodal Segmentation Dataset",
+    "url": "https://arxiv.org/abs/2611.00430v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-30T22:28:33.000Z",
+    "summary": "Amodal video object segmentation is fundamentally limited by the absence of datasets that combine real-world complexity with precise ground-truth annotations. To address this, we present Real Video Amodal Segmentation (Real-VAS), a new large-scale, zero-shot evaluation dataset b…"
+  },
+  {
+    "id": "a76f2348",
+    "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+    "url": "https://arxiv.org/abs/2610.42053v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-30T17:18:13.000Z",
+    "summary": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize. While p…"
+  },
+  {
     "id": "ffd3fcad",
     "title": "Justice Department’s Statement on Its Investigation of Vistra’s Acquisition of Cogentrix",
     "url": "https://www.justice.gov/opa/pr/justice-departments-statement-its-investigation-vistras-acquisition-cogentrix",
@@ -227,6 +404,64 @@
     ],
     "published": "2026-10-30T12:00:00.000Z",
     "summary": "Associate Attorney General Stanley E. Woodward, Jr. of the U.S. Department of Justice issued the following statement today in connection with the Antitrust Division’s investigation into the acquisition of Cogentrix Energy (Cogentrix) by Vistra Corp. (Vistra) (together, the “Part…"
+  },
+  {
+    "id": "fe77a116",
+    "title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents",
+    "url": "https://arxiv.org/abs/2610.41432v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-30T08:38:29.000Z",
+    "summary": "Computer-use agents increasingly tackle tasks ranging from everyday desktop activities to long-horizon professional workflows. Yet interfaces centered on screenshots and mouse-and-keyboard actions can impose a human-interaction prior, requiring repeated screen interpretation whi…"
+  },
+  {
+    "id": "0b7a8c58",
+    "title": "Architectural Debt Enforcement under Incomplete Observation: A Controlled Study of Ratchets and Evidence Qualification",
+    "url": "https://arxiv.org/abs/2610.41276v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "Identity",
+      "Policy"
+    ],
+    "published": "2026-10-30T05:26:42.000Z",
+    "summary": "Architectural debt gates must distinguish an allowed change from an incompletely observed one. We study a decision contract separating observation qualification, prohibited relation identity, inherited debt and authorized baseline updates. Across 240 fixed files from four reposi…"
+  },
+  {
+    "id": "92ca8c56",
+    "title": "ORCHID: Connecting Finite-Temperature Thermodynamic Evidence to Computational Materials Discovery",
+    "url": "https://arxiv.org/abs/2610.41164v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-30T02:42:08.000Z",
+    "summary": "Finite-temperature phase stability is essential to materials discovery, but the evidence needed to describe it remains scattered across decades of literature. ORCHID organizes this evidence around the thermodynamic states that the observations describe, using tiered agentic extr…"
+  },
+  {
+    "id": "6a59fd26",
+    "title": "An Empirical Study on Learning Rooftop Solar Potential from Satellite Imagery Directly Without Explicit Geometry",
+    "url": "https://arxiv.org/abs/2610.41111v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-30T01:09:20.000Z",
+    "summary": "Rooftop solar potential estimation often relies on LiDAR, digital surface models (DSMs), or pipelines that explicitly reconstruct roof geometry before estimating solar potential. We propose Direct Rooftop Solar Prediction (DRSP), an end-to-end formulation that maps satellite ima…"
+  },
+  {
+    "id": "1abf44a6",
+    "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+    "url": "https://arxiv.org/abs/2610.40934v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-29T20:08:35.000Z",
+    "summary": "In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference\" (ATI) (similar to zero-shot inference), rather than those designed for pre-training fine-tuning. To achieve this m…"
   },
   {
     "id": "bc92f436",
@@ -255,6 +490,52 @@
     "summary": "The Justice Department’s Antitrust Division provided the following statement on the closing of its investigations into two transactions that presented competition issues in local asphalt markets: (1) the acquisition of Suit-Kote Corporation by Colas Inc., a subsidiary of Bouygue…"
   },
   {
+    "id": "5b212a75",
+    "title": "Compile Away Uncertainty: Self-Evolving Agent Skills via Programmatic Compilation",
+    "url": "https://arxiv.org/abs/2610.39508v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-29T07:07:17.000Z",
+    "summary": "Self-evolving agent skills enable AI agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. However, since such skills are typically represented as textual documents and executed through LLM reasoning, even pr…"
+  },
+  {
+    "id": "d9a625f7",
+    "title": "Beyond Similarity Search: Knowledge Graph Metadata Enrichment for Enterprise Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.37728v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-27T12:09:48.000Z",
+    "summary": "A key challenge of RAG systems is retrieving information from enterprise documents created by multiple teams over time, where it is not possible to enrich the information using the latest information and metadata available outside the scope of organizational documentation respon…"
+  },
+  {
+    "id": "6cf543f0",
+    "title": "TAC2: Timestamped Audio Captioning as composable functions",
+    "url": "https://arxiv.org/abs/2610.36568v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-27T03:18:25.000Z",
+    "summary": "Real-world audio applications require precise, queryable representations grounded in physical time. Yet modern Large Audio-Language Models (LALMs) increasingly favor conversational generation, producing free-form descriptions that conflate acoustic perception with higher-level r…"
+  },
+  {
+    "id": "799d25e5",
+    "title": "The Right Fact, the Wrong Decision: SciValidityBench for Scientific Agent Memory",
+    "url": "https://arxiv.org/abs/2610.34767v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-10-26T03:12:57.000Z",
+    "summary": "Most agent-memory benchmarks frame long-term memory as retrieval: can an agent recover the relevant record from a long and evolving history? Scientific agents face a stricter problem: a correctly remembered fact may still be invalid to use. The same reported test result can supp…"
+  },
+  {
     "id": "59cf9d47",
     "title": "Intelligence, Meet Impression: What Sell-Side Decisioning Means for Programmatic Advertising",
     "url": "https://www.indexexchange.com/2026/10/23/intelligence-meet-impression/",
@@ -264,6 +545,19 @@
     "tags": [],
     "published": "2026-10-23T13:00:00.000Z",
     "summary": "For years, most programmatic decisioning has lived on the buy side, far from the moment an ad opportunity begins. That ..."
+  },
+  {
+    "id": "d3a28c12",
+    "title": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+    "url": "https://arxiv.org/abs/2610.32441v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-10-23T10:06:55.000Z",
+    "summary": "Large language model (LLM) agents are increasingly capable of supporting scientific workflows, but their capabilities across diverse research activities remain difficult to assess systematically. Existing benchmarks often focus on selected scientific capabilities or task types,…"
   },
   {
     "id": "9fccebf8",
@@ -339,6 +633,20 @@
     ],
     "published": "2026-10-16T23:43:29.000Z",
     "summary": "Documents filed on October 13, 2026 Plaintiffs' Supplemental Joint Recommendation for Template Search and Search Text Ads Syndication License Agreement Appendix A [REDACTED - PUBLIC VERSION] Plaintiffs' Joint Recommendation for Template Search and Search Text Ads Syndication Agr…"
+  },
+  {
+    "id": "b1497ba0",
+    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-10-15T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "c82d87ed",
@@ -542,6 +850,19 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -553,6 +874,20 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -967,6 +1302,19 @@
     "summary": "Today, we’re announcing the v25 release of the Google Ads API. This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have b…"
   },
   {
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
+  },
+  {
     "id": "165f2f57",
     "title": "Justice Department Reaches Proposed Settlement with Willow Bridge, One of America’s Largest Landlords, to Resolve Information Sharing and Algorithmic Coordination Claims",
     "url": "https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-willow-bridge-one-americas-largest-landlords",
@@ -981,34 +1329,6 @@
     "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
   },
   {
-    "id": "3057e5b7",
-    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
-    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-03T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
-  },
-  {
-    "id": "496428a8",
-    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-02T12:00:00.000Z",
-    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
-  },
-  {
     "id": "57eaf726",
     "title": "U.S. and Plaintiff States v. Live Nation Entertainment, Inc. and Ticketmaster L.L.C..",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc",
@@ -1020,20 +1340,6 @@
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
   },
   {
-    "id": "847ceeb1",
-    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
-    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-06-30T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
-  },
-  {
     "id": "deb47892",
     "title": "U.S. and Plaintiff States v. Constellation Energy Corporation, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-constellation-energy-corporation-et-al",
@@ -1043,20 +1349,6 @@
     "tags": [],
     "published": "2026-06-22T14:28:25.000Z",
     "summary": "Document posted on May 26, 2026 Final Judgment"
-  },
-  {
-    "id": "980e8937",
-    "title": "Justice Department Requires OhioHealth to Stop Using Anticompetitive Healthcare Contract Terms That Raise Costs for Ohio Patients",
-    "url": "https://www.justice.gov/opa/pr/justice-department-requires-ohiohealth-stop-using-anticompetitive-healthcare-contract-terms",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-06-16T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ civil antitrust lawsuit against OhioHealth Corporation (OhioHealth) challenging the company’s anticompetitive contract restrictions. The proposed settlement would make hea…"
   },
   {
     "id": "197ed2e1",
