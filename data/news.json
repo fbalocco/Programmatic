@@ -1,5 +1,29 @@
 [
   {
+    "id": "9d10c780",
+    "title": "Viant Buys Waymark For $20 Million, Because CTV Needs More Ads (More!)",
+    "url": "https://www.adexchanger.com/tv/viant-buys-waymark-for-20-million-because-ctv-needs-more-ads-more/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-11-10T01:03:53.000Z",
+    "summary": "Viant had a pretty good third quarter. The open internet apparently had nothing to do with it, though. On Monday evening, the company reported just over $110 million in revenue for Q3, up 29% year over year. CTV ad spend increased almost 40% over the same time period, representi…"
+  },
+  {
+    "id": "992a4927",
+    "title": "Skydance Efforts to Merge Paramount and Warner Bros. Discovery Have Only Just Begun",
+    "url": "https://www.adexchanger.com/tv/skydance-efforts-to-merge-paramount-and-warner-bros-discovery-have-only-just-begun/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-10T00:10:39.000Z",
+    "summary": "Investors who wanted Skydance co-CEOs David Ellison and Ynon Kreiz to pull back the curtain on the combined entity’s finances on Monday will have to wait another quarter for the full picture. The post Skydance Efforts to Merge Paramount and Warner Bros. Discovery Have Only Just…"
+  },
+  {
     "id": "6a378e2b",
     "title": "TIME’s AI Agents Do The Coordinating, And Its Sellers Still Do The Selling",
     "url": "https://www.adexchanger.com/ai/times-ai-agents-do-the-coordinating-and-its-sellers-still-do-the-selling/",
@@ -144,17 +168,6 @@
     "summary": "Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible reference and physically feasible; existing benchmarks either score solver fragment…"
   },
   {
-    "id": "2ec6d72a",
-    "title": "Ads Drive Consumer Demand. The Shelf Captures It",
-    "url": "https://www.adexchanger.com/content-studio/ads-drive-consumer-demand-the-shelf-captures-it/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-05T13:00:50.000Z",
-    "summary": "Imagine you’re shopping for laundry detergent. You click to buy your preferred brand, but when your order is fulfilled, the product is out of stock. What do you do? Recent DoorDash data shows that shoppers in this scenario buy a competing brand nearly 12% of the time, while more…"
-  },
-  {
     "id": "a8cc7ee0",
     "title": "Measuring the Marginal Value of Verifier-Based RL Beyond Supervised Fine-Tuning",
     "url": "https://arxiv.org/abs/2611.07639v1",
@@ -164,17 +177,6 @@
     "tags": [],
     "published": "2026-11-05T08:23:28.000Z",
     "summary": "Reinforcement learning from verifiable rewards (RLVR) is usually evaluated as an alternative to supervised fine-tuning (SFT), or as a stage that follows it, with the implicit assumption that the RL stage contributes gains of its own. We measure that contribution directly, in a c…"
-  },
-  {
-    "id": "1a6ec8f3",
-    "title": "Gamers Love Ad Blockers. So This Site Found Another Way To Show Them Ads",
-    "url": "https://www.adexchanger.com/publishers/gamers-love-ad-blockers-so-this-site-found-another-way-to-show-them-ads/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-05T05:45:21.000Z",
-    "summary": "Ad blocking doesn’t just prevent publishers from earning revenue; it also creates blind spots in their audience analytics that can affect everything from monetization strategy to editorial coverage. Gamers are very likely to use ad blockers, which has led to significant challeng…"
   },
   {
     "id": "fea52a19",
@@ -1264,17 +1266,6 @@
     ],
     "published": "2026-07-23T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division announced today that it has returned to implementing targeted Second Request investigations to expedite merger review. The Division is also publishing a model timing agreement in connection with this release."
-  },
-  {
-    "id": "44678c32",
-    "title": "Announcing v25 of the Google Ads API",
-    "url": "http://ads-developers.googleblog.com/2026/07/announcing-v25-of-google-ads-api.html",
-    "source": "Google Ads Developer Blog",
-    "sourceId": "google-ads-dev-blog",
-    "category": "Platforms",
-    "tags": [],
-    "published": "2026-07-22T23:24:15.284Z",
-    "summary": "Today, we’re announcing the v25 release of the Google Ads API. This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have b…"
   },
   {
     "id": "ceaaae82",
