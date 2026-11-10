@@ -1,5 +1,80 @@
 [
   {
+    "id": "75cb9237",
+    "title": "In OpenAI’s Ad Business, Advertisers Come Third",
+    "url": "https://www.adexchanger.com/ai/in-openais-ad-business-advertisers-come-third/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-10T06:00:35.000Z",
+    "summary": "Ads in ChatGPT, it turns out, are a humanitarian effort. Right at the top of OpenAI’s charter, the company states that its main mission is to bring the benefits of artificial general intelligence (AGI) – meaning AI that can match or outdo people at intellectual tasks – to all of…"
+  },
+  {
+    "id": "ea41cb53",
+    "title": "PubMatic Is All In On Agentic Buys; How Much Power Is Too Much Power?",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-10112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-10T05:03:32.000Z",
+    "summary": "PubMatic anticipates a rise in agentic buying; why an AI assistant shouldn't make your decisions for you; and the AI ads that are using celebrity likenesses. The post PubMatic Is All In On Agentic Buys; How Much Power Is Too Much Power? appeared first on AdExchanger."
+  },
+  {
+    "id": "66d14878",
+    "title": "Can web users trust ad tech’s server-side shift?",
+    "url": "https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "Privacy"
+    ],
+    "published": "2026-11-10T05:01:00.000Z",
+    "summary": "IAB Tech Lab’s Rowena Lam joined the Digiday Podcast to break down how Trusted Server works and address questions about the user privacy implications of ad tech’s server-side shift."
+  },
+  {
+    "id": "ae7716e7",
+    "title": "Ad Tech Briefing: Amazon’s auction trial puts agentic advertising’s trust problem in focus",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "RTB",
+      "Policy"
+    ],
+    "published": "2026-11-10T05:01:00.000Z",
+    "summary": "Unsealed FTC allegations underline pre-existing questions over black boxes."
+  },
+  {
+    "id": "cbfa2dd6",
+    "title": "Amid a difficult transitional year, The Trade Desk posts a rare quarterly revenue decline",
+    "url": "https://digiday.com/marketing/amid-a-difficult-transitional-year-the-trade-desk-posts-a-rare-quarterly-revenue-decline/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-10T05:01:00.000Z",
+    "summary": "The Trade Desk's Jeff Green hints at potential M&A, while rival DSP Viant buys Waymark."
+  },
+  {
+    "id": "b0cff614",
+    "title": "The Trade Desk’s Revenue Slipped In Q3. If It Wants To Grow, It Must Evolve",
+    "url": "https://www.adexchanger.com/programmatic/the-trade-desks-revenue-slipped-in-q3-if-it-wants-to-grow-it-must-evolve/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-10T02:49:01.000Z",
+    "summary": "In Q3, The Trade Desk beat the admittedly pessimistic revenue forecast it set for itself earlier this year. But growth has stalled. The Trade Desk’s total revenue last quarter was $736 million, down a smidge from $739 million a year ago. Profit, however, fell far more sharply, f…"
+  },
+  {
     "id": "9d10c780",
     "title": "Viant Buys Waymark For $20 Million, Because CTV Needs More Ads (More!)",
     "url": "https://www.adexchanger.com/tv/viant-buys-waymark-for-20-million-because-ctv-needs-more-ads-more/",
@@ -63,6 +138,54 @@
     "summary": "Letterboxd’s AI training potential might be worth buying; The Fox-Roku acquisition is now complete; and Google is altering the eal. The post The NYT Opens Pandora’s Letterboxd; Roku Joins The Skulk appeared first on AdExchanger."
   },
   {
+    "id": "a23946e7",
+    "title": "Optimizing Multi-Tier Intermediation in Programmatic Advertising: A DAG-Based Mechanism for Supply Path Optimization",
+    "url": "https://arxiv.org/abs/2611.11651v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-08T22:16:30.000Z",
+    "summary": "Digital programmatic advertising operates through complex, multi-hop supply chains. The opacity of these intermediary networks leads to significant efficiency losses, often referred to as the ``ad-tech tax.'' While current industry practices utilize heuristic Supply Path Optimiz…"
+  },
+  {
+    "id": "d6b23815",
+    "title": "From Game Generation to Game Playing: Fully Automated Ability Training for Vision-Language-Action Models",
+    "url": "https://arxiv.org/abs/2611.11136v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-08T05:06:33.000Z",
+    "summary": "Training vision-language-action (VLA) models to follow gameplay instructions across diverse games is limited by the cost of collecting demonstrations. We introduce a framework that automatically generates game environments and expert demonstrations. An LLM-powered agent uses gam…"
+  },
+  {
+    "id": "92014c9d",
+    "title": "BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs",
+    "url": "https://arxiv.org/abs/2611.10768v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-07T14:56:41.000Z",
+    "summary": "Multimodal Large Language Models (MLLMs) have shown promise as interactive agents, yet precise, programmatic 3D graphics editing remains difficult to train because existing systems largely rely on closed-source model APIs and lack deterministic, state-verifiable execution enviro…"
+  },
+  {
+    "id": "2795d6d6",
+    "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+    "url": "https://arxiv.org/abs/2611.10592v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-07T08:59:49.000Z",
+    "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, appearance, and temporal requirements. We introduce MotionGraphicsBench, an expert-…"
+  },
+  {
     "id": "34b6fee6",
     "title": "Will The Blue Wave Midterms Put A Damper On Ad Tech M&A?",
     "url": "https://www.adexchanger.com/the-big-story/will-the-blue-wave-midterms-put-a-damper-on-ad-tech-ma/",
@@ -98,52 +221,6 @@
     ],
     "published": "2026-11-06T05:45:53.000Z",
     "summary": "Agentic media buying is the No. 1 topic du jour in ad tech discussion circles. But how does agentic buying even work when it comes to buying TV and streaming ads? And how does that workflow differ from programmatic? The startup Swivel aims to address those questions. The post Sw…"
-  },
-  {
-    "id": "67e88628",
-    "title": "Comic: For Puck’s Sake",
-    "url": "https://www.adexchanger.com/comic-strip/comic-for-pucks-sake/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-06T05:15:09.000Z",
-    "summary": "Enjoy this weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem … The post Comic: For Puck’s Sake appeared first on AdExchanger."
-  },
-  {
-    "id": "ff684bdc",
-    "title": "Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic",
-    "url": "https://www.adexchanger.com/daily-news-roundup/friday-06112026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-06T05:03:22.000Z",
-    "summary": "WPP CEO Cindy Rose recently criticized the rise of “CEO handshake” account wins. Plus: Magnite reported a 20% year-over-year ex-TAC revenue increase to $200.6 million in Q3. The post Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic appeared first on Ad…"
-  },
-  {
-    "id": "34a37df7",
-    "title": "By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3",
-    "url": "https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-11-06T05:01:00.000Z",
-    "summary": "Ad tech’s winners and losers emerge as CTV growth masks open-web struggles."
-  },
-  {
-    "id": "d37837f0",
-    "title": "AppLovin Is Back To Smashing Earnings, But Investors Are Slow To Buy",
-    "url": "https://www.adexchanger.com/platforms/applovin-is-back-to-smashing-earnings-but-investors-are-slow-to-buy/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-05T17:04:33.000Z",
-    "summary": "AppLovin is growing at a blistering pace, but Wall Street investors remain cautious about the business. The mobile ad tech company earned just shy of $2.2 billion in Q3 this year, per the company’s earnings report after-hours on Wednesday. Of that, $1.44 billion fell straight to…"
   },
   {
     "id": "fef2c4b2",
@@ -468,39 +545,6 @@
     "summary": "Architectural debt gates must distinguish an allowed change from an incompletely observed one. We study a decision contract separating observation qualification, prohibited relation identity, inherited debt and authorized baseline updates. Across 240 fixed files from four reposi…"
   },
   {
-    "id": "92ca8c56",
-    "title": "ORCHID: Connecting Finite-Temperature Thermodynamic Evidence to Computational Materials Discovery",
-    "url": "https://arxiv.org/abs/2610.41164v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-30T02:42:08.000Z",
-    "summary": "Finite-temperature phase stability is essential to materials discovery, but the evidence needed to describe it remains scattered across decades of literature. ORCHID organizes this evidence around the thermodynamic states that the observations describe, using tiered agentic extr…"
-  },
-  {
-    "id": "6a59fd26",
-    "title": "An Empirical Study on Learning Rooftop Solar Potential from Satellite Imagery Directly Without Explicit Geometry",
-    "url": "https://arxiv.org/abs/2610.41111v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-30T01:09:20.000Z",
-    "summary": "Rooftop solar potential estimation often relies on LiDAR, digital surface models (DSMs), or pipelines that explicitly reconstruct roof geometry before estimating solar potential. We propose Direct Rooftop Solar Prediction (DRSP), an end-to-end formulation that maps satellite ima…"
-  },
-  {
-    "id": "1abf44a6",
-    "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
-    "url": "https://arxiv.org/abs/2610.40934v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-29T20:08:35.000Z",
-    "summary": "In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference\" (ATI) (similar to zero-shot inference), rather than those designed for pre-training fine-tuning. To achieve this m…"
-  },
-  {
     "id": "bc92f436",
     "title": "Justice Department Provides Update on Collaboration with State Attorneys General on Review of Local Mergers",
     "url": "https://www.justice.gov/opa/pr/justice-department-provides-update-collaboration-state-attorneys-general-review-local",
@@ -525,19 +569,6 @@
     ],
     "published": "2026-10-29T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division provided the following statement on the closing of its investigations into two transactions that presented competition issues in local asphalt markets: (1) the acquisition of Suit-Kote Corporation by Colas Inc., a subsidiary of Bouygue…"
-  },
-  {
-    "id": "5b212a75",
-    "title": "Compile Away Uncertainty: Self-Evolving Agent Skills via Programmatic Compilation",
-    "url": "https://arxiv.org/abs/2610.39508v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-29T07:07:17.000Z",
-    "summary": "Self-evolving agent skills enable AI agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. However, since such skills are typically represented as textual documents and executed through LLM reasoning, even pr…"
   },
   {
     "id": "59cf9d47",
