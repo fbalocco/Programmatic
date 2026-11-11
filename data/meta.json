@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T19:40:07.937Z",
+  "generatedAt": "2026-11-11T01:12:31.423Z",
   "feedCount": 17,
-  "itemCount": 189,
+  "itemCount": 164,
   "errors": [
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 202871</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 40649</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-UA"
     },
     {
       "id": "ftc-press",
@@ -26,6 +26,12 @@
       "name": "FTC - Competition Matters (Blog)",
       "url": "https://www.ftc.gov/feeds/blog-competition-matters.xml",
       "error": "HTTP 404 Not Found — <html> <head> <!-- Latest compiled and minified CSS --> <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+"
+    },
+    {
+      "id": "arxiv-ad-auctions",
+      "name": "arXiv (ad auctions / RTB / programmatic)",
+      "url": "http://export.arxiv.org/api/query?search_query=all:%22ad%20auction%22%20OR%20all:%22real-time%20bidding%22%20OR%20all:programmatic%20OR%20all:%22header%20bidding%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+      "error": "HTTP 429 Too Many Requests — Rate exceeded."
     }
   ],
   "stats": [
@@ -107,7 +113,7 @@
       "category": "Regulation",
       "fetched": 0,
       "kept": 0,
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 202871</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 40649</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-UA"
     },
     {
       "id": "ftc-press",
@@ -161,9 +167,9 @@
       "id": "arxiv-ad-auctions",
       "name": "arXiv (ad auctions / RTB / programmatic)",
       "category": "Research",
-      "fetched": 25,
-      "kept": 25,
-      "error": null
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTP 429 Too Many Requests — Rate exceeded."
     }
   ]
 }
