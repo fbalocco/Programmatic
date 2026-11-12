@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T10:57:18.544Z",
+  "generatedAt": "2026-11-12T19:51:18.458Z",
   "feedCount": 17,
-  "itemCount": 189,
+  "itemCount": 188,
   "errors": [
     {
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 331871</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 369348</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
     },
     {
       "id": "ftc-press",
@@ -50,7 +50,7 @@
       "name": "Marketing Dive",
       "category": "Industry",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": null
     },
     {
@@ -97,8 +97,8 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4140,
-      "kept": 2,
+      "fetched": 4144,
+      "kept": 0,
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "category": "Regulation",
       "fetched": 0,
       "kept": 0,
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 331871</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 369348</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-U"
     },
     {
       "id": "ftc-press",
