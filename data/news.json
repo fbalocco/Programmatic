@@ -1,5 +1,72 @@
 [
   {
+    "id": "440c042b",
+    "title": "CTV Has Trust Issues",
+    "url": "https://www.adexchanger.com/tv/ctv-has-trust-issues/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-11-13T06:00:00.000Z",
+    "summary": "Around four months ago, Serge Matta, president of global ad sales at LG Ad Solutions, had a meeting with a large QSR advertiser, and he offered the CMO a guarantee. “We said, ‘You only pay us based on incremental visits to your store as defined and measured by your independent t…"
+  },
+  {
+    "id": "41c19683",
+    "title": "AI Creative In The Programmatic Loop",
+    "url": "https://www.adexchanger.com/the-big-story/ai-creative-in-the-programmatic-loop/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "AI"
+    ],
+    "published": "2026-11-13T05:40:29.000Z",
+    "summary": "The latest bolt-on to a DSP isn’t solving for media or measurement – it’s AI-generated creative. Inside the Viant-Waymark acquisition. Plus: CEO Jeff Green said The Trade Desk is open to M&A. So what kind of company could The Trade Desk buy? The post AI Creative In The Programma…"
+  },
+  {
+    "id": "8a77d5c2",
+    "title": "The Many Ways AI Can Influence A Purchase; ‘Premium’ TV Is So Fetch",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-13112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Measurement",
+      "AI"
+    ],
+    "published": "2026-11-13T05:03:03.000Z",
+    "summary": "The IAB has a new framework for AI attribution; what does \"premium\" TV mean, anyway?; and the ups and downs of Claude's new usage policies. The post The Many Ways AI Can Influence A Purchase; ‘Premium’ TV Is So Fetch appeared first on AdExchanger."
+  },
+  {
+    "id": "5df73cc9",
+    "title": "AI is turning ad tech into a fight for the brain behind the buy",
+    "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-13T05:01:00.000Z",
+    "summary": "As AI automates advertising workflows, the contest is shifting to who can make the decisions that deliver results."
+  },
+  {
+    "id": "bf3676cc",
+    "title": "Media Trading with Censored Auction Prices: A Stochastic Control and Reinforcement Learning Approach",
+    "url": "https://arxiv.org/abs/2611.16992v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "RTB"
+    ],
+    "published": "2026-11-12T15:56:55.000Z",
+    "summary": "In real-time bidding, marketing agencies must balance campaign performance, transaction margins and the use of a finite advertising budget. A key difficulty is that market-clearing prices are typically observed only when bids are successful, so the information available for subs…"
+  },
+  {
     "id": "c5c99c25",
     "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
     "url": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
@@ -38,6 +105,30 @@
     "summary": "Viant would like a crack at your video creative, please. Earlier this week, Viant announced its $20 million acquisition of Waymark, a generative AI video ad platform that media companies, including Comcast, Fox, NBCU, Spectrum Reach and Gray Television, have used to generate mor…"
   },
   {
+    "id": "912e9ced",
+    "title": "Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents",
+    "url": "https://arxiv.org/abs/2611.16627v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-12T10:59:40.000Z",
+    "summary": "Long-horizon language agents accumulate tool results and replies until the history no longer fits the context window. Current agents shrink this history by having a model summarize it, so each compaction rereads and rewrites the history it replaces, and cache-aware triggers deci…"
+  },
+  {
+    "id": "a091ad78",
+    "title": "Pl@ntNet machine-to-machine identification service with Pl@ntNet API: enabling automated biodiversity monitoring through large-scale plant identification",
+    "url": "https://arxiv.org/abs/2611.16538v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-12T09:33:35.000Z",
+    "summary": "1. Monitoring plant biodiversity requires identifying large numbers of plants across space and time. Although artificial intelligence (AI) can now identify plant species from images with high accuracy, most existing systems rely on users manually submitting images. As ecological…"
+  },
+  {
     "id": "0e534483",
     "title": "Custom Ad Algorithms Are Helping Schibsted Media Win Budgets Back From Meta",
     "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
@@ -73,6 +164,32 @@
     "summary": "How will prediction markets affect the Big Game?; The agentic arms race is taking off; professional content still rules the roost. The post The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI appeared first on AdExchanger."
   },
   {
+    "id": "3bf343f6",
+    "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+    "url": "https://arxiv.org/abs/2611.16217v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-12T03:09:18.000Z",
+    "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable…"
+  },
+  {
+    "id": "d9230420",
+    "title": "MechBench: A Domain-Specific LLM Benchmark for Parallel Mechanisms",
+    "url": "https://arxiv.org/abs/2611.15342v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-11T11:20:34.000Z",
+    "summary": "Parallel mechanisms pose distinctive challenges to large language models (LLMs), as valid reasoning depends jointly on mechanism topology, loop closure, geometry, joint types, and modeling assumptions. Yet existing LLM benchmarks provide little systematic coverage of such domain…"
+  },
+  {
     "id": "78b1bb6c",
     "title": "Stop Buying Lemons, With SWYM.ai",
     "url": "https://www.adexchanger.com/adexchanger-talks/stop-buying-lemons-with-swym-ai/",
@@ -97,20 +214,7 @@
       "AI"
     ],
     "published": "2026-11-11T05:45:48.000Z",
-    "summary": "AI is taking over the media and tech industries in the name of simplification, and marketers are pining for provable campaign outcomes, including from TV. These shifts are also causing significant change in Agency Holdco Land, according to Angela Steele, the first chief client o…"
-  },
-  {
-    "id": "39d48c5d",
-    "title": "Google’s AI Ad Losses Are Meta’s Gain; Chatbot Ad Formats Are Starting To Multiply",
-    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-11112026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-11T05:03:15.000Z",
-    "summary": "Too Close To The Sun Google has become its own worst enemy. The company’s stock price dropped more than 10% after its Q3 earnings call last month, mostly due to a major slowdown in search advertising growth. The culprit: Google’s own AI Mode. But not every tech company doubling…"
+    "summary": "AI is taking over the media and tech industries in the name of simplification, and marketers are pining for provable campaign outcomes, including from TV. These shifts are also causing significant change in Agency Holdco Land, according to Angela Steele, the chief client officer…"
   },
   {
     "id": "65d35cf3",
@@ -126,31 +230,9 @@
     "summary": "Today we’re announcing the move of the Google Ads Developer Blog from Blogger to the Google for Developers platform, where it will be joining the Google Advertising and Measurement Developers Hub and be known as the Google Advertising and Measurement Developer Blog. You’re proba…"
   },
   {
-    "id": "38f465b0",
-    "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
-    "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-10T14:00:12.000Z",
-    "summary": "Through a partnership with Qloo, Reddit will be able to better understand correlated interests and target users with more relevant ads. The post Reddit Taps Qloo To Strengthen Its Predictive Targeting appeared first on AdExchanger."
-  },
-  {
-    "id": "97daf191",
-    "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
-    "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-10T13:38:42.000Z",
-    "summary": "No major retail media player has taken as circumspect an approach to advertising revenue as Shopify. As the payment processor and site infrastructure for so many online sellers, and with the greatest supply of such first-party data outside of Amazon and Walmart, Shopify holds a…"
-  },
-  {
-    "id": "cb09f59c",
+    "id": "ce09fa55",
     "title": "Program-Aided Patchable Skill Evolution",
-    "url": "https://arxiv.org/abs/2611.14019v1",
+    "url": "https://arxiv.org/abs/2611.14019v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -161,42 +243,15 @@
     "summary": "Agent skills have emerged as an effective means of enabling LLM agents to solve complex, interactive tasks by encoding reusable knowledge without modifying model parameters. Recent approaches further improve skill adaptation by distilling reusable experience from agent execution…"
   },
   {
-    "id": "609f73b5",
+    "id": "5d9f6efc",
     "title": "DrugCoding: A Scientific Programming Agent for Drug Discovery",
-    "url": "https://arxiv.org/abs/2611.13651v1",
+    "url": "https://arxiv.org/abs/2611.13651v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
     "tags": [],
     "published": "2026-11-10T06:47:15.000Z",
     "summary": "Drug discovery involves multiple interconnected research stages, including molecular design, property prediction, and virtual screening. These processes are characterized by complex workflows, interdependent computational tasks, and diverse specialized tools, placing substantial…"
-  },
-  {
-    "id": "66d14878",
-    "title": "Can web users trust ad tech’s server-side shift?",
-    "url": "https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "Privacy"
-    ],
-    "published": "2026-11-10T05:01:00.000Z",
-    "summary": "IAB Tech Lab’s Rowena Lam joined the Digiday Podcast to break down how Trusted Server works and address questions about the user privacy implications of ad tech’s server-side shift."
-  },
-  {
-    "id": "ae7716e7",
-    "title": "Ad Tech Briefing: Amazon’s auction trial puts agentic advertising’s trust problem in focus",
-    "url": "https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "RTB",
-      "Policy"
-    ],
-    "published": "2026-11-10T05:01:00.000Z",
-    "summary": "Unsealed FTC allegations underline pre-existing questions over black boxes."
   },
   {
     "id": "225110bb",
@@ -485,63 +540,6 @@
     ],
     "published": "2026-11-01T09:09:43.000Z",
     "summary": "Task success, retrieval quality, and cost do not show whether an LLM agent used a delivered memory or what followed from that use. We introduce MemUse, which evaluates memory at its point of use in recorded trajectories: each memory delivery is compared with what the agent could…"
-  },
-  {
-    "id": "ae868d36",
-    "title": "I-PTC: Interactive Programmatic Tool Calling for Stateful Tool-Augmented Agents",
-    "url": "https://arxiv.org/abs/2611.01446v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-01T02:32:02.000Z",
-    "summary": "Large language models are increasingly capable of writing and executing code, suggesting a natural paradigm for tool-augmented agents: expressing tool use as programs rather than isolated calls. Programmatic tool calling (PTC) captures this idea through loops, batching, abstract…"
-  },
-  {
-    "id": "ce33bdf9",
-    "title": "Extensible Programmatic Specification of Finite Element Methods",
-    "url": "https://arxiv.org/abs/2611.01414v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-01T01:50:46.000Z",
-    "summary": "Finite element methods (FEMs) are a powerful and ubiquitous tool for solving engineering problems. Experimenting with different finite elements can improve the quality and efficiency of solutions. In some cases, the wrong (but nonetheless most common) choice of finite element wi…"
-  },
-  {
-    "id": "7c32ac1f",
-    "title": "Can agents reliably design therapeutic antibodies?",
-    "url": "https://arxiv.org/abs/2611.00558v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-31T02:35:17.000Z",
-    "summary": "Recent work has demonstrated agents driving protein design workflows, either through orchestration of specialized tools or direct manipulation of sequences. Yet the fidelity with which agents follow protein design instructions and the factors contributing to their effectiveness…"
-  },
-  {
-    "id": "a4f5a893",
-    "title": "Understanding GPU Megakernels: Why Residency Can Mislead",
-    "url": "https://arxiv.org/abs/2611.00495v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-10-31T00:34:52.000Z",
-    "summary": "Megakernels let one persistent GPU program prepare dependent operators early and execute ready tasks together. We study the benefits and costs of these capabilities by reconstructing two LLM megakernels, ThunderKittens (TK) and VDCores, as separate kernels on H100 using their or…"
-  },
-  {
-    "id": "d2f14c5e",
-    "title": "Real-VAS: a Real-World Video Amodal Segmentation Dataset",
-    "url": "https://arxiv.org/abs/2611.00430v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-10-30T22:28:33.000Z",
-    "summary": "Amodal video object segmentation is fundamentally limited by the absence of datasets that combine real-world complexity with precise ground-truth annotations. To address this, we present Real Video Amodal Segmentation (Real-VAS), a new large-scale, zero-shot evaluation dataset b…"
   },
   {
     "id": "ffd3fcad",
