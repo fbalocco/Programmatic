@@ -1,5 +1,41 @@
 [
   {
+    "id": "04c775e7",
+    "title": "Ad Tech Is Getting Better At Fixing Its Flaws Instead Of Just Calling Them Out, Says DecryptAds’ New COO Arielle Garcia",
+    "url": "https://www.adexchanger.com/programmatic/ad-tech-is-getting-better-at-fixing-its-flaws-instead-of-just-calling-them-out-says-decryptads-new-coo-arielle-garcia/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-11-16T06:00:56.000Z",
+    "summary": "Constantly pointing out that a system is broken gets old. Eventually, you just want to roll up your sleeves and fix it yourself. Arielle Garcia has been one of digital advertising’s most outspoken voices advocating for the need for better data privacy and cybersecurity for the p…"
+  },
+  {
+    "id": "7b9ce53f",
+    "title": "Most Retail Media Networks Shouldn’t Exist. Here’s How They Can Prove Their Worth",
+    "url": "https://www.adexchanger.com/data-driven-thinking/most-retail-media-networks-shouldnt-exist-heres-how-they-can-prove-their-worth/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-16T05:35:41.000Z",
+    "summary": "We’re well past the point of oversaturation in ad tech. There are more than 175,000 software vendors listed on G2, over 15,000 marketing technology solutions and reportedly over 12,000 ad tech vendors in operation. Competitive intensity is real. But no tech market is more ripe f…"
+  },
+  {
+    "id": "c042839e",
+    "title": "Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck?",
+    "url": "https://www.adexchanger.com/daily-news-roundup/big-brands-have-forgotten-how-to-advertise-how-many-ads-can-a-chatbot-chuck/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-16T05:03:31.000Z",
+    "summary": "Classic brands aren’t doing so hot lately; Google has some ad frequency problems to solve; and Twitch is going the short-form video route. The post Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck? appeared first on AdExchanger."
+  },
+  {
     "id": "6f9a494a",
     "title": "Liftoff Sees Big Wins Ahead For Mobile As AI Pushes Budgets Into Apps",
     "url": "https://www.adexchanger.com/marketers/liftoff-sees-big-wins-ahead-for-mobile-as-ai-pushes-budgets-into-apps/",
@@ -24,6 +60,28 @@
     ],
     "published": "2026-11-13T13:58:42.000Z",
     "summary": "Leaders from dentsu, DIRECTV Advertising, Omnicom, and WPP Media discuss where agentic AI is creating value in programmatic and what to prepare for next."
+  },
+  {
+    "id": "d7c3cff2",
+    "title": "Any Channel Count, One Token Stream: Incorporating Spatial Audio Understanding and Reasoning into Large Audio-Language Models",
+    "url": "https://arxiv.org/abs/2611.18112v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-13T12:35:41.000Z",
+    "summary": "Audio phase relations encode source locations, yet existing large audio-language models (LALM) reduce audio to single-channel content to stabilise general audio understanding, leaving spatial information for direction, distance, and source-relation questions unused. We present S…"
+  },
+  {
+    "id": "5ab69985",
+    "title": "TelePhysica: Agentic Reconstruction of Physically Interactive Scenes",
+    "url": "https://arxiv.org/abs/2611.18078v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-13T12:02:43.000Z",
+    "summary": "Direct image-to-video diffusion models entangle pixel synthesis with implicit latent motion, precluding persistent 3D mechanical equilibrium, mid-rollout intervention, and counterfactual force control. Conversely, single-pass programmatic 3D reconstruction from an uncalibrated p…"
   },
   {
     "id": "440c042b",
@@ -166,30 +224,6 @@
     "summary": "For years, ad budgets have been shifting from the open web and independent publishers to walled garden platforms like Meta. But, recently, that shift has begun to reverse a bit. Nearly two-thirds – 63.9% – of advertisers have moved mobile budgets from walled gardens to independe…"
   },
   {
-    "id": "c94eb666",
-    "title": "Marketers Are Writing A New Playbook For Women’s Sports",
-    "url": "https://www.adexchanger.com/marketers/marketers-are-writing-a-new-playbook-for-womens-sports/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-12T06:00:58.000Z",
-    "summary": "Women's sports have historically been seen as an afterthought to men's – but no longer. How RAJ Sports is using data to rewrite its sports marketing strategy. The post Marketers Are Writing A New Playbook For Women’s Sports appeared first on AdExchanger."
-  },
-  {
-    "id": "6bd7574f",
-    "title": "The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI",
-    "url": "https://www.adexchanger.com/daily-news-roundup/the-super-bowls-prediction-market-ad-ban-stands-retailers-arent-open-to-ai/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-12T05:03:01.000Z",
-    "summary": "How will prediction markets affect the Big Game?; The agentic arms race is taking off; professional content still rules the roost. The post The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI appeared first on AdExchanger."
-  },
-  {
     "id": "3bf343f6",
     "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
     "url": "https://arxiv.org/abs/2611.16217v1",
@@ -214,19 +248,6 @@
     ],
     "published": "2026-11-11T11:20:34.000Z",
     "summary": "Parallel mechanisms pose distinctive challenges to large language models (LLMs), as valid reasoning depends jointly on mechanism topology, loop closure, geometry, joint types, and modeling assumptions. Yet existing LLM benchmarks provide little systematic coverage of such domain…"
-  },
-  {
-    "id": "78b1bb6c",
-    "title": "Stop Buying Lemons, With SWYM.ai",
-    "url": "https://www.adexchanger.com/adexchanger-talks/stop-buying-lemons-with-swym-ai/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-11T06:00:23.000Z",
-    "summary": "DSPs only see a fraction of available ad supply, and SSPs have no idea which impressions actually drive results, says SWYM.ai CEO Ravi Patel. That’s how buyers end up paying again and again for low-performing inventory. But it’s time to break the cycle. The post Stop Buying Lemo…"
   },
   {
     "id": "65d35cf3",
@@ -526,32 +547,6 @@
     ],
     "published": "2026-11-02T06:59:08.000Z",
     "summary": "Progress in AI is often measured by what a single model can do on its own. Yet teams of AI agents are starting to make breakthroughs and discoveries in science, medicine, mathematics and software engineering. As AI begins to work in teams of agents and people, the ability to col…"
-  },
-  {
-    "id": "096fd9fa",
-    "title": "Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI",
-    "url": "https://arxiv.org/abs/2611.01891v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-01T13:34:04.000Z",
-    "summary": "Modifying an existing application is difficult when it does not provide programmatic access for that change. Recent advances in computer-use agents (CUAs) enable richer understanding and operation of existing interfaces, while generative UI (GenUI) makes it practical to generate…"
-  },
-  {
-    "id": "7d7f6798",
-    "title": "Delivered, Not Used: Evaluating Agent Memory at Its Point of Use",
-    "url": "https://arxiv.org/abs/2611.01718v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-01T09:09:43.000Z",
-    "summary": "Task success, retrieval quality, and cost do not show whether an LLM agent used a delivered memory or what followed from that use. We introduce MemUse, which evaluates memory at its point of use in recorded trajectories: each memory delivery is compared with what the agent could…"
   },
   {
     "id": "ffd3fcad",
