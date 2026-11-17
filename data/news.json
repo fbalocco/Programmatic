@@ -1,5 +1,55 @@
 [
   {
+    "id": "e73b4d6f",
+    "title": "Ad Tech Doesn’t Need Another Tool. It Needs Fewer Handoffs",
+    "url": "https://www.adexchanger.com/content-studio/ad-tech-doesnt-need-another-tool-it-needs-fewer-handoffs/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-17T13:00:57.000Z",
+    "summary": "Every few months, we get excited about an industry update, like a new ad format or AI tool. That energy is a big part of what keeps ad tech moving forward, but I believe the next five years will be shaped less by any single innovation and more by how well the tools we already [……"
+  },
+  {
+    "id": "477e5dff",
+    "title": "Websites Aren’t Just For People Anymore. Here’s How Marketers Optimize Them For Agents",
+    "url": "https://www.adexchanger.com/ai/websites-arent-just-for-people-anymore-heres-how-marketers-optimize-them-for-agents/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-17T13:00:01.000Z",
+    "summary": "Knotch's new AI marketing solution focuses on making website content more accessible to AI agents, which improves brand discoverability in LLMs. The post Websites Aren’t Just For People Anymore. Here’s How Marketers Optimize Them For Agents appeared first on AdExchanger."
+  },
+  {
+    "id": "8d013150",
+    "title": "Going Straight To The C-Suite; All I Want For Christmas Is Hess Truck Ads In September",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-17112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-17T05:03:34.000Z",
+    "summary": "Deloitte Digital pitches its latest tech directly to the C-suite; Christmas (ads) came early this year; and how long will Meta do business in the EU? The post Going Straight To The C-Suite; All I Want For Christmas Is Hess Truck Ads In September appeared first on AdExchanger."
+  },
+  {
+    "id": "ed03ae30",
+    "title": "Ad Tech Briefing: Google’s antitrust troubles aren’t over",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-antitrust-troubles-arent-over/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-11-17T05:01:00.000Z",
+    "summary": "In Q3 earnings, The Trade Desk's leadership reveals it is searching for answers."
+  },
+  {
     "id": "0877f60f",
     "title": "Digital Competition and Data Security Are Critical Complements, Not Rivals",
     "url": "https://techpolicy.press/digital-competition-and-data-security-are-critical-complements-not-rivals",
@@ -58,6 +108,17 @@
     "tags": [],
     "published": "2026-11-16T05:03:31.000Z",
     "summary": "Classic brands aren’t doing so hot lately; Google has some ad frequency problems to solve; and Twitch is going the short-form video route. The post Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck? appeared first on AdExchanger."
+  },
+  {
+    "id": "5b044bd2",
+    "title": "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers",
+    "url": "https://arxiv.org/abs/2611.19951v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-15T11:47:08.000Z",
+    "summary": "Traffic signal control (TSC) is critical for mitigating urban congestion. Deep reinforcement learning (DRL) has achieved strong performance by learning adaptive policies from traffic observations, but learned neural controllers are often opaque, structurally complex, and difficu…"
   },
   {
     "id": "2647cc44",
@@ -157,33 +218,6 @@
     "summary": "The latest bolt-on to a DSP isn’t solving for media or measurement – it’s AI-generated creative. Inside the Viant-Waymark acquisition. Plus: CEO Jeff Green said The Trade Desk is open to M&A. So what kind of company could The Trade Desk buy? The post AI Creative In The Programma…"
   },
   {
-    "id": "8a77d5c2",
-    "title": "The Many Ways AI Can Influence A Purchase; ‘Premium’ TV Is So Fetch",
-    "url": "https://www.adexchanger.com/daily-news-roundup/friday-13112026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement",
-      "AI"
-    ],
-    "published": "2026-11-13T05:03:03.000Z",
-    "summary": "The IAB has a new framework for AI attribution; what does \"premium\" TV mean, anyway?; and the ups and downs of Claude's new usage policies. The post The Many Ways AI Can Influence A Purchase; ‘Premium’ TV Is So Fetch appeared first on AdExchanger."
-  },
-  {
-    "id": "5df73cc9",
-    "title": "AI is turning ad tech into a fight for the brain behind the buy",
-    "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-13T05:01:00.000Z",
-    "summary": "As AI automates advertising workflows, the contest is shifting to who can make the decisions that deliver results."
-  },
-  {
     "id": "bf3676cc",
     "title": "Media Trading with Censored Auction Prices: A Stochastic Control and Reinforcement Learning Approach",
     "url": "https://arxiv.org/abs/2611.16992v1",
@@ -195,31 +229,6 @@
     ],
     "published": "2026-11-12T15:56:55.000Z",
     "summary": "In real-time bidding, marketing agencies must balance campaign performance, transaction margins and the use of a finite advertising budget. A key difficulty is that market-clearing prices are typically observed only when bids are successful, so the information available for subs…"
-  },
-  {
-    "id": "9e064f81",
-    "title": "Google Will Now Tell You Exactly How Much It’s Saving You On Invalid Traffic",
-    "url": "https://www.adexchanger.com/platforms/google-will-now-tell-you-exactly-how-much-its-crediting-you-for-invalid-traffic/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-12T13:01:33.000Z",
-    "summary": "Digital advertisers have always wondered exactly how much of their ad budgets they’re wasting on bots. Now, Google will tell them. Today, Google Ads announced it’s adding a new feature called the Invalid Traffic Overview Card to its user interface. For the first time, it breaks…"
-  },
-  {
-    "id": "95d2b052",
-    "title": "Viant’s Vanderhook Brothers Want To Make Your Next CTV Ad",
-    "url": "https://www.adexchanger.com/tv/viants-vanderhook-brothers-want-to-make-your-next-ctv-ad/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-11-12T11:00:14.000Z",
-    "summary": "Viant would like a crack at your video creative, please. Earlier this week, Viant announced its $20 million acquisition of Waymark, a generative AI video ad platform that media companies, including Comcast, Fox, NBCU, Spectrum Reach and Gray Television, have used to generate mor…"
   },
   {
     "id": "912e9ced",
@@ -534,17 +543,6 @@
     ],
     "published": "2026-11-02T18:27:55.000Z",
     "summary": "Large language model (LLM) coding agents increasingly operate with shell access, allowing them to write scripts, move files, alter permissions, and modify system configurations. However, an agent may achieve a user's goal while causing unintended harm, such as deleting unrelated…"
-  },
-  {
-    "id": "52504469",
-    "title": "Honest Small Decision Models for Finance: Scale, Specialization Collapse, and Mixed-Corpus Remediation",
-    "url": "https://arxiv.org/abs/2611.03755v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-02T11:18:05.000Z",
-    "summary": "Financial workflows need fast, calibrated, auditable decisions, not just generated text. We train System-1 decision models, small language models fine-tuned to answer typed questions (choice/score/noul) with a probability in a single forward pass, across two model families (K2-H…"
   },
   {
     "id": "ffd3fcad",
