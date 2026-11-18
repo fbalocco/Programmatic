@@ -1,5 +1,32 @@
 [
   {
+    "id": "559ea0ab",
+    "title": "Stop Hunting for Hang-Gliding Nuns. Your Local CTV Campaign Needs Scale.",
+    "url": "https://www.adexchanger.com/inside-the-stack/stop-hunting-for-hang-gliding-nuns-your-local-ctv-campaign-needs-scale/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV",
+      "AI"
+    ],
+    "published": "2026-11-17T19:40:32.000Z",
+    "summary": "Premion’s Head of Pricing and Planning, Adolfo Arbulú, on why hyper-targeting suffocates local CTV campaigns, and why AI still requires a human in the lead. It is easy to get seduced by the promise of hyper-targeting in connected TV. But stacking audience filters—like trying to…"
+  },
+  {
+    "id": "5bfa521b",
+    "title": "Disney Touts Its Streaming Success In Latest Earnings",
+    "url": "https://www.adexchanger.com/tv/disney-touts-its-streaming-success-in-latest-earnings/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-11-17T18:40:49.000Z",
+    "summary": "After a lot of internal upheaval and consolidation, the House of Mouse finds itself in a pretty good place going into its fiscal 2027 year. The post Disney Touts Its Streaming Success In Latest Earnings appeared first on AdExchanger."
+  },
+  {
     "id": "e73b4d6f",
     "title": "Ad Tech Doesn’t Need Another Tool. It Needs Fewer Handoffs",
     "url": "https://www.adexchanger.com/content-studio/ad-tech-doesnt-need-another-tool-it-needs-fewer-handoffs/",
@@ -189,33 +216,6 @@
     "tags": [],
     "published": "2026-11-13T12:02:43.000Z",
     "summary": "Direct image-to-video diffusion models entangle pixel synthesis with implicit latent motion, precluding persistent 3D mechanical equilibrium, mid-rollout intervention, and counterfactual force control. Conversely, single-pass programmatic 3D reconstruction from an uncalibrated p…"
-  },
-  {
-    "id": "440c042b",
-    "title": "CTV Has Trust Issues",
-    "url": "https://www.adexchanger.com/tv/ctv-has-trust-issues/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-11-13T06:00:00.000Z",
-    "summary": "Around four months ago, a top ad sales executive at a CTV ad platform had a meeting with a large QSR advertiser, and he offered the CMO a guarantee. “We said, ‘You only pay us based on incremental visits to your store as defined and measured by your independent third-party measu…"
-  },
-  {
-    "id": "41c19683",
-    "title": "AI Creative In The Programmatic Loop",
-    "url": "https://www.adexchanger.com/the-big-story/ai-creative-in-the-programmatic-loop/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "Measurement",
-      "AI"
-    ],
-    "published": "2026-11-13T05:40:29.000Z",
-    "summary": "The latest bolt-on to a DSP isn’t solving for media or measurement – it’s AI-generated creative. Inside the Viant-Waymark acquisition. Plus: CEO Jeff Green said The Trade Desk is open to M&A. So what kind of company could The Trade Desk buy? The post AI Creative In The Programma…"
   },
   {
     "id": "bf3676cc",
@@ -643,6 +643,20 @@
     "summary": "Documents filed on October 13, 2026 Plaintiffs' Supplemental Joint Recommendation for Template Search and Search Text Ads Syndication License Agreement Appendix A [REDACTED - PUBLIC VERSION] Plaintiffs' Joint Recommendation for Template Search and Search Text Ads Syndication Agr…"
   },
   {
+    "id": "b1497ba0",
+    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-10-15T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
+  },
+  {
     "id": "c82d87ed",
     "title": "Announcing v26 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
@@ -830,6 +844,19 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -841,6 +868,20 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1071,6 +1112,19 @@
     "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search and AI Max for Search campaigns, the c…"
   },
   {
+    "id": "86edbdc5",
+    "title": "Innovators Unscripted With NBCUniversal",
+    "url": "https://www.indexexchange.com/2026/08/11/innovators-unscripted-with-nbcuniversal/",
+    "source": "Index Exchange Blog",
+    "sourceId": "indexexchange",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-08-11T13:32:00.000Z",
+    "summary": "NBCUniversal's Kristina Shepard explains how live sports advertising and programmatic streaming TV are proving performance at scale."
+  },
+  {
     "id": "e12a564e",
     "title": "U.S. and State of Tennessee v. CRH plc, et al.",
     "url": "https://www.justice.gov/atr/case/us-and-state-tennessee-v-crh-plc-et-al",
@@ -1098,6 +1152,17 @@
     "summary": "The Justice Department’s Antitrust Division, joined by the Attorney General of Tennessee, announced today that they will require CRH and its subsidiary APAC-Tennessee to divest two hot-mix asphalt plants as part of its acquisition of Standard Construction to address antitrust co…"
   },
   {
+    "id": "5e711e0a",
+    "title": "Powering Smarter Political Advertising: Q&A With DSPolitical",
+    "url": "https://www.indexexchange.com/2026/08/06/powering-smarter-political-advertising-qa-with-dspolitical/",
+    "source": "Index Exchange Blog",
+    "sourceId": "indexexchange",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-08-06T13:12:58.000Z",
+    "summary": "DSPolitical brings smarter targeting and sell-side decisioning to political advertising, so campaigns reach voters faster and with more precision."
+  },
+  {
     "id": "53f0cae4",
     "title": "Justice Department Withdraws Business Review Letter Issued to Proxy Advisory Firm",
     "url": "https://www.justice.gov/opa/pr/justice-department-withdraws-business-review-letter-issued-proxy-advisory-firm",
@@ -1122,17 +1187,6 @@
     ],
     "published": "2026-08-04T21:12:40.000Z",
     "summary": "Document filed on August 4, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "be57285d",
-    "title": "Innovators Unscripted With CMI Media Group",
-    "url": "https://www.indexexchange.com/2026/08/04/innovators-unscripted-with-cmi-media-group/",
-    "source": "Index Exchange Blog",
-    "sourceId": "indexexchange",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-08-04T13:15:36.000Z",
-    "summary": "Sell-side decisioning is helping CMI Media Group's Oleg Korenfeld bring accountability to healthcare marketing."
   },
   {
     "id": "42b5d1d3",
@@ -1183,19 +1237,6 @@
     "summary": "As the use of AI becomes more prevalent, transparency is key. In the last week, we have launched updates in both the Campaign Manager 360 API and Display & Video 360 API that add new optional fields to resources in both APIs, which allow you to label a creative or creative asset…"
   },
   {
-    "id": "baf506b5",
-    "title": "Innovators Unscripted With Spectrum Reach",
-    "url": "https://www.indexexchange.com/2026/07/28/innovators-unscripted-with-spectrum-reach/",
-    "source": "Index Exchange Blog",
-    "sourceId": "indexexchange",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-07-28T11:13:14.000Z",
-    "summary": "Spectrum Reach's Dan Callahan explains how linear's scale and streaming TV's precision are already converging, powered by first-party data and show-level transparency."
-  },
-  {
     "id": "6afbecbd",
     "title": "Passkey authentication requirement for the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/07/passkey-authentication-requirement-for.html",
@@ -1220,46 +1261,17 @@
     "summary": "The Justice Department’s Antitrust Division announced today that it has returned to implementing targeted Second Request investigations to expedite merger review. The Division is also publishing a model timing agreement in connection with this release."
   },
   {
-    "id": "165f2f57",
-    "title": "Justice Department Reaches Proposed Settlement with Willow Bridge, One of America’s Largest Landlords, to Resolve Information Sharing and Algorithmic Coordination Claims",
-    "url": "https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-willow-bridge-one-americas-largest-landlords",
+    "id": "ceaaae82",
+    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
     "source": "DOJ Antitrust Division Press Releases",
     "sourceId": "doj-atr-press",
     "category": "Court & Enforcement",
     "tags": [
-      "Antitrust",
-      "Policy"
+      "Antitrust"
     ],
-    "published": "2026-07-06T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
-  },
-  {
-    "id": "3057e5b7",
-    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
-    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-03T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
-  },
-  {
-    "id": "496428a8",
-    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-02T12:00:00.000Z",
-    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
+    "published": "2026-07-08T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
   },
   {
     "id": "57eaf726",
@@ -1271,20 +1283,6 @@
     "tags": [],
     "published": "2026-06-30T21:36:22.000Z",
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
-  },
-  {
-    "id": "847ceeb1",
-    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
-    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-06-30T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
   },
   {
     "id": "deb47892",
