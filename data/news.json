@@ -1,5 +1,43 @@
 [
   {
+    "id": "abd8d5b1",
+    "title": "Walmart mulls role advertising will play in an agentic shopping world",
+    "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-19T18:19:00.000Z",
+    "summary": "Momentum for the retailer’s ad business remains strong, but executives acknowledged that AI agents are producing notably different consumer behaviors."
+  },
+  {
+    "id": "d6f4388c",
+    "title": "Don’t Give Privacy Regulators An Excuse To Come Knocking",
+    "url": "https://www.adexchanger.com/privacy/dont-give-privacy-regulators-an-excuse-to-come-knocking/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-11-19T16:41:08.000Z",
+    "summary": "Every time another state passes a privacy law or amends an existing one, brands have to tighten and update their vendor contracts. “If you’re doing business across state borders, your data goes everywhere,” said Patrick Turner, lead counsel for data and privacy at Ford Motor Com…"
+  },
+  {
+    "id": "2263967c",
+    "title": "How Disney helps brands interact and transact with holiday audiences",
+    "url": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
+    "source": "Marketing Dive",
+    "sourceId": "marketingdive",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-19T13:55:05.000Z",
+    "summary": "Partnerships with Chevrolet, Bath & Body Works and Ally around last night's CMA Awards showcase the media giant's evolving advertising strategy."
+  },
+  {
     "id": "ceb4ede7",
     "title": "Meet OpenX’s New CEO, An Optimistic Realist",
     "url": "https://www.adexchanger.com/publishers/meet-openxs-new-ceo-an-optimistic-realist/",
@@ -171,19 +209,6 @@
     "summary": "Reward design remains a central bottleneck in reinforcement learning (RL), particularly in sparse-reward, long-horizon and partially observable settings requiring dependency chaining, memory, and deceptive affordance disambiguation. While recent foundation-model approaches reduc…"
   },
   {
-    "id": "e73b4d6f",
-    "title": "Ad Tech Doesn’t Need Another Tool. It Needs Fewer Handoffs",
-    "url": "https://www.adexchanger.com/content-studio/ad-tech-doesnt-need-another-tool-it-needs-fewer-handoffs/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-17T13:00:57.000Z",
-    "summary": "Every few months, we get excited about an industry update, like a new ad format or AI tool. That energy is a big part of what keeps ad tech moving forward, but I believe the next five years will be shaped less by any single innovation and more by how well the tools we already [……"
-  },
-  {
     "id": "561fc4ea",
     "title": "MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
     "url": "https://arxiv.org/abs/2611.22464v2",
@@ -193,19 +218,6 @@
     "tags": [],
     "published": "2026-11-17T09:25:47.000Z",
     "summary": "Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of paired training data. We introduce MAVEBench, a b…"
-  },
-  {
-    "id": "ed03ae30",
-    "title": "Ad Tech Briefing: Google’s antitrust troubles aren’t over",
-    "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-antitrust-troubles-arent-over/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-11-17T05:01:00.000Z",
-    "summary": "In Q3 earnings, The Trade Desk's leadership reveals it is searching for answers."
   },
   {
     "id": "0877f60f",
@@ -653,20 +665,6 @@
     "summary": "Documents filed on October 13, 2026 Plaintiffs' Supplemental Joint Recommendation for Template Search and Search Text Ads Syndication License Agreement Appendix A [REDACTED - PUBLIC VERSION] Plaintiffs' Joint Recommendation for Template Search and Search Text Ads Syndication Agr…"
   },
   {
-    "id": "b1497ba0",
-    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-10-15T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
-  },
-  {
     "id": "c82d87ed",
     "title": "Announcing v26 of the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
@@ -854,19 +852,6 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
-    "id": "c3aa078c",
-    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust"
-    ],
-    "published": "2026-09-22T12:00:00.000Z",
-    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
-  },
-  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -878,20 +863,6 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
-  },
-  {
-    "id": "627a1b7a",
-    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
-    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-09-17T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -1271,17 +1242,46 @@
     "summary": "The Justice Department’s Antitrust Division announced today that it has returned to implementing targeted Second Request investigations to expedite merger review. The Division is also publishing a model timing agreement in connection with this release."
   },
   {
-    "id": "ceaaae82",
-    "title": "Deputy Assistant Attorney General Dina Kallay Delivers Remarks at the Hudson Institute Forum for Intellectual Property",
-    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-dina-kallay-delivers-remarks-hudson-institute-forum",
+    "id": "165f2f57",
+    "title": "Justice Department Reaches Proposed Settlement with Willow Bridge, One of America’s Largest Landlords, to Resolve Information Sharing and Algorithmic Coordination Claims",
+    "url": "https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-willow-bridge-one-americas-largest-landlords",
     "source": "DOJ Antitrust Division Press Releases",
     "sourceId": "doj-atr-press",
     "category": "Court & Enforcement",
     "tags": [
-      "Antitrust"
+      "Antitrust",
+      "Policy"
     ],
-    "published": "2026-07-08T12:00:00.000Z",
-    "summary": "Remarks as Prepared for Delivery, “The Innovation Dance: Navigating the Balance of Intellectual Property and Antitrust in a Global World”Good afternoon and thank you for inviting me to speak at the Hudson Institute Forum for Intellectual Property. I am very pleased to be here. T…"
+    "published": "2026-07-06T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
+  },
+  {
+    "id": "3057e5b7",
+    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
+    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-03T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
+  },
+  {
+    "id": "496428a8",
+    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
+    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-07-02T12:00:00.000Z",
+    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
   },
   {
     "id": "57eaf726",
@@ -1293,6 +1293,20 @@
     "tags": [],
     "published": "2026-06-30T21:36:22.000Z",
     "summary": "Documents posted on June 29, 2026 Competitive Impact Statement"
+  },
+  {
+    "id": "847ceeb1",
+    "title": "Justice Department Requires Egg Producers to End Coordinated Benchmark Manipulation that Artificially Inflated Prices Across the Country",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-egg-producers-end-coordinated-benchmark-manipulation",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-06-30T12:00:00.000Z",
+    "summary": "The Justice Department’s Antitrust Division, together with 17 State Attorneys General, filed a civil lawsuit against Cal-Maine Foods Inc. (Cal-Maine); Hickman’s Egg Ranch Inc. (Hickman’s); and Centrum Valley Holdings LLC, Versova Holdings LLC, and Versova Management Cooperative…"
   },
   {
     "id": "deb47892",
