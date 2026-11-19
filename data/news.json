@@ -1,5 +1,75 @@
 [
   {
+    "id": "ceb4ede7",
+    "title": "Meet OpenX’s New CEO, An Optimistic Realist",
+    "url": "https://www.adexchanger.com/publishers/meet-openxs-new-ceo-an-optimistic-realist/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "Identity"
+    ],
+    "published": "2026-11-19T06:00:59.000Z",
+    "summary": "Safari is cracking down on identity vendors, DSPs are going direct to publishers, Google gets to keep AdX, agents are threatening to cut out the middlemen, the walled gardens keep winning and the open web is under pressure. Happy first week, Robert. In early November, OpenX name…"
+  },
+  {
+    "id": "809c8a24",
+    "title": "Measuring Clicks Is Making ChatGPT Ads Look Like A Bad Bet",
+    "url": "https://www.adexchanger.com/data-driven-thinking/measuring-clicks-is-making-chatgpt-ads-look-like-a-bad-bet/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-19T05:35:52.000Z",
+    "summary": "The first question marketers ask about every new advertising channel is almost always the same: Does it perform better than the last one we tested? It happened with social. It happened with retail media. And now it’s happening with OpenAI. The debate around ChatGPT advertising h…"
+  },
+  {
+    "id": "c0eae0ad",
+    "title": "Only You Can Prevent JavaScript Security Hacks; AppLovin Eyes A Criteo Acquisition",
+    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-20261119/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-19T05:03:50.000Z",
+    "summary": "What's behind the recent IT outages and cybersecurity scares? Plus: AppLovin is apparently among those in talks with Criteo. The post Only You Can Prevent JavaScript Security Hacks; AppLovin Eyes A Criteo Acquisition appeared first on AdExchanger."
+  },
+  {
+    "id": "2a6159c2",
+    "title": "Media Briefing: ChatGPT’s new business hub is an early ‘search console moment’ for publishers",
+    "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
+    "source": "Digiday",
+    "sourceId": "digiday",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-19T05:01:00.000Z",
+    "summary": "ChatGPT’s new AI visibility and click data can help inform publishers' GEO strategies and complement third-party analytics."
+  },
+  {
+    "id": "00f39dc9",
+    "title": "Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning",
+    "url": "https://arxiv.org/abs/2611.24565v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-18T15:01:21.000Z",
+    "summary": "Image-to-code methods for 3D scene reconstruction produce executable code that generates editable digital content and supports visual simulation. However, existing methods primarily rely on appearance similarity, which provides limited guidance for distinguishing errors in geome…"
+  },
+  {
+    "id": "e4b264d8",
+    "title": "X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction",
+    "url": "https://arxiv.org/abs/2611.24283v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-18T11:58:37.000Z",
+    "summary": "Accurate click-through rate (CTR) prediction depends on user representations that capture both persistent preferences and recent intent, yet processing extensive behavioral histories for every ranking request is costly under production compute and latency constraints. We present…"
+  },
+  {
     "id": "382fb451",
     "title": "Canvas Worldwide’s Agentic Layer Helps Zillow Distinguish Real Renters From Dreamers",
     "url": "https://www.adexchanger.com/ai/canvas-worldwides-agentic-layer-helps-zillow-distinguish-real-renters-from-dreamers/",
@@ -114,39 +184,15 @@
     "summary": "Every few months, we get excited about an industry update, like a new ad format or AI tool. That energy is a big part of what keeps ad tech moving forward, but I believe the next five years will be shaped less by any single innovation and more by how well the tools we already [……"
   },
   {
-    "id": "477e5dff",
-    "title": "Websites Aren’t Just For People Anymore. Here’s How Marketers Optimize Them For Agents",
-    "url": "https://www.adexchanger.com/ai/websites-arent-just-for-people-anymore-heres-how-marketers-optimize-them-for-agents/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-17T13:00:01.000Z",
-    "summary": "Knotch's new AI marketing solution focuses on making website content more accessible to AI agents, which improves brand discoverability in LLMs. The post Websites Aren’t Just For People Anymore. Here’s How Marketers Optimize Them For Agents appeared first on AdExchanger."
-  },
-  {
-    "id": "551fc357",
+    "id": "561fc4ea",
     "title": "MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
-    "url": "https://arxiv.org/abs/2611.22464v1",
+    "url": "https://arxiv.org/abs/2611.22464v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
     "tags": [],
     "published": "2026-11-17T09:25:47.000Z",
     "summary": "Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of paired training data. We introduce MAVEBench, a b…"
-  },
-  {
-    "id": "8d013150",
-    "title": "Going Straight To The C-Suite; All I Want For Christmas Is Hess Truck Ads In September",
-    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-17112026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-17T05:03:34.000Z",
-    "summary": "Deloitte Digital pitches its latest tech directly to the C-suite; Christmas (ads) came early this year; and how long will Meta do business in the EU? The post Going Straight To The C-Suite; All I Want For Christmas Is Hess Truck Ads In September appeared first on AdExchanger."
   },
   {
     "id": "ed03ae30",
@@ -173,17 +219,6 @@
     ],
     "published": "2026-11-16T17:30:55.000Z",
     "summary": ""
-  },
-  {
-    "id": "da8c76a5",
-    "title": "Why Trade Desk Veteran Jed Dederick Joined The Startup ShopMy To Sell Creator Marketing",
-    "url": "https://www.adexchanger.com/commerce/why-trade-desk-veteran-jed-dederick-joined-the-startup-shopmy-to-sell-creator-marketing/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-16T11:40:29.000Z",
-    "summary": "Jed Dederick has had an interesting view of the programmatic industry. He was a digital ads seller first at The Wall Street Journal and then WebMD until 2012, when he jumped across the exchange to the still-nascent DSP The Trade Desk. The rest, as they say, is history. He eventu…"
   },
   {
     "id": "5b044bd2",
@@ -402,15 +437,15 @@
     "summary": "Multimodal Large Language Models (MLLMs) have shown promise as interactive agents, yet precise, programmatic 3D graphics editing remains difficult to train because existing systems largely rely on closed-source model APIs and lack deterministic, state-verifiable execution enviro…"
   },
   {
-    "id": "2795d6d6",
+    "id": "2695d543",
     "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
-    "url": "https://arxiv.org/abs/2611.10592v1",
+    "url": "https://arxiv.org/abs/2611.10592v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
     "tags": [],
     "published": "2026-11-07T08:59:49.000Z",
-    "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, appearance, and temporal requirements. We introduce MotionGraphicsBench, an expert-…"
+    "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models follow requests that combine spatial, appearance, and temporal requirements. We introduce MotionGraphicsBench, an expert-cura…"
   },
   {
     "id": "f91eb75f",
@@ -483,17 +518,6 @@
     "summary": "The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads send call conversions to Goo…"
   },
   {
-    "id": "adbd1a5a",
-    "title": "Matriarchy Classics: A Computational Approach to Swap Only Gendered Words in Classic Novels",
-    "url": "https://arxiv.org/abs/2611.07134v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-04T21:03:10.000Z",
-    "summary": "This paper proposes a trustworthy computational method to gender-swap public domain novels, with programmatic guarantees that only gendered words are inverted and all other words are left unchanged. This may seem like a simple task, but both large language models and naive rule-…"
-  },
-  {
     "id": "fab3bca8",
     "title": "Upcoming changes to multi-party approvals in the Google Ads API",
     "url": "http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html",
@@ -503,19 +527,6 @@
     "tags": [],
     "published": "2026-11-04T19:47:23.365Z",
     "summary": "Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026, we are introducing additional changes to improve the developer experience for multi-party approvals. What’s changing?…"
-  },
-  {
-    "id": "9598423c",
-    "title": "VABAR: A Variational Automation Benchmark for Agentic Robotics",
-    "url": "https://arxiv.org/abs/2611.06881v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-11-04T18:38:01.000Z",
-    "summary": "For robots to operate reliably in commercial and industrial applications, they must persistently perform specific tasks with known variations in object shape and pose. We call this Variational Automation (VA) to differentiate these settings from fixed automation. Inspired by rec…"
   },
   {
     "id": "1a14a8e0",
