@@ -1,5 +1,40 @@
 [
   {
+    "id": "7194f094",
+    "title": "Have a Merry Ads-mas",
+    "url": "https://www.adexchanger.com/the-big-story/have-a-merry-ads-mas/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-20T10:00:31.000Z",
+    "summary": "We use Outlook at AdExchanger, and last Wednesday everything came crashing down. PR people resorted to frantic texts to reach journalists. No emails showed up in my inbox for 18 hours. But ad tech soldiered on. We open the episode with a check in about last week’s historic outag…"
+  },
+  {
+    "id": "61a2792c",
+    "title": "Q3 In Review: Pay TV Shrinks, Streaming And Sports Step Up",
+    "url": "https://www.adexchanger.com/ctv-roundup/q3-in-review-pay-tv-shrinks-streaming-and-sports-step-up/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "CTV"
+    ],
+    "published": "2026-11-20T05:45:25.000Z",
+    "summary": "Here's a rundown on the TV and streaming companies (those that remain after all the recent consolidation, that is) that posted their earnings for the three months ending Sept. 30 – and what these reports reveal about the state of TV and media today. The post Q3 In Review: Pay TV…"
+  },
+  {
+    "id": "6ffef4c8",
+    "title": "TikTok’s CSAM Problem; You Can’t Bank On Data Security",
+    "url": "https://www.adexchanger.com/daily-news-roundup/friday-20112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-20T05:03:30.000Z",
+    "summary": "Some Spanish advertisers pause TikTok spending due to CSAM concerns; a third-party tech vendor of Chase was the victim of a cyberattack; and Anthropic goes public. The post TikTok’s CSAM Problem; You Can’t Bank On Data Security appeared first on AdExchanger."
+  },
+  {
     "id": "abd8d5b1",
     "title": "Walmart mulls role advertising will play in an agentic shopping world",
     "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
@@ -25,6 +60,17 @@
     ],
     "published": "2026-11-19T16:41:08.000Z",
     "summary": "Every time another state passes a privacy law or amends an existing one, brands have to tighten and update their vendor contracts. “If you’re doing business across state borders, your data goes everywhere,” said Patrick Turner, lead counsel for data and privacy at Ford Motor Com…"
+  },
+  {
+    "id": "94aefb92",
+    "title": "Context as a Resource",
+    "url": "https://arxiv.org/abs/2611.26346v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-19T16:19:56.000Z",
+    "summary": "Managing concurrent tasks across separate agent sessions quickly exhausts human attention, motivating always-on personal agents behind a single continuous interface. Yet when every context shares identical frozen backbone weights, funneling interleaved dialogues and external eve…"
   },
   {
     "id": "2263967c",
@@ -169,44 +215,6 @@
     ],
     "published": "2026-11-18T05:45:27.000Z",
     "summary": "Philips Sonicare, a maker of electric toothbrushes and water flossers, decided to consolidate its streaming TV ad buys within Amazon, which has also been doing some consolidating itself. The post Philips Sonicare Polishes Its Streaming TV Strategy Using Amazon Ads Agent appeared…"
-  },
-  {
-    "id": "a786e270",
-    "title": "Meta Makes Its Way To The Big(ish) Screen; Fubo’s Fraught Q3",
-    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-18112026/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-18T05:03:20.000Z",
-    "summary": "MeT∀ YouTube has become TV, video podcasts are following suit and now Meta is looking for its way into the living room. Meta has already been testing Instagram for TV built around long-form creator content. But it could make a bigger splash in the TV world through the acquisitio…"
-  },
-  {
-    "id": "559ea0ab",
-    "title": "Stop Hunting for Hang-Gliding Nuns. Your Local CTV Campaign Needs Scale.",
-    "url": "https://www.adexchanger.com/inside-the-stack/stop-hunting-for-hang-gliding-nuns-your-local-ctv-campaign-needs-scale/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV",
-      "AI"
-    ],
-    "published": "2026-11-17T19:40:32.000Z",
-    "summary": "Premion’s Head of Pricing and Planning, Adolfo Arbulú, on why hyper-targeting suffocates local CTV campaigns, and why AI still requires a human in the lead. It is easy to get seduced by the promise of hyper-targeting in connected TV. But stacking audience filters—like trying to…"
-  },
-  {
-    "id": "5bfa521b",
-    "title": "Disney Touts Its Streaming Success In Latest Earnings",
-    "url": "https://www.adexchanger.com/tv/disney-touts-its-streaming-success-in-latest-earnings/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-11-17T18:40:49.000Z",
-    "summary": "After a lot of internal upheaval and consolidation, the House of Mouse finds itself in a pretty good place going into its fiscal 2027 year. The post Disney Touts Its Streaming Success In Latest Earnings appeared first on AdExchanger."
   },
   {
     "id": "98c937ec",
@@ -362,9 +370,9 @@
     "summary": "1. Monitoring plant biodiversity requires identifying large numbers of plants across space and time. Although artificial intelligence (AI) can now identify plant species from images with high accuracy, most existing systems rely on users manually submitting images. As ecological…"
   },
   {
-    "id": "3bf343f6",
+    "id": "3af34263",
     "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
-    "url": "https://arxiv.org/abs/2611.16217v1",
+    "url": "https://arxiv.org/abs/2611.16217v2",
     "source": "arXiv (ad auctions / RTB / programmatic)",
     "sourceId": "arxiv-ad-auctions",
     "category": "Research",
@@ -506,17 +514,6 @@
     "tags": [],
     "published": "2026-11-05T16:55:44.000Z",
     "summary": "Manim supports precise, programmatic video generation, but a successfully rendered educational animation can still have visual defects, missing explanations, or incorrect content. Rendering does not directly identify the code changes needed to correct these visual failures, so f…"
-  },
-  {
-    "id": "7c1aa291",
-    "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
-    "url": "https://arxiv.org/abs/2611.08237v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-05T16:18:35.000Z",
-    "summary": "Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible reference and physically feasible; existing benchmarks either score solver fragment…"
   },
   {
     "id": "fea52a19",
