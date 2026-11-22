@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:10:40.575Z",
+  "generatedAt": "2026-11-22T19:30:19.488Z",
   "feedCount": 17,
   "itemCount": 188,
   "errors": [
@@ -7,7 +7,7 @@
       "id": "edpb-news",
       "name": "European Data Protection Board (News)",
       "url": "https://edpb.europa.eu/feed/news_en",
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 1016028</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 1444317</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-"
     },
     {
       "id": "ftc-press",
@@ -97,7 +97,7 @@
       "id": "techpolicypress",
       "name": "Tech Policy Press",
       "category": "Regulation",
-      "fetched": 4174,
+      "fetched": 4176,
       "kept": 1,
       "error": null
     },
@@ -107,7 +107,7 @@
       "category": "Regulation",
       "fetched": 0,
       "kept": 0,
-      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 1016028</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-"
+      "error": "HTTP 503 Service Unavailable — <html lang=\"en\" class=\"no-js\"> <head> <meta charset=\"utf-8\" /> <title>Sorry - 1444317</title> <meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" /> <meta content=\"IE=edge\" http-equiv=\"X-"
     },
     {
       "id": "ftc-press",
