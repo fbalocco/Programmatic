@@ -1,5 +1,40 @@
 [
   {
+    "id": "80a642a3",
+    "title": "AI Needs To Cite Its Sources. This Consumer Intelligence Platform Ensures It Does",
+    "url": "https://www.adexchanger.com/ai/ai-needs-to-cite-its-sources-this-consumer-intelligence-platform-ensures-it-does/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [
+      "AI"
+    ],
+    "published": "2026-11-23T07:00:38.000Z",
+    "summary": "Stravito uses a variety of data sources to build out AI personas for different audiences, and touts a “glass box” approach to AI. The post AI Needs To Cite Its Sources. This Consumer Intelligence Platform Ensures It Does appeared first on AdExchanger."
+  },
+  {
+    "id": "6962a98f",
+    "title": "The Trade Desk Can Win Again By Embracing Objectivity And Letting Go Of The Open Web",
+    "url": "https://www.adexchanger.com/data-driven-thinking/the-trade-desk-can-win-again-by-embracing-objectivity-and-letting-go-of-the-open-web/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-23T05:35:30.000Z",
+    "summary": "Wall Street loves to pile on ad tech. They’re all about you when you’re up and quick to dismiss you when you’re down. No company has felt the highs and lows of being public quite like The Trade Desk (TTD), which, outside of AppLovin and the Magnificent 7, is the best company to…"
+  },
+  {
+    "id": "0a60aab4",
+    "title": "Why Mobile Apps Treasure Downtime; Terms Of Non-Endearment",
+    "url": "https://www.adexchanger.com/daily-news-roundup/monday-23112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-23T05:03:51.000Z",
+    "summary": "Why don’t more apps double as mobile games?; OpenAI is already tweaking ChatGPT’s business hub; and Bending Spoons is building an army. The post Why Mobile Apps Treasure Downtime; Terms Of Non-Endearment appeared first on AdExchanger."
+  },
+  {
     "id": "b8152948",
     "title": "Your Next Customer Is in the Chat. Why Last-Click Can’t Tell the Whole Story.",
     "url": "https://www.adexchanger.com/inside-the-stack/your-next-customer-is-in-the-chat-why-last-click-cant-tell-the-whole-story/",
@@ -100,6 +135,44 @@
     "summary": "Partnerships with Chevrolet, Bath & Body Works and Ally around last night's CMA Awards showcase the media giant's evolving advertising strategy."
   },
   {
+    "id": "d900f31b",
+    "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+    "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Privacy",
+      "Policy"
+    ],
+    "published": "2026-11-19T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 16/10/2026 National case Controller: Private individual Legal References: Article 6(1) (Lawfulness of processing) Decision: Administrative fine Key words: Legal basis, Fines, GDPR enforcement, Basic principles Summary of the Decisio…"
+  },
+  {
+    "id": "0f136d1e",
+    "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+    "url": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-11-19T12:00:00.000Z",
+    "summary": "Brussels, 19 November - The EDPB met on 17 November with Commissioners and representatives of the Data Protection Authorities (DPAs) from the countries and the international organisation with an EU adequacy decision. This gathering marked the third of its kind, following the fir…"
+  },
+  {
+    "id": "56cc51c1",
+    "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+    "url": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-19T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 13/11/2026 Cross-border case One-Stop-Shop Procedure: the decision was taken by national supervisory authorities following the One-Stop-Shop cooperation procedure (OSS) If cross-border, LSA: Norway and CSAs: Sweden, Denmark Controll…"
+  },
+  {
     "id": "e694c6a7",
     "title": "Justice Department’s Statement on the Closing of Its Investigation of NextEra’s Acquisition of Dominion",
     "url": "https://www.justice.gov/opa/pr/justice-departments-statement-closing-its-investigation-nexteras-acquisition-dominion",
@@ -126,52 +199,66 @@
     "summary": "Safari is cracking down on identity vendors, DSPs are going direct to publishers, Google gets to keep AdX, agents are threatening to cut out the middlemen, the walled gardens keep winning and the open web is under pressure. Happy first week, Robert. In early November, OpenX name…"
   },
   {
-    "id": "809c8a24",
-    "title": "Measuring Clicks Is Making ChatGPT Ads Look Like A Bad Bet",
-    "url": "https://www.adexchanger.com/data-driven-thinking/measuring-clicks-is-making-chatgpt-ads-look-like-a-bad-bet/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
+    "id": "de0f8e1a",
+    "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
     "tags": [],
-    "published": "2026-11-19T05:35:52.000Z",
-    "summary": "The first question marketers ask about every new advertising channel is almost always the same: Does it perform better than the last one we tested? It happened with social. It happened with retail media. And now it’s happening with OpenAI. The debate around ChatGPT advertising h…"
+    "published": "2026-11-18T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 20/10/2026 National case Controller: Techpartner S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the righ…"
   },
   {
-    "id": "c0eae0ad",
-    "title": "Only You Can Prevent JavaScript Security Hacks; AppLovin Eyes A Criteo Acquisition",
-    "url": "https://www.adexchanger.com/daily-news-roundup/thursday-20261119/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
+    "id": "cf0aff7f",
+    "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-18T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 13/11/2026 National case Controller: Meta Platforms Ireland Limited Decision: Administrative fine, Compliance order Key words: Fines, Online platforms Summary of the Decision Origin of the case The Italian Data Protection Authority…"
+  },
+  {
+    "id": "bbc4fa57",
+    "title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
     "tags": [],
-    "published": "2026-11-19T05:03:50.000Z",
-    "summary": "What's behind the recent IT outages and cybersecurity scares? Plus: AppLovin is apparently among those in talks with Criteo. The post Only You Can Prevent JavaScript Security Hacks; AppLovin Eyes A Criteo Acquisition appeared first on AdExchanger."
+    "published": "2026-11-18T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 07/10/2026 National case Controller: Centro Radiologico Madonna della Bruna S.r.l. Processor: MedStore Saronno S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 25 (Data protection by d…"
   },
   {
-    "id": "2a6159c2",
-    "title": "Media Briefing: ChatGPT’s new business hub is an early ‘search console moment’ for publishers",
-    "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
-    "source": "Digiday",
-    "sourceId": "digiday",
-    "category": "Industry",
+    "id": "0baf545e",
+    "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
     "tags": [
-      "AI"
+      "Policy"
     ],
-    "published": "2026-11-19T05:01:00.000Z",
-    "summary": "ChatGPT’s new AI visibility and click data can help inform publishers' GEO strategies and complement third-party analytics."
+    "published": "2026-11-18T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 23/09/2026 Controller: Business School S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the…"
   },
   {
-    "id": "382fb451",
-    "title": "Canvas Worldwide’s Agentic Layer Helps Zillow Distinguish Real Renters From Dreamers",
-    "url": "https://www.adexchanger.com/ai/canvas-worldwides-agentic-layer-helps-zillow-distinguish-real-renters-from-dreamers/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
+    "id": "d03b33f0",
+    "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+    "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
     "tags": [
-      "AI"
+      "Privacy",
+      "Policy"
     ],
-    "published": "2026-11-18T07:00:02.000Z",
-    "summary": "Canvas' AI solutions help brands and agencies like Zillow optimize their campaign budgeting and pacing. The post Canvas Worldwide’s Agentic Layer Helps Zillow Distinguish Real Renters From Dreamers appeared first on AdExchanger."
+    "published": "2026-11-17T12:00:00.000Z",
+    "summary": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order Key words: GDPR enforcement, Technolog…"
   },
   {
     "id": "0877f60f",
@@ -198,6 +285,30 @@
     ],
     "published": "2026-11-13T13:58:42.000Z",
     "summary": "Leaders from dentsu, DIRECTV Advertising, Omnicom, and WPP Media discuss where agentic AI is creating value in programmatic and what to prepare for next."
+  },
+  {
+    "id": "3e64c354",
+    "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
+    "url": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [],
+    "published": "2026-11-13T12:00:00.000Z",
+    "summary": "Brussels 13 November – At its latest plenary, the EDPB adopted a statement on the use of other models of contractual clauses for onward transfers of personal data*. The statement welcomes recent updates made by the European Commission on its FAQs on the EU Standard Contractual C…"
+  },
+  {
+    "id": "62a0efd4",
+    "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+    "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+    "source": "European Data Protection Board (News)",
+    "sourceId": "edpb-news",
+    "category": "Regulation",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-11T12:00:00.000Z",
+    "summary": "Brussels, 11 November – During its latest plenary, the EDPB has adopted a statement on the first review of the functioning of the adequacy decision of the Republic of Korea and the final version of the recommendations on the application for approval and on the elements and princ…"
   },
   {
     "id": "65d35cf3",
@@ -383,6 +494,20 @@
     ],
     "published": "2026-10-16T23:43:29.000Z",
     "summary": "Documents filed on October 13, 2026 Plaintiffs' Supplemental Joint Recommendation for Template Search and Search Text Ads Syndication License Agreement Appendix A [REDACTED - PUBLIC VERSION] Plaintiffs' Joint Recommendation for Template Search and Search Text Ads Syndication Agr…"
+  },
+  {
+    "id": "b1497ba0",
+    "title": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-10-15T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Will We See You in Court? Antitrust Enforcement in the Trump Administration”Thank you. It is a pleasure to be in the Bay Area today — the heart of so much of the innovation that has made America the leader in technological innovation. The Bay A…"
   },
   {
     "id": "c82d87ed",
@@ -572,6 +697,19 @@
     "summary": "The Justice Department issued the following statements regarding the U.S. District Court for the Western District of Michigan’s decision in People of the State of Michigan vs. BP, P.L.C., et al., which was an antitrust lawsuit brought by the state against energy companies. The J…"
   },
   {
+    "id": "c3aa078c",
+    "title": "Deputy Assistant Attorney General Daniel Glad Delivers Remarks at the 2026 Women’s White Collar Defense Association Conference",
+    "url": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-daniel-glad-delivers-remarks-2026-womens-white-collar",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust"
+    ],
+    "published": "2026-09-22T12:00:00.000Z",
+    "summary": "Remarks as Prepared for DeliveryIt is always good for me to be back in Chicago. This is home. I grew up here. I started my career here. I worked in city government and I prosecuted cases here. The Antitrust Division has an office here, just a few blocks away, where I got my star…"
+  },
+  {
     "id": "291cef65",
     "title": "New in DevTools - October 2026",
     "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026?hl=en",
@@ -583,6 +721,20 @@
     ],
     "published": "2026-09-22T07:00:00.000Z",
     "summary": "DevTools MCP server updates, Ad script tracking in the Ads section in Application, and Full soft navigation support in Performance."
+  },
+  {
+    "id": "627a1b7a",
+    "title": "Associate Attorney General Stanley E. Woodward Jr. Delivers Remarks at the 53rd Annual Conference on International Antitrust Law and Policy, and Antitrust Economics Workshop at Fordham Law School",
+    "url": "https://www.justice.gov/opa/speech/associate-attorney-general-stanley-e-woodward-jr-delivers-remarks-53rd-annual-conference",
+    "source": "DOJ Antitrust Division Press Releases",
+    "sourceId": "doj-atr-press",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Antitrust",
+      "Policy"
+    ],
+    "published": "2026-09-17T12:00:00.000Z",
+    "summary": "Remarks as Prepared for Delivery, “Antitrust Federalism”Thank you, Maureen. I am grateful to Fordham Law School and the Competition Law Institute for the invitation to be here today."
   },
   {
     "id": "afc8a01b",
@@ -960,48 +1112,6 @@
     ],
     "published": "2026-07-23T12:00:00.000Z",
     "summary": "The Justice Department’s Antitrust Division announced today that it has returned to implementing targeted Second Request investigations to expedite merger review. The Division is also publishing a model timing agreement in connection with this release."
-  },
-  {
-    "id": "165f2f57",
-    "title": "Justice Department Reaches Proposed Settlement with Willow Bridge, One of America’s Largest Landlords, to Resolve Information Sharing and Algorithmic Coordination Claims",
-    "url": "https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-willow-bridge-one-americas-largest-landlords",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-06T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Willow Bridge Property Company LLC, as part of its ongoing enforcement action in the Middle District of North Carolina against algorithmic coordination, the…"
-  },
-  {
-    "id": "3057e5b7",
-    "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
-    "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-03T12:00:00.000Z",
-    "summary": "The Justice Department’s Antitrust Division and the Federal Trade Commission warn lawbreaking companies that they are closely monitoring petroleum markets and gas prices and will take all appropriate measures to stop illegal conduct contributing to high gas prices."
-  },
-  {
-    "id": "496428a8",
-    "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
-    "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
-    "source": "DOJ Antitrust Division Press Releases",
-    "sourceId": "doj-atr-press",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Antitrust",
-      "Policy"
-    ],
-    "published": "2026-07-02T12:00:00.000Z",
-    "summary": "The Department of Justice’s (DOJ) Antitrust Division and Federal Trade Commission released their 48th Annual Hart-Scott-Rodino (HSR) Report. This report summarizes the agencies’ merger enforcement efforts and provides fiscal year 2025 data on the Premerger Notification Program,…"
   },
   {
     "id": "57eaf726",
