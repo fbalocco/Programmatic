@@ -1,5 +1,51 @@
 [
   {
+    "id": "f0959abf",
+    "title": "What Does ‘Performance’ Actually Mean for TV? Buyers Weigh In",
+    "url": "https://www.adexchanger.com/tv/what-does-performance-actually-mean-for-tv-buyers-weigh-in/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-25T05:45:10.000Z",
+    "summary": "What does performance actually mean in TV environments? And what do media buyers need to achieve that performance? These two questions were the focus of a panel of buyers at this year’s Go Addressable event in New York City on Thursday. The post What Does ‘Performance’ Actually…"
+  },
+  {
+    "id": "442d1e7c",
+    "title": "Amazon Can’t Quit ChatGPT; Manipulative Mobile Game Ads Win",
+    "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-25112026/",
+    "source": "AdExchanger",
+    "sourceId": "adexchanger",
+    "category": "Industry",
+    "tags": [],
+    "published": "2026-11-25T05:03:47.000Z",
+    "summary": "Happy Thanksgiving! The AdExchanger team will be taking the rest of the week off to enjoy the holiday. The Daily News Roundup will return on Monday, Nov. 30. Never Attribute To Malice Name two bigger frenemies in ecommerce than OpenAI and Amazon. The two companies are headed for…"
+  },
+  {
+    "id": "9ccc1700",
+    "title": "U.S. and Plaintiff States v. Google LLC [2020]",
+    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc",
+    "source": "DOJ Antitrust Division Civil Case Filings",
+    "sourceId": "doj-atr-civil-filings",
+    "category": "Court & Enforcement",
+    "tags": [
+      "Policy"
+    ],
+    "published": "2026-11-25T01:38:17.000Z",
+    "summary": "Document filed on November 13, 2026 Plaintiffs' Joint Supplemental Status Report Plaintiffs' Third Status Report as to the Enforcement of and Google's Compliance with the Final Judgment Joint Status Report [REDACTED - PUBLIC VERSION] Exhibit 1 [REDACTED - PUBLIC VERSION] Exhibit…"
+  },
+  {
+    "id": "ecebecb8",
+    "title": "PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents",
+    "url": "https://arxiv.org/abs/2611.33144v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-24T18:56:44.000Z",
+    "summary": "Learning for dexterous manipulation is limited by the scarcity of high-quality demonstrations: retargeting from human video is imprecise, teleoperation gives no force feedback to the operator, and exoskeleton-based collection is hard to scale up. We present PyRUA-Dex, a framewor…"
+  },
+  {
     "id": "c5ee59f6",
     "title": "Healthcare Ads Are Coming To ChatGPT",
     "url": "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/",
@@ -11,6 +57,28 @@
     ],
     "published": "2026-11-24T14:00:01.000Z",
     "summary": "As AI discoverability becomes a priority for more medical providers, WebMD Ignite's new offering will help them launch ads in ChatGPT. The post Healthcare Ads Are Coming To ChatGPT appeared first on AdExchanger."
+  },
+  {
+    "id": "b343dd19",
+    "title": "Decision Models: An Introduction and Capability Evaluation",
+    "url": "https://arxiv.org/abs/2611.32368v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-24T10:38:36.000Z",
+    "summary": "Applications such as ticket routing and incident triage need decisions that software can act on. Decision models provide these outputs through explicit types for choices, binary judgments, and policy scores. We evaluate the accuracy, output validity, and request latency of eleve…"
+  },
+  {
+    "id": "09963ec0",
+    "title": "Online Environment Repair for Coding Agents",
+    "url": "https://arxiv.org/abs/2611.32037v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-24T06:21:42.000Z",
+    "summary": "Programmatic verifiers provide scalable reward signals for training coding agents with reinforcement learning, yet subtle harness defects and incomplete unit tests allow policies to earn full credit without solving the intended task. Existing training-time defenses intervene eit…"
   },
   {
     "id": "f3960fbd",
@@ -48,17 +116,26 @@
     "summary": "Meta’s reported CTV expansion and AppLovin’s alleged interest in Criteo are foreboding for independent ad tech as major platforms extend their reach."
   },
   {
-    "id": "9ccc1700",
-    "title": "U.S. and Plaintiff States v. Google LLC [2020]",
-    "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc",
-    "source": "DOJ Antitrust Division Civil Case Filings",
-    "sourceId": "doj-atr-civil-filings",
-    "category": "Court & Enforcement",
-    "tags": [
-      "Policy"
-    ],
-    "published": "2026-11-23T23:10:45.000Z",
-    "summary": "Documents filed on October 23, 2026 Joint Status Report [REDACTED - PUBLIC VERSION] Exhibit 1 [REDACTED - PUBLIC VERSION] Exhibit 2 [REDACTED - PUBLIC VERSION] Exhibit 3 [REDACTED - PUBLIC VERSION]"
+    "id": "d5679eee",
+    "title": "RVLM-X: Towards a Universal VLM Harness",
+    "url": "https://arxiv.org/abs/2611.31755v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-24T01:01:08.000Z",
+    "summary": "Harnesses for vision-language models (VLMs) have grown with the models' capabilities, notably for images far larger than those seen in training, where downscaling loses small details. Most of them wrap the VLM in a fixed procedure, such as a zoom tree, that decides in advance wh…"
+  },
+  {
+    "id": "1b8d1789",
+    "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+    "url": "https://arxiv.org/abs/2611.31347v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-23T18:04:59.000Z",
+    "summary": "Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injecte…"
   },
   {
     "id": "80a642a3",
@@ -170,30 +247,6 @@
     ],
     "published": "2026-11-20T15:11:36.000Z",
     "summary": "Agentic systems are increasingly being explored for automating experimental high-energy physics measurements, but the correctness of their results can today be reliably evaluated only via extensive expert review. To address this, we propose a method to perform detailed quantitat…"
-  },
-  {
-    "id": "7194f094",
-    "title": "Have a Merry Ads-mas",
-    "url": "https://www.adexchanger.com/the-big-story/have-a-merry-ads-mas/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [],
-    "published": "2026-11-20T10:00:31.000Z",
-    "summary": "We use Outlook at AdExchanger, and last Wednesday everything came crashing down. PR people resorted to frantic texts to reach journalists. No emails showed up in my inbox for 18 hours. But ad tech soldiered on. We open the episode with a check-in about last week’s historic outag…"
-  },
-  {
-    "id": "61a2792c",
-    "title": "Q3 In Review: Pay TV Shrinks, Streaming And Sports Step Up",
-    "url": "https://www.adexchanger.com/ctv-roundup/q3-in-review-pay-tv-shrinks-streaming-and-sports-step-up/",
-    "source": "AdExchanger",
-    "sourceId": "adexchanger",
-    "category": "Industry",
-    "tags": [
-      "CTV"
-    ],
-    "published": "2026-11-20T05:45:25.000Z",
-    "summary": "Here's a rundown on the TV and streaming companies (those that remain after all the recent consolidation, that is) that posted their earnings for the three months ending Sept. 30 – and what these reports reveal about the state of TV and media today. The post Q3 In Review: Pay TV…"
   },
   {
     "id": "abd8d5b1",
@@ -556,19 +609,6 @@
     "summary": "Brussels, 11 November – During its latest plenary, the EDPB has adopted a statement on the first review of the functioning of the adequacy decision of the Republic of Korea and the final version of the recommendations on the application for approval and on the elements and princ…"
   },
   {
-    "id": "d9230420",
-    "title": "MechBench: A Domain-Specific LLM Benchmark for Parallel Mechanisms",
-    "url": "https://arxiv.org/abs/2611.15342v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-11T11:20:34.000Z",
-    "summary": "Parallel mechanisms pose distinctive challenges to large language models (LLMs), as valid reasoning depends jointly on mechanism topology, loop closure, geometry, joint types, and modeling assumptions. Yet existing LLM benchmarks provide little systematic coverage of such domain…"
-  },
-  {
     "id": "65d35cf3",
     "title": "The Google Ads Developer Blog is moving!",
     "url": "http://ads-developers.googleblog.com/2026/11/the-google-ads-developer-blog-is-moving.html",
@@ -580,52 +620,6 @@
     ],
     "published": "2026-11-10T18:57:08.945Z",
     "summary": "Today we’re announcing the move of the Google Ads Developer Blog from Blogger to the Google for Developers platform, where it will be joining the Google Advertising and Measurement Developers Hub and be known as the Google Advertising and Measurement Developer Blog. You’re proba…"
-  },
-  {
-    "id": "ce09fa55",
-    "title": "Program-Aided Patchable Skill Evolution",
-    "url": "https://arxiv.org/abs/2611.14019v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-10T12:53:12.000Z",
-    "summary": "Agent skills have emerged as an effective means of enabling LLM agents to solve complex, interactive tasks by encoding reusable knowledge without modifying model parameters. Recent approaches further improve skill adaptation by distilling reusable experience from agent execution…"
-  },
-  {
-    "id": "5d9f6efc",
-    "title": "DrugCoding: A Scientific Programming Agent for Drug Discovery",
-    "url": "https://arxiv.org/abs/2611.13651v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-10T06:47:15.000Z",
-    "summary": "Drug discovery involves multiple interconnected research stages, including molecular design, property prediction, and virtual screening. These processes are characterized by complex workflows, interdependent computational tasks, and diverse specialized tools, placing substantial…"
-  },
-  {
-    "id": "225110bb",
-    "title": "Compile-Gated Lean Proof Refactoring with Enterprise Agent Practices: A Model per Step under a US\\$3 Cap, Followed by Programmatic Rewrite Rules",
-    "url": "https://arxiv.org/abs/2611.13011v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-09T03:12:45.000Z",
-    "summary": "Our closed-track entry (Arena username Vexorium-Agent) scored 86.31 points on the final board (L = 77.07, H = 81.86, Z = 100) over the 60 final problems, against 33.33 for the reference proofs, 8th at the deadline (top: 92.57), for US\\$166.33 at list prices with every call count…"
-  },
-  {
-    "id": "a23946e7",
-    "title": "Optimizing Multi-Tier Intermediation in Programmatic Advertising: A DAG-Based Mechanism for Supply Path Optimization",
-    "url": "https://arxiv.org/abs/2611.11651v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-08T22:16:30.000Z",
-    "summary": "Digital programmatic advertising operates through complex, multi-hop supply chains. The opacity of these intermediary networks leads to significant efficiency losses, often referred to as the ``ad-tech tax.'' While current industry practices utilize heuristic Supply Path Optimiz…"
   },
   {
     "id": "f91eb75f",
