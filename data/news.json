@@ -26,6 +26,28 @@
     "summary": "Coca-Cola, Walmart and Levi's are among the holiday marketers relying on the real thing as consumers grow weary of ads generated with artificial intelligence."
   },
   {
+    "id": "d2431bfa",
+    "title": "SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation",
+    "url": "https://arxiv.org/abs/2611.33915v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-25T07:37:06.000Z",
+    "summary": "General-purpose multimodal foundation models enable robots to adapt during deployment from observations and execution feedback, without task-specific demonstrations or training. However, the robot retains what it learns only in the model's working context. Once the task ends, it…"
+  },
+  {
+    "id": "ef8f6fed",
+    "title": "RelPRM: Grounding Visual Process Reward Models in Relational Evidence",
+    "url": "https://arxiv.org/abs/2611.33903v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-25T07:24:09.000Z",
+    "summary": "Visual process reward models (PRMs) can detect calculation errors yet assign high scores to steps that misread visual relations. Supervision based on subsequent answer success does not directly establish whether a step's relational claim holds. To strengthen visual-relation veri…"
+  },
+  {
     "id": "f0959abf",
     "title": "What Does ‘Performance’ Actually Mean for TV? Buyers Weigh In",
     "url": "https://www.adexchanger.com/tv/what-does-performance-actually-mean-for-tv-buyers-weigh-in/",
@@ -35,6 +57,17 @@
     "tags": [],
     "published": "2026-11-25T05:45:10.000Z",
     "summary": "What does performance actually mean in TV environments? And what do media buyers need to achieve that performance? These two questions were the focus of a panel of buyers at this year’s Go Addressable event in New York City on Thursday. The post What Does ‘Performance’ Actually…"
+  },
+  {
+    "id": "1cea2280",
+    "title": "ExtractBench Pro: The Long Tail of Document Extraction",
+    "url": "https://arxiv.org/abs/2611.33791v1",
+    "source": "arXiv (ad auctions / RTB / programmatic)",
+    "sourceId": "arxiv-ad-auctions",
+    "category": "Research",
+    "tags": [],
+    "published": "2026-11-25T05:15:48.000Z",
+    "summary": "We present ExtractBench Pro, a schema-guided document extraction benchmark that tests six challenging modes of extraction underrepresented in existing datasets. It is created following a framework for synthetic document generation, in which deterministic document generators asse…"
   },
   {
     "id": "442d1e7c",
@@ -102,7 +135,7 @@
     "category": "Industry",
     "tags": [],
     "published": "2026-11-24T06:00:30.000Z",
-    "summary": "According to the ANA, nine in 10 marketers worry that principal media isn’t serving their best interests – and yet more than half of them bought it last year. It’s a head-scratcher, says Kamran Asghar, global CEO and co-founder of independent media agency Crossmedia, on this Tha…"
+    "summary": "According to the ANA, nine in 10 marketers worry that principal media isn’t serving their best interests – and yet more than half of them bought it last year. “Why we accept this is mind-boggling to me,” says Kamran Asghar, global CEO of indie media agency Crossmedia. The post P…"
   },
   {
     "id": "fb3f8306",
@@ -218,7 +251,7 @@
       "Measurement"
     ],
     "published": "2026-11-20T17:05:09.000Z",
-    "summary": "Snap’s Head of Performance Marketing GTM Rick Lucas and Kitsch CMO Ying Ying Kuang on why relying on last-click attribution hides your best customers, and how Clicks + Deterministic Views (CDV) paint a fuller picture of conversion. Consumer behavior is changing, and marketers hu…"
+    "summary": "Snap's Rick Lucas and Kitsch CMO Ying Ying Kuang on why last-click attribution misses dark social, and how causal testing uncovers incremental growth. The post Your Next Customer Is in the Chat. Why Last-Click Can’t Tell the Whole Story. appeared first on AdExchanger."
   },
   {
     "id": "7e4fa7a1",
@@ -557,43 +590,6 @@
     ],
     "published": "2026-11-12T15:56:55.000Z",
     "summary": "In real-time bidding, marketing agencies must balance campaign performance, transaction margins and the use of a finite advertising budget. A key difficulty is that market-clearing prices are typically observed only when bids are successful, so the information available for subs…"
-  },
-  {
-    "id": "912e9ced",
-    "title": "Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents",
-    "url": "https://arxiv.org/abs/2611.16627v1",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [],
-    "published": "2026-11-12T10:59:40.000Z",
-    "summary": "Long-horizon language agents accumulate tool results and replies until the history no longer fits the context window. Current agents shrink this history by having a model summarize it, so each compaction rereads and rewrites the history it replaces, and cache-aware triggers deci…"
-  },
-  {
-    "id": "a391b231",
-    "title": "Pl@ntNet machine-to-machine identification service with Pl@ntNet API: enabling automated biodiversity monitoring through large-scale plant identification",
-    "url": "https://arxiv.org/abs/2611.16538v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-12T09:33:35.000Z",
-    "summary": "1. Monitoring plant biodiversity requires identifying large numbers of plants across space and time. Although artificial intelligence (AI) can now identify plant species from images with high accuracy, most existing systems rely on users manually submitting images. As ecological…"
-  },
-  {
-    "id": "3af34263",
-    "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
-    "url": "https://arxiv.org/abs/2611.16217v2",
-    "source": "arXiv (ad auctions / RTB / programmatic)",
-    "sourceId": "arxiv-ad-auctions",
-    "category": "Research",
-    "tags": [
-      "AI"
-    ],
-    "published": "2026-11-12T03:09:18.000Z",
-    "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable…"
   },
   {
     "id": "62a0efd4",
